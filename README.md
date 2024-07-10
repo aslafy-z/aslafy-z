@@ -52,11 +52,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [sabiomarkanthony44](https://github.com/sabiomarkanthony44)
 - [sammorozov](https://github.com/sammorozov)
 - [babykart](https://github.com/babykart)
 - [colltoaction](https://github.com/colltoaction)
 - [ClementLachaussee](https://github.com/ClementLachaussee)
-- [dalakatt](https://github.com/dalakatt)
 
 #### 📈 Stats
 
