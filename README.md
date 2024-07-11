@@ -4,18 +4,18 @@
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
 - [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts strait from Git repositories (2 days ago)
 - [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes (1 week ago)
-- [ccl-consulting/docker-vals](https://github.com/ccl-consulting/docker-vals) - Docker image for vals tool (2 weeks ago)
 - [ccl-consulting/github-runners](https://github.com/ccl-consulting/github-runners) -  (2 weeks ago)
 - [ccl-consulting/docker-shell-tools](https://github.com/ccl-consulting/docker-shell-tools) - Docker image with common shell tools (2 weeks ago)
+- [ccl-consulting/docker-vals](https://github.com/ccl-consulting/docker-vals) - Docker image for vals tool (2 weeks ago)
 - [helmfile/vals](https://github.com/helmfile/vals) - Helm-like configuration values loader with support for various sources (2 weeks ago)
 - [ccl-consulting/k8saas-user-apps](https://github.com/ccl-consulting/k8saas-user-apps) -  (3 weeks ago)
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC. (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.12.5-rc.2](https://github.com/kyverno/kyverno/releases/tag/v1.12.5-rc.2), today) - Kubernetes Native Policy Management
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.428.2](https://github.com/renovatebot/renovate/releases/tag/37.428.2), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) ([v1.3.0](https://github.com/aslafy-z/helm-git/releases/tag/v1.3.0), 2 days ago) - Helm Plugin - Install Helm Charts strait from Git repositories
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.12.5-rc.1](https://github.com/kyverno/kyverno/releases/tag/v1.12.5-rc.1), 2 days ago) - Kubernetes Native Policy Management
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.11.0](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.11.0), 3 days ago) - Ingress-NGINX Controller for Kubernetes
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.9.20](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.9.20), 5 days ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [grafana/k6-operator](https://github.com/grafana/k6-operator) ([v0.0.15](https://github.com/grafana/k6-operator/releases/tag/v0.0.15), 6 days ago) - An operator for running distributed k6 tests.
