@@ -1,15 +1,15 @@
 #### 👷 Check out what I'm currently working on
 
+- [adinhodovic/ingress-nginx-mixin](https://github.com/adinhodovic/ingress-nginx-mixin) - Monitoring mixin for Ingress-nginx. A set of Grafana dashboards and Prometheus rules for Ingress-nginx. (today)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
 - [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts strait from Git repositories (2 days ago)
 - [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes (1 week ago)
+- [ccl-consulting/docker-vals](https://github.com/ccl-consulting/docker-vals) - Docker image for vals tool (2 weeks ago)
 - [ccl-consulting/github-runners](https://github.com/ccl-consulting/github-runners) -  (2 weeks ago)
 - [ccl-consulting/docker-shell-tools](https://github.com/ccl-consulting/docker-shell-tools) - Docker image with common shell tools (2 weeks ago)
-- [ccl-consulting/docker-vals](https://github.com/ccl-consulting/docker-vals) - Docker image for vals tool (2 weeks ago)
 - [helmfile/vals](https://github.com/helmfile/vals) - Helm-like configuration values loader with support for various sources (2 weeks ago)
 - [ccl-consulting/k8saas-user-apps](https://github.com/ccl-consulting/k8saas-user-apps) -  (3 weeks ago)
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC. (1 month ago)
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -26,6 +26,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: update readme build steps](https://github.com/adinhodovic/ingress-nginx-mixin/pull/17) on [adinhodovic/ingress-nginx-mixin](https://github.com/adinhodovic/ingress-nginx-mixin) (today)
 - [feat: support for ANSIBLE_VAULT_PASSWORD_FILE env variable](https://github.com/ansible/pytest-ansible/pull/358) on [ansible/pytest-ansible](https://github.com/ansible/pytest-ansible) (2 days ago)
 - [docs: update helm-git sample](https://github.com/jkroepke/helm-secrets/pull/461) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 days ago)
 - [feat: disable cleanup on trace](https://github.com/aslafy-z/helm-git/pull/293) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (2 days ago)
@@ -35,7 +36,6 @@
 - [chore: standardize cache variables](https://github.com/aslafy-z/helm-git/pull/287) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (2 days ago)
 - [feat: move to Apache License 2.0](https://github.com/aslafy-z/helm-git/pull/286) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (2 days ago)
 - [fix: update helm plugin command for windows](https://github.com/aslafy-z/helm-git/pull/285) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (2 days ago)
-- [feat: allow empty file path](https://github.com/aslafy-z/helm-git/pull/284) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (4 days ago)
 
 #### ⭐ Recent Stars
 
