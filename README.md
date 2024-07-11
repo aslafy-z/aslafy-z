@@ -13,7 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.428.3](https://github.com/renovatebot/renovate/releases/tag/37.428.3), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.429.0](https://github.com/renovatebot/renovate/releases/tag/37.429.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.12.5-rc.2](https://github.com/kyverno/kyverno/releases/tag/v1.12.5-rc.2), today) - Kubernetes Native Policy Management
 - [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) ([v1.3.0](https://github.com/aslafy-z/helm-git/releases/tag/v1.3.0), 2 days ago) - Helm Plugin - Install Helm Charts strait from Git repositories
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.11.0](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.11.0), 3 days ago) - Ingress-NGINX Controller for Kubernetes
