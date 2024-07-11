@@ -52,11 +52,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [791botlykcodes](https://github.com/791botlykcodes)
 - [Aram-Fadhil](https://github.com/Aram-Fadhil)
 - [princeAnalytics](https://github.com/princeAnalytics)
 - [sabiomarkanthony44](https://github.com/sabiomarkanthony44)
 - [sammorozov](https://github.com/sammorozov)
-- [babykart](https://github.com/babykart)
 
 #### 📈 Stats
 
