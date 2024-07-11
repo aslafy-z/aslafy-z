@@ -39,6 +39,8 @@
 
 #### ⭐ Recent Stars
 
+- [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor. (today)
+- [thewh1teagle/vibe](https://github.com/thewh1teagle/vibe) - Transcribe on your own! (today)
 - [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications! (1 day ago)
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt (3 days ago)
 - [novnc/websockify](https://github.com/novnc/websockify) - Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any application/server/service. (1 week ago)
@@ -47,8 +49,6 @@
 - [werf/trdl](https://github.com/werf/trdl) - The universal solution for delivering your software updates securely from a trusted The Update Framework (TUF) repository. (2 weeks ago)
 - [werf/kubedog](https://github.com/werf/kubedog) - Library to watch and follow kubernetes resources in CI/CD deploy pipelines (2 weeks ago)
 - [swizzin/swizzin](https://github.com/swizzin/swizzin) - A simple, modular seedbox solution (2 weeks ago)
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative. (2 weeks ago)
-- [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync) - Open source data anonymization and synthetic data orchestration for developers. Create high fidelity synthetic data and sync it across your environments.  (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
