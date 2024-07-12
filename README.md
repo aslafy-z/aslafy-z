@@ -1,10 +1,10 @@
 #### 👷 Check out what I'm currently working on
 
+- [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes (today)
+- [ccl-consulting/github-runners](https://github.com/ccl-consulting/github-runners) -  (today)
 - [adinhodovic/ingress-nginx-mixin](https://github.com/adinhodovic/ingress-nginx-mixin) - Monitoring mixin for Ingress-nginx. A set of Grafana dashboards and Prometheus rules for Ingress-nginx. (1 day ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 days ago)
 - [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts strait from Git repositories (3 days ago)
-- [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes (1 week ago)
-- [ccl-consulting/github-runners](https://github.com/ccl-consulting/github-runners) -  (2 weeks ago)
 - [ccl-consulting/docker-shell-tools](https://github.com/ccl-consulting/docker-shell-tools) - Docker image with common shell tools (2 weeks ago)
 - [ccl-consulting/docker-vals](https://github.com/ccl-consulting/docker-vals) - Docker image for vals tool (2 weeks ago)
 - [helmfile/vals](https://github.com/helmfile/vals) - Helm-like configuration values loader with support for various sources (3 weeks ago)
@@ -26,6 +26,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: kvm access](https://github.com/ccl-consulting/github-runners/pull/3) on [ccl-consulting/github-runners](https://github.com/ccl-consulting/github-runners) (today)
 - [chore: update readme build steps](https://github.com/adinhodovic/ingress-nginx-mixin/pull/17) on [adinhodovic/ingress-nginx-mixin](https://github.com/adinhodovic/ingress-nginx-mixin) (1 day ago)
 - [feat: support for ANSIBLE_VAULT_PASSWORD_FILE env variable](https://github.com/ansible/pytest-ansible/pull/358) on [ansible/pytest-ansible](https://github.com/ansible/pytest-ansible) (3 days ago)
 - [docs: update helm-git sample](https://github.com/jkroepke/helm-secrets/pull/461) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 days ago)
@@ -35,10 +36,10 @@
 - [chore(tests): source helm-git a single time](https://github.com/aslafy-z/helm-git/pull/289) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (3 days ago)
 - [chore: standardize cache variables](https://github.com/aslafy-z/helm-git/pull/287) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (3 days ago)
 - [feat: move to Apache License 2.0](https://github.com/aslafy-z/helm-git/pull/286) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (3 days ago)
-- [fix: update helm plugin command for windows](https://github.com/aslafy-z/helm-git/pull/285) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (3 days ago)
 
 #### ⭐ Recent Stars
 
+- [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation (today)
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor. (1 day ago)
 - [thewh1teagle/vibe](https://github.com/thewh1teagle/vibe) - Transcribe on your own! (1 day ago)
 - [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications! (2 days ago)
@@ -48,7 +49,6 @@
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  (1 week ago)
 - [werf/trdl](https://github.com/werf/trdl) - The universal solution for delivering your software updates securely from a trusted The Update Framework (TUF) repository. (2 weeks ago)
 - [werf/kubedog](https://github.com/werf/kubedog) - Library to watch and follow kubernetes resources in CI/CD deploy pipelines (2 weeks ago)
-- [swizzin/swizzin](https://github.com/swizzin/swizzin) - A simple, modular seedbox solution (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
