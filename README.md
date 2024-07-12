@@ -1,5 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
+- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (today)
 - [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes (today)
 - [ccl-consulting/github-runners](https://github.com/ccl-consulting/github-runners) -  (today)
 - [adinhodovic/ingress-nginx-mixin](https://github.com/adinhodovic/ingress-nginx-mixin) - Monitoring mixin for Ingress-nginx. A set of Grafana dashboards and Prometheus rules for Ingress-nginx. (1 day ago)
@@ -9,10 +10,10 @@
 - [ccl-consulting/docker-vals](https://github.com/ccl-consulting/docker-vals) - Docker image for vals tool (2 weeks ago)
 - [helmfile/vals](https://github.com/helmfile/vals) - Helm-like configuration values loader with support for various sources (3 weeks ago)
 - [ccl-consulting/k8saas-user-apps](https://github.com/ccl-consulting/k8saas-user-apps) -  (4 weeks ago)
-- [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC. (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [stakater/application](https://github.com/stakater/application) ([v4.2.0](https://github.com/stakater/application/releases/tag/v4.2.0), today) - Generic helm chart for all kind of applications
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.12.5](https://github.com/kyverno/kyverno/releases/tag/v1.12.5), today) - Kubernetes Native Policy Management
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.429.1](https://github.com/renovatebot/renovate/releases/tag/37.429.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) ([v1.3.0](https://github.com/aslafy-z/helm-git/releases/tag/v1.3.0), 3 days ago) - Helm Plugin - Install Helm Charts strait from Git repositories
@@ -22,20 +23,19 @@
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.9.18](https://github.com/argoproj/argo-cd/releases/tag/v2.9.18), 1 week ago) - Declarative Continuous Deployment for Kubernetes
 - [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) ([4.8.0](https://github.com/kube-logging/logging-operator/releases/tag/4.8.0), 1 week ago) - Logging operator for Kubernetes
 - [cisco-open/operator-tools](https://github.com/cisco-open/operator-tools) ([v0.36.0](https://github.com/cisco-open/operator-tools/releases/tag/v0.36.0), 1 week ago) - Speed up the implementation and composition of Kubernetes Operators
-- [ccl-consulting/docker-shell-tools](https://github.com/ccl-consulting/docker-shell-tools) ([v1.1.0](https://github.com/ccl-consulting/docker-shell-tools/releases/tag/v1.1.0), 2 weeks ago) - Docker image with common shell tools
 
 #### 🔨 My recent Pull Requests
 
+- [fix(ci): move to redhat-actions/oc-installer](https://github.com/stakater/application/pull/331) on [stakater/application](https://github.com/stakater/application) (today)
 - [feat: relative temporary dir](https://github.com/ccl-consulting/github-runners/pull/4) on [ccl-consulting/github-runners](https://github.com/ccl-consulting/github-runners) (today)
 - [Update pull_request.yaml](https://github.com/stakater/application/pull/328) on [stakater/application](https://github.com/stakater/application) (today)
 - [fix(ci): interpolate checkov chart name in workflow // build](https://github.com/stakater/application/pull/327) on [stakater/application](https://github.com/stakater/application) (today)
 - [Update pull_request.yaml](https://github.com/stakater/application/pull/326) on [stakater/application](https://github.com/stakater/application) (today)
-- [fix(ci): interpolate checkov chart name in workflow](https://github.com/stakater/application/pull/325) on [stakater/application](https://github.com/stakater/application) (today)
+- [fix(ci): repair checkov](https://github.com/stakater/application/pull/325) on [stakater/application](https://github.com/stakater/application) (today)
 - [feat: kvm access](https://github.com/ccl-consulting/github-runners/pull/3) on [ccl-consulting/github-runners](https://github.com/ccl-consulting/github-runners) (today)
 - [chore: update readme build steps](https://github.com/adinhodovic/ingress-nginx-mixin/pull/17) on [adinhodovic/ingress-nginx-mixin](https://github.com/adinhodovic/ingress-nginx-mixin) (1 day ago)
 - [feat: support for ANSIBLE_VAULT_PASSWORD_FILE env variable](https://github.com/ansible/pytest-ansible/pull/358) on [ansible/pytest-ansible](https://github.com/ansible/pytest-ansible) (3 days ago)
 - [docs: update helm-git sample](https://github.com/jkroepke/helm-secrets/pull/461) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 days ago)
-- [feat: disable cleanup on trace](https://github.com/aslafy-z/helm-git/pull/293) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (3 days ago)
 
 #### ⭐ Recent Stars
 
