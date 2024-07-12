@@ -13,7 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [stakater/application](https://github.com/stakater/application) ([v4.2.1](https://github.com/stakater/application/releases/tag/v4.2.1), today) - Generic helm chart for all kind of applications
+- [stakater/application](https://github.com/stakater/application) ([v4.2.2](https://github.com/stakater/application/releases/tag/v4.2.2), today) - Generic helm chart for all kind of applications
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.12.5](https://github.com/kyverno/kyverno/releases/tag/v1.12.5), today) - Kubernetes Native Policy Management
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.429.1](https://github.com/renovatebot/renovate/releases/tag/37.429.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) ([v1.3.0](https://github.com/aslafy-z/helm-git/releases/tag/v1.3.0), 3 days ago) - Helm Plugin - Install Helm Charts strait from Git repositories
@@ -26,6 +26,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: tmpdir](https://github.com/ccl-consulting/github-runners/pull/5) on [ccl-consulting/github-runners](https://github.com/ccl-consulting/github-runners) (today)
 - [ci: allow checkov to use kubeconfig](https://github.com/stakater/application/pull/334) on [stakater/application](https://github.com/stakater/application) (today)
 - [Update README.md](https://github.com/stakater/application/pull/333) on [stakater/application](https://github.com/stakater/application) (today)
 - [fix(ci): move to redhat-actions/oc-installer](https://github.com/stakater/application/pull/331) on [stakater/application](https://github.com/stakater/application) (today)
@@ -35,7 +36,6 @@
 - [Update pull_request.yaml](https://github.com/stakater/application/pull/326) on [stakater/application](https://github.com/stakater/application) (today)
 - [fix(ci): repair checkov](https://github.com/stakater/application/pull/325) on [stakater/application](https://github.com/stakater/application) (today)
 - [feat: kvm access](https://github.com/ccl-consulting/github-runners/pull/3) on [ccl-consulting/github-runners](https://github.com/ccl-consulting/github-runners) (today)
-- [chore: update readme build steps](https://github.com/adinhodovic/ingress-nginx-mixin/pull/17) on [adinhodovic/ingress-nginx-mixin](https://github.com/adinhodovic/ingress-nginx-mixin) (1 day ago)
 
 #### ⭐ Recent Stars
 
