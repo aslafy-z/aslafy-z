@@ -1,19 +1,19 @@
 #### 👷 Check out what I'm currently working on
 
 - [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (today)
-- [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes (today)
 - [ccl-consulting/github-runners](https://github.com/ccl-consulting/github-runners) -  (today)
+- [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes (today)
+- [aslafy-z/test-action](https://github.com/aslafy-z/test-action) -  (today)
 - [adinhodovic/ingress-nginx-mixin](https://github.com/adinhodovic/ingress-nginx-mixin) - Monitoring mixin for Ingress-nginx. A set of Grafana dashboards and Prometheus rules for Ingress-nginx. (1 day ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 days ago)
 - [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts strait from Git repositories (3 days ago)
 - [ccl-consulting/docker-shell-tools](https://github.com/ccl-consulting/docker-shell-tools) - Docker image with common shell tools (2 weeks ago)
 - [ccl-consulting/docker-vals](https://github.com/ccl-consulting/docker-vals) - Docker image for vals tool (2 weeks ago)
 - [helmfile/vals](https://github.com/helmfile/vals) - Helm-like configuration values loader with support for various sources (3 weeks ago)
-- [ccl-consulting/k8saas-user-apps](https://github.com/ccl-consulting/k8saas-user-apps) -  (4 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [stakater/application](https://github.com/stakater/application) ([v4.2.0](https://github.com/stakater/application/releases/tag/v4.2.0), today) - Generic helm chart for all kind of applications
+- [stakater/application](https://github.com/stakater/application) ([v4.2.1](https://github.com/stakater/application/releases/tag/v4.2.1), today) - Generic helm chart for all kind of applications
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.12.5](https://github.com/kyverno/kyverno/releases/tag/v1.12.5), today) - Kubernetes Native Policy Management
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.429.1](https://github.com/renovatebot/renovate/releases/tag/37.429.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) ([v1.3.0](https://github.com/aslafy-z/helm-git/releases/tag/v1.3.0), 3 days ago) - Helm Plugin - Install Helm Charts strait from Git repositories
@@ -26,6 +26,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: allow checkov to use kubeconfig](https://github.com/stakater/application/pull/334) on [stakater/application](https://github.com/stakater/application) (today)
+- [Update README.md](https://github.com/stakater/application/pull/333) on [stakater/application](https://github.com/stakater/application) (today)
 - [fix(ci): move to redhat-actions/oc-installer](https://github.com/stakater/application/pull/331) on [stakater/application](https://github.com/stakater/application) (today)
 - [feat: relative temporary dir](https://github.com/ccl-consulting/github-runners/pull/4) on [ccl-consulting/github-runners](https://github.com/ccl-consulting/github-runners) (today)
 - [Update pull_request.yaml](https://github.com/stakater/application/pull/328) on [stakater/application](https://github.com/stakater/application) (today)
@@ -34,8 +36,6 @@
 - [fix(ci): repair checkov](https://github.com/stakater/application/pull/325) on [stakater/application](https://github.com/stakater/application) (today)
 - [feat: kvm access](https://github.com/ccl-consulting/github-runners/pull/3) on [ccl-consulting/github-runners](https://github.com/ccl-consulting/github-runners) (today)
 - [chore: update readme build steps](https://github.com/adinhodovic/ingress-nginx-mixin/pull/17) on [adinhodovic/ingress-nginx-mixin](https://github.com/adinhodovic/ingress-nginx-mixin) (1 day ago)
-- [feat: support for ANSIBLE_VAULT_PASSWORD_FILE env variable](https://github.com/ansible/pytest-ansible/pull/358) on [ansible/pytest-ansible](https://github.com/ansible/pytest-ansible) (3 days ago)
-- [docs: update helm-git sample](https://github.com/jkroepke/helm-secrets/pull/461) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 days ago)
 
 #### ⭐ Recent Stars
 
