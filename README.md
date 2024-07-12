@@ -26,7 +26,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: tmpdir](https://github.com/ccl-consulting/github-runners/pull/5) on [ccl-consulting/github-runners](https://github.com/ccl-consulting/github-runners) (today)
+- [fix: tmpdir &amp; network](https://github.com/ccl-consulting/github-runners/pull/5) on [ccl-consulting/github-runners](https://github.com/ccl-consulting/github-runners) (today)
 - [ci: allow checkov to use kubeconfig](https://github.com/stakater/application/pull/334) on [stakater/application](https://github.com/stakater/application) (today)
 - [Update README.md](https://github.com/stakater/application/pull/333) on [stakater/application](https://github.com/stakater/application) (today)
 - [fix(ci): move to redhat-actions/oc-installer](https://github.com/stakater/application/pull/331) on [stakater/application](https://github.com/stakater/application) (today)
