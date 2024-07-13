@@ -52,11 +52,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [brijnesh32](https://github.com/brijnesh32)
 - [NobleMajo](https://github.com/NobleMajo)
 - [alayaramzys](https://github.com/alayaramzys)
 - [791botlykcodes](https://github.com/791botlykcodes)
 - [Aram-Fadhil](https://github.com/Aram-Fadhil)
-- [princeAnalytics](https://github.com/princeAnalytics)
 
 #### 📈 Stats
 
