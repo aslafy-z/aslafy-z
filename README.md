@@ -52,11 +52,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [hotcoding85](https://github.com/hotcoding85)
 - [caixian-prog](https://github.com/caixian-prog)
 - [vimiyo](https://github.com/vimiyo)
 - [brijnesh32](https://github.com/brijnesh32)
 - [NobleMajo](https://github.com/NobleMajo)
-- [alayaramzys](https://github.com/alayaramzys)
 
 #### 📈 Stats
 
