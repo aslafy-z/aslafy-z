@@ -13,7 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.431.4](https://github.com/renovatebot/renovate/releases/tag/37.431.4), 2 days ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.431.5](https://github.com/renovatebot/renovate/releases/tag/37.431.5), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [stakater/application](https://github.com/stakater/application) ([v4.2.2](https://github.com/stakater/application/releases/tag/v4.2.2), 3 days ago) - Generic helm chart for all kind of applications
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.12.5](https://github.com/kyverno/kyverno/releases/tag/v1.12.5), 3 days ago) - Kubernetes Native Policy Management
 - [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) ([v1.3.0](https://github.com/aslafy-z/helm-git/releases/tag/v1.3.0), 6 days ago) - Helm Plugin - Install Helm Charts strait from Git repositories
