@@ -13,14 +13,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.431.6](https://github.com/renovatebot/renovate/releases/tag/37.431.6), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.10.14](https://github.com/argoproj/argo-cd/releases/tag/v2.10.14), today) - Declarative Continuous Deployment for Kubernetes
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.431.7](https://github.com/renovatebot/renovate/releases/tag/37.431.7), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [stakater/application](https://github.com/stakater/application) ([v4.2.2](https://github.com/stakater/application/releases/tag/v4.2.2), 3 days ago) - Generic helm chart for all kind of applications
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.12.5](https://github.com/kyverno/kyverno/releases/tag/v1.12.5), 3 days ago) - Kubernetes Native Policy Management
 - [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) ([v1.3.0](https://github.com/aslafy-z/helm-git/releases/tag/v1.3.0), 6 days ago) - Helm Plugin - Install Helm Charts strait from Git repositories
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.11.0](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.11.0), 1 week ago) - Ingress-NGINX Controller for Kubernetes
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.9.20](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.9.20), 1 week ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [grafana/k6-operator](https://github.com/grafana/k6-operator) ([v0.0.15](https://github.com/grafana/k6-operator/releases/tag/v0.0.15), 1 week ago) - An operator for running distributed k6 tests.
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.9.18](https://github.com/argoproj/argo-cd/releases/tag/v2.9.18), 1 week ago) - Declarative Continuous Deployment for Kubernetes
 - [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) ([4.8.0](https://github.com/kube-logging/logging-operator/releases/tag/4.8.0), 1 week ago) - Logging operator for Kubernetes
 - [cisco-open/operator-tools](https://github.com/cisco-open/operator-tools) ([v0.36.0](https://github.com/cisco-open/operator-tools/releases/tag/v0.36.0), 2 weeks ago) - Speed up the implementation and composition of Kubernetes Operators
 
