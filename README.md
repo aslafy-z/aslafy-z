@@ -1,15 +1,15 @@
 #### 👷 Check out what I'm currently working on
 
+- [hashicorp/vault-k8s](https://github.com/hashicorp/vault-k8s) - First-class support for Vault and Kubernetes. (today)
 - [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (today)
 - [ccl-consulting/github-runners](https://github.com/ccl-consulting/github-runners) -  (3 days ago)
-- [aslafy-z/test-action](https://github.com/aslafy-z/test-action) -  (4 days ago)
 - [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes (4 days ago)
+- [aslafy-z/test-action](https://github.com/aslafy-z/test-action) -  (4 days ago)
 - [adinhodovic/ingress-nginx-mixin](https://github.com/adinhodovic/ingress-nginx-mixin) - Monitoring mixin for Ingress-nginx. A set of Grafana dashboards and Prometheus rules for Ingress-nginx. (5 days ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (6 days ago)
 - [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts strait from Git repositories (1 week ago)
 - [ccl-consulting/docker-vals](https://github.com/ccl-consulting/docker-vals) - Docker image for vals tool (2 weeks ago)
 - [ccl-consulting/docker-shell-tools](https://github.com/ccl-consulting/docker-shell-tools) - Docker image with common shell tools (2 weeks ago)
-- [helmfile/vals](https://github.com/helmfile/vals) - Helm-like configuration values loader with support for various sources (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -21,8 +21,8 @@
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.11.0](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.11.0), 1 week ago) - Ingress-NGINX Controller for Kubernetes
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.9.20](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.9.20), 1 week ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [grafana/k6-operator](https://github.com/grafana/k6-operator) ([v0.0.15](https://github.com/grafana/k6-operator/releases/tag/v0.0.15), 1 week ago) - An operator for running distributed k6 tests.
+- [hashicorp/vault-k8s](https://github.com/hashicorp/vault-k8s) ([v1.4.2](https://github.com/hashicorp/vault-k8s/releases/tag/v1.4.2), 1 week ago) - First-class support for Vault and Kubernetes.
 - [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) ([4.8.0](https://github.com/kube-logging/logging-operator/releases/tag/4.8.0), 2 weeks ago) - Logging operator for Kubernetes
-- [cisco-open/operator-tools](https://github.com/cisco-open/operator-tools) ([v0.36.0](https://github.com/cisco-open/operator-tools/releases/tag/v0.36.0), 2 weeks ago) - Speed up the implementation and composition of Kubernetes Operators
 
 #### 🔨 My recent Pull Requests
 
