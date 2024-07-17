@@ -8,8 +8,8 @@
 - [adinhodovic/ingress-nginx-mixin](https://github.com/adinhodovic/ingress-nginx-mixin) - Monitoring mixin for Ingress-nginx. A set of Grafana dashboards and Prometheus rules for Ingress-nginx. (6 days ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 week ago)
 - [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts strait from Git repositories (1 week ago)
-- [ccl-consulting/docker-shell-tools](https://github.com/ccl-consulting/docker-shell-tools) - Docker image with common shell tools (2 weeks ago)
 - [ccl-consulting/docker-vals](https://github.com/ccl-consulting/docker-vals) - Docker image for vals tool (2 weeks ago)
+- [ccl-consulting/docker-shell-tools](https://github.com/ccl-consulting/docker-shell-tools) - Docker image with common shell tools (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
