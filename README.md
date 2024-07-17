@@ -1,20 +1,20 @@
 #### 👷 Check out what I'm currently working on
 
+- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (today)
 - [hashicorp/vault-k8s](https://github.com/hashicorp/vault-k8s) - First-class support for Vault and Kubernetes. (1 day ago)
-- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (1 day ago)
 - [ccl-consulting/github-runners](https://github.com/ccl-consulting/github-runners) -  (4 days ago)
 - [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes (5 days ago)
 - [aslafy-z/test-action](https://github.com/aslafy-z/test-action) -  (5 days ago)
 - [adinhodovic/ingress-nginx-mixin](https://github.com/adinhodovic/ingress-nginx-mixin) - Monitoring mixin for Ingress-nginx. A set of Grafana dashboards and Prometheus rules for Ingress-nginx. (6 days ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 week ago)
 - [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts strait from Git repositories (1 week ago)
-- [ccl-consulting/docker-vals](https://github.com/ccl-consulting/docker-vals) - Docker image for vals tool (2 weeks ago)
 - [ccl-consulting/docker-shell-tools](https://github.com/ccl-consulting/docker-shell-tools) - Docker image with common shell tools (2 weeks ago)
+- [ccl-consulting/docker-vals](https://github.com/ccl-consulting/docker-vals) - Docker image for vals tool (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [stakater/application](https://github.com/stakater/application) ([v4.2.4](https://github.com/stakater/application/releases/tag/v4.2.4), today) - Generic helm chart for all kind of applications
 - [algolia/docsearch](https://github.com/algolia/docsearch) ([v3.6.1](https://github.com/algolia/docsearch/releases/tag/v3.6.1), 1 day ago) - :blue_book: The easiest way to add search to your documentation.
-- [stakater/application](https://github.com/stakater/application) ([v4.2.3](https://github.com/stakater/application/releases/tag/v4.2.3), 1 day ago) - Generic helm chart for all kind of applications
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.432.0](https://github.com/renovatebot/renovate/releases/tag/37.432.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.9.19](https://github.com/argoproj/argo-cd/releases/tag/v2.9.19), 2 days ago) - Declarative Continuous Deployment for Kubernetes
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.12.5](https://github.com/kyverno/kyverno/releases/tag/v1.12.5), 5 days ago) - Cloud Native Policy Management
