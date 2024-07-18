@@ -13,7 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.11.1](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.11.1), today) - Ingress-NGINX Controller for Kubernetes
+- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.10.3](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.10.3), today) - Ingress-NGINX Controller for Kubernetes
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.433.0](https://github.com/renovatebot/renovate/releases/tag/37.433.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kubernetes-sigs/azuredisk-csi-driver](https://github.com/kubernetes-sigs/azuredisk-csi-driver) ([v1.30.2](https://github.com/kubernetes-sigs/azuredisk-csi-driver/releases/tag/v1.30.2), today) - Azure Disk CSI Driver
 - [stakater/application](https://github.com/stakater/application) ([v4.2.4](https://github.com/stakater/application/releases/tag/v4.2.4), 1 day ago) - Generic helm chart for all kind of applications
