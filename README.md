@@ -13,6 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.11.1](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.11.1), today) - Ingress-NGINX Controller for Kubernetes
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.433.0](https://github.com/renovatebot/renovate/releases/tag/37.433.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kubernetes-sigs/azuredisk-csi-driver](https://github.com/kubernetes-sigs/azuredisk-csi-driver) ([v1.30.2](https://github.com/kubernetes-sigs/azuredisk-csi-driver/releases/tag/v1.30.2), today) - Azure Disk CSI Driver
 - [stakater/application](https://github.com/stakater/application) ([v4.2.4](https://github.com/stakater/application/releases/tag/v4.2.4), 1 day ago) - Generic helm chart for all kind of applications
@@ -20,7 +21,6 @@
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.9.19](https://github.com/argoproj/argo-cd/releases/tag/v2.9.19), 3 days ago) - Declarative Continuous Deployment for Kubernetes
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.12.5](https://github.com/kyverno/kyverno/releases/tag/v1.12.5), 6 days ago) - Cloud Native Policy Management
 - [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) ([v1.3.0](https://github.com/aslafy-z/helm-git/releases/tag/v1.3.0), 1 week ago) - Helm Plugin - Install Helm Charts strait from Git repositories
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.11.0](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.11.0), 1 week ago) - Ingress-NGINX Controller for Kubernetes
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.9.20](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.9.20), 1 week ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [grafana/k6-operator](https://github.com/grafana/k6-operator) ([v0.0.15](https://github.com/grafana/k6-operator/releases/tag/v0.0.15), 1 week ago) - An operator for running distributed k6 tests.
 
