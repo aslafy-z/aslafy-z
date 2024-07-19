@@ -13,7 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.434.0](https://github.com/renovatebot/renovate/releases/tag/37.434.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.434.2](https://github.com/renovatebot/renovate/releases/tag/37.434.2), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.10.3](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.10.3), 1 day ago) - Ingress-NGINX Controller for Kubernetes
 - [kubernetes-sigs/azuredisk-csi-driver](https://github.com/kubernetes-sigs/azuredisk-csi-driver) ([v1.30.2](https://github.com/kubernetes-sigs/azuredisk-csi-driver/releases/tag/v1.30.2), 1 day ago) - Azure Disk CSI Driver
 - [stakater/application](https://github.com/stakater/application) ([v4.2.4](https://github.com/stakater/application/releases/tag/v4.2.4), 2 days ago) - Generic helm chart for all kind of applications
@@ -39,6 +39,8 @@
 
 #### ⭐ Recent Stars
 
+- [kerhub/issue-forms-creator](https://github.com/kerhub/issue-forms-creator) - GitHub Issue Forms generator (today)
+- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images using reports from vulnerability scanners (today)
 - [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation (1 week ago)
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor. (1 week ago)
 - [thewh1teagle/vibe](https://github.com/thewh1teagle/vibe) - Transcribe on your own! (1 week ago)
@@ -47,8 +49,6 @@
 - [novnc/websockify](https://github.com/novnc/websockify) - Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any application/server/service. (2 weeks ago)
 - [tanelpoder/0xtools](https://github.com/tanelpoder/0xtools) - 0x.Tools: X-Ray vision for Linux systems (2 weeks ago)
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  (2 weeks ago)
-- [werf/trdl](https://github.com/werf/trdl) - The universal solution for delivering your software updates securely from a trusted The Update Framework (TUF) repository. (3 weeks ago)
-- [werf/kubedog](https://github.com/werf/kubedog) - Library to watch and follow kubernetes resources in CI/CD deploy pipelines (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
