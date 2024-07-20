@@ -13,7 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.437.2](https://github.com/renovatebot/renovate/releases/tag/37.437.2), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.437.3](https://github.com/renovatebot/renovate/releases/tag/37.437.3), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.10.3](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.10.3), 2 days ago) - Ingress-NGINX Controller for Kubernetes
 - [kubernetes-sigs/azuredisk-csi-driver](https://github.com/kubernetes-sigs/azuredisk-csi-driver) ([v1.30.2](https://github.com/kubernetes-sigs/azuredisk-csi-driver/releases/tag/v1.30.2), 2 days ago) - Azure Disk CSI Driver
 - [stakater/application](https://github.com/stakater/application) ([v4.2.4](https://github.com/stakater/application/releases/tag/v4.2.4), 3 days ago) - Generic helm chart for all kind of applications
@@ -55,8 +55,8 @@
 - [vintagewang](https://github.com/vintagewang)
 - [Tarhanshop](https://github.com/Tarhanshop)
 - [hotcoding85](https://github.com/hotcoding85)
-- [caixian-prog](https://github.com/caixian-prog)
 - [vimiyo](https://github.com/vimiyo)
+- [brijnesh32](https://github.com/brijnesh32)
 
 #### 📈 Stats
 
