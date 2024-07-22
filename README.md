@@ -13,7 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.438.4](https://github.com/renovatebot/renovate/releases/tag/37.438.4), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.438.5](https://github.com/renovatebot/renovate/releases/tag/37.438.5), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.10.3](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.10.3), 4 days ago) - Ingress-NGINX Controller for Kubernetes
 - [kubernetes-sigs/azuredisk-csi-driver](https://github.com/kubernetes-sigs/azuredisk-csi-driver) ([v1.30.2](https://github.com/kubernetes-sigs/azuredisk-csi-driver/releases/tag/v1.30.2), 4 days ago) - Azure Disk CSI Driver
 - [stakater/application](https://github.com/stakater/application) ([v4.2.4](https://github.com/stakater/application/releases/tag/v4.2.4), 5 days ago) - Generic helm chart for all kind of applications
@@ -26,6 +26,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove old entries](https://github.com/iptv-org/iptv/pull/17050) on [iptv-org/iptv](https://github.com/iptv-org/iptv) (today)
 - [ci: pin helm-unittest version](https://github.com/stakater/application/pull/337) on [stakater/application](https://github.com/stakater/application) (5 days ago)
 - [fix(ingress): remove unused fields](https://github.com/stakater/application/pull/336) on [stakater/application](https://github.com/stakater/application) (5 days ago)
 - [feat: generated Helm documentation](https://github.com/stakater/application/pull/335) on [stakater/application](https://github.com/stakater/application) (6 days ago)
@@ -35,7 +36,6 @@
 - [fix(ci): move to redhat-actions/oc-installer](https://github.com/stakater/application/pull/331) on [stakater/application](https://github.com/stakater/application) (1 week ago)
 - [feat: relative temporary dir](https://github.com/ccl-consulting/github-runners/pull/4) on [ccl-consulting/github-runners](https://github.com/ccl-consulting/github-runners) (1 week ago)
 - [Update pull_request.yaml](https://github.com/stakater/application/pull/328) on [stakater/application](https://github.com/stakater/application) (1 week ago)
-- [fix(ci): interpolate checkov chart name in workflow // build](https://github.com/stakater/application/pull/327) on [stakater/application](https://github.com/stakater/application) (1 week ago)
 
 #### ⭐ Recent Stars
 
