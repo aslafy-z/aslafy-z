@@ -40,7 +40,7 @@
 #### ⭐ Recent Stars
 
 - [kerhub/issue-forms-creator](https://github.com/kerhub/issue-forms-creator) - GitHub Issue Forms generator (3 days ago)
-- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images using reports from vulnerability scanners (3 days ago)
+- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (3 days ago)
 - [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation (1 week ago)
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor. (1 week ago)
 - [thewh1teagle/vibe](https://github.com/thewh1teagle/vibe) - Transcribe on your own! (1 week ago)
