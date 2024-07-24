@@ -13,9 +13,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.440.7](https://github.com/renovatebot/renovate/releases/tag/37.440.7), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) ([v0.10.1](https://github.com/GoogleCloudPlatform/microservices-demo/releases/tag/v0.10.1), today) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.9.21](https://github.com/argoproj/argo-cd/releases/tag/v2.9.21), today) - Declarative Continuous Deployment for Kubernetes
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.440.6](https://github.com/renovatebot/renovate/releases/tag/37.440.6), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.10.3](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.10.3), 6 days ago) - Ingress-NGINX Controller for Kubernetes
 - [kubernetes-sigs/azuredisk-csi-driver](https://github.com/kubernetes-sigs/azuredisk-csi-driver) ([v1.30.2](https://github.com/kubernetes-sigs/azuredisk-csi-driver/releases/tag/v1.30.2), 6 days ago) - Azure Disk CSI Driver
 - [stakater/application](https://github.com/stakater/application) ([v4.2.4](https://github.com/stakater/application/releases/tag/v4.2.4), 1 week ago) - Generic helm chart for all kind of applications
