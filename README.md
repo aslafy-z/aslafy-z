@@ -26,6 +26,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: move goss install to packer common configuration file](https://github.com/kubernetes-sigs/image-builder/pull/1526) on [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) (today)
+- [feat: move all packer plugin install to configuration files](https://github.com/kubernetes-sigs/image-builder/pull/1524) on [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) (today)
 - [docs: kustomize component for base url](https://github.com/GoogleCloudPlatform/microservices-demo/pull/2645) on [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) (today)
 - [Remove old entries](https://github.com/iptv-org/iptv/pull/17050) on [iptv-org/iptv](https://github.com/iptv-org/iptv) (2 days ago)
 - [ci: pin helm-unittest version](https://github.com/stakater/application/pull/337) on [stakater/application](https://github.com/stakater/application) (1 week ago)
@@ -34,8 +36,6 @@
 - [fix: tmpdir &amp; network](https://github.com/ccl-consulting/github-runners/pull/5) on [ccl-consulting/github-runners](https://github.com/ccl-consulting/github-runners) (1 week ago)
 - [ci: allow checkov to use kubeconfig](https://github.com/stakater/application/pull/334) on [stakater/application](https://github.com/stakater/application) (1 week ago)
 - [Update README.md](https://github.com/stakater/application/pull/333) on [stakater/application](https://github.com/stakater/application) (1 week ago)
-- [fix(ci): move to redhat-actions/oc-installer](https://github.com/stakater/application/pull/331) on [stakater/application](https://github.com/stakater/application) (1 week ago)
-- [feat: relative temporary dir](https://github.com/ccl-consulting/github-runners/pull/4) on [ccl-consulting/github-runners](https://github.com/ccl-consulting/github-runners) (1 week ago)
 
 #### ⭐ Recent Stars
 
