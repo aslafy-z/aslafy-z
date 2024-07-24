@@ -13,8 +13,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.9.21](https://github.com/argoproj/argo-cd/releases/tag/v2.9.21), today) - Declarative Continuous Deployment for Kubernetes
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.440.6](https://github.com/renovatebot/renovate/releases/tag/37.440.6), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.9.20](https://github.com/argoproj/argo-cd/releases/tag/v2.9.20), 2 days ago) - Declarative Continuous Deployment for Kubernetes
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.10.3](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.10.3), 6 days ago) - Ingress-NGINX Controller for Kubernetes
 - [kubernetes-sigs/azuredisk-csi-driver](https://github.com/kubernetes-sigs/azuredisk-csi-driver) ([v1.30.2](https://github.com/kubernetes-sigs/azuredisk-csi-driver/releases/tag/v1.30.2), 6 days ago) - Azure Disk CSI Driver
 - [stakater/application](https://github.com/stakater/application) ([v4.2.4](https://github.com/stakater/application/releases/tag/v4.2.4), 1 week ago) - Generic helm chart for all kind of applications
