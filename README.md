@@ -1,6 +1,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC. (2 days ago)
+- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world (2 days ago)
 - [ccl-consulting/github-runners](https://github.com/ccl-consulting/github-runners) -  (6 days ago)
 - [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (1 week ago)
 - [hashicorp/vault-k8s](https://github.com/hashicorp/vault-k8s) - First-class support for Vault and Kubernetes. (1 week ago)
@@ -9,7 +10,6 @@
 - [adinhodovic/ingress-nginx-mixin](https://github.com/adinhodovic/ingress-nginx-mixin) - Monitoring mixin for Ingress-nginx. A set of Grafana dashboards and Prometheus rules for Ingress-nginx. (1 week ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 weeks ago)
 - [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts strait from Git repositories (2 weeks ago)
-- [ccl-consulting/docker-shell-tools](https://github.com/ccl-consulting/docker-shell-tools) - Docker image with common shell tools (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -26,6 +26,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [docs: kustomize component for base url](https://github.com/GoogleCloudPlatform/microservices-demo/pull/2645) on [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) (today)
 - [Remove old entries](https://github.com/iptv-org/iptv/pull/17050) on [iptv-org/iptv](https://github.com/iptv-org/iptv) (2 days ago)
 - [ci: pin helm-unittest version](https://github.com/stakater/application/pull/337) on [stakater/application](https://github.com/stakater/application) (1 week ago)
 - [fix(ingress): remove unused fields](https://github.com/stakater/application/pull/336) on [stakater/application](https://github.com/stakater/application) (1 week ago)
@@ -35,7 +36,6 @@
 - [Update README.md](https://github.com/stakater/application/pull/333) on [stakater/application](https://github.com/stakater/application) (1 week ago)
 - [fix(ci): move to redhat-actions/oc-installer](https://github.com/stakater/application/pull/331) on [stakater/application](https://github.com/stakater/application) (1 week ago)
 - [feat: relative temporary dir](https://github.com/ccl-consulting/github-runners/pull/4) on [ccl-consulting/github-runners](https://github.com/ccl-consulting/github-runners) (1 week ago)
-- [Update pull_request.yaml](https://github.com/stakater/application/pull/328) on [stakater/application](https://github.com/stakater/application) (1 week ago)
 
 #### ⭐ Recent Stars
 
