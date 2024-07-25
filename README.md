@@ -53,10 +53,10 @@
 #### 👯 Check out some of my recent followers
 
 - [eust-w](https://github.com/eust-w)
-- [vintagewang](https://github.com/vintagewang)
 - [Tarhanshop](https://github.com/Tarhanshop)
 - [hotcoding85](https://github.com/hotcoding85)
 - [vimiyo](https://github.com/vimiyo)
+- [brijnesh32](https://github.com/brijnesh32)
 
 #### 📈 Stats
 
