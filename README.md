@@ -26,8 +26,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: move goss install to packer common configuration file](https://github.com/kubernetes-sigs/image-builder/pull/1526) on [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) (1 day ago)
-- [feat: move all packer plugin install to configuration files](https://github.com/kubernetes-sigs/image-builder/pull/1524) on [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) (1 day ago)
+- [Load packer goss plugin via config file](https://github.com/kubernetes-sigs/image-builder/pull/1526) on [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) (1 day ago)
+- [Load packer oci, outscale and qemu plugins via config files](https://github.com/kubernetes-sigs/image-builder/pull/1524) on [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) (1 day ago)
 - [docs: kustomize component for base url](https://github.com/GoogleCloudPlatform/microservices-demo/pull/2645) on [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) (1 day ago)
 - [Remove old entries](https://github.com/iptv-org/iptv/pull/17050) on [iptv-org/iptv](https://github.com/iptv-org/iptv) (3 days ago)
 - [ci: pin helm-unittest version](https://github.com/stakater/application/pull/337) on [stakater/application](https://github.com/stakater/application) (1 week ago)
