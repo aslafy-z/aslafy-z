@@ -52,11 +52,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [luizhslima](https://github.com/luizhslima)
 - [OrekJaskov](https://github.com/OrekJaskov)
 - [aras72h](https://github.com/aras72h)
 - [Basit-wale](https://github.com/Basit-wale)
 - [eust-w](https://github.com/eust-w)
-- [Tarhanshop](https://github.com/Tarhanshop)
 
 #### 📈 Stats
 
