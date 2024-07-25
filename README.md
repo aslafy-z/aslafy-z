@@ -13,7 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.0.0](https://github.com/renovatebot/renovate/releases/tag/38.0.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.1.0](https://github.com/renovatebot/renovate/releases/tag/38.1.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) ([v0.10.1](https://github.com/GoogleCloudPlatform/microservices-demo/releases/tag/v0.10.1), 1 day ago) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.9.21](https://github.com/argoproj/argo-cd/releases/tag/v2.9.21), 1 day ago) - Declarative Continuous Deployment for Kubernetes
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.10.3](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.10.3), 1 week ago) - Ingress-NGINX Controller for Kubernetes
@@ -26,6 +26,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat!: Add column renderer templates for markdown output](https://github.com/norwoodj/helm-docs/pull/260) on [norwoodj/helm-docs](https://github.com/norwoodj/helm-docs) (today)
 - [Load packer goss plugin via config file](https://github.com/kubernetes-sigs/image-builder/pull/1526) on [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) (1 day ago)
 - [Load packer oci, outscale and qemu plugins via config files](https://github.com/kubernetes-sigs/image-builder/pull/1524) on [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) (1 day ago)
 - [docs: kustomize component for base url](https://github.com/GoogleCloudPlatform/microservices-demo/pull/2645) on [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) (1 day ago)
@@ -35,7 +36,6 @@
 - [feat: generated Helm documentation](https://github.com/stakater/application/pull/335) on [stakater/application](https://github.com/stakater/application) (1 week ago)
 - [fix: tmpdir &amp; network](https://github.com/ccl-consulting/github-runners/pull/5) on [ccl-consulting/github-runners](https://github.com/ccl-consulting/github-runners) (1 week ago)
 - [ci: allow checkov to use kubeconfig](https://github.com/stakater/application/pull/334) on [stakater/application](https://github.com/stakater/application) (1 week ago)
-- [Update README.md](https://github.com/stakater/application/pull/333) on [stakater/application](https://github.com/stakater/application) (1 week ago)
 
 #### ⭐ Recent Stars
 
