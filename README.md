@@ -26,7 +26,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat!: Add column renderer templates for markdown output](https://github.com/norwoodj/helm-docs/pull/260) on [norwoodj/helm-docs](https://github.com/norwoodj/helm-docs) (today)
+- [feat: Add column renderer templates for all columns](https://github.com/norwoodj/helm-docs/pull/260) on [norwoodj/helm-docs](https://github.com/norwoodj/helm-docs) (today)
 - [Load packer goss plugin via config file](https://github.com/kubernetes-sigs/image-builder/pull/1526) on [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) (1 day ago)
 - [Load packer oci, outscale and qemu plugins via config files](https://github.com/kubernetes-sigs/image-builder/pull/1524) on [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) (1 day ago)
 - [docs: kustomize component for base url](https://github.com/GoogleCloudPlatform/microservices-demo/pull/2645) on [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) (1 day ago)
@@ -52,11 +52,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [OrekJaskov](https://github.com/OrekJaskov)
+- [aras72h](https://github.com/aras72h)
+- [Basit-wale](https://github.com/Basit-wale)
 - [eust-w](https://github.com/eust-w)
 - [Tarhanshop](https://github.com/Tarhanshop)
-- [hotcoding85](https://github.com/hotcoding85)
-- [vimiyo](https://github.com/vimiyo)
-- [brijnesh32](https://github.com/brijnesh32)
 
 #### 📈 Stats
 
