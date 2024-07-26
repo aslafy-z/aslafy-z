@@ -52,11 +52,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Theblindscarlet](https://github.com/Theblindscarlet)
 - [anshjindal](https://github.com/anshjindal)
 - [Hencibo3059](https://github.com/Hencibo3059)
 - [ZahraAziziGit](https://github.com/ZahraAziziGit)
 - [luizhslima](https://github.com/luizhslima)
-- [OrekJaskov](https://github.com/OrekJaskov)
 
 #### 📈 Stats
 
