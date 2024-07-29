@@ -13,7 +13,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.9.2](https://github.com/renovatebot/renovate/releases/tag/38.9.2), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [grafana/k6-operator](https://github.com/grafana/k6-operator) ([v0.0.16](https://github.com/grafana/k6-operator/releases/tag/v0.0.16), today) - An operator for running distributed k6 tests.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.9.3](https://github.com/renovatebot/renovate/releases/tag/38.9.3), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) ([v0.10.1](https://github.com/GoogleCloudPlatform/microservices-demo/releases/tag/v0.10.1), 5 days ago) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.9.21](https://github.com/argoproj/argo-cd/releases/tag/v2.9.21), 5 days ago) - Declarative Continuous Deployment for Kubernetes
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.10.3](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.10.3), 1 week ago) - Ingress-NGINX Controller for Kubernetes
@@ -22,7 +23,6 @@
 - [algolia/docsearch](https://github.com/algolia/docsearch) ([v3.6.1](https://github.com/algolia/docsearch/releases/tag/v3.6.1), 1 week ago) - :blue_book: The easiest way to add search to your documentation.
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.12.5](https://github.com/kyverno/kyverno/releases/tag/v1.12.5), 2 weeks ago) - Cloud Native Policy Management
 - [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) ([v1.3.0](https://github.com/aslafy-z/helm-git/releases/tag/v1.3.0), 2 weeks ago) - Helm Plugin - Install Helm Charts strait from Git repositories
-- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.9.20](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.9.20), 3 weeks ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 
 #### 🔨 My recent Pull Requests
 
