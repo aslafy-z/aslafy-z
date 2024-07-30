@@ -13,6 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) ([v0.1.31](https://github.com/kubernetes-sigs/image-builder/releases/tag/v0.1.31), today) - Tools for building Kubernetes disk images
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.13.0](https://github.com/renovatebot/renovate/releases/tag/38.13.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [grafana/k6-operator](https://github.com/grafana/k6-operator) ([v0.0.16](https://github.com/grafana/k6-operator/releases/tag/v0.0.16), 1 day ago) - An operator for running distributed k6 tests.
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) ([v0.10.1](https://github.com/GoogleCloudPlatform/microservices-demo/releases/tag/v0.10.1), 6 days ago) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
@@ -22,7 +23,6 @@
 - [stakater/application](https://github.com/stakater/application) ([v4.2.4](https://github.com/stakater/application/releases/tag/v4.2.4), 1 week ago) - Generic helm chart for all kind of applications
 - [algolia/docsearch](https://github.com/algolia/docsearch) ([v3.6.1](https://github.com/algolia/docsearch/releases/tag/v3.6.1), 2 weeks ago) - :blue_book: The easiest way to add search to your documentation.
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.12.5](https://github.com/kyverno/kyverno/releases/tag/v1.12.5), 2 weeks ago) - Cloud Native Policy Management
-- [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) ([v1.3.0](https://github.com/aslafy-z/helm-git/releases/tag/v1.3.0), 3 weeks ago) - Helm Plugin - Install Helm Charts strait from Git repositories
 
 #### 🔨 My recent Pull Requests
 
