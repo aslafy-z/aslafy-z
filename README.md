@@ -13,7 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.10.1](https://github.com/renovatebot/renovate/releases/tag/38.10.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.11.0](https://github.com/renovatebot/renovate/releases/tag/38.11.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [grafana/k6-operator](https://github.com/grafana/k6-operator) ([v0.0.16](https://github.com/grafana/k6-operator/releases/tag/v0.0.16), 1 day ago) - An operator for running distributed k6 tests.
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) ([v0.10.1](https://github.com/GoogleCloudPlatform/microservices-demo/releases/tag/v0.10.1), 6 days ago) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.9.21](https://github.com/argoproj/argo-cd/releases/tag/v2.9.21), 6 days ago) - Declarative Continuous Deployment for Kubernetes
