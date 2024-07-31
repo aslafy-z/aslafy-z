@@ -13,13 +13,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes-sigs/azuredisk-csi-driver](https://github.com/kubernetes-sigs/azuredisk-csi-driver) ([v1.30.3](https://github.com/kubernetes-sigs/azuredisk-csi-driver/releases/tag/v1.30.3), today) - Azure Disk CSI Driver
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.14.0](https://github.com/renovatebot/renovate/releases/tag/38.14.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) ([v0.1.31](https://github.com/kubernetes-sigs/image-builder/releases/tag/v0.1.31), 1 day ago) - Tools for building Kubernetes disk images
 - [grafana/k6-operator](https://github.com/grafana/k6-operator) ([v0.0.16](https://github.com/grafana/k6-operator/releases/tag/v0.0.16), 2 days ago) - An operator for running distributed k6 tests.
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) ([v0.10.1](https://github.com/GoogleCloudPlatform/microservices-demo/releases/tag/v0.10.1), 1 week ago) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.9.21](https://github.com/argoproj/argo-cd/releases/tag/v2.9.21), 1 week ago) - Declarative Continuous Deployment for Kubernetes
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.10.3](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.10.3), 1 week ago) - Ingress-NGINX Controller for Kubernetes
-- [kubernetes-sigs/azuredisk-csi-driver](https://github.com/kubernetes-sigs/azuredisk-csi-driver) ([v1.30.2](https://github.com/kubernetes-sigs/azuredisk-csi-driver/releases/tag/v1.30.2), 1 week ago) - Azure Disk CSI Driver
 - [stakater/application](https://github.com/stakater/application) ([v4.2.4](https://github.com/stakater/application/releases/tag/v4.2.4), 2 weeks ago) - Generic helm chart for all kind of applications
 - [algolia/docsearch](https://github.com/algolia/docsearch) ([v3.6.1](https://github.com/algolia/docsearch/releases/tag/v3.6.1), 2 weeks ago) - :blue_book: The easiest way to add search to your documentation.
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.12.5](https://github.com/kyverno/kyverno/releases/tag/v1.12.5), 2 weeks ago) - Cloud Native Policy Management
