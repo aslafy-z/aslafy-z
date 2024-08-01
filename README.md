@@ -13,6 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [microsoft/retina](https://github.com/microsoft/retina) ([v0.0.13](https://github.com/microsoft/retina/releases/tag/v0.0.13), today) - eBPF distributed networking observability tool for Kubernetes
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.18.4](https://github.com/renovatebot/renovate/releases/tag/38.18.4), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kubernetes-sigs/azuredisk-csi-driver](https://github.com/kubernetes-sigs/azuredisk-csi-driver) ([v1.29.8](https://github.com/kubernetes-sigs/azuredisk-csi-driver/releases/tag/v1.29.8), today) - Azure Disk CSI Driver
 - [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) ([v0.1.31](https://github.com/kubernetes-sigs/image-builder/releases/tag/v0.1.31), 2 days ago) - Tools for building Kubernetes disk images
@@ -22,7 +23,6 @@
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.10.3](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.10.3), 2 weeks ago) - Ingress-NGINX Controller for Kubernetes
 - [stakater/application](https://github.com/stakater/application) ([v4.2.4](https://github.com/stakater/application/releases/tag/v4.2.4), 2 weeks ago) - Generic helm chart for all kind of applications
 - [algolia/docsearch](https://github.com/algolia/docsearch) ([v3.6.1](https://github.com/algolia/docsearch/releases/tag/v3.6.1), 2 weeks ago) - :blue_book: The easiest way to add search to your documentation.
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.12.5](https://github.com/kyverno/kyverno/releases/tag/v1.12.5), 2 weeks ago) - Cloud Native Policy Management
 
 #### 🔨 My recent Pull Requests
 
