@@ -13,8 +13,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.18.2](https://github.com/renovatebot/renovate/releases/tag/38.18.2), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kubernetes-sigs/azuredisk-csi-driver](https://github.com/kubernetes-sigs/azuredisk-csi-driver) ([v1.29.8](https://github.com/kubernetes-sigs/azuredisk-csi-driver/releases/tag/v1.29.8), today) - Azure Disk CSI Driver
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.18.1](https://github.com/renovatebot/renovate/releases/tag/38.18.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) ([v0.1.31](https://github.com/kubernetes-sigs/image-builder/releases/tag/v0.1.31), 2 days ago) - Tools for building Kubernetes disk images
 - [grafana/k6-operator](https://github.com/grafana/k6-operator) ([v0.0.16](https://github.com/grafana/k6-operator/releases/tag/v0.0.16), 3 days ago) - An operator for running distributed k6 tests.
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) ([v0.10.1](https://github.com/GoogleCloudPlatform/microservices-demo/releases/tag/v0.10.1), 1 week ago) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
