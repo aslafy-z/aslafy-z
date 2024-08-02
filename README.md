@@ -13,7 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.18.7](https://github.com/renovatebot/renovate/releases/tag/38.18.7), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.18.8](https://github.com/renovatebot/renovate/releases/tag/38.18.8), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.12.0-rc5](https://github.com/argoproj/argo-cd/releases/tag/v2.12.0-rc5), today) - Declarative Continuous Deployment for Kubernetes
 - [microsoft/retina](https://github.com/microsoft/retina) ([v0.0.13](https://github.com/microsoft/retina/releases/tag/v0.0.13), 1 day ago) - eBPF distributed networking observability tool for Kubernetes
 - [kubernetes-sigs/azuredisk-csi-driver](https://github.com/kubernetes-sigs/azuredisk-csi-driver) ([v1.29.8](https://github.com/kubernetes-sigs/azuredisk-csi-driver/releases/tag/v1.29.8), 1 day ago) - Azure Disk CSI Driver
