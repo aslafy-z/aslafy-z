@@ -13,9 +13,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.18.5](https://github.com/renovatebot/renovate/releases/tag/38.18.5), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.12.0-rc5](https://github.com/argoproj/argo-cd/releases/tag/v2.12.0-rc5), today) - Declarative Continuous Deployment for Kubernetes
 - [microsoft/retina](https://github.com/microsoft/retina) ([v0.0.13](https://github.com/microsoft/retina/releases/tag/v0.0.13), 1 day ago) - eBPF distributed networking observability tool for Kubernetes
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.18.4](https://github.com/renovatebot/renovate/releases/tag/38.18.4), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kubernetes-sigs/azuredisk-csi-driver](https://github.com/kubernetes-sigs/azuredisk-csi-driver) ([v1.29.8](https://github.com/kubernetes-sigs/azuredisk-csi-driver/releases/tag/v1.29.8), 1 day ago) - Azure Disk CSI Driver
 - [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) ([v0.1.31](https://github.com/kubernetes-sigs/image-builder/releases/tag/v0.1.31), 3 days ago) - Tools for building Kubernetes disk images
 - [grafana/k6-operator](https://github.com/grafana/k6-operator) ([v0.0.16](https://github.com/grafana/k6-operator/releases/tag/v0.0.16), 4 days ago) - An operator for running distributed k6 tests.
