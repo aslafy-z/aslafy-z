@@ -13,6 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([v0.10.0](https://github.com/external-secrets/external-secrets/releases/tag/v0.10.0), today) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.18.9](https://github.com/renovatebot/renovate/releases/tag/38.18.9), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.12.0-rc5](https://github.com/argoproj/argo-cd/releases/tag/v2.12.0-rc5), 1 day ago) - Declarative Continuous Deployment for Kubernetes
 - [microsoft/retina](https://github.com/microsoft/retina) ([v0.0.13](https://github.com/microsoft/retina/releases/tag/v0.0.13), 2 days ago) - eBPF distributed networking observability tool for Kubernetes
@@ -22,7 +23,6 @@
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) ([v0.10.1](https://github.com/GoogleCloudPlatform/microservices-demo/releases/tag/v0.10.1), 1 week ago) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.10.3](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.10.3), 2 weeks ago) - Ingress-NGINX Controller for Kubernetes
 - [stakater/application](https://github.com/stakater/application) ([v4.2.4](https://github.com/stakater/application/releases/tag/v4.2.4), 2 weeks ago) - Generic helm chart for all kind of applications
-- [algolia/docsearch](https://github.com/algolia/docsearch) ([v3.6.1](https://github.com/algolia/docsearch/releases/tag/v3.6.1), 2 weeks ago) - :blue_book: The easiest way to add search to your documentation.
 
 #### 🔨 My recent Pull Requests
 
