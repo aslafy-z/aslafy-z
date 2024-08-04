@@ -1,6 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
-- [ccl-consulting/github-runners](https://github.com/ccl-consulting/github-runners) -  (1 day ago)
+- [ccl-consulting/github-runners](https://github.com/ccl-consulting/github-runners) -  (2 days ago)
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC. (1 week ago)
 - [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) - Tools for building Kubernetes disk images (1 week ago)
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world (1 week ago)
@@ -13,13 +13,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.18.12](https://github.com/renovatebot/renovate/releases/tag/38.18.12), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.0](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.0), today) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.12.0-rc5](https://github.com/argoproj/argo-cd/releases/tag/v2.12.0-rc5), 1 day ago) - Declarative Continuous Deployment for Kubernetes
-- [microsoft/retina](https://github.com/microsoft/retina) ([v0.0.13](https://github.com/microsoft/retina/releases/tag/v0.0.13), 2 days ago) - eBPF distributed networking observability tool for Kubernetes
-- [kubernetes-sigs/azuredisk-csi-driver](https://github.com/kubernetes-sigs/azuredisk-csi-driver) ([v1.29.8](https://github.com/kubernetes-sigs/azuredisk-csi-driver/releases/tag/v1.29.8), 2 days ago) - Azure Disk CSI Driver
-- [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) ([v0.1.31](https://github.com/kubernetes-sigs/image-builder/releases/tag/v0.1.31), 4 days ago) - Tools for building Kubernetes disk images
-- [grafana/k6-operator](https://github.com/grafana/k6-operator) ([v0.0.16](https://github.com/grafana/k6-operator/releases/tag/v0.0.16), 5 days ago) - An operator for running distributed k6 tests.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.18.12](https://github.com/renovatebot/renovate/releases/tag/38.18.12), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.0](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.0), 1 day ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.12.0-rc5](https://github.com/argoproj/argo-cd/releases/tag/v2.12.0-rc5), 2 days ago) - Declarative Continuous Deployment for Kubernetes
+- [microsoft/retina](https://github.com/microsoft/retina) ([v0.0.13](https://github.com/microsoft/retina/releases/tag/v0.0.13), 3 days ago) - eBPF distributed networking observability tool for Kubernetes
+- [kubernetes-sigs/azuredisk-csi-driver](https://github.com/kubernetes-sigs/azuredisk-csi-driver) ([v1.29.8](https://github.com/kubernetes-sigs/azuredisk-csi-driver/releases/tag/v1.29.8), 3 days ago) - Azure Disk CSI Driver
+- [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) ([v0.1.31](https://github.com/kubernetes-sigs/image-builder/releases/tag/v0.1.31), 5 days ago) - Tools for building Kubernetes disk images
+- [grafana/k6-operator](https://github.com/grafana/k6-operator) ([v0.0.16](https://github.com/grafana/k6-operator/releases/tag/v0.0.16), 6 days ago) - An operator for running distributed k6 tests.
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) ([v0.10.1](https://github.com/GoogleCloudPlatform/microservices-demo/releases/tag/v0.10.1), 1 week ago) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.10.3](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.10.3), 2 weeks ago) - Ingress-NGINX Controller for Kubernetes
 - [stakater/application](https://github.com/stakater/application) ([v4.2.4](https://github.com/stakater/application/releases/tag/v4.2.4), 2 weeks ago) - Generic helm chart for all kind of applications
@@ -39,7 +39,9 @@
 
 #### ⭐ Recent Stars
 
-- [ssoready/ssoready](https://github.com/ssoready/ssoready) - Open-source dev tools for enterprise SSO. Ship SAML support this afternoon. (3 days ago)
+- [jkroepke/repository-template-go](https://github.com/jkroepke/repository-template-go) -  (today)
+- [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) - semantic-releaser automates the release process based on conventional commits (today)
+- [ssoready/ssoready](https://github.com/ssoready/ssoready) - Open-source dev tools for enterprise SSO. Ship SAML support this afternoon. (4 days ago)
 - [kerhub/issue-forms-creator](https://github.com/kerhub/issue-forms-creator) - GitHub Issue Forms generator (2 weeks ago)
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (2 weeks ago)
 - [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation (3 weeks ago)
@@ -47,8 +49,6 @@
 - [thewh1teagle/vibe](https://github.com/thewh1teagle/vibe) - Transcribe on your own! (3 weeks ago)
 - [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications! (3 weeks ago)
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt (3 weeks ago)
-- [novnc/websockify](https://github.com/novnc/websockify) - Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any application/server/service. (1 month ago)
-- [tanelpoder/0xtools](https://github.com/tanelpoder/0xtools) - 0x.Tools: X-Ray vision for Linux systems (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
