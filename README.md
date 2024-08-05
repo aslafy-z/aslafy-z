@@ -13,10 +13,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.12.0](https://github.com/argoproj/argo-cd/releases/tag/v2.12.0), today) - Declarative Continuous Deployment for Kubernetes
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.18.15](https://github.com/renovatebot/renovate/releases/tag/38.18.15), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [ccl-consulting/docker-shell-tools](https://github.com/ccl-consulting/docker-shell-tools) ([v1.2.0](https://github.com/ccl-consulting/docker-shell-tools/releases/tag/v1.2.0), today) - Docker image with common shell tools
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.0](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.0), 2 days ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.12.0-rc5](https://github.com/argoproj/argo-cd/releases/tag/v2.12.0-rc5), 3 days ago) - Declarative Continuous Deployment for Kubernetes
 - [microsoft/retina](https://github.com/microsoft/retina) ([v0.0.13](https://github.com/microsoft/retina/releases/tag/v0.0.13), 4 days ago) - eBPF distributed networking observability tool for Kubernetes
 - [kubernetes-sigs/azuredisk-csi-driver](https://github.com/kubernetes-sigs/azuredisk-csi-driver) ([v1.29.8](https://github.com/kubernetes-sigs/azuredisk-csi-driver/releases/tag/v1.29.8), 4 days ago) - Azure Disk CSI Driver
 - [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) ([v0.1.31](https://github.com/kubernetes-sigs/image-builder/releases/tag/v0.1.31), 6 days ago) - Tools for building Kubernetes disk images
