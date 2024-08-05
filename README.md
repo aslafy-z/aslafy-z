@@ -13,8 +13,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.18.16](https://github.com/renovatebot/renovate/releases/tag/38.18.16), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.12.0](https://github.com/argoproj/argo-cd/releases/tag/v2.12.0), today) - Declarative Continuous Deployment for Kubernetes
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.18.15](https://github.com/renovatebot/renovate/releases/tag/38.18.15), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [ccl-consulting/docker-shell-tools](https://github.com/ccl-consulting/docker-shell-tools) ([v1.2.0](https://github.com/ccl-consulting/docker-shell-tools/releases/tag/v1.2.0), today) - Docker image with common shell tools
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.0](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.0), 2 days ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [microsoft/retina](https://github.com/microsoft/retina) ([v0.0.13](https://github.com/microsoft/retina/releases/tag/v0.0.13), 4 days ago) - eBPF distributed networking observability tool for Kubernetes
