@@ -39,6 +39,7 @@
 
 #### ⭐ Recent Stars
 
+- [openremote/openremote](https://github.com/openremote/openremote) - 100% open-source IoT Platform - Integrate your devices, create rules, and analyse and visualise your data (today)
 - [jkroepke/repository-template-go](https://github.com/jkroepke/repository-template-go) -  (2 days ago)
 - [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) - semantic-releaser automates the release process based on conventional commits (2 days ago)
 - [ssoready/ssoready](https://github.com/ssoready/ssoready) - Open-source dev tools for enterprise SSO. Ship SAML support this afternoon. (6 days ago)
@@ -48,7 +49,6 @@
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor. (3 weeks ago)
 - [thewh1teagle/vibe](https://github.com/thewh1teagle/vibe) - Transcribe on your own! (3 weeks ago)
 - [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications! (3 weeks ago)
-- [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
