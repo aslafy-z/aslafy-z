@@ -26,6 +26,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: ignore changes to associate_public_ip_address](https://github.com/cloudposse/terraform-aws-ec2-instance/pull/203) on [cloudposse/terraform-aws-ec2-instance](https://github.com/cloudposse/terraform-aws-ec2-instance) (today)
 - [feat: Add column renderer templates for all columns](https://github.com/norwoodj/helm-docs/pull/260) on [norwoodj/helm-docs](https://github.com/norwoodj/helm-docs) (1 week ago)
 - [Load packer goss plugin via config file](https://github.com/kubernetes-sigs/image-builder/pull/1526) on [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) (2 weeks ago)
 - [Load packer oci, outscale and qemu plugins via config files](https://github.com/kubernetes-sigs/image-builder/pull/1524) on [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) (2 weeks ago)
@@ -35,7 +36,6 @@
 - [fix(ingress): remove unused fields](https://github.com/stakater/application/pull/336) on [stakater/application](https://github.com/stakater/application) (3 weeks ago)
 - [feat: generated Helm documentation](https://github.com/stakater/application/pull/335) on [stakater/application](https://github.com/stakater/application) (3 weeks ago)
 - [fix: tmpdir &amp; network](https://github.com/ccl-consulting/github-runners/pull/5) on [ccl-consulting/github-runners](https://github.com/ccl-consulting/github-runners) (3 weeks ago)
-- [ci: allow checkov to use kubeconfig](https://github.com/stakater/application/pull/334) on [stakater/application](https://github.com/stakater/application) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
