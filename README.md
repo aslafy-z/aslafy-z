@@ -39,6 +39,7 @@
 
 #### ⭐ Recent Stars
 
+- [Xide/helm-chart-diff](https://github.com/Xide/helm-chart-diff) - Visualize changes in Helm charts values.yaml between versions (today)
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars! (1 day ago)
 - [openremote/openremote](https://github.com/openremote/openremote) - 100% open-source IoT Platform - Integrate your devices, create rules, and analyse and visualise your data (2 days ago)
 - [jkroepke/repository-template-go](https://github.com/jkroepke/repository-template-go) -  (4 days ago)
@@ -48,7 +49,6 @@
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images! (2 weeks ago)
 - [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation (3 weeks ago)
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor. (4 weeks ago)
-- [thewh1teagle/vibe](https://github.com/thewh1teagle/vibe) - Transcribe on your own! (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
