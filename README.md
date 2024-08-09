@@ -1,12 +1,12 @@
 #### 👷 Check out what I'm currently working on
 
+- [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes (today)
 - [ccl-consulting/github-runners](https://github.com/ccl-consulting/github-runners) -  (1 week ago)
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC. (2 weeks ago)
 - [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) - Tools for building Kubernetes disk images (2 weeks ago)
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world (2 weeks ago)
 - [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (3 weeks ago)
 - [hashicorp/vault-k8s](https://github.com/hashicorp/vault-k8s) - First-class support for Vault and Kubernetes. (3 weeks ago)
-- [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes (4 weeks ago)
 - [aslafy-z/test-action](https://github.com/aslafy-z/test-action) -  (4 weeks ago)
 - [adinhodovic/ingress-nginx-mixin](https://github.com/adinhodovic/ingress-nginx-mixin) - Monitoring mixin for Ingress-nginx. A set of Grafana dashboards and Prometheus rules for Ingress-nginx. (4 weeks ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 month ago)
