@@ -13,6 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [stakater/application](https://github.com/stakater/application) ([v4.2.5](https://github.com/stakater/application/releases/tag/v4.2.5), today) - Generic helm chart for all kind of applications
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.24.0](https://github.com/renovatebot/renovate/releases/tag/38.24.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.1](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.1), 2 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.12.0](https://github.com/argoproj/argo-cd/releases/tag/v2.12.0), 5 days ago) - Declarative Continuous Deployment for Kubernetes
@@ -22,7 +23,6 @@
 - [kubernetes-sigs/azuredisk-csi-driver](https://github.com/kubernetes-sigs/azuredisk-csi-driver) ([v1.29.8](https://github.com/kubernetes-sigs/azuredisk-csi-driver/releases/tag/v1.29.8), 1 week ago) - Azure Disk CSI Driver
 - [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) ([v0.1.31](https://github.com/kubernetes-sigs/image-builder/releases/tag/v0.1.31), 1 week ago) - Tools for building Kubernetes disk images
 - [grafana/k6-operator](https://github.com/grafana/k6-operator) ([v0.0.16](https://github.com/grafana/k6-operator/releases/tag/v0.0.16), 1 week ago) - An operator for running distributed k6 tests.
-- [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) ([v0.10.1](https://github.com/GoogleCloudPlatform/microservices-demo/releases/tag/v0.10.1), 2 weeks ago) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
 
 #### 🔨 My recent Pull Requests
 
