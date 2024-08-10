@@ -13,7 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.23.3](https://github.com/renovatebot/renovate/releases/tag/38.23.3), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.24.0](https://github.com/renovatebot/renovate/releases/tag/38.24.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.1](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.1), 2 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.12.0](https://github.com/argoproj/argo-cd/releases/tag/v2.12.0), 5 days ago) - Declarative Continuous Deployment for Kubernetes
 - [ccl-consulting/docker-shell-tools](https://github.com/ccl-consulting/docker-shell-tools) ([v1.2.0](https://github.com/ccl-consulting/docker-shell-tools/releases/tag/v1.2.0), 5 days ago) - Docker image with common shell tools
