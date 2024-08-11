@@ -52,11 +52,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [omermertkaya](https://github.com/omermertkaya)
 - [Factor024](https://github.com/Factor024)
 - [Theblindscarlet](https://github.com/Theblindscarlet)
 - [anshjindal](https://github.com/anshjindal)
 - [Hencibo3059](https://github.com/Hencibo3059)
-- [ZahraAziziGit](https://github.com/ZahraAziziGit)
 
 #### 📈 Stats
 
