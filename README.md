@@ -13,6 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.31](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.31), today) - Kubernetes website and documentation repo: 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.27.0](https://github.com/renovatebot/renovate/releases/tag/38.27.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) ([4.9.0](https://github.com/kube-logging/logging-operator/releases/tag/4.9.0), today) - Logging operator for Kubernetes
 - [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) ([v0.1.32](https://github.com/kubernetes-sigs/image-builder/releases/tag/v0.1.32), today) - Tools for building Kubernetes disk images
@@ -22,7 +23,6 @@
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.12.0](https://github.com/argoproj/argo-cd/releases/tag/v2.12.0), 1 week ago) - Declarative Continuous Deployment for Kubernetes
 - [ccl-consulting/docker-shell-tools](https://github.com/ccl-consulting/docker-shell-tools) ([v1.2.0](https://github.com/ccl-consulting/docker-shell-tools/releases/tag/v1.2.0), 1 week ago) - Docker image with common shell tools
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.0](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.0), 1 week ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
-- [kubernetes-sigs/azuredisk-csi-driver](https://github.com/kubernetes-sigs/azuredisk-csi-driver) ([v1.29.8](https://github.com/kubernetes-sigs/azuredisk-csi-driver/releases/tag/v1.29.8), 1 week ago) - Azure Disk CSI Driver
 
 #### 🔨 My recent Pull Requests
 
