@@ -13,9 +13,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.27.0](https://github.com/renovatebot/renovate/releases/tag/38.27.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) ([4.9.0](https://github.com/kube-logging/logging-operator/releases/tag/4.9.0), today) - Logging operator for Kubernetes
 - [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) ([v0.1.32](https://github.com/kubernetes-sigs/image-builder/releases/tag/v0.1.32), today) - Tools for building Kubernetes disk images
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.26.1](https://github.com/renovatebot/renovate/releases/tag/38.26.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [microsoft/retina](https://github.com/microsoft/retina) ([v0.0.14](https://github.com/microsoft/retina/releases/tag/v0.0.14), 1 day ago) - eBPF distributed networking observability tool for Kubernetes
 - [stakater/application](https://github.com/stakater/application) ([v4.2.5](https://github.com/stakater/application/releases/tag/v4.2.5), 3 days ago) - Generic helm chart for all kind of applications
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.1](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.1), 5 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
