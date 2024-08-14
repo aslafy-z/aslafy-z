@@ -13,7 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.30.0](https://github.com/renovatebot/renovate/releases/tag/38.30.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.31.0](https://github.com/renovatebot/renovate/releases/tag/38.31.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.31](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.31), 1 day ago) - Kubernetes website and documentation repo: 
 - [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) ([4.9.0](https://github.com/kube-logging/logging-operator/releases/tag/4.9.0), 1 day ago) - Logging operator for Kubernetes
 - [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) ([v0.1.32](https://github.com/kubernetes-sigs/image-builder/releases/tag/v0.1.32), 1 day ago) - Tools for building Kubernetes disk images
