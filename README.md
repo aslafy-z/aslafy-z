@@ -13,8 +13,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.34.0](https://github.com/renovatebot/renovate/releases/tag/38.34.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) ([v0.1.33](https://github.com/kubernetes-sigs/image-builder/releases/tag/v0.1.33), today) - Tools for building Kubernetes disk images
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.33.0](https://github.com/renovatebot/renovate/releases/tag/38.33.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.31](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.31), 2 days ago) - Kubernetes website and documentation repo: 
 - [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) ([4.9.0](https://github.com/kube-logging/logging-operator/releases/tag/4.9.0), 2 days ago) - Logging operator for Kubernetes
 - [microsoft/retina](https://github.com/microsoft/retina) ([v0.0.14](https://github.com/microsoft/retina/releases/tag/v0.0.14), 3 days ago) - eBPF distributed networking observability tool for Kubernetes
