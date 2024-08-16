@@ -13,7 +13,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.38.1](https://github.com/renovatebot/renovate/releases/tag/38.38.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.39.0](https://github.com/renovatebot/renovate/releases/tag/38.39.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.12.1](https://github.com/argoproj/argo-cd/releases/tag/v2.12.1), today) - Declarative Continuous Deployment for Kubernetes
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.10.4](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.10.4), today) - Ingress-NGINX Controller for Kubernetes
 - [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) ([v0.1.33](https://github.com/kubernetes-sigs/image-builder/releases/tag/v0.1.33), 1 day ago) - Tools for building Kubernetes disk images
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.31](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.31), 3 days ago) - Kubernetes website and documentation repo: 
@@ -21,7 +22,6 @@
 - [microsoft/retina](https://github.com/microsoft/retina) ([v0.0.14](https://github.com/microsoft/retina/releases/tag/v0.0.14), 4 days ago) - eBPF distributed networking observability tool for Kubernetes
 - [stakater/application](https://github.com/stakater/application) ([v4.2.5](https://github.com/stakater/application/releases/tag/v4.2.5), 6 days ago) - Generic helm chart for all kind of applications
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.1](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.1), 1 week ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.12.0](https://github.com/argoproj/argo-cd/releases/tag/v2.12.0), 1 week ago) - Declarative Continuous Deployment for Kubernetes
 - [ccl-consulting/docker-shell-tools](https://github.com/ccl-consulting/docker-shell-tools) ([v1.2.0](https://github.com/ccl-consulting/docker-shell-tools/releases/tag/v1.2.0), 1 week ago) - Docker image with common shell tools
 
 #### 🔨 My recent Pull Requests
