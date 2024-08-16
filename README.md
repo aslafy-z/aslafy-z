@@ -13,7 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.38.0](https://github.com/renovatebot/renovate/releases/tag/38.38.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.38.1](https://github.com/renovatebot/renovate/releases/tag/38.38.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.10.4](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.10.4), today) - Ingress-NGINX Controller for Kubernetes
 - [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) ([v0.1.33](https://github.com/kubernetes-sigs/image-builder/releases/tag/v0.1.33), 1 day ago) - Tools for building Kubernetes disk images
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.31](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.31), 3 days ago) - Kubernetes website and documentation repo: 
