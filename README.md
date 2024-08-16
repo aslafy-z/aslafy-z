@@ -13,6 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.10.4](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.10.4), today) - Ingress-NGINX Controller for Kubernetes
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.37.0](https://github.com/renovatebot/renovate/releases/tag/38.37.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) ([v0.1.33](https://github.com/kubernetes-sigs/image-builder/releases/tag/v0.1.33), 1 day ago) - Tools for building Kubernetes disk images
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.31](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.31), 3 days ago) - Kubernetes website and documentation repo: 
@@ -22,7 +23,6 @@
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.1](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.1), 1 week ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.12.0](https://github.com/argoproj/argo-cd/releases/tag/v2.12.0), 1 week ago) - Declarative Continuous Deployment for Kubernetes
 - [ccl-consulting/docker-shell-tools](https://github.com/ccl-consulting/docker-shell-tools) ([v1.2.0](https://github.com/ccl-consulting/docker-shell-tools/releases/tag/v1.2.0), 1 week ago) - Docker image with common shell tools
-- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.0](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.0), 1 week ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 
 #### 🔨 My recent Pull Requests
 
