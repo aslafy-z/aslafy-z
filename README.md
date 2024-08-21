@@ -13,6 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [stakater/application](https://github.com/stakater/application) ([v4.2.6](https://github.com/stakater/application/releases/tag/v4.2.6), today) - Generic helm chart for all kind of applications
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.45.0](https://github.com/renovatebot/renovate/releases/tag/38.45.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.12.1](https://github.com/argoproj/argo-cd/releases/tag/v2.12.1), 5 days ago) - Declarative Continuous Deployment for Kubernetes
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.10.4](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.10.4), 5 days ago) - Ingress-NGINX Controller for Kubernetes
@@ -20,7 +21,6 @@
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.31](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.31), 1 week ago) - Kubernetes website and documentation repo: 
 - [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) ([4.9.0](https://github.com/kube-logging/logging-operator/releases/tag/4.9.0), 1 week ago) - Logging operator for Kubernetes
 - [microsoft/retina](https://github.com/microsoft/retina) ([v0.0.14](https://github.com/microsoft/retina/releases/tag/v0.0.14), 1 week ago) - eBPF distributed networking observability tool for Kubernetes
-- [stakater/application](https://github.com/stakater/application) ([v4.2.5](https://github.com/stakater/application/releases/tag/v4.2.5), 1 week ago) - Generic helm chart for all kind of applications
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.1](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.1), 1 week ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [ccl-consulting/docker-shell-tools](https://github.com/ccl-consulting/docker-shell-tools) ([v1.2.0](https://github.com/ccl-consulting/docker-shell-tools/releases/tag/v1.2.0), 2 weeks ago) - Docker image with common shell tools
 
@@ -52,11 +52,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [tsunejui](https://github.com/tsunejui)
 - [omermertkaya](https://github.com/omermertkaya)
 - [Factor024](https://github.com/Factor024)
 - [Theblindscarlet](https://github.com/Theblindscarlet)
 - [anshjindal](https://github.com/anshjindal)
-- [Hencibo3059](https://github.com/Hencibo3059)
 
 #### 📈 Stats
 
