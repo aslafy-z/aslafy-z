@@ -13,9 +13,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.52.1](https://github.com/renovatebot/renovate/releases/tag/38.52.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.12.2](https://github.com/argoproj/argo-cd/releases/tag/v2.12.2), 1 day ago) - Declarative Continuous Deployment for Kubernetes
-- [stakater/application](https://github.com/stakater/application) ([v4.2.6](https://github.com/stakater/application/releases/tag/v4.2.6), 3 days ago) - Generic helm chart for all kind of applications
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.52.1](https://github.com/renovatebot/renovate/releases/tag/38.52.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.12.2](https://github.com/argoproj/argo-cd/releases/tag/v2.12.2), 2 days ago) - Declarative Continuous Deployment for Kubernetes
+- [stakater/application](https://github.com/stakater/application) ([v4.2.6](https://github.com/stakater/application/releases/tag/v4.2.6), 4 days ago) - Generic helm chart for all kind of applications
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.10.4](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.10.4), 1 week ago) - Ingress-NGINX Controller for Kubernetes
 - [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) ([v0.1.33](https://github.com/kubernetes-sigs/image-builder/releases/tag/v0.1.33), 1 week ago) - Tools for building Kubernetes disk images
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.31](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.31), 1 week ago) - Kubernetes website and documentation repo: 
@@ -39,15 +39,15 @@
 
 #### ⭐ Recent Stars
 
-- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (1 day ago)
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you! (3 days ago)
-- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation. (5 days ago)
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (2 days ago)
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you! (4 days ago)
+- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation. (6 days ago)
 - [cables-gl/cables](https://github.com/cables-gl/cables) - cables is a tool for creating beautiful interactive content (1 week ago)
 - [Xide/helm-chart-diff](https://github.com/Xide/helm-chart-diff) - Visualize changes in Helm charts values.yaml between versions (2 weeks ago)
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars! (2 weeks ago)
 - [openremote/openremote](https://github.com/openremote/openremote) - 100% open-source IoT Platform - Integrate your devices, create rules, and analyse and visualise your data (2 weeks ago)
-- [jkroepke/repository-template-go](https://github.com/jkroepke/repository-template-go) -  (2 weeks ago)
-- [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) - semantic-releaser automates the release process based on conventional commits (2 weeks ago)
+- [jkroepke/repository-template-go](https://github.com/jkroepke/repository-template-go) -  (3 weeks ago)
+- [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) - semantic-releaser automates the release process based on conventional commits (3 weeks ago)
 - [ssoready/ssoready](https://github.com/ssoready/ssoready) - Open-source dev tools for enterprise SSO. Ship SAML support this afternoon. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
