@@ -13,7 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.52.2](https://github.com/renovatebot/renovate/releases/tag/38.52.2), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.52.3](https://github.com/renovatebot/renovate/releases/tag/38.52.3), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.12.2](https://github.com/argoproj/argo-cd/releases/tag/v2.12.2), 2 days ago) - Declarative Continuous Deployment for Kubernetes
 - [stakater/application](https://github.com/stakater/application) ([v4.2.6](https://github.com/stakater/application/releases/tag/v4.2.6), 4 days ago) - Generic helm chart for all kind of applications
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.10.4](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.10.4), 1 week ago) - Ingress-NGINX Controller for Kubernetes
