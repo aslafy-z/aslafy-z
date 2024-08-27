@@ -13,13 +13,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.55.4](https://github.com/renovatebot/renovate/releases/tag/38.55.4), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) ([4.9.1](https://github.com/kube-logging/logging-operator/releases/tag/4.9.1), today) - Logging operator for Kubernetes
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.12.3](https://github.com/argoproj/argo-cd/releases/tag/v2.12.3), today) - Declarative Continuous Deployment for Kubernetes
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.55.3](https://github.com/renovatebot/renovate/releases/tag/38.55.3), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [stakater/application](https://github.com/stakater/application) ([v4.2.6](https://github.com/stakater/application/releases/tag/v4.2.6), 6 days ago) - Generic helm chart for all kind of applications
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.10.4](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.10.4), 1 week ago) - Ingress-NGINX Controller for Kubernetes
 - [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) ([v0.1.33](https://github.com/kubernetes-sigs/image-builder/releases/tag/v0.1.33), 1 week ago) - Tools for building Kubernetes disk images
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.31](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.31), 2 weeks ago) - Kubernetes website and documentation repo: 
-- [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) ([4.9.0](https://github.com/kube-logging/logging-operator/releases/tag/4.9.0), 2 weeks ago) - Logging operator for Kubernetes
 - [microsoft/retina](https://github.com/microsoft/retina) ([v0.0.14](https://github.com/microsoft/retina/releases/tag/v0.0.14), 2 weeks ago) - eBPF distributed networking observability tool for Kubernetes
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.1](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.1), 2 weeks ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [ccl-consulting/docker-shell-tools](https://github.com/ccl-consulting/docker-shell-tools) ([v1.2.0](https://github.com/ccl-consulting/docker-shell-tools/releases/tag/v1.2.0), 3 weeks ago) - Docker image with common shell tools
