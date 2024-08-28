@@ -13,8 +13,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([v0.10.2](https://github.com/external-secrets/external-secrets/releases/tag/v0.10.2), today) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
+- [kubernetes-sigs/azuredisk-csi-driver](https://github.com/kubernetes-sigs/azuredisk-csi-driver) ([v1.30.4](https://github.com/kubernetes-sigs/azuredisk-csi-driver/releases/tag/v1.30.4), today) - Azure Disk CSI Driver
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.56.3](https://github.com/renovatebot/renovate/releases/tag/38.56.3), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.1](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.1), today) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [microsoft/retina](https://github.com/microsoft/retina) ([v0.0.15](https://github.com/microsoft/retina/releases/tag/v0.0.15), 1 day ago) - eBPF distributed networking observability tool for Kubernetes
 - [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) ([4.9.1](https://github.com/kube-logging/logging-operator/releases/tag/4.9.1), 1 day ago) - Logging operator for Kubernetes
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.12.3](https://github.com/argoproj/argo-cd/releases/tag/v2.12.3), 1 day ago) - Declarative Continuous Deployment for Kubernetes
@@ -22,7 +23,6 @@
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.10.4](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.10.4), 1 week ago) - Ingress-NGINX Controller for Kubernetes
 - [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) ([v0.1.33](https://github.com/kubernetes-sigs/image-builder/releases/tag/v0.1.33), 1 week ago) - Tools for building Kubernetes disk images
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.31](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.31), 2 weeks ago) - Kubernetes website and documentation repo: 
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.1](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.1), 2 weeks ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 
 #### 🔨 My recent Pull Requests
 
