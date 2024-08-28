@@ -13,8 +13,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.57.0](https://github.com/renovatebot/renovate/releases/tag/38.57.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.2](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.2), today) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.56.4](https://github.com/renovatebot/renovate/releases/tag/38.56.4), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kubernetes-sigs/azuredisk-csi-driver](https://github.com/kubernetes-sigs/azuredisk-csi-driver) ([v1.30.4](https://github.com/kubernetes-sigs/azuredisk-csi-driver/releases/tag/v1.30.4), today) - Azure Disk CSI Driver
 - [microsoft/retina](https://github.com/microsoft/retina) ([v0.0.15](https://github.com/microsoft/retina/releases/tag/v0.0.15), 1 day ago) - eBPF distributed networking observability tool for Kubernetes
 - [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) ([4.9.1](https://github.com/kube-logging/logging-operator/releases/tag/4.9.1), 1 day ago) - Logging operator for Kubernetes
