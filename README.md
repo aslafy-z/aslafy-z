@@ -13,8 +13,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.56.0](https://github.com/renovatebot/renovate/releases/tag/38.56.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [microsoft/retina](https://github.com/microsoft/retina) ([v0.0.15](https://github.com/microsoft/retina/releases/tag/v0.0.15), 1 day ago) - eBPF distributed networking observability tool for Kubernetes
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.55.5](https://github.com/renovatebot/renovate/releases/tag/38.55.5), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) ([4.9.1](https://github.com/kube-logging/logging-operator/releases/tag/4.9.1), 1 day ago) - Logging operator for Kubernetes
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.12.3](https://github.com/argoproj/argo-cd/releases/tag/v2.12.3), 1 day ago) - Declarative Continuous Deployment for Kubernetes
 - [stakater/application](https://github.com/stakater/application) ([v4.2.6](https://github.com/stakater/application/releases/tag/v4.2.6), 1 week ago) - Generic helm chart for all kind of applications
