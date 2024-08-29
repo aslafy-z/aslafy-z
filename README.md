@@ -52,11 +52,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [juddydev](https://github.com/juddydev)
 - [tsunejui](https://github.com/tsunejui)
 - [omermertkaya](https://github.com/omermertkaya)
 - [Factor024](https://github.com/Factor024)
 - [Theblindscarlet](https://github.com/Theblindscarlet)
-- [anshjindal](https://github.com/anshjindal)
 
 #### 📈 Stats
 
