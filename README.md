@@ -13,15 +13,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.57.0](https://github.com/renovatebot/renovate/releases/tag/38.57.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.2](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.2), today) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
-- [kubernetes-sigs/azuredisk-csi-driver](https://github.com/kubernetes-sigs/azuredisk-csi-driver) ([v1.30.4](https://github.com/kubernetes-sigs/azuredisk-csi-driver/releases/tag/v1.30.4), today) - Azure Disk CSI Driver
-- [microsoft/retina](https://github.com/microsoft/retina) ([v0.0.15](https://github.com/microsoft/retina/releases/tag/v0.0.15), 1 day ago) - eBPF distributed networking observability tool for Kubernetes
-- [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) ([4.9.1](https://github.com/kube-logging/logging-operator/releases/tag/4.9.1), 1 day ago) - Logging operator for Kubernetes
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.12.3](https://github.com/argoproj/argo-cd/releases/tag/v2.12.3), 1 day ago) - Declarative Continuous Deployment for Kubernetes
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.57.0](https://github.com/renovatebot/renovate/releases/tag/38.57.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.2](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.2), 1 day ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
+- [kubernetes-sigs/azuredisk-csi-driver](https://github.com/kubernetes-sigs/azuredisk-csi-driver) ([v1.30.4](https://github.com/kubernetes-sigs/azuredisk-csi-driver/releases/tag/v1.30.4), 1 day ago) - Azure Disk CSI Driver
+- [microsoft/retina](https://github.com/microsoft/retina) ([v0.0.15](https://github.com/microsoft/retina/releases/tag/v0.0.15), 2 days ago) - eBPF distributed networking observability tool for Kubernetes
+- [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) ([4.9.1](https://github.com/kube-logging/logging-operator/releases/tag/4.9.1), 2 days ago) - Logging operator for Kubernetes
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.12.3](https://github.com/argoproj/argo-cd/releases/tag/v2.12.3), 2 days ago) - Declarative Continuous Deployment for Kubernetes
 - [stakater/application](https://github.com/stakater/application) ([v4.2.6](https://github.com/stakater/application/releases/tag/v4.2.6), 1 week ago) - Generic helm chart for all kind of applications
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.10.4](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.10.4), 1 week ago) - Ingress-NGINX Controller for Kubernetes
-- [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) ([v0.1.33](https://github.com/kubernetes-sigs/image-builder/releases/tag/v0.1.33), 1 week ago) - Tools for building Kubernetes disk images
+- [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) ([v0.1.33](https://github.com/kubernetes-sigs/image-builder/releases/tag/v0.1.33), 2 weeks ago) - Tools for building Kubernetes disk images
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.31](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.31), 2 weeks ago) - Kubernetes website and documentation repo: 
 
 #### 🔨 My recent Pull Requests
@@ -39,11 +39,11 @@
 
 #### ⭐ Recent Stars
 
-- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (5 days ago)
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (6 days ago)
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you! (1 week ago)
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation. (1 week ago)
 - [cables-gl/cables](https://github.com/cables-gl/cables) - cables is a tool for creating beautiful interactive content (2 weeks ago)
-- [Xide/helm-chart-diff](https://github.com/Xide/helm-chart-diff) - Visualize changes in Helm charts values.yaml between versions (2 weeks ago)
+- [Xide/helm-chart-diff](https://github.com/Xide/helm-chart-diff) - Visualize changes in Helm charts values.yaml between versions (3 weeks ago)
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars! (3 weeks ago)
 - [openremote/openremote](https://github.com/openremote/openremote) - 100% open-source IoT Platform - Integrate your devices, create rules, and analyse and visualise your data (3 weeks ago)
 - [jkroepke/repository-template-go](https://github.com/jkroepke/repository-template-go) -  (3 weeks ago)
