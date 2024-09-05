@@ -52,11 +52,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [seyyed-amirreza-hosseini](https://github.com/seyyed-amirreza-hosseini)
 - [Charles-Chrismann](https://github.com/Charles-Chrismann)
 - [juddydev](https://github.com/juddydev)
 - [tsunejui](https://github.com/tsunejui)
 - [omermertkaya](https://github.com/omermertkaya)
-- [Factor024](https://github.com/Factor024)
 
 #### 📈 Stats
 
