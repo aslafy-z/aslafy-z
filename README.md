@@ -52,11 +52,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [KlauseMukisa](https://github.com/KlauseMukisa)
 - [Alish2506](https://github.com/Alish2506)
 - [seyyed-amirreza-hosseini](https://github.com/seyyed-amirreza-hosseini)
 - [Charles-Chrismann](https://github.com/Charles-Chrismann)
 - [juddydev](https://github.com/juddydev)
-- [tsunejui](https://github.com/tsunejui)
 
 #### 📈 Stats
 
