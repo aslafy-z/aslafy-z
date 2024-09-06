@@ -13,11 +13,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [microsoft/retina](https://github.com/microsoft/retina) ([v0.0.16](https://github.com/microsoft/retina/releases/tag/v0.0.16), today) - eBPF distributed networking observability tool for Kubernetes
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.71.0](https://github.com/renovatebot/renovate/releases/tag/38.71.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) ([v0.1.34](https://github.com/kubernetes-sigs/image-builder/releases/tag/v0.1.34), 1 week ago) - Tools for building Kubernetes disk images
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.2](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.2), 1 week ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [kubernetes-sigs/azuredisk-csi-driver](https://github.com/kubernetes-sigs/azuredisk-csi-driver) ([v1.30.4](https://github.com/kubernetes-sigs/azuredisk-csi-driver/releases/tag/v1.30.4), 1 week ago) - Azure Disk CSI Driver
-- [microsoft/retina](https://github.com/microsoft/retina) ([v0.0.15](https://github.com/microsoft/retina/releases/tag/v0.0.15), 1 week ago) - eBPF distributed networking observability tool for Kubernetes
 - [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) ([4.9.1](https://github.com/kube-logging/logging-operator/releases/tag/4.9.1), 1 week ago) - Logging operator for Kubernetes
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.12.3](https://github.com/argoproj/argo-cd/releases/tag/v2.12.3), 1 week ago) - Declarative Continuous Deployment for Kubernetes
 - [stakater/application](https://github.com/stakater/application) ([v4.2.6](https://github.com/stakater/application/releases/tag/v4.2.6), 2 weeks ago) - Generic helm chart for all kind of applications
