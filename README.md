@@ -13,6 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.4](https://github.com/helmfile/vals/releases/tag/v0.37.4), today) - Helm-like configuration values loader with support for various sources
 - [microsoft/retina](https://github.com/microsoft/retina) ([v0.0.16](https://github.com/microsoft/retina/releases/tag/v0.0.16), 1 day ago) - eBPF distributed networking observability tool for Kubernetes
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.71.0](https://github.com/renovatebot/renovate/releases/tag/38.71.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) ([v0.1.34](https://github.com/kubernetes-sigs/image-builder/releases/tag/v0.1.34), 1 week ago) - Tools for building Kubernetes disk images
@@ -22,7 +23,6 @@
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.12.3](https://github.com/argoproj/argo-cd/releases/tag/v2.12.3), 1 week ago) - Declarative Continuous Deployment for Kubernetes
 - [stakater/application](https://github.com/stakater/application) ([v4.2.6](https://github.com/stakater/application/releases/tag/v4.2.6), 2 weeks ago) - Generic helm chart for all kind of applications
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.10.4](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.10.4), 3 weeks ago) - Ingress-NGINX Controller for Kubernetes
-- [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.31](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.31), 3 weeks ago) - Kubernetes website and documentation repo: 
 
 #### 🔨 My recent Pull Requests
 
