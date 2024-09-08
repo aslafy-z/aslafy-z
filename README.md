@@ -13,6 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [stakater/application](https://github.com/stakater/application) ([v4.2.7](https://github.com/stakater/application/releases/tag/v4.2.7), today) - Generic helm chart for all kind of applications
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.72.1](https://github.com/renovatebot/renovate/releases/tag/38.72.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.4](https://github.com/helmfile/vals/releases/tag/v0.37.4), 1 day ago) - Helm-like configuration values loader with support for various sources
 - [microsoft/retina](https://github.com/microsoft/retina) ([v0.0.16](https://github.com/microsoft/retina/releases/tag/v0.0.16), 2 days ago) - eBPF distributed networking observability tool for Kubernetes
@@ -21,7 +22,6 @@
 - [kubernetes-sigs/azuredisk-csi-driver](https://github.com/kubernetes-sigs/azuredisk-csi-driver) ([v1.30.4](https://github.com/kubernetes-sigs/azuredisk-csi-driver/releases/tag/v1.30.4), 1 week ago) - Azure Disk CSI Driver
 - [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) ([4.9.1](https://github.com/kube-logging/logging-operator/releases/tag/4.9.1), 1 week ago) - Logging operator for Kubernetes
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.12.3](https://github.com/argoproj/argo-cd/releases/tag/v2.12.3), 1 week ago) - Declarative Continuous Deployment for Kubernetes
-- [stakater/application](https://github.com/stakater/application) ([v4.2.6](https://github.com/stakater/application/releases/tag/v4.2.6), 2 weeks ago) - Generic helm chart for all kind of applications
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.10.4](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.10.4), 3 weeks ago) - Ingress-NGINX Controller for Kubernetes
 
 #### 🔨 My recent Pull Requests
