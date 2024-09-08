@@ -1,6 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
-- [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes (4 weeks ago)
+- [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes (1 month ago)
 - [ccl-consulting/github-runners](https://github.com/ccl-consulting/github-runners) -  (1 month ago)
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC. (1 month ago)
 - [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) - Tools for building Kubernetes disk images (1 month ago)
@@ -9,13 +9,13 @@
 - [hashicorp/vault-k8s](https://github.com/hashicorp/vault-k8s) - First-class support for Vault and Kubernetes. (1 month ago)
 - [aslafy-z/test-action](https://github.com/aslafy-z/test-action) -  (1 month ago)
 - [adinhodovic/ingress-nginx-mixin](https://github.com/adinhodovic/ingress-nginx-mixin) - Monitoring mixin for Ingress-nginx. A set of Grafana dashboards and Prometheus rules for Ingress-nginx. (1 month ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 month ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.72.0](https://github.com/renovatebot/renovate/releases/tag/38.72.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.4](https://github.com/helmfile/vals/releases/tag/v0.37.4), today) - Helm-like configuration values loader with support for various sources
-- [microsoft/retina](https://github.com/microsoft/retina) ([v0.0.16](https://github.com/microsoft/retina/releases/tag/v0.0.16), 1 day ago) - eBPF distributed networking observability tool for Kubernetes
+- [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.4](https://github.com/helmfile/vals/releases/tag/v0.37.4), 1 day ago) - Helm-like configuration values loader with support for various sources
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.72.0](https://github.com/renovatebot/renovate/releases/tag/38.72.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [microsoft/retina](https://github.com/microsoft/retina) ([v0.0.16](https://github.com/microsoft/retina/releases/tag/v0.0.16), 2 days ago) - eBPF distributed networking observability tool for Kubernetes
 - [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) ([v0.1.34](https://github.com/kubernetes-sigs/image-builder/releases/tag/v0.1.34), 1 week ago) - Tools for building Kubernetes disk images
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.2](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.2), 1 week ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [kubernetes-sigs/azuredisk-csi-driver](https://github.com/kubernetes-sigs/azuredisk-csi-driver) ([v1.30.4](https://github.com/kubernetes-sigs/azuredisk-csi-driver/releases/tag/v1.30.4), 1 week ago) - Azure Disk CSI Driver
