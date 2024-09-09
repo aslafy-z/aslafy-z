@@ -8,15 +8,15 @@
 - [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (1 month ago)
 - [hashicorp/vault-k8s](https://github.com/hashicorp/vault-k8s) - First-class support for Vault and Kubernetes. (1 month ago)
 - [aslafy-z/test-action](https://github.com/aslafy-z/test-action) -  (1 month ago)
-- [adinhodovic/ingress-nginx-mixin](https://github.com/adinhodovic/ingress-nginx-mixin) - Monitoring mixin for Ingress-nginx. A set of Grafana dashboards and Prometheus rules for Ingress-nginx. (1 month ago)
+- [adinhodovic/ingress-nginx-mixin](https://github.com/adinhodovic/ingress-nginx-mixin) - Monitoring mixin for Ingress-nginx. A set of Grafana dashboards and Prometheus rules for Ingress-nginx. (2 months ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [stakater/application](https://github.com/stakater/application) ([v4.2.7](https://github.com/stakater/application/releases/tag/v4.2.7), today) - Generic helm chart for all kind of applications
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.72.1](https://github.com/renovatebot/renovate/releases/tag/38.72.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.4](https://github.com/helmfile/vals/releases/tag/v0.37.4), 1 day ago) - Helm-like configuration values loader with support for various sources
-- [microsoft/retina](https://github.com/microsoft/retina) ([v0.0.16](https://github.com/microsoft/retina/releases/tag/v0.0.16), 2 days ago) - eBPF distributed networking observability tool for Kubernetes
+- [stakater/application](https://github.com/stakater/application) ([v4.2.7](https://github.com/stakater/application/releases/tag/v4.2.7), 1 day ago) - Generic helm chart for all kind of applications
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.72.1](https://github.com/renovatebot/renovate/releases/tag/38.72.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.4](https://github.com/helmfile/vals/releases/tag/v0.37.4), 2 days ago) - Helm-like configuration values loader with support for various sources
+- [microsoft/retina](https://github.com/microsoft/retina) ([v0.0.16](https://github.com/microsoft/retina/releases/tag/v0.0.16), 3 days ago) - eBPF distributed networking observability tool for Kubernetes
 - [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) ([v0.1.34](https://github.com/kubernetes-sigs/image-builder/releases/tag/v0.1.34), 1 week ago) - Tools for building Kubernetes disk images
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.2](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.2), 1 week ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [kubernetes-sigs/azuredisk-csi-driver](https://github.com/kubernetes-sigs/azuredisk-csi-driver) ([v1.30.4](https://github.com/kubernetes-sigs/azuredisk-csi-driver/releases/tag/v1.30.4), 1 week ago) - Azure Disk CSI Driver
@@ -41,7 +41,7 @@
 
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (2 weeks ago)
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you! (2 weeks ago)
-- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation. (2 weeks ago)
+- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation. (3 weeks ago)
 - [cables-gl/cables](https://github.com/cables-gl/cables) - cables is a tool for creating beautiful interactive content (3 weeks ago)
 - [Xide/helm-chart-diff](https://github.com/Xide/helm-chart-diff) - Visualize changes in Helm charts values.yaml between versions (1 month ago)
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars! (1 month ago)
