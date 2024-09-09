@@ -26,6 +26,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add support for TLS authentication](https://github.com/amine-amaach/simulators/pull/11) on [amine-amaach/simulators](https://github.com/amine-amaach/simulators) (today)
 - [fix: ignore changes to associate_public_ip_address](https://github.com/cloudposse/terraform-aws-ec2-instance/pull/203) on [cloudposse/terraform-aws-ec2-instance](https://github.com/cloudposse/terraform-aws-ec2-instance) (1 month ago)
 - [feat: Add column renderer templates for all columns](https://github.com/norwoodj/helm-docs/pull/260) on [norwoodj/helm-docs](https://github.com/norwoodj/helm-docs) (1 month ago)
 - [Load packer goss plugin via config file](https://github.com/kubernetes-sigs/image-builder/pull/1526) on [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) (1 month ago)
@@ -35,7 +36,6 @@
 - [ci: pin helm-unittest version](https://github.com/stakater/application/pull/337) on [stakater/application](https://github.com/stakater/application) (1 month ago)
 - [fix(ingress): remove unused fields](https://github.com/stakater/application/pull/336) on [stakater/application](https://github.com/stakater/application) (1 month ago)
 - [feat: generated Helm documentation](https://github.com/stakater/application/pull/335) on [stakater/application](https://github.com/stakater/application) (1 month ago)
-- [fix: tmpdir &amp; network](https://github.com/ccl-consulting/github-runners/pull/5) on [ccl-consulting/github-runners](https://github.com/ccl-consulting/github-runners) (1 month ago)
 
 #### ⭐ Recent Stars
 
