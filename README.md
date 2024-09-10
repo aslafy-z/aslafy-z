@@ -13,7 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.74.0](https://github.com/renovatebot/renovate/releases/tag/38.74.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.74.1](https://github.com/renovatebot/renovate/releases/tag/38.74.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.5](https://github.com/helmfile/vals/releases/tag/v0.37.5), today) - Helm-like configuration values loader with support for various sources
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.3](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.3), 1 day ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [stakater/application](https://github.com/stakater/application) ([v4.2.7](https://github.com/stakater/application/releases/tag/v4.2.7), 2 days ago) - Generic helm chart for all kind of applications
