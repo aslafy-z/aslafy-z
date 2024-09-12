@@ -26,6 +26,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: Add velero icon](https://github.com/stakater/ForecastleIcons/pull/38) on [stakater/ForecastleIcons](https://github.com/stakater/ForecastleIcons) (today)
+- [docs: remove icon list from readme](https://github.com/stakater/ForecastleIcons/pull/37) on [stakater/ForecastleIcons](https://github.com/stakater/ForecastleIcons) (today)
 - [feat: add support for TLS authentication](https://github.com/amine-amaach/simulators/pull/11) on [amine-amaach/simulators](https://github.com/amine-amaach/simulators) (3 days ago)
 - [fix: ignore changes to associate_public_ip_address](https://github.com/cloudposse/terraform-aws-ec2-instance/pull/203) on [cloudposse/terraform-aws-ec2-instance](https://github.com/cloudposse/terraform-aws-ec2-instance) (1 month ago)
 - [feat: Add column renderer templates for all columns](https://github.com/norwoodj/helm-docs/pull/260) on [norwoodj/helm-docs](https://github.com/norwoodj/helm-docs) (1 month ago)
@@ -34,8 +36,6 @@
 - [docs: kustomize component for base url](https://github.com/GoogleCloudPlatform/microservices-demo/pull/2645) on [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) (1 month ago)
 - [Remove old entries](https://github.com/iptv-org/iptv/pull/17050) on [iptv-org/iptv](https://github.com/iptv-org/iptv) (1 month ago)
 - [ci: pin helm-unittest version](https://github.com/stakater/application/pull/337) on [stakater/application](https://github.com/stakater/application) (1 month ago)
-- [fix(ingress): remove unused fields](https://github.com/stakater/application/pull/336) on [stakater/application](https://github.com/stakater/application) (1 month ago)
-- [feat: generated Helm documentation](https://github.com/stakater/application/pull/335) on [stakater/application](https://github.com/stakater/application) (1 month ago)
 
 #### ⭐ Recent Stars
 
