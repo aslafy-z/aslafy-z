@@ -1,6 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
-- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (4 days ago)
+- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (5 days ago)
 - [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes (1 month ago)
 - [ccl-consulting/github-runners](https://github.com/ccl-consulting/github-runners) -  (1 month ago)
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC. (1 month ago)
@@ -13,12 +13,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.80.0](https://github.com/renovatebot/renovate/releases/tag/38.80.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.13.0-beta.1](https://github.com/kyverno/kyverno/releases/tag/v1.13.0-beta.1), 2 days ago) - Cloud Native Policy Management
-- [stakater/application](https://github.com/stakater/application) ([v4.2.8](https://github.com/stakater/application/releases/tag/v4.2.8), 4 days ago) - Generic helm chart for all kind of applications
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.11.8](https://github.com/argoproj/argo-cd/releases/tag/v2.11.8), 4 days ago) - Declarative Continuous Deployment for Kubernetes
-- [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.5](https://github.com/helmfile/vals/releases/tag/v0.37.5), 5 days ago) - Helm-like configuration values loader with support for various sources
-- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.3](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.3), 6 days ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.80.0](https://github.com/renovatebot/renovate/releases/tag/38.80.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.13.0-beta.1](https://github.com/kyverno/kyverno/releases/tag/v1.13.0-beta.1), 3 days ago) - Cloud Native Policy Management
+- [stakater/application](https://github.com/stakater/application) ([v4.2.8](https://github.com/stakater/application/releases/tag/v4.2.8), 5 days ago) - Generic helm chart for all kind of applications
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.11.8](https://github.com/argoproj/argo-cd/releases/tag/v2.11.8), 5 days ago) - Declarative Continuous Deployment for Kubernetes
+- [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.5](https://github.com/helmfile/vals/releases/tag/v0.37.5), 6 days ago) - Helm-like configuration values loader with support for various sources
+- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.3](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.3), 1 week ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [microsoft/retina](https://github.com/microsoft/retina) ([v0.0.16](https://github.com/microsoft/retina/releases/tag/v0.0.16), 1 week ago) - eBPF distributed networking observability tool for Kubernetes
 - [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) ([v0.1.34](https://github.com/kubernetes-sigs/image-builder/releases/tag/v0.1.34), 2 weeks ago) - Tools for building Kubernetes disk images
 - [kubernetes-sigs/azuredisk-csi-driver](https://github.com/kubernetes-sigs/azuredisk-csi-driver) ([v1.30.4](https://github.com/kubernetes-sigs/azuredisk-csi-driver/releases/tag/v1.30.4), 2 weeks ago) - Azure Disk CSI Driver
@@ -26,9 +26,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: Add velero icon](https://github.com/stakater/ForecastleIcons/pull/38) on [stakater/ForecastleIcons](https://github.com/stakater/ForecastleIcons) (3 days ago)
-- [docs: remove icon list from readme](https://github.com/stakater/ForecastleIcons/pull/37) on [stakater/ForecastleIcons](https://github.com/stakater/ForecastleIcons) (3 days ago)
-- [feat: add support for TLS authentication](https://github.com/amine-amaach/simulators/pull/11) on [amine-amaach/simulators](https://github.com/amine-amaach/simulators) (6 days ago)
+- [feat: Add velero icon](https://github.com/stakater/ForecastleIcons/pull/38) on [stakater/ForecastleIcons](https://github.com/stakater/ForecastleIcons) (4 days ago)
+- [docs: remove icon list from readme](https://github.com/stakater/ForecastleIcons/pull/37) on [stakater/ForecastleIcons](https://github.com/stakater/ForecastleIcons) (4 days ago)
+- [feat: add support for TLS authentication](https://github.com/amine-amaach/simulators/pull/11) on [amine-amaach/simulators](https://github.com/amine-amaach/simulators) (1 week ago)
 - [fix: ignore changes to associate_public_ip_address](https://github.com/cloudposse/terraform-aws-ec2-instance/pull/203) on [cloudposse/terraform-aws-ec2-instance](https://github.com/cloudposse/terraform-aws-ec2-instance) (1 month ago)
 - [feat: Add column renderer templates for all columns](https://github.com/norwoodj/helm-docs/pull/260) on [norwoodj/helm-docs](https://github.com/norwoodj/helm-docs) (1 month ago)
 - [Load packer goss plugin via config file](https://github.com/kubernetes-sigs/image-builder/pull/1526) on [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) (1 month ago)
@@ -39,10 +39,10 @@
 
 #### ⭐ Recent Stars
 
-- [AvitalTamir/cyphernetes](https://github.com/AvitalTamir/cyphernetes) - A Kubernetes Query Language (4 days ago)
+- [AvitalTamir/cyphernetes](https://github.com/AvitalTamir/cyphernetes) - A Kubernetes Query Language (5 days ago)
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (3 weeks ago)
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you! (3 weeks ago)
-- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation. (3 weeks ago)
+- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation. (4 weeks ago)
 - [cables-gl/cables](https://github.com/cables-gl/cables) - cables is a tool for creating beautiful interactive content (1 month ago)
 - [Xide/helm-chart-diff](https://github.com/Xide/helm-chart-diff) - Visualize changes in Helm charts values.yaml between versions (1 month ago)
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars! (1 month ago)
