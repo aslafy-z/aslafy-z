@@ -13,10 +13,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.13.0-rc1](https://github.com/argoproj/argo-cd/releases/tag/v2.13.0-rc1), today) - Declarative Continuous Deployment for Kubernetes
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.80.0](https://github.com/renovatebot/renovate/releases/tag/38.80.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.13.0-beta.1](https://github.com/kyverno/kyverno/releases/tag/v1.13.0-beta.1), 3 days ago) - Cloud Native Policy Management
 - [stakater/application](https://github.com/stakater/application) ([v4.2.8](https://github.com/stakater/application/releases/tag/v4.2.8), 5 days ago) - Generic helm chart for all kind of applications
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.11.8](https://github.com/argoproj/argo-cd/releases/tag/v2.11.8), 5 days ago) - Declarative Continuous Deployment for Kubernetes
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.5](https://github.com/helmfile/vals/releases/tag/v0.37.5), 6 days ago) - Helm-like configuration values loader with support for various sources
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.3](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.3), 1 week ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [microsoft/retina](https://github.com/microsoft/retina) ([v0.0.16](https://github.com/microsoft/retina/releases/tag/v0.0.16), 1 week ago) - eBPF distributed networking observability tool for Kubernetes
