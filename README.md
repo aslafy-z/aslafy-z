@@ -13,7 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.85.2](https://github.com/renovatebot/renovate/releases/tag/38.85.2), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.86.0](https://github.com/renovatebot/renovate/releases/tag/38.86.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.12.6-rc.1](https://github.com/kyverno/kyverno/releases/tag/v1.12.6-rc.1), 1 day ago) - Cloud Native Policy Management
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.13.0-rc1](https://github.com/argoproj/argo-cd/releases/tag/v2.13.0-rc1), 1 day ago) - Declarative Continuous Deployment for Kubernetes
 - [stakater/application](https://github.com/stakater/application) ([v4.2.8](https://github.com/stakater/application/releases/tag/v4.2.8), 6 days ago) - Generic helm chart for all kind of applications
