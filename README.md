@@ -52,11 +52,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Connor9994](https://github.com/Connor9994)
 - [eust-w](https://github.com/eust-w)
 - [KgothatsoMothwa](https://github.com/KgothatsoMothwa)
 - [KlauseMukisa](https://github.com/KlauseMukisa)
 - [Alish2506](https://github.com/Alish2506)
-- [seyyed-amirreza-hosseini](https://github.com/seyyed-amirreza-hosseini)
 
 #### 📈 Stats
 
