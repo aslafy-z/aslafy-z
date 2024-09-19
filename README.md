@@ -26,6 +26,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: typo in watchdogConfig](https://github.com/seriohub/velero-helm/pull/47) on [seriohub/velero-helm](https://github.com/seriohub/velero-helm) (today)
 - [feat: Add velero icon](https://github.com/stakater/ForecastleIcons/pull/38) on [stakater/ForecastleIcons](https://github.com/stakater/ForecastleIcons) (1 week ago)
 - [docs: remove icon list from readme](https://github.com/stakater/ForecastleIcons/pull/37) on [stakater/ForecastleIcons](https://github.com/stakater/ForecastleIcons) (1 week ago)
 - [feat: add support for TLS authentication](https://github.com/amine-amaach/simulators/pull/11) on [amine-amaach/simulators](https://github.com/amine-amaach/simulators) (1 week ago)
@@ -35,7 +36,6 @@
 - [Load packer oci, outscale and qemu plugins via config files](https://github.com/kubernetes-sigs/image-builder/pull/1524) on [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) (1 month ago)
 - [docs: kustomize component for base url](https://github.com/GoogleCloudPlatform/microservices-demo/pull/2645) on [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) (1 month ago)
 - [Remove old entries](https://github.com/iptv-org/iptv/pull/17050) on [iptv-org/iptv](https://github.com/iptv-org/iptv) (1 month ago)
-- [ci: pin helm-unittest version](https://github.com/stakater/application/pull/337) on [stakater/application](https://github.com/stakater/application) (2 months ago)
 
 #### ⭐ Recent Stars
 
