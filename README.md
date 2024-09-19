@@ -13,6 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) ([v0.1.35](https://github.com/kubernetes-sigs/image-builder/releases/tag/v0.1.35), today) - Tools for building Kubernetes disk images
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.89.2](https://github.com/renovatebot/renovate/releases/tag/38.89.2), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.12.6-rc.2](https://github.com/kyverno/kyverno/releases/tag/v1.12.6-rc.2), 1 day ago) - Cloud Native Policy Management
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.13.0-rc1](https://github.com/argoproj/argo-cd/releases/tag/v2.13.0-rc1), 3 days ago) - Declarative Continuous Deployment for Kubernetes
@@ -20,7 +21,6 @@
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.5](https://github.com/helmfile/vals/releases/tag/v0.37.5), 1 week ago) - Helm-like configuration values loader with support for various sources
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.3](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.3), 1 week ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [microsoft/retina](https://github.com/microsoft/retina) ([v0.0.16](https://github.com/microsoft/retina/releases/tag/v0.0.16), 1 week ago) - eBPF distributed networking observability tool for Kubernetes
-- [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) ([v0.1.34](https://github.com/kubernetes-sigs/image-builder/releases/tag/v0.1.34), 3 weeks ago) - Tools for building Kubernetes disk images
 - [kubernetes-sigs/azuredisk-csi-driver](https://github.com/kubernetes-sigs/azuredisk-csi-driver) ([v1.30.4](https://github.com/kubernetes-sigs/azuredisk-csi-driver/releases/tag/v1.30.4), 3 weeks ago) - Azure Disk CSI Driver
 - [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) ([4.9.1](https://github.com/kube-logging/logging-operator/releases/tag/4.9.1), 3 weeks ago) - Logging operator for Kubernetes
 
