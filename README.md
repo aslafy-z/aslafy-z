@@ -13,7 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.91.4](https://github.com/renovatebot/renovate/releases/tag/38.91.4), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.91.5](https://github.com/renovatebot/renovate/releases/tag/38.91.5), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.13.0-rc2](https://github.com/argoproj/argo-cd/releases/tag/v2.13.0-rc2), 1 day ago) - Declarative Continuous Deployment for Kubernetes
 - [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) ([v0.1.35](https://github.com/kubernetes-sigs/image-builder/releases/tag/v0.1.35), 2 days ago) - Tools for building Kubernetes disk images
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.12.6-rc.2](https://github.com/kyverno/kyverno/releases/tag/v1.12.6-rc.2), 3 days ago) - Cloud Native Policy Management
