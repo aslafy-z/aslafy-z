@@ -52,11 +52,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [svnph](https://github.com/svnph)
+- [7PH](https://github.com/7PH)
 - [Connor9994](https://github.com/Connor9994)
 - [eust-w](https://github.com/eust-w)
 - [KgothatsoMothwa](https://github.com/KgothatsoMothwa)
-- [KlauseMukisa](https://github.com/KlauseMukisa)
-- [Alish2506](https://github.com/Alish2506)
 
 #### 📈 Stats
 
