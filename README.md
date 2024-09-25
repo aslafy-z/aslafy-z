@@ -26,7 +26,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix(manager/kubernetes): exclude templated image fields](https://github.com/renovatebot/renovate/pull/31618) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (today)
+- [fix(manager/kubernetes): exclude gotemplated image fields](https://github.com/renovatebot/renovate/pull/31624) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (today)
+- [feat(manager/kubernetes): only extract valid images](https://github.com/renovatebot/renovate/pull/31618) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (today)
 - [fix: Rename npm_package_json to npm_requirements](https://github.com/terraform-aws-modules/terraform-aws-lambda/pull/621) on [terraform-aws-modules/terraform-aws-lambda](https://github.com/terraform-aws-modules/terraform-aws-lambda) (today)
 - [fix: typo in watchdogConfig](https://github.com/seriohub/velero-helm/pull/47) on [seriohub/velero-helm](https://github.com/seriohub/velero-helm) (6 days ago)
 - [feat: Add velero icon](https://github.com/stakater/ForecastleIcons/pull/38) on [stakater/ForecastleIcons](https://github.com/stakater/ForecastleIcons) (1 week ago)
@@ -35,7 +36,6 @@
 - [fix: ignore changes to associate_public_ip_address](https://github.com/cloudposse/terraform-aws-ec2-instance/pull/203) on [cloudposse/terraform-aws-ec2-instance](https://github.com/cloudposse/terraform-aws-ec2-instance) (1 month ago)
 - [feat: Add column renderer templates for all columns](https://github.com/norwoodj/helm-docs/pull/260) on [norwoodj/helm-docs](https://github.com/norwoodj/helm-docs) (2 months ago)
 - [Load packer goss plugin via config file](https://github.com/kubernetes-sigs/image-builder/pull/1526) on [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) (2 months ago)
-- [Load packer oci, outscale and qemu plugins via config files](https://github.com/kubernetes-sigs/image-builder/pull/1524) on [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) (2 months ago)
 
 #### ⭐ Recent Stars
 
