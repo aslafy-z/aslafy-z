@@ -39,6 +39,7 @@
 
 #### ⭐ Recent Stars
 
+- [turbot/flowpipe](https://github.com/turbot/flowpipe) - Flowpipe is a cloud scripting engine. Automation and workflow to connect your clouds to the people, systems and data that matters. (today)
 - [AvitalTamir/cyphernetes](https://github.com/AvitalTamir/cyphernetes) - A Kubernetes Query Language (2 weeks ago)
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (1 month ago)
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you! (1 month ago)
@@ -48,7 +49,6 @@
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars! (1 month ago)
 - [openremote/openremote](https://github.com/openremote/openremote) - 100% open-source IoT Platform - Integrate your devices, create rules, and analyse and visualise your data (1 month ago)
 - [jkroepke/repository-template-go](https://github.com/jkroepke/repository-template-go) -  (1 month ago)
-- [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) - semantic-releaser automates the release process based on conventional commits (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
