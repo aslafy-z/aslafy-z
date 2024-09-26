@@ -13,13 +13,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.12.6-rc.3](https://github.com/kyverno/kyverno/releases/tag/v1.12.6-rc.3), today) - Cloud Native Policy Management
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.10.17](https://github.com/argoproj/argo-cd/releases/tag/v2.10.17), today) - Declarative Continuous Deployment for Kubernetes
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.96.0](https://github.com/renovatebot/renovate/releases/tag/38.96.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.4](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.4), 1 day ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [stakater/application](https://github.com/stakater/application) ([v4.2.9](https://github.com/stakater/application/releases/tag/v4.2.9), 1 day ago) - Generic helm chart for all kind of applications
 - [ccl-consulting/docker-vals](https://github.com/ccl-consulting/docker-vals) ([v0.37.5](https://github.com/ccl-consulting/docker-vals/releases/tag/v0.37.5), 1 day ago) - Docker image for vals tool
 - [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) ([v0.1.35](https://github.com/kubernetes-sigs/image-builder/releases/tag/v0.1.35), 1 week ago) - Tools for building Kubernetes disk images
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.12.6-rc.2](https://github.com/kyverno/kyverno/releases/tag/v1.12.6-rc.2), 1 week ago) - Cloud Native Policy Management
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.5](https://github.com/helmfile/vals/releases/tag/v0.37.5), 2 weeks ago) - Helm-like configuration values loader with support for various sources
 - [microsoft/retina](https://github.com/microsoft/retina) ([v0.0.16](https://github.com/microsoft/retina/releases/tag/v0.0.16), 2 weeks ago) - eBPF distributed networking observability tool for Kubernetes
 - [kubernetes-sigs/azuredisk-csi-driver](https://github.com/kubernetes-sigs/azuredisk-csi-driver) ([v1.30.4](https://github.com/kubernetes-sigs/azuredisk-csi-driver/releases/tag/v1.30.4), 4 weeks ago) - Azure Disk CSI Driver
