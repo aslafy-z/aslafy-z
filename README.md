@@ -13,9 +13,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.12.6-rc.3](https://github.com/kyverno/kyverno/releases/tag/v1.12.6-rc.3), today) - Cloud Native Policy Management
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.96.1](https://github.com/renovatebot/renovate/releases/tag/38.96.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.13.0-rc.1](https://github.com/kyverno/kyverno/releases/tag/v1.13.0-rc.1), today) - Cloud Native Policy Management
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.10.17](https://github.com/argoproj/argo-cd/releases/tag/v2.10.17), today) - Declarative Continuous Deployment for Kubernetes
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.96.0](https://github.com/renovatebot/renovate/releases/tag/38.96.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.4](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.4), 1 day ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [stakater/application](https://github.com/stakater/application) ([v4.2.9](https://github.com/stakater/application/releases/tag/v4.2.9), 1 day ago) - Generic helm chart for all kind of applications
 - [ccl-consulting/docker-vals](https://github.com/ccl-consulting/docker-vals) ([v0.37.5](https://github.com/ccl-consulting/docker-vals/releases/tag/v0.37.5), 1 day ago) - Docker image for vals tool
