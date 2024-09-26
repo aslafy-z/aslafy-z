@@ -1,6 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
-- [seriohub/velero-helm](https://github.com/seriohub/velero-helm) - Helm charts for velero-ui, velero-api, and velero-watchdog (6 days ago)
+- [seriohub/velero-helm](https://github.com/seriohub/velero-helm) - Helm charts for velero-ui, velero-api, and velero-watchdog (1 week ago)
 - [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (2 weeks ago)
 - [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes (1 month ago)
 - [ccl-consulting/github-runners](https://github.com/ccl-consulting/github-runners) -  (1 month ago)
@@ -13,12 +13,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.95.4](https://github.com/renovatebot/renovate/releases/tag/38.95.4), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.4](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.4), today) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
-- [stakater/application](https://github.com/stakater/application) ([v4.2.9](https://github.com/stakater/application/releases/tag/v4.2.9), today) - Generic helm chart for all kind of applications
-- [ccl-consulting/docker-vals](https://github.com/ccl-consulting/docker-vals) ([v0.37.5](https://github.com/ccl-consulting/docker-vals/releases/tag/v0.37.5), today) - Docker image for vals tool
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.13.0-rc2](https://github.com/argoproj/argo-cd/releases/tag/v2.13.0-rc2), 5 days ago) - Declarative Continuous Deployment for Kubernetes
-- [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) ([v0.1.35](https://github.com/kubernetes-sigs/image-builder/releases/tag/v0.1.35), 6 days ago) - Tools for building Kubernetes disk images
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.95.4](https://github.com/renovatebot/renovate/releases/tag/38.95.4), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.4](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.4), 1 day ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
+- [stakater/application](https://github.com/stakater/application) ([v4.2.9](https://github.com/stakater/application/releases/tag/v4.2.9), 1 day ago) - Generic helm chart for all kind of applications
+- [ccl-consulting/docker-vals](https://github.com/ccl-consulting/docker-vals) ([v0.37.5](https://github.com/ccl-consulting/docker-vals/releases/tag/v0.37.5), 1 day ago) - Docker image for vals tool
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.13.0-rc2](https://github.com/argoproj/argo-cd/releases/tag/v2.13.0-rc2), 6 days ago) - Declarative Continuous Deployment for Kubernetes
+- [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) ([v0.1.35](https://github.com/kubernetes-sigs/image-builder/releases/tag/v0.1.35), 1 week ago) - Tools for building Kubernetes disk images
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.12.6-rc.2](https://github.com/kyverno/kyverno/releases/tag/v1.12.6-rc.2), 1 week ago) - Cloud Native Policy Management
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.5](https://github.com/helmfile/vals/releases/tag/v0.37.5), 2 weeks ago) - Helm-like configuration values loader with support for various sources
 - [microsoft/retina](https://github.com/microsoft/retina) ([v0.0.16](https://github.com/microsoft/retina/releases/tag/v0.0.16), 2 weeks ago) - eBPF distributed networking observability tool for Kubernetes
@@ -26,12 +26,12 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix(manager/kubernetes): exclude gotemplated image fields](https://github.com/renovatebot/renovate/pull/31624) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (today)
-- [feat(manager/kubernetes): only extract valid images](https://github.com/renovatebot/renovate/pull/31618) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (today)
-- [fix: Rename npm_package_json to npm_requirements](https://github.com/terraform-aws-modules/terraform-aws-lambda/pull/621) on [terraform-aws-modules/terraform-aws-lambda](https://github.com/terraform-aws-modules/terraform-aws-lambda) (today)
-- [fix: typo in watchdogConfig](https://github.com/seriohub/velero-helm/pull/47) on [seriohub/velero-helm](https://github.com/seriohub/velero-helm) (6 days ago)
-- [feat: Add velero icon](https://github.com/stakater/ForecastleIcons/pull/38) on [stakater/ForecastleIcons](https://github.com/stakater/ForecastleIcons) (1 week ago)
-- [docs: remove icon list from readme](https://github.com/stakater/ForecastleIcons/pull/37) on [stakater/ForecastleIcons](https://github.com/stakater/ForecastleIcons) (1 week ago)
+- [fix(manager/kubernetes): exclude gotemplated image fields](https://github.com/renovatebot/renovate/pull/31624) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (1 day ago)
+- [feat(manager/kubernetes): only extract valid images](https://github.com/renovatebot/renovate/pull/31618) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (1 day ago)
+- [fix: Rename npm_package_json to npm_requirements](https://github.com/terraform-aws-modules/terraform-aws-lambda/pull/621) on [terraform-aws-modules/terraform-aws-lambda](https://github.com/terraform-aws-modules/terraform-aws-lambda) (1 day ago)
+- [fix: typo in watchdogConfig](https://github.com/seriohub/velero-helm/pull/47) on [seriohub/velero-helm](https://github.com/seriohub/velero-helm) (1 week ago)
+- [feat: Add velero icon](https://github.com/stakater/ForecastleIcons/pull/38) on [stakater/ForecastleIcons](https://github.com/stakater/ForecastleIcons) (2 weeks ago)
+- [docs: remove icon list from readme](https://github.com/stakater/ForecastleIcons/pull/37) on [stakater/ForecastleIcons](https://github.com/stakater/ForecastleIcons) (2 weeks ago)
 - [feat: add support for TLS authentication](https://github.com/amine-amaach/simulators/pull/11) on [amine-amaach/simulators](https://github.com/amine-amaach/simulators) (2 weeks ago)
 - [fix: ignore changes to associate_public_ip_address](https://github.com/cloudposse/terraform-aws-ec2-instance/pull/203) on [cloudposse/terraform-aws-ec2-instance](https://github.com/cloudposse/terraform-aws-ec2-instance) (1 month ago)
 - [feat: Add column renderer templates for all columns](https://github.com/norwoodj/helm-docs/pull/260) on [norwoodj/helm-docs](https://github.com/norwoodj/helm-docs) (2 months ago)
@@ -39,7 +39,7 @@
 
 #### ⭐ Recent Stars
 
-- [turbot/flowpipe](https://github.com/turbot/flowpipe) - Flowpipe is a cloud scripting engine. Automation and workflow to connect your clouds to the people, systems and data that matters. (today)
+- [turbot/flowpipe](https://github.com/turbot/flowpipe) - Flowpipe is a cloud scripting engine. Automation and workflow to connect your clouds to the people, systems and data that matters. (1 day ago)
 - [AvitalTamir/cyphernetes](https://github.com/AvitalTamir/cyphernetes) - A Kubernetes Query Language (2 weeks ago)
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (1 month ago)
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you! (1 month ago)
