@@ -26,6 +26,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add support for `sort-values-order`](https://github.com/losisin/helm-docs-github-action/pull/270) on [losisin/helm-docs-github-action](https://github.com/losisin/helm-docs-github-action) (today)
 - [fix(manager/kubernetes): exclude gotemplated image fields](https://github.com/renovatebot/renovate/pull/31624) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (2 days ago)
 - [feat(manager/kubernetes): only extract valid images](https://github.com/renovatebot/renovate/pull/31618) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (2 days ago)
 - [fix: Rename npm_package_json to npm_requirements](https://github.com/terraform-aws-modules/terraform-aws-lambda/pull/621) on [terraform-aws-modules/terraform-aws-lambda](https://github.com/terraform-aws-modules/terraform-aws-lambda) (2 days ago)
@@ -35,7 +36,6 @@
 - [feat: add support for TLS authentication](https://github.com/amine-amaach/simulators/pull/11) on [amine-amaach/simulators](https://github.com/amine-amaach/simulators) (2 weeks ago)
 - [fix: ignore changes to associate_public_ip_address](https://github.com/cloudposse/terraform-aws-ec2-instance/pull/203) on [cloudposse/terraform-aws-ec2-instance](https://github.com/cloudposse/terraform-aws-ec2-instance) (1 month ago)
 - [feat: Add column renderer templates for all columns](https://github.com/norwoodj/helm-docs/pull/260) on [norwoodj/helm-docs](https://github.com/norwoodj/helm-docs) (2 months ago)
-- [Load packer goss plugin via config file](https://github.com/kubernetes-sigs/image-builder/pull/1526) on [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) (2 months ago)
 
 #### ⭐ Recent Stars
 
