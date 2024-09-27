@@ -1,7 +1,7 @@
 #### 👷 Check out what I'm currently working on
 
+- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (today)
 - [seriohub/velero-helm](https://github.com/seriohub/velero-helm) - Helm charts for velero-ui, velero-api, and velero-watchdog (1 week ago)
-- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (2 weeks ago)
 - [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes (1 month ago)
 - [ccl-consulting/github-runners](https://github.com/ccl-consulting/github-runners) -  (1 month ago)
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC. (2 months ago)
@@ -13,16 +13,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [stakater/application](https://github.com/stakater/application) ([v4.2.10](https://github.com/stakater/application/releases/tag/v4.2.10), today) - Generic helm chart for all kind of applications
+- [algolia/docsearch](https://github.com/algolia/docsearch) ([v3.6.2](https://github.com/algolia/docsearch/releases/tag/v3.6.2), today) - :blue_book: The easiest way to add search to your documentation.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.100.0](https://github.com/renovatebot/renovate/releases/tag/38.100.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) ([4.10.0-rc.0](https://github.com/kube-logging/logging-operator/releases/tag/4.10.0-rc.0), today) - Logging operator for Kubernetes
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.12.6](https://github.com/kyverno/kyverno/releases/tag/v1.12.6), today) - Cloud Native Policy Management
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.10.17](https://github.com/argoproj/argo-cd/releases/tag/v2.10.17), 1 day ago) - Declarative Continuous Deployment for Kubernetes
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.4](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.4), 2 days ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
-- [stakater/application](https://github.com/stakater/application) ([v4.2.9](https://github.com/stakater/application/releases/tag/v4.2.9), 2 days ago) - Generic helm chart for all kind of applications
 - [ccl-consulting/docker-vals](https://github.com/ccl-consulting/docker-vals) ([v0.37.5](https://github.com/ccl-consulting/docker-vals/releases/tag/v0.37.5), 2 days ago) - Docker image for vals tool
 - [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) ([v0.1.35](https://github.com/kubernetes-sigs/image-builder/releases/tag/v0.1.35), 1 week ago) - Tools for building Kubernetes disk images
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.5](https://github.com/helmfile/vals/releases/tag/v0.37.5), 2 weeks ago) - Helm-like configuration values loader with support for various sources
-- [microsoft/retina](https://github.com/microsoft/retina) ([v0.0.16](https://github.com/microsoft/retina/releases/tag/v0.0.16), 3 weeks ago) - eBPF distributed networking observability tool for Kubernetes
 
 #### 🔨 My recent Pull Requests
 
