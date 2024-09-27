@@ -13,6 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) ([v0.1.36](https://github.com/kubernetes-sigs/image-builder/releases/tag/v0.1.36), today) - Tools for building Kubernetes disk images
 - [stakater/application](https://github.com/stakater/application) ([v4.2.10](https://github.com/stakater/application/releases/tag/v4.2.10), today) - Generic helm chart for all kind of applications
 - [algolia/docsearch](https://github.com/algolia/docsearch) ([v3.6.2](https://github.com/algolia/docsearch/releases/tag/v3.6.2), today) - :blue_book: The easiest way to add search to your documentation.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.100.0](https://github.com/renovatebot/renovate/releases/tag/38.100.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
@@ -22,7 +23,6 @@
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.4](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.4), 2 days ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [ccl-consulting/docker-vals](https://github.com/ccl-consulting/docker-vals) ([v0.37.5](https://github.com/ccl-consulting/docker-vals/releases/tag/v0.37.5), 2 days ago) - Docker image for vals tool
 - [losisin/helm-docs-github-action](https://github.com/losisin/helm-docs-github-action) ([v1.3.2](https://github.com/losisin/helm-docs-github-action/releases/tag/v1.3.2), 3 days ago) - Install helm-docs tool and auto-generate markdown documentation from Helm charts
-- [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) ([v0.1.35](https://github.com/kubernetes-sigs/image-builder/releases/tag/v0.1.35), 1 week ago) - Tools for building Kubernetes disk images
 
 #### 🔨 My recent Pull Requests
 
@@ -39,6 +39,8 @@
 
 #### ⭐ Recent Stars
 
+- [quadratichq/quadratic](https://github.com/quadratichq/quadratic) - Quadratic | Spreadsheet with Python, SQL, and AI (today)
+- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox (today)
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic (1 day ago)
 - [turbot/flowpipe](https://github.com/turbot/flowpipe) - Flowpipe is a cloud scripting engine. Automation and workflow to connect your clouds to the people, systems and data that matters. (2 days ago)
 - [AvitalTamir/cyphernetes](https://github.com/AvitalTamir/cyphernetes) - A Kubernetes Query Language (2 weeks ago)
@@ -47,8 +49,6 @@
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation. (1 month ago)
 - [cables-gl/cables](https://github.com/cables-gl/cables) - cables is a tool for creating beautiful interactive content (1 month ago)
 - [Xide/helm-chart-diff](https://github.com/Xide/helm-chart-diff) - Visualize changes in Helm charts values.yaml between versions (1 month ago)
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars! (1 month ago)
-- [openremote/openremote](https://github.com/openremote/openremote) - 100% open-source IoT Platform - Integrate your devices, create rules, and analyse and visualise your data (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
