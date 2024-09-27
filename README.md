@@ -1,5 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
+- [losisin/helm-docs-github-action](https://github.com/losisin/helm-docs-github-action) - Install helm-docs tool and auto-generate markdown documentation from Helm charts (today)
 - [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (today)
 - [seriohub/velero-helm](https://github.com/seriohub/velero-helm) - Helm charts for velero-ui, velero-api, and velero-watchdog (1 week ago)
 - [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes (1 month ago)
@@ -9,7 +10,6 @@
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world (2 months ago)
 - [hashicorp/vault-k8s](https://github.com/hashicorp/vault-k8s) - First-class support for Vault and Kubernetes. (2 months ago)
 - [aslafy-z/test-action](https://github.com/aslafy-z/test-action) -  (2 months ago)
-- [adinhodovic/ingress-nginx-mixin](https://github.com/adinhodovic/ingress-nginx-mixin) - Monitoring mixin for Ingress-nginx. A set of Grafana dashboards and Prometheus rules for Ingress-nginx. (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -21,8 +21,8 @@
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.10.17](https://github.com/argoproj/argo-cd/releases/tag/v2.10.17), 1 day ago) - Declarative Continuous Deployment for Kubernetes
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.4](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.4), 2 days ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [ccl-consulting/docker-vals](https://github.com/ccl-consulting/docker-vals) ([v0.37.5](https://github.com/ccl-consulting/docker-vals/releases/tag/v0.37.5), 2 days ago) - Docker image for vals tool
+- [losisin/helm-docs-github-action](https://github.com/losisin/helm-docs-github-action) ([v1.3.2](https://github.com/losisin/helm-docs-github-action/releases/tag/v1.3.2), 3 days ago) - Install helm-docs tool and auto-generate markdown documentation from Helm charts
 - [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) ([v0.1.35](https://github.com/kubernetes-sigs/image-builder/releases/tag/v0.1.35), 1 week ago) - Tools for building Kubernetes disk images
-- [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.5](https://github.com/helmfile/vals/releases/tag/v0.37.5), 2 weeks ago) - Helm-like configuration values loader with support for various sources
 
 #### 🔨 My recent Pull Requests
 
