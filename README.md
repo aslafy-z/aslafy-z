@@ -13,7 +13,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.98.1](https://github.com/renovatebot/renovate/releases/tag/38.98.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.100.0](https://github.com/renovatebot/renovate/releases/tag/38.100.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) ([4.10.0-rc.0](https://github.com/kube-logging/logging-operator/releases/tag/4.10.0-rc.0), today) - Logging operator for Kubernetes
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.12.6](https://github.com/kyverno/kyverno/releases/tag/v1.12.6), today) - Cloud Native Policy Management
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.10.17](https://github.com/argoproj/argo-cd/releases/tag/v2.10.17), 1 day ago) - Declarative Continuous Deployment for Kubernetes
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.4](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.4), 2 days ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
@@ -22,7 +23,6 @@
 - [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) ([v0.1.35](https://github.com/kubernetes-sigs/image-builder/releases/tag/v0.1.35), 1 week ago) - Tools for building Kubernetes disk images
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.5](https://github.com/helmfile/vals/releases/tag/v0.37.5), 2 weeks ago) - Helm-like configuration values loader with support for various sources
 - [microsoft/retina](https://github.com/microsoft/retina) ([v0.0.16](https://github.com/microsoft/retina/releases/tag/v0.0.16), 3 weeks ago) - eBPF distributed networking observability tool for Kubernetes
-- [kubernetes-sigs/azuredisk-csi-driver](https://github.com/kubernetes-sigs/azuredisk-csi-driver) ([v1.30.4](https://github.com/kubernetes-sigs/azuredisk-csi-driver/releases/tag/v1.30.4), 1 month ago) - Azure Disk CSI Driver
 
 #### 🔨 My recent Pull Requests
 
