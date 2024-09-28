@@ -1,7 +1,8 @@
 #### 👷 Check out what I'm currently working on
 
-- [losisin/helm-docs-github-action](https://github.com/losisin/helm-docs-github-action) - Install helm-docs tool and auto-generate markdown documentation from Helm charts (1 day ago)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io (today)
 - [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (1 day ago)
+- [losisin/helm-docs-github-action](https://github.com/losisin/helm-docs-github-action) - Install helm-docs tool and auto-generate markdown documentation from Helm charts (1 day ago)
 - [seriohub/velero-helm](https://github.com/seriohub/velero-helm) - Helm charts for velero-ui, velero-api, and velero-watchdog (1 week ago)
 - [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes (1 month ago)
 - [ccl-consulting/github-runners](https://github.com/ccl-consulting/github-runners) -  (1 month ago)
@@ -9,11 +10,10 @@
 - [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) - Tools for building Kubernetes disk images (2 months ago)
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world (2 months ago)
 - [hashicorp/vault-k8s](https://github.com/hashicorp/vault-k8s) - First-class support for Vault and Kubernetes. (2 months ago)
-- [aslafy-z/test-action](https://github.com/aslafy-z/test-action) -  (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.100.1](https://github.com/renovatebot/renovate/releases/tag/38.100.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.101.0](https://github.com/renovatebot/renovate/releases/tag/38.101.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) ([v0.1.36](https://github.com/kubernetes-sigs/image-builder/releases/tag/v0.1.36), 1 day ago) - Tools for building Kubernetes disk images
 - [stakater/application](https://github.com/stakater/application) ([v4.2.10](https://github.com/stakater/application/releases/tag/v4.2.10), 1 day ago) - Generic helm chart for all kind of applications
 - [algolia/docsearch](https://github.com/algolia/docsearch) ([v3.6.2](https://github.com/algolia/docsearch/releases/tag/v3.6.2), 1 day ago) - :blue_book: The easiest way to add search to your documentation.
