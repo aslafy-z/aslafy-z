@@ -1,7 +1,7 @@
 #### 👷 Check out what I'm currently working on
 
+- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (today)
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io (2 days ago)
-- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (3 days ago)
 - [losisin/helm-docs-github-action](https://github.com/losisin/helm-docs-github-action) - Install helm-docs tool and auto-generate markdown documentation from Helm charts (3 days ago)
 - [seriohub/velero-helm](https://github.com/seriohub/velero-helm) - Helm charts for velero-ui, velero-api, and velero-watchdog (1 week ago)
 - [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes (1 month ago)
@@ -13,10 +13,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.104.0](https://github.com/renovatebot/renovate/releases/tag/38.104.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [stakater/application](https://github.com/stakater/application) ([v4.2.11](https://github.com/stakater/application/releases/tag/v4.2.11), today) - Generic helm chart for all kind of applications
 - [losisin/helm-docs-github-action](https://github.com/losisin/helm-docs-github-action) ([v1.3.3](https://github.com/losisin/helm-docs-github-action/releases/tag/v1.3.3), today) - Install helm-docs tool and auto-generate markdown documentation from Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.103.1](https://github.com/renovatebot/renovate/releases/tag/38.103.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) ([v0.1.36](https://github.com/kubernetes-sigs/image-builder/releases/tag/v0.1.36), 3 days ago) - Tools for building Kubernetes disk images
-- [stakater/application](https://github.com/stakater/application) ([v4.2.10](https://github.com/stakater/application/releases/tag/v4.2.10), 3 days ago) - Generic helm chart for all kind of applications
 - [algolia/docsearch](https://github.com/algolia/docsearch) ([v3.6.2](https://github.com/algolia/docsearch/releases/tag/v3.6.2), 3 days ago) - :blue_book: The easiest way to add search to your documentation.
 - [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) ([4.10.0-rc.0](https://github.com/kube-logging/logging-operator/releases/tag/4.10.0-rc.0), 3 days ago) - Logging operator for Kubernetes
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.12.6](https://github.com/kyverno/kyverno/releases/tag/v1.12.6), 3 days ago) - Cloud Native Policy Management
