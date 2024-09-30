@@ -13,7 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.101.1](https://github.com/renovatebot/renovate/releases/tag/38.101.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.102.0](https://github.com/renovatebot/renovate/releases/tag/38.102.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) ([v0.1.36](https://github.com/kubernetes-sigs/image-builder/releases/tag/v0.1.36), 3 days ago) - Tools for building Kubernetes disk images
 - [stakater/application](https://github.com/stakater/application) ([v4.2.10](https://github.com/stakater/application/releases/tag/v4.2.10), 3 days ago) - Generic helm chart for all kind of applications
 - [algolia/docsearch](https://github.com/algolia/docsearch) ([v3.6.2](https://github.com/algolia/docsearch/releases/tag/v3.6.2), 3 days ago) - :blue_book: The easiest way to add search to your documentation.
