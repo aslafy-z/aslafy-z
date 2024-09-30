@@ -13,6 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [losisin/helm-docs-github-action](https://github.com/losisin/helm-docs-github-action) ([v1.3.3](https://github.com/losisin/helm-docs-github-action/releases/tag/v1.3.3), today) - Install helm-docs tool and auto-generate markdown documentation from Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.103.1](https://github.com/renovatebot/renovate/releases/tag/38.103.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) ([v0.1.36](https://github.com/kubernetes-sigs/image-builder/releases/tag/v0.1.36), 3 days ago) - Tools for building Kubernetes disk images
 - [stakater/application](https://github.com/stakater/application) ([v4.2.10](https://github.com/stakater/application/releases/tag/v4.2.10), 3 days ago) - Generic helm chart for all kind of applications
@@ -22,7 +23,6 @@
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.10.17](https://github.com/argoproj/argo-cd/releases/tag/v2.10.17), 4 days ago) - Declarative Continuous Deployment for Kubernetes
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.4](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.4), 5 days ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [ccl-consulting/docker-vals](https://github.com/ccl-consulting/docker-vals) ([v0.37.5](https://github.com/ccl-consulting/docker-vals/releases/tag/v0.37.5), 5 days ago) - Docker image for vals tool
-- [losisin/helm-docs-github-action](https://github.com/losisin/helm-docs-github-action) ([v1.3.2](https://github.com/losisin/helm-docs-github-action/releases/tag/v1.3.2), 6 days ago) - Install helm-docs tool and auto-generate markdown documentation from Helm charts
 
 #### 🔨 My recent Pull Requests
 
