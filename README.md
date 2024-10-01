@@ -13,8 +13,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.106.1](https://github.com/renovatebot/renovate/releases/tag/38.106.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [stakater/application](https://github.com/stakater/application) ([v4.2.12](https://github.com/stakater/application/releases/tag/v4.2.12), 1 day ago) - Generic helm chart for all kind of applications
+- [stakater/application](https://github.com/stakater/application) ([v5.1.0](https://github.com/stakater/application/releases/tag/v5.1.0), today) - Generic helm chart for all kind of applications
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.106.2](https://github.com/renovatebot/renovate/releases/tag/38.106.2), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [losisin/helm-docs-github-action](https://github.com/losisin/helm-docs-github-action) ([v1.3.3](https://github.com/losisin/helm-docs-github-action/releases/tag/v1.3.3), 1 day ago) - Install helm-docs tool and auto-generate markdown documentation from Helm charts
 - [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) ([v0.1.36](https://github.com/kubernetes-sigs/image-builder/releases/tag/v0.1.36), 4 days ago) - Tools for building Kubernetes disk images
 - [algolia/docsearch](https://github.com/algolia/docsearch) ([v3.6.2](https://github.com/algolia/docsearch/releases/tag/v3.6.2), 4 days ago) - :blue_book: The easiest way to add search to your documentation.
@@ -26,6 +26,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: generate release with automatic changelog](https://github.com/stakater/application/pull/353) on [stakater/application](https://github.com/stakater/application) (today)
 - [fix: update dead links &amp; images](https://github.com/swapagarwal/swag-for-dev/pull/1266) on [swapagarwal/swag-for-dev](https://github.com/swapagarwal/swag-for-dev) (today)
 - [feat: add support for `sort-values-order`](https://github.com/losisin/helm-docs-github-action/pull/270) on [losisin/helm-docs-github-action](https://github.com/losisin/helm-docs-github-action) (4 days ago)
 - [fix(manager/kubernetes): exclude gotemplated image fields](https://github.com/renovatebot/renovate/pull/31624) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (6 days ago)
@@ -35,7 +36,6 @@
 - [feat: Add velero icon](https://github.com/stakater/ForecastleIcons/pull/38) on [stakater/ForecastleIcons](https://github.com/stakater/ForecastleIcons) (2 weeks ago)
 - [docs: remove icon list from readme](https://github.com/stakater/ForecastleIcons/pull/37) on [stakater/ForecastleIcons](https://github.com/stakater/ForecastleIcons) (2 weeks ago)
 - [feat: add support for TLS authentication](https://github.com/amine-amaach/simulators/pull/11) on [amine-amaach/simulators](https://github.com/amine-amaach/simulators) (3 weeks ago)
-- [fix: ignore changes to associate_public_ip_address](https://github.com/cloudposse/terraform-aws-ec2-instance/pull/203) on [cloudposse/terraform-aws-ec2-instance](https://github.com/cloudposse/terraform-aws-ec2-instance) (1 month ago)
 
 #### ⭐ Recent Stars
 
