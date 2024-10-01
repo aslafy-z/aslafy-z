@@ -1,5 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
+- [swapagarwal/swag-for-dev](https://github.com/swapagarwal/swag-for-dev) - 😎 swag opportunities for developers (today)
 - [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (1 day ago)
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io (3 days ago)
 - [losisin/helm-docs-github-action](https://github.com/losisin/helm-docs-github-action) - Install helm-docs tool and auto-generate markdown documentation from Helm charts (4 days ago)
@@ -9,7 +10,6 @@
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC. (2 months ago)
 - [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) - Tools for building Kubernetes disk images (2 months ago)
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world (2 months ago)
-- [hashicorp/vault-k8s](https://github.com/hashicorp/vault-k8s) - First-class support for Vault and Kubernetes. (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -26,6 +26,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: update dead links &amp; images](https://github.com/swapagarwal/swag-for-dev/pull/1266) on [swapagarwal/swag-for-dev](https://github.com/swapagarwal/swag-for-dev) (today)
 - [feat: add support for `sort-values-order`](https://github.com/losisin/helm-docs-github-action/pull/270) on [losisin/helm-docs-github-action](https://github.com/losisin/helm-docs-github-action) (4 days ago)
 - [fix(manager/kubernetes): exclude gotemplated image fields](https://github.com/renovatebot/renovate/pull/31624) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (6 days ago)
 - [feat(manager/kubernetes): only extract valid images](https://github.com/renovatebot/renovate/pull/31618) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (6 days ago)
@@ -35,7 +36,6 @@
 - [docs: remove icon list from readme](https://github.com/stakater/ForecastleIcons/pull/37) on [stakater/ForecastleIcons](https://github.com/stakater/ForecastleIcons) (2 weeks ago)
 - [feat: add support for TLS authentication](https://github.com/amine-amaach/simulators/pull/11) on [amine-amaach/simulators](https://github.com/amine-amaach/simulators) (3 weeks ago)
 - [fix: ignore changes to associate_public_ip_address](https://github.com/cloudposse/terraform-aws-ec2-instance/pull/203) on [cloudposse/terraform-aws-ec2-instance](https://github.com/cloudposse/terraform-aws-ec2-instance) (1 month ago)
-- [feat: Add column renderer templates for all columns](https://github.com/norwoodj/helm-docs/pull/260) on [norwoodj/helm-docs](https://github.com/norwoodj/helm-docs) (2 months ago)
 
 #### ⭐ Recent Stars
 
