@@ -26,6 +26,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(ingress): fallback to status host if defined](https://github.com/stakater/Forecastle/pull/446) on [stakater/Forecastle](https://github.com/stakater/Forecastle) (today)
 - [ci: generate release with automatic changelog](https://github.com/stakater/application/pull/353) on [stakater/application](https://github.com/stakater/application) (1 day ago)
 - [fix: update dead links &amp; images](https://github.com/swapagarwal/swag-for-dev/pull/1266) on [swapagarwal/swag-for-dev](https://github.com/swapagarwal/swag-for-dev) (1 day ago)
 - [feat: add support for `sort-values-order`](https://github.com/losisin/helm-docs-github-action/pull/270) on [losisin/helm-docs-github-action](https://github.com/losisin/helm-docs-github-action) (5 days ago)
@@ -35,7 +36,6 @@
 - [fix: typo in watchdogConfig](https://github.com/seriohub/velero-helm/pull/47) on [seriohub/velero-helm](https://github.com/seriohub/velero-helm) (1 week ago)
 - [feat: Add velero icon](https://github.com/stakater/ForecastleIcons/pull/38) on [stakater/ForecastleIcons](https://github.com/stakater/ForecastleIcons) (2 weeks ago)
 - [docs: remove icon list from readme](https://github.com/stakater/ForecastleIcons/pull/37) on [stakater/ForecastleIcons](https://github.com/stakater/ForecastleIcons) (2 weeks ago)
-- [feat: add support for TLS authentication](https://github.com/amine-amaach/simulators/pull/11) on [amine-amaach/simulators](https://github.com/amine-amaach/simulators) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
