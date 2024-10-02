@@ -39,6 +39,8 @@
 
 #### ⭐ Recent Stars
 
+- [grampelberg/kty](https://github.com/grampelberg/kty) - The terminal for Kubernetes (today)
+- [blend-os/blendOS](https://github.com/blend-os/blendOS) - A seamless blend of all Linux distributions. (today)
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen &amp; mic recording. Build AI apps that have the full context. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust. (3 days ago)
 - [kubewall/kubewall](https://github.com/kubewall/kubewall) - A single binary kubernetes dashboard to manage your multiple clusters. (5 days ago)
 - [quadratichq/quadratic](https://github.com/quadratichq/quadratic) - Quadratic | Spreadsheet with Python, SQL, and AI (5 days ago)
@@ -47,8 +49,6 @@
 - [turbot/flowpipe](https://github.com/turbot/flowpipe) - Flowpipe is a cloud scripting engine. Automation and workflow to connect your clouds to the people, systems and data that matters. (1 week ago)
 - [AvitalTamir/cyphernetes](https://github.com/AvitalTamir/cyphernetes) - A Kubernetes Query Language (3 weeks ago)
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (1 month ago)
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you! (1 month ago)
-- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
