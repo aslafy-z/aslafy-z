@@ -26,6 +26,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: load image before each inference](https://github.com/awslabs/aws-greengrass-labs-ml-components/pull/6) on [awslabs/aws-greengrass-labs-ml-components](https://github.com/awslabs/aws-greengrass-labs-ml-components) (today)
 - [feat(ingress): fallback to status host if defined](https://github.com/stakater/Forecastle/pull/446) on [stakater/Forecastle](https://github.com/stakater/Forecastle) (today)
 - [ci: generate release with automatic changelog](https://github.com/stakater/application/pull/353) on [stakater/application](https://github.com/stakater/application) (1 day ago)
 - [fix: update dead links &amp; images](https://github.com/swapagarwal/swag-for-dev/pull/1266) on [swapagarwal/swag-for-dev](https://github.com/swapagarwal/swag-for-dev) (1 day ago)
@@ -35,7 +36,6 @@
 - [fix: Rename npm_package_json to npm_requirements](https://github.com/terraform-aws-modules/terraform-aws-lambda/pull/621) on [terraform-aws-modules/terraform-aws-lambda](https://github.com/terraform-aws-modules/terraform-aws-lambda) (1 week ago)
 - [fix: typo in watchdogConfig](https://github.com/seriohub/velero-helm/pull/47) on [seriohub/velero-helm](https://github.com/seriohub/velero-helm) (1 week ago)
 - [feat: Add velero icon](https://github.com/stakater/ForecastleIcons/pull/38) on [stakater/ForecastleIcons](https://github.com/stakater/ForecastleIcons) (2 weeks ago)
-- [docs: remove icon list from readme](https://github.com/stakater/ForecastleIcons/pull/37) on [stakater/ForecastleIcons](https://github.com/stakater/ForecastleIcons) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
