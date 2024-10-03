@@ -1,5 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
+- [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) -  (today)
 - [swapagarwal/swag-for-dev](https://github.com/swapagarwal/swag-for-dev) - 😎 swag opportunities for developers (2 days ago)
 - [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (3 days ago)
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io (5 days ago)
@@ -9,20 +10,19 @@
 - [ccl-consulting/github-runners](https://github.com/ccl-consulting/github-runners) -  (2 months ago)
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC. (2 months ago)
 - [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) - Tools for building Kubernetes disk images (2 months ago)
-- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) ([4.10.0](https://github.com/kube-logging/logging-operator/releases/tag/4.10.0), today) - Logging operator for Kubernetes
+- [grafana/k6-operator](https://github.com/grafana/k6-operator) ([v0.0.17](https://github.com/grafana/k6-operator/releases/tag/v0.0.17), today) - An operator for running distributed k6 tests.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.107.0](https://github.com/renovatebot/renovate/releases/tag/38.107.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [stakater/application](https://github.com/stakater/application) ([v5.1.0](https://github.com/stakater/application/releases/tag/v5.1.0), 2 days ago) - Generic helm chart for all kind of applications
 - [losisin/helm-docs-github-action](https://github.com/losisin/helm-docs-github-action) ([v1.3.3](https://github.com/losisin/helm-docs-github-action/releases/tag/v1.3.3), 3 days ago) - Install helm-docs tool and auto-generate markdown documentation from Helm charts
 - [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) ([v0.1.36](https://github.com/kubernetes-sigs/image-builder/releases/tag/v0.1.36), 6 days ago) - Tools for building Kubernetes disk images
 - [algolia/docsearch](https://github.com/algolia/docsearch) ([v3.6.2](https://github.com/algolia/docsearch/releases/tag/v3.6.2), 6 days ago) - :blue_book: The easiest way to add search to your documentation.
-- [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) ([4.10.0-rc.0](https://github.com/kube-logging/logging-operator/releases/tag/4.10.0-rc.0), 6 days ago) - Logging operator for Kubernetes
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.12.6](https://github.com/kyverno/kyverno/releases/tag/v1.12.6), 6 days ago) - Cloud Native Policy Management
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.10.17](https://github.com/argoproj/argo-cd/releases/tag/v2.10.17), 1 week ago) - Declarative Continuous Deployment for Kubernetes
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.4](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.4), 1 week ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
-- [ccl-consulting/docker-vals](https://github.com/ccl-consulting/docker-vals) ([v0.37.5](https://github.com/ccl-consulting/docker-vals/releases/tag/v0.37.5), 1 week ago) - Docker image for vals tool
 
 #### 🔨 My recent Pull Requests
 
