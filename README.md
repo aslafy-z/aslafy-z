@@ -13,9 +13,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.107.1](https://github.com/renovatebot/renovate/releases/tag/38.107.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) ([4.10.0](https://github.com/kube-logging/logging-operator/releases/tag/4.10.0), today) - Logging operator for Kubernetes
 - [grafana/k6-operator](https://github.com/grafana/k6-operator) ([v0.0.17](https://github.com/grafana/k6-operator/releases/tag/v0.0.17), today) - An operator for running distributed k6 tests.
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.107.0](https://github.com/renovatebot/renovate/releases/tag/38.107.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [stakater/application](https://github.com/stakater/application) ([v5.1.0](https://github.com/stakater/application/releases/tag/v5.1.0), 2 days ago) - Generic helm chart for all kind of applications
 - [losisin/helm-docs-github-action](https://github.com/losisin/helm-docs-github-action) ([v1.3.3](https://github.com/losisin/helm-docs-github-action/releases/tag/v1.3.3), 3 days ago) - Install helm-docs tool and auto-generate markdown documentation from Helm charts
 - [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) ([v0.1.36](https://github.com/kubernetes-sigs/image-builder/releases/tag/v0.1.36), 6 days ago) - Tools for building Kubernetes disk images
