@@ -13,7 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.107.1](https://github.com/renovatebot/renovate/releases/tag/38.107.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.108.0](https://github.com/renovatebot/renovate/releases/tag/38.108.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) ([4.10.0](https://github.com/kube-logging/logging-operator/releases/tag/4.10.0), 1 day ago) - Logging operator for Kubernetes
 - [grafana/k6-operator](https://github.com/grafana/k6-operator) ([v0.0.17](https://github.com/grafana/k6-operator/releases/tag/v0.0.17), 1 day ago) - An operator for running distributed k6 tests.
 - [stakater/application](https://github.com/stakater/application) ([v5.1.0](https://github.com/stakater/application/releases/tag/v5.1.0), 3 days ago) - Generic helm chart for all kind of applications
