@@ -13,6 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [ccl-consulting/docker-shell-tools](https://github.com/ccl-consulting/docker-shell-tools) ([v1.3.0](https://github.com/ccl-consulting/docker-shell-tools/releases/tag/v1.3.0), today) - Docker image with common shell tools
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.109.0](https://github.com/renovatebot/renovate/releases/tag/38.109.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) ([4.10.0](https://github.com/kube-logging/logging-operator/releases/tag/4.10.0), 1 day ago) - Logging operator for Kubernetes
 - [grafana/k6-operator](https://github.com/grafana/k6-operator) ([v0.0.17](https://github.com/grafana/k6-operator/releases/tag/v0.0.17), 1 day ago) - An operator for running distributed k6 tests.
@@ -22,7 +23,6 @@
 - [algolia/docsearch](https://github.com/algolia/docsearch) ([v3.6.2](https://github.com/algolia/docsearch/releases/tag/v3.6.2), 1 week ago) - :blue_book: The easiest way to add search to your documentation.
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.12.6](https://github.com/kyverno/kyverno/releases/tag/v1.12.6), 1 week ago) - Cloud Native Policy Management
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.10.17](https://github.com/argoproj/argo-cd/releases/tag/v2.10.17), 1 week ago) - Declarative Continuous Deployment for Kubernetes
-- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.4](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.4), 1 week ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 
 #### 🔨 My recent Pull Requests
 
