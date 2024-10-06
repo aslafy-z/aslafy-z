@@ -52,11 +52,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [KaranSingh36752](https://github.com/KaranSingh36752)
 - [BPocchiA](https://github.com/BPocchiA)
 - [mustafacagri](https://github.com/mustafacagri)
 - [Khalilheyrani6367](https://github.com/Khalilheyrani6367)
 - [svnph](https://github.com/svnph)
-- [Connor9994](https://github.com/Connor9994)
 
 #### 📈 Stats
 
