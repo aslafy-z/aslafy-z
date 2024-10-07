@@ -39,6 +39,7 @@
 
 #### ⭐ Recent Stars
 
+- [nilic/kubectl-netshoot](https://github.com/nilic/kubectl-netshoot) - kubectl plugin for spinning up netshoot container for network troubleshooting (today)
 - [grampelberg/kty](https://github.com/grampelberg/kty) - The terminal for Kubernetes (5 days ago)
 - [blend-os/blendOS](https://github.com/blend-os/blendOS) - A seamless blend of all Linux distributions. (5 days ago)
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen &amp; mic recording. Build AI apps that have the full context. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust. (1 week ago)
@@ -48,7 +49,6 @@
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic (1 week ago)
 - [turbot/flowpipe](https://github.com/turbot/flowpipe) - Flowpipe is a cloud scripting engine. Automation and workflow to connect your clouds to the people, systems and data that matters. (1 week ago)
 - [AvitalTamir/cyphernetes](https://github.com/AvitalTamir/cyphernetes) - A Kubernetes Query Language (3 weeks ago)
-- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
