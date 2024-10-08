@@ -13,7 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.10.5](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.10.5), today) - Ingress NGINX Controller for Kubernetes
+- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.11.3](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.11.3), today) - Ingress NGINX Controller for Kubernetes
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.114.0](https://github.com/renovatebot/renovate/releases/tag/38.114.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.13.0-rc3](https://github.com/argoproj/argo-cd/releases/tag/v2.13.0-rc3), 1 day ago) - Declarative Continuous Deployment for Kubernetes
 - [ccl-consulting/docker-shell-tools](https://github.com/ccl-consulting/docker-shell-tools) ([v1.3.0](https://github.com/ccl-consulting/docker-shell-tools/releases/tag/v1.3.0), 4 days ago) - Docker image with common shell tools
@@ -39,6 +39,7 @@
 
 #### ⭐ Recent Stars
 
+- [junkurihara/rust-rpxy](https://github.com/junkurihara/rust-rpxy) - A simple and ultrafast http reverse proxy serving multiple domain names and terminating TLS for http/1.1, 2 and 3, written in Rust (today)
 - [nilic/kubectl-netshoot](https://github.com/nilic/kubectl-netshoot) - kubectl plugin for spinning up netshoot container for network troubleshooting (1 day ago)
 - [grampelberg/kty](https://github.com/grampelberg/kty) - The terminal for Kubernetes (6 days ago)
 - [blend-os/blendOS](https://github.com/blend-os/blendOS) - A seamless blend of all Linux distributions. (6 days ago)
@@ -48,7 +49,6 @@
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox (1 week ago)
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic (1 week ago)
 - [turbot/flowpipe](https://github.com/turbot/flowpipe) - Flowpipe is a cloud scripting engine. Automation and workflow to connect your clouds to the people, systems and data that matters. (1 week ago)
-- [AvitalTamir/cyphernetes](https://github.com/AvitalTamir/cyphernetes) - A Kubernetes Query Language (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
