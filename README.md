@@ -13,7 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.113.0](https://github.com/renovatebot/renovate/releases/tag/38.113.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.114.0](https://github.com/renovatebot/renovate/releases/tag/38.114.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.13.0-rc3](https://github.com/argoproj/argo-cd/releases/tag/v2.13.0-rc3), 1 day ago) - Declarative Continuous Deployment for Kubernetes
 - [ccl-consulting/docker-shell-tools](https://github.com/ccl-consulting/docker-shell-tools) ([v1.3.0](https://github.com/ccl-consulting/docker-shell-tools/releases/tag/v1.3.0), 4 days ago) - Docker image with common shell tools
 - [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) ([4.10.0](https://github.com/kube-logging/logging-operator/releases/tag/4.10.0), 5 days ago) - Logging operator for Kubernetes
