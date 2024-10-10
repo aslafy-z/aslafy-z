@@ -26,6 +26,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [GCE: use n2-standard-2 machine type](https://github.com/kubernetes-sigs/image-builder/pull/1584) on [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) (today)
+- [fix: update packer qemu plugin name](https://github.com/kubernetes-sigs/image-builder/pull/1582) on [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) (today)
+- [Use external googlecompute packer plugin](https://github.com/kubernetes-sigs/image-builder/pull/1581) on [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) (today)
 - [feat: load image before each inference](https://github.com/awslabs/aws-greengrass-labs-ml-components/pull/6) on [awslabs/aws-greengrass-labs-ml-components](https://github.com/awslabs/aws-greengrass-labs-ml-components) (1 week ago)
 - [feat(ingress): fallback to status host if defined](https://github.com/stakater/Forecastle/pull/446) on [stakater/Forecastle](https://github.com/stakater/Forecastle) (1 week ago)
 - [ci: generate release with automatic changelog](https://github.com/stakater/application/pull/353) on [stakater/application](https://github.com/stakater/application) (1 week ago)
@@ -33,9 +36,6 @@
 - [feat: add support for `sort-values-order`](https://github.com/losisin/helm-docs-github-action/pull/270) on [losisin/helm-docs-github-action](https://github.com/losisin/helm-docs-github-action) (1 week ago)
 - [fix(manager/kubernetes): exclude gotemplated image fields](https://github.com/renovatebot/renovate/pull/31624) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (2 weeks ago)
 - [feat(manager/kubernetes): only extract valid images](https://github.com/renovatebot/renovate/pull/31618) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (2 weeks ago)
-- [fix: Rename npm_package_json to npm_requirements](https://github.com/terraform-aws-modules/terraform-aws-lambda/pull/621) on [terraform-aws-modules/terraform-aws-lambda](https://github.com/terraform-aws-modules/terraform-aws-lambda) (2 weeks ago)
-- [fix: typo in watchdogConfig](https://github.com/seriohub/velero-helm/pull/47) on [seriohub/velero-helm](https://github.com/seriohub/velero-helm) (3 weeks ago)
-- [feat: Add velero icon](https://github.com/stakater/ForecastleIcons/pull/38) on [stakater/ForecastleIcons](https://github.com/stakater/ForecastleIcons) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
@@ -43,7 +43,7 @@
 - [nilic/kubectl-netshoot](https://github.com/nilic/kubectl-netshoot) - kubectl plugin for spinning up netshoot container for network troubleshooting (3 days ago)
 - [grampelberg/kty](https://github.com/grampelberg/kty) - The terminal for Kubernetes (1 week ago)
 - [blend-os/blendOS](https://github.com/blend-os/blendOS) - A seamless blend of all Linux distributions. (1 week ago)
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen &amp; mic recording. Build AI apps that have the full context. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust. (1 week ago)
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen &amp; mic recording. Works with Ollama. Llama3.2 control your computer. Alternative to Rewind.ai &amp; Zapier. Open. Secure. You own your data. Rust. (1 week ago)
 - [kubewall/kubewall](https://github.com/kubewall/kubewall) - A single binary kubernetes dashboard to manage your multiple clusters. (1 week ago)
 - [quadratichq/quadratic](https://github.com/quadratichq/quadratic) - Quadratic | Spreadsheet with Python, SQL, and AI (1 week ago)
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox (1 week ago)
