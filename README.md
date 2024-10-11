@@ -13,6 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes-sigs/azuredisk-csi-driver](https://github.com/kubernetes-sigs/azuredisk-csi-driver) ([v1.29.10](https://github.com/kubernetes-sigs/azuredisk-csi-driver/releases/tag/v1.29.10), today) - Azure Disk CSI Driver
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.116.0](https://github.com/renovatebot/renovate/releases/tag/38.116.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.11.3](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.11.3), 3 days ago) - Ingress NGINX Controller for Kubernetes
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.13.0-rc3](https://github.com/argoproj/argo-cd/releases/tag/v2.13.0-rc3), 4 days ago) - Declarative Continuous Deployment for Kubernetes
@@ -22,7 +23,6 @@
 - [stakater/application](https://github.com/stakater/application) ([v5.1.0](https://github.com/stakater/application/releases/tag/v5.1.0), 1 week ago) - Generic helm chart for all kind of applications
 - [losisin/helm-docs-github-action](https://github.com/losisin/helm-docs-github-action) ([v1.3.3](https://github.com/losisin/helm-docs-github-action/releases/tag/v1.3.3), 1 week ago) - Install helm-docs tool and auto-generate markdown documentation from Helm charts
 - [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) ([v0.1.36](https://github.com/kubernetes-sigs/image-builder/releases/tag/v0.1.36), 2 weeks ago) - Tools for building Kubernetes disk images
-- [algolia/docsearch](https://github.com/algolia/docsearch) ([v3.6.2](https://github.com/algolia/docsearch/releases/tag/v3.6.2), 2 weeks ago) - :blue_book: The easiest way to add search to your documentation.
 
 #### 🔨 My recent Pull Requests
 
