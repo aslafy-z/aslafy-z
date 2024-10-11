@@ -1,6 +1,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [aslafy-z/action-button-test](https://github.com/aslafy-z/action-button-test) -  (1 day ago)
+- [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes. (1 day ago)
 - [swapagarwal/swag-for-dev](https://github.com/swapagarwal/swag-for-dev) - 😎 swag opportunities for developers (6 days ago)
 - [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) -  (1 week ago)
 - [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (1 week ago)
@@ -9,7 +10,6 @@
 - [seriohub/velero-helm](https://github.com/seriohub/velero-helm) - Helm charts for velero-ui, velero-api, and velero-watchdog (3 weeks ago)
 - [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes (2 months ago)
 - [ccl-consulting/github-runners](https://github.com/ccl-consulting/github-runners) -  (2 months ago)
-- [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC. (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
