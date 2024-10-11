@@ -13,7 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes-sigs/azuredisk-csi-driver](https://github.com/kubernetes-sigs/azuredisk-csi-driver) ([v1.29.10](https://github.com/kubernetes-sigs/azuredisk-csi-driver/releases/tag/v1.29.10), today) - Azure Disk CSI Driver
+- [kubernetes-sigs/azuredisk-csi-driver](https://github.com/kubernetes-sigs/azuredisk-csi-driver) ([v1.30.5](https://github.com/kubernetes-sigs/azuredisk-csi-driver/releases/tag/v1.30.5), today) - Azure Disk CSI Driver
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.116.0](https://github.com/renovatebot/renovate/releases/tag/38.116.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.11.3](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.11.3), 3 days ago) - Ingress NGINX Controller for Kubernetes
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.13.0-rc3](https://github.com/argoproj/argo-cd/releases/tag/v2.13.0-rc3), 4 days ago) - Declarative Continuous Deployment for Kubernetes
