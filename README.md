@@ -13,6 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) ([v0.1.37](https://github.com/kubernetes-sigs/image-builder/releases/tag/v0.1.37), today) - Tools for building Kubernetes disk images
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.119.0](https://github.com/renovatebot/renovate/releases/tag/38.119.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kubernetes-sigs/azuredisk-csi-driver](https://github.com/kubernetes-sigs/azuredisk-csi-driver) ([v1.28.11](https://github.com/kubernetes-sigs/azuredisk-csi-driver/releases/tag/v1.28.11), 1 day ago) - Azure Disk CSI Driver
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.11.3](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.11.3), 4 days ago) - Ingress NGINX Controller for Kubernetes
@@ -22,7 +23,6 @@
 - [grafana/k6-operator](https://github.com/grafana/k6-operator) ([v0.0.17](https://github.com/grafana/k6-operator/releases/tag/v0.0.17), 1 week ago) - An operator for running distributed k6 tests.
 - [stakater/application](https://github.com/stakater/application) ([v5.1.0](https://github.com/stakater/application/releases/tag/v5.1.0), 1 week ago) - Generic helm chart for all kind of applications
 - [losisin/helm-docs-github-action](https://github.com/losisin/helm-docs-github-action) ([v1.3.3](https://github.com/losisin/helm-docs-github-action/releases/tag/v1.3.3), 1 week ago) - Install helm-docs tool and auto-generate markdown documentation from Helm charts
-- [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) ([v0.1.36](https://github.com/kubernetes-sigs/image-builder/releases/tag/v0.1.36), 2 weeks ago) - Tools for building Kubernetes disk images
 
 #### 🔨 My recent Pull Requests
 
