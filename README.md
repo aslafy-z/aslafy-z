@@ -1,8 +1,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) - Tools for building Kubernetes disk images (4 days ago)
-- [aslafy-z/action-button-test](https://github.com/aslafy-z/action-button-test) -  (4 days ago)
 - [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes. (4 days ago)
+- [aslafy-z/action-button-test](https://github.com/aslafy-z/action-button-test) -  (4 days ago)
 - [swapagarwal/swag-for-dev](https://github.com/swapagarwal/swag-for-dev) - 😎 swag opportunities for developers (1 week ago)
 - [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) -  (1 week ago)
 - [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (2 weeks ago)
@@ -13,9 +13,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.122.0](https://github.com/renovatebot/renovate/releases/tag/38.122.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) ([v0.1.38](https://github.com/kubernetes-sigs/image-builder/releases/tag/v0.1.38), today) - Tools for building Kubernetes disk images
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.13.0-rc.2](https://github.com/kyverno/kyverno/releases/tag/v1.13.0-rc.2), today) - Cloud Native Policy Management
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.121.0](https://github.com/renovatebot/renovate/releases/tag/38.121.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.6](https://github.com/helmfile/vals/releases/tag/v0.37.6), today) - Helm-like configuration values loader with support for various sources
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.2](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.2), 1 day ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [kubernetes-sigs/azuredisk-csi-driver](https://github.com/kubernetes-sigs/azuredisk-csi-driver) ([v1.28.11](https://github.com/kubernetes-sigs/azuredisk-csi-driver/releases/tag/v1.28.11), 3 days ago) - Azure Disk CSI Driver
