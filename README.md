@@ -52,11 +52,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [whisperky](https://github.com/whisperky)
 - [bhavy3103](https://github.com/bhavy3103)
 - [Tejas-Sharma-dev](https://github.com/Tejas-Sharma-dev)
 - [KaranSingh36752](https://github.com/KaranSingh36752)
 - [BPocchiA](https://github.com/BPocchiA)
-- [mustafacagri](https://github.com/mustafacagri)
 
 #### 📈 Stats
 
