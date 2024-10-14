@@ -13,6 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.13.0-rc.2](https://github.com/kyverno/kyverno/releases/tag/v1.13.0-rc.2), today) - Cloud Native Policy Management
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.121.0](https://github.com/renovatebot/renovate/releases/tag/38.121.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.6](https://github.com/helmfile/vals/releases/tag/v0.37.6), today) - Helm-like configuration values loader with support for various sources
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.2](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.2), 1 day ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
@@ -22,7 +23,6 @@
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.13.0-rc3](https://github.com/argoproj/argo-cd/releases/tag/v2.13.0-rc3), 1 week ago) - Declarative Continuous Deployment for Kubernetes
 - [ccl-consulting/docker-shell-tools](https://github.com/ccl-consulting/docker-shell-tools) ([v1.3.0](https://github.com/ccl-consulting/docker-shell-tools/releases/tag/v1.3.0), 1 week ago) - Docker image with common shell tools
 - [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) ([4.10.0](https://github.com/kube-logging/logging-operator/releases/tag/4.10.0), 1 week ago) - Logging operator for Kubernetes
-- [grafana/k6-operator](https://github.com/grafana/k6-operator) ([v0.0.17](https://github.com/grafana/k6-operator/releases/tag/v0.0.17), 1 week ago) - An operator for running distributed k6 tests.
 
 #### 🔨 My recent Pull Requests
 
