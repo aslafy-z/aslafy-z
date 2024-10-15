@@ -13,12 +13,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes-sigs/azuredisk-csi-driver](https://github.com/kubernetes-sigs/azuredisk-csi-driver) ([v1.31.0](https://github.com/kubernetes-sigs/azuredisk-csi-driver/releases/tag/v1.31.0), today) - Azure Disk CSI Driver
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.122.0](https://github.com/renovatebot/renovate/releases/tag/38.122.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) ([v0.1.38](https://github.com/kubernetes-sigs/image-builder/releases/tag/v0.1.38), 1 day ago) - Tools for building Kubernetes disk images
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.13.0-rc.2](https://github.com/kyverno/kyverno/releases/tag/v1.13.0-rc.2), 1 day ago) - Cloud Native Policy Management
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.6](https://github.com/helmfile/vals/releases/tag/v0.37.6), 1 day ago) - Helm-like configuration values loader with support for various sources
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.2](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.2), 2 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
-- [kubernetes-sigs/azuredisk-csi-driver](https://github.com/kubernetes-sigs/azuredisk-csi-driver) ([v1.28.11](https://github.com/kubernetes-sigs/azuredisk-csi-driver/releases/tag/v1.28.11), 4 days ago) - Azure Disk CSI Driver
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.11.3](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.11.3), 1 week ago) - Ingress NGINX Controller for Kubernetes
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.13.0-rc3](https://github.com/argoproj/argo-cd/releases/tag/v2.13.0-rc3), 1 week ago) - Declarative Continuous Deployment for Kubernetes
 - [ccl-consulting/docker-shell-tools](https://github.com/ccl-consulting/docker-shell-tools) ([v1.3.0](https://github.com/ccl-consulting/docker-shell-tools/releases/tag/v1.3.0), 1 week ago) - Docker image with common shell tools
