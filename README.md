@@ -26,6 +26,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [docs(gcp): add configuration examples](https://github.com/kubernetes-sigs/image-builder/pull/1608) on [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) (today)
 - [GCE: use n2-standard-2 machine type](https://github.com/kubernetes-sigs/image-builder/pull/1584) on [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) (5 days ago)
 - [fix: update packer qemu plugin name](https://github.com/kubernetes-sigs/image-builder/pull/1582) on [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) (5 days ago)
 - [Use external googlecompute packer plugin](https://github.com/kubernetes-sigs/image-builder/pull/1581) on [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) (5 days ago)
@@ -35,7 +36,6 @@
 - [fix: update dead links &amp; images](https://github.com/swapagarwal/swag-for-dev/pull/1266) on [swapagarwal/swag-for-dev](https://github.com/swapagarwal/swag-for-dev) (2 weeks ago)
 - [feat: add support for `sort-values-order`](https://github.com/losisin/helm-docs-github-action/pull/270) on [losisin/helm-docs-github-action](https://github.com/losisin/helm-docs-github-action) (2 weeks ago)
 - [fix(manager/kubernetes): exclude gotemplated image fields](https://github.com/renovatebot/renovate/pull/31624) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (2 weeks ago)
-- [feat(manager/kubernetes): only extract valid images](https://github.com/renovatebot/renovate/pull/31618) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
