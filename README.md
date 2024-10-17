@@ -13,8 +13,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.125.0](https://github.com/renovatebot/renovate/releases/tag/38.125.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) ([v0.1.39](https://github.com/kubernetes-sigs/image-builder/releases/tag/v0.1.39), today) - Tools for building Kubernetes disk images
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.124.4](https://github.com/renovatebot/renovate/releases/tag/38.124.4), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.12.0-beta.0](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.12.0-beta.0), 2 days ago) - Ingress NGINX Controller for Kubernetes
 - [kubernetes-sigs/azuredisk-csi-driver](https://github.com/kubernetes-sigs/azuredisk-csi-driver) ([v1.31.0](https://github.com/kubernetes-sigs/azuredisk-csi-driver/releases/tag/v1.31.0), 2 days ago) - Azure Disk CSI Driver
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.13.0-rc.2](https://github.com/kyverno/kyverno/releases/tag/v1.13.0-rc.2), 3 days ago) - Cloud Native Policy Management
