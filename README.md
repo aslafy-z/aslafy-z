@@ -13,7 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.125.0](https://github.com/renovatebot/renovate/releases/tag/38.125.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.126.1](https://github.com/renovatebot/renovate/releases/tag/38.126.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) ([v0.1.39](https://github.com/kubernetes-sigs/image-builder/releases/tag/v0.1.39), today) - Tools for building Kubernetes disk images
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.12.0-beta.0](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.12.0-beta.0), 2 days ago) - Ingress NGINX Controller for Kubernetes
 - [kubernetes-sigs/azuredisk-csi-driver](https://github.com/kubernetes-sigs/azuredisk-csi-driver) ([v1.31.0](https://github.com/kubernetes-sigs/azuredisk-csi-driver/releases/tag/v1.31.0), 2 days ago) - Azure Disk CSI Driver
