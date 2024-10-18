@@ -1,10 +1,10 @@
 #### 👷 Check out what I'm currently working on
 
+- [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) -  (today)
 - [swapagarwal/swag-for-dev](https://github.com/swapagarwal/swag-for-dev) - 😎 swag opportunities for developers (1 day ago)
 - [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) - Tools for building Kubernetes disk images (3 days ago)
 - [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes. (1 week ago)
 - [aslafy-z/action-button-test](https://github.com/aslafy-z/action-button-test) -  (1 week ago)
-- [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) -  (2 weeks ago)
 - [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (2 weeks ago)
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io (2 weeks ago)
 - [losisin/helm-docs-github-action](https://github.com/losisin/helm-docs-github-action) - Install helm-docs tool and auto-generate markdown documentation from Helm charts (3 weeks ago)
@@ -26,6 +26,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(online-boutique): add dashboard](https://github.com/ccl-consulting/k8saas-user-custom/pull/2) on [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) (today)
+- [feat: add online-boutique](https://github.com/ccl-consulting/k8saas-user-custom/pull/1) on [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) (today)
 - [feat: update dashboard naming](https://github.com/opencost/opencost-grafana-dashboard/pull/8) on [opencost/opencost-grafana-dashboard](https://github.com/opencost/opencost-grafana-dashboard) (1 day ago)
 - [docs(gcp): add configuration examples](https://github.com/kubernetes-sigs/image-builder/pull/1608) on [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) (3 days ago)
 - [GCE: use n2-standard-2 machine type](https://github.com/kubernetes-sigs/image-builder/pull/1584) on [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) (1 week ago)
@@ -34,8 +36,6 @@
 - [feat: load image before each inference](https://github.com/awslabs/aws-greengrass-labs-ml-components/pull/6) on [awslabs/aws-greengrass-labs-ml-components](https://github.com/awslabs/aws-greengrass-labs-ml-components) (2 weeks ago)
 - [feat(ingress): fallback to status host if defined](https://github.com/stakater/Forecastle/pull/446) on [stakater/Forecastle](https://github.com/stakater/Forecastle) (2 weeks ago)
 - [ci: generate release with automatic changelog](https://github.com/stakater/application/pull/353) on [stakater/application](https://github.com/stakater/application) (2 weeks ago)
-- [fix: update dead links &amp; images](https://github.com/swapagarwal/swag-for-dev/pull/1266) on [swapagarwal/swag-for-dev](https://github.com/swapagarwal/swag-for-dev) (2 weeks ago)
-- [feat: add support for `sort-values-order`](https://github.com/losisin/helm-docs-github-action/pull/270) on [losisin/helm-docs-github-action](https://github.com/losisin/helm-docs-github-action) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
