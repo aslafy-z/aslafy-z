@@ -26,6 +26,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(loadgenerator): allow customizing frontend protocol](https://github.com/GoogleCloudPlatform/microservices-demo/pull/2775) on [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) (today)
+- [feat(online-boutique): custom branding](https://github.com/ccl-consulting/k8saas-user-custom/pull/3) on [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) (today)
 - [feat(online-boutique): add dashboard](https://github.com/ccl-consulting/k8saas-user-custom/pull/2) on [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) (today)
 - [feat: add online-boutique](https://github.com/ccl-consulting/k8saas-user-custom/pull/1) on [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) (today)
 - [feat: update dashboard naming](https://github.com/opencost/opencost-grafana-dashboard/pull/8) on [opencost/opencost-grafana-dashboard](https://github.com/opencost/opencost-grafana-dashboard) (1 day ago)
@@ -34,8 +36,6 @@
 - [fix: update packer qemu plugin name](https://github.com/kubernetes-sigs/image-builder/pull/1582) on [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) (1 week ago)
 - [Use external googlecompute packer plugin](https://github.com/kubernetes-sigs/image-builder/pull/1581) on [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) (1 week ago)
 - [feat: load image before each inference](https://github.com/awslabs/aws-greengrass-labs-ml-components/pull/6) on [awslabs/aws-greengrass-labs-ml-components](https://github.com/awslabs/aws-greengrass-labs-ml-components) (2 weeks ago)
-- [feat(ingress): fallback to status host if defined](https://github.com/stakater/Forecastle/pull/446) on [stakater/Forecastle](https://github.com/stakater/Forecastle) (2 weeks ago)
-- [ci: generate release with automatic changelog](https://github.com/stakater/application/pull/353) on [stakater/application](https://github.com/stakater/application) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
