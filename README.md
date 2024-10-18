@@ -26,6 +26,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(online-boutique): protect the cart with oauth2-proxy](https://github.com/ccl-consulting/k8saas-user-custom/pull/6) on [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) (today)
 - [feat(online-boutique): enable load generator](https://github.com/ccl-consulting/k8saas-user-custom/pull/4) on [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) (today)
 - [feat: add opencost logo](https://github.com/stakater/ForecastleIcons/pull/39) on [stakater/ForecastleIcons](https://github.com/stakater/ForecastleIcons) (today)
 - [feat: add opencost logo](https://github.com/aslafy-z/ForecastleIcons/pull/1) on [aslafy-z/ForecastleIcons](https://github.com/aslafy-z/ForecastleIcons) (today)
@@ -35,7 +36,6 @@
 - [feat: add online-boutique](https://github.com/ccl-consulting/k8saas-user-custom/pull/1) on [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) (today)
 - [feat(cost-reporter): update dashboards names and ids](https://github.com/opencost/opencost-grafana-dashboard/pull/8) on [opencost/opencost-grafana-dashboard](https://github.com/opencost/opencost-grafana-dashboard) (1 day ago)
 - [docs(gcp): add configuration examples](https://github.com/kubernetes-sigs/image-builder/pull/1608) on [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) (3 days ago)
-- [GCE: use n2-standard-2 machine type](https://github.com/kubernetes-sigs/image-builder/pull/1584) on [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) (1 week ago)
 
 #### ⭐ Recent Stars
 
