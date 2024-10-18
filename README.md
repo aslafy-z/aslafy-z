@@ -26,6 +26,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(online-boutique): enable load generator](https://github.com/ccl-consulting/k8saas-user-custom/pull/4) on [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) (today)
+- [feat: add opencost logo](https://github.com/stakater/ForecastleIcons/pull/39) on [stakater/ForecastleIcons](https://github.com/stakater/ForecastleIcons) (today)
+- [feat: add opencost logo](https://github.com/aslafy-z/ForecastleIcons/pull/1) on [aslafy-z/ForecastleIcons](https://github.com/aslafy-z/ForecastleIcons) (today)
 - [feat(loadgenerator): allow customizing frontend protocol](https://github.com/GoogleCloudPlatform/microservices-demo/pull/2775) on [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) (today)
 - [feat(online-boutique): custom branding](https://github.com/ccl-consulting/k8saas-user-custom/pull/3) on [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) (today)
 - [feat(online-boutique): add dashboard](https://github.com/ccl-consulting/k8saas-user-custom/pull/2) on [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) (today)
@@ -33,9 +36,6 @@
 - [feat: update dashboard naming](https://github.com/opencost/opencost-grafana-dashboard/pull/8) on [opencost/opencost-grafana-dashboard](https://github.com/opencost/opencost-grafana-dashboard) (1 day ago)
 - [docs(gcp): add configuration examples](https://github.com/kubernetes-sigs/image-builder/pull/1608) on [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) (3 days ago)
 - [GCE: use n2-standard-2 machine type](https://github.com/kubernetes-sigs/image-builder/pull/1584) on [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) (1 week ago)
-- [fix: update packer qemu plugin name](https://github.com/kubernetes-sigs/image-builder/pull/1582) on [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) (1 week ago)
-- [Use external googlecompute packer plugin](https://github.com/kubernetes-sigs/image-builder/pull/1581) on [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) (1 week ago)
-- [feat: load image before each inference](https://github.com/awslabs/aws-greengrass-labs-ml-components/pull/6) on [awslabs/aws-greengrass-labs-ml-components](https://github.com/awslabs/aws-greengrass-labs-ml-components) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
