@@ -13,7 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.129.0](https://github.com/renovatebot/renovate/releases/tag/38.129.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.129.1](https://github.com/renovatebot/renovate/releases/tag/38.129.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.7](https://github.com/helmfile/vals/releases/tag/v0.37.7), 1 day ago) - Helm-like configuration values loader with support for various sources
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.12.6](https://github.com/argoproj/argo-cd/releases/tag/v2.12.6), 3 days ago) - Declarative Continuous Deployment for Kubernetes
 - [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) ([v0.1.39](https://github.com/kubernetes-sigs/image-builder/releases/tag/v0.1.39), 4 days ago) - Tools for building Kubernetes disk images
