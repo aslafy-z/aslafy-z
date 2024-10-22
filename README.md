@@ -47,7 +47,7 @@
 - [nilic/kubectl-netshoot](https://github.com/nilic/kubectl-netshoot) - kubectl plugin for spinning up netshoot container for network troubleshooting (2 weeks ago)
 - [grampelberg/kty](https://github.com/grampelberg/kty) - The terminal for Kubernetes (2 weeks ago)
 - [blend-os/blendOS](https://github.com/blend-os/blendOS) - A seamless blend of all Linux distributions. (2 weeks ago)
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen &amp; mic recording. Works with Ollama. Llama3.2 control your computer. Alternative to Rewind.ai &amp; Zapier. Open. Secure. You own your data. Rust. (3 weeks ago)
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen &amp; mic recording. Start recording your screen today ... or be left behind. Works with Ollama. Alternative to Rewind.ai &amp; Zapier. Open. Secure. You own your data. Rust. (3 weeks ago)
 - [kubewall/kubewall](https://github.com/kubewall/kubewall) - A single binary kubernetes dashboard to manage your multiple clusters. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
