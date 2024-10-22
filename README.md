@@ -26,6 +26,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(artifacts): add git https insecure option. Fixes #10762](https://github.com/argoproj/argo-workflows/pull/13797) on [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) (today)
 - [feat(online-boutique): protect the cart with oauth2-proxy](https://github.com/ccl-consulting/k8saas-user-custom/pull/6) on [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) (4 days ago)
 - [feat(online-boutique): enable load generator](https://github.com/ccl-consulting/k8saas-user-custom/pull/4) on [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) (4 days ago)
 - [feat: add opencost logo](https://github.com/stakater/ForecastleIcons/pull/39) on [stakater/ForecastleIcons](https://github.com/stakater/ForecastleIcons) (4 days ago)
@@ -35,7 +36,6 @@
 - [feat(online-boutique): add dashboard](https://github.com/ccl-consulting/k8saas-user-custom/pull/2) on [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) (4 days ago)
 - [feat: add online-boutique](https://github.com/ccl-consulting/k8saas-user-custom/pull/1) on [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) (4 days ago)
 - [feat(cost-reporter): update dashboards names and ids](https://github.com/opencost/opencost-grafana-dashboard/pull/8) on [opencost/opencost-grafana-dashboard](https://github.com/opencost/opencost-grafana-dashboard) (5 days ago)
-- [docs(gcp): add configuration examples](https://github.com/kubernetes-sigs/image-builder/pull/1608) on [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) (1 week ago)
 
 #### ⭐ Recent Stars
 
