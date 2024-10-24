@@ -13,6 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) ([v3.6.0-rc3](https://github.com/argoproj/argo-workflows/releases/tag/v3.6.0-rc3), today) - Workflow Engine for Kubernetes
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.130.2](https://github.com/renovatebot/renovate/releases/tag/38.130.2), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.13.0-rc.3](https://github.com/kyverno/kyverno/releases/tag/v1.13.0-rc.3), 2 days ago) - Cloud Native Policy Management
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.7](https://github.com/helmfile/vals/releases/tag/v0.37.7), 4 days ago) - Helm-like configuration values loader with support for various sources
@@ -22,7 +23,6 @@
 - [kubernetes-sigs/azuredisk-csi-driver](https://github.com/kubernetes-sigs/azuredisk-csi-driver) ([v1.31.0](https://github.com/kubernetes-sigs/azuredisk-csi-driver/releases/tag/v1.31.0), 1 week ago) - Azure Disk CSI Driver
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.2](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.2), 1 week ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [ccl-consulting/docker-shell-tools](https://github.com/ccl-consulting/docker-shell-tools) ([v1.3.0](https://github.com/ccl-consulting/docker-shell-tools/releases/tag/v1.3.0), 2 weeks ago) - Docker image with common shell tools
-- [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) ([4.10.0](https://github.com/kube-logging/logging-operator/releases/tag/4.10.0), 3 weeks ago) - Logging operator for Kubernetes
 
 #### 🔨 My recent Pull Requests
 
