@@ -13,6 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.5](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.5), today) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.130.4](https://github.com/renovatebot/renovate/releases/tag/38.130.4), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) ([v3.6.0-rc3](https://github.com/argoproj/argo-workflows/releases/tag/v3.6.0-rc3), 1 day ago) - Workflow Engine for Kubernetes
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.13.0-rc.3](https://github.com/kyverno/kyverno/releases/tag/v1.13.0-rc.3), 3 days ago) - Cloud Native Policy Management
@@ -22,7 +23,6 @@
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.12.0-beta.0](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.12.0-beta.0), 1 week ago) - Ingress NGINX Controller for Kubernetes
 - [kubernetes-sigs/azuredisk-csi-driver](https://github.com/kubernetes-sigs/azuredisk-csi-driver) ([v1.31.0](https://github.com/kubernetes-sigs/azuredisk-csi-driver/releases/tag/v1.31.0), 1 week ago) - Azure Disk CSI Driver
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.2](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.2), 1 week ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
-- [ccl-consulting/docker-shell-tools](https://github.com/ccl-consulting/docker-shell-tools) ([v1.3.0](https://github.com/ccl-consulting/docker-shell-tools/releases/tag/v1.3.0), 3 weeks ago) - Docker image with common shell tools
 
 #### 🔨 My recent Pull Requests
 
