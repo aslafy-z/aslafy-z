@@ -13,8 +13,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.131.0](https://github.com/renovatebot/renovate/releases/tag/38.131.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.5](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.5), today) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.130.4](https://github.com/renovatebot/renovate/releases/tag/38.130.4), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) ([v3.6.0-rc3](https://github.com/argoproj/argo-workflows/releases/tag/v3.6.0-rc3), 1 day ago) - Workflow Engine for Kubernetes
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.13.0-rc.3](https://github.com/kyverno/kyverno/releases/tag/v1.13.0-rc.3), 3 days ago) - Cloud Native Policy Management
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.7](https://github.com/helmfile/vals/releases/tag/v0.37.7), 5 days ago) - Helm-like configuration values loader with support for various sources
