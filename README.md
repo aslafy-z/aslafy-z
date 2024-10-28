@@ -39,6 +39,7 @@
 
 #### ⭐ Recent Stars
 
+- [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault-tolerant SQL engine. (today)
 - [carina-io/carina](https://github.com/carina-io/carina) - Carina: an high performance and ops-free local storage for kubernetes (3 days ago)
 - [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - DevSecOps for Air Gap &amp; Limited-Connection Systems. https://zarf.dev/ (1 week ago)
 - [Skarlso/crd-to-sample-yaml](https://github.com/Skarlso/crd-to-sample-yaml) - Generate a sample YAML file from a CRD and view it rendered on a nice website (1 week ago)
@@ -48,7 +49,6 @@
 - [nilic/kubectl-netshoot](https://github.com/nilic/kubectl-netshoot) - kubectl plugin for spinning up netshoot container for network troubleshooting (3 weeks ago)
 - [grampelberg/kty](https://github.com/grampelberg/kty) - The terminal for Kubernetes (3 weeks ago)
 - [blend-os/blendOS](https://github.com/blend-os/blendOS) - A seamless blend of all Linux distributions. (3 weeks ago)
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen &amp; mic recording. Start recording your screen today ... or be left behind. Works with Ollama. Alternative to Rewind.ai &amp; Zapier. Open. Secure. You own your data. Rust. (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
