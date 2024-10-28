@@ -13,8 +13,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.133.1](https://github.com/renovatebot/renovate/releases/tag/38.133.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [stakater/application](https://github.com/stakater/application) ([v5.2.0](https://github.com/stakater/application/releases/tag/v5.2.0), today) - Generic helm chart for all kind of applications
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.133.0](https://github.com/renovatebot/renovate/releases/tag/38.133.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.5](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.5), 3 days ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) ([v3.6.0-rc3](https://github.com/argoproj/argo-workflows/releases/tag/v3.6.0-rc3), 4 days ago) - Workflow Engine for Kubernetes
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.13.0-rc.3](https://github.com/kyverno/kyverno/releases/tag/v1.13.0-rc.3), 6 days ago) - Cloud Native Policy Management
