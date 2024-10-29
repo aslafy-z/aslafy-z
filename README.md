@@ -1,9 +1,9 @@
 #### 👷 Check out what I'm currently working on
 
-- [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) -  (6 days ago)
-- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes (6 days ago)
+- [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) -  (1 week ago)
+- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes (1 week ago)
 - [swapagarwal/swag-for-dev](https://github.com/swapagarwal/swag-for-dev) - 😎 swag opportunities for developers (1 week ago)
-- [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) - Tools for building Kubernetes disk images (1 week ago)
+- [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) - Tools for building Kubernetes disk images (2 weeks ago)
 - [aslafy-z/action-button-test](https://github.com/aslafy-z/action-button-test) -  (2 weeks ago)
 - [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes. (2 weeks ago)
 - [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (4 weeks ago)
@@ -13,20 +13,20 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.133.2](https://github.com/renovatebot/renovate/releases/tag/38.133.2), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [stakater/application](https://github.com/stakater/application) ([v5.2.0](https://github.com/stakater/application/releases/tag/v5.2.0), today) - Generic helm chart for all kind of applications
-- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.5](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.5), 3 days ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
-- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) ([v3.6.0-rc3](https://github.com/argoproj/argo-workflows/releases/tag/v3.6.0-rc3), 4 days ago) - Workflow Engine for Kubernetes
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.13.0-rc.3](https://github.com/kyverno/kyverno/releases/tag/v1.13.0-rc.3), 6 days ago) - Cloud Native Policy Management
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.133.2](https://github.com/renovatebot/renovate/releases/tag/38.133.2), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [stakater/application](https://github.com/stakater/application) ([v5.2.0](https://github.com/stakater/application/releases/tag/v5.2.0), 1 day ago) - Generic helm chart for all kind of applications
+- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.5](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.5), 4 days ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
+- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) ([v3.6.0-rc3](https://github.com/argoproj/argo-workflows/releases/tag/v3.6.0-rc3), 5 days ago) - Workflow Engine for Kubernetes
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.13.0-rc.3](https://github.com/kyverno/kyverno/releases/tag/v1.13.0-rc.3), 1 week ago) - Cloud Native Policy Management
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.7](https://github.com/helmfile/vals/releases/tag/v0.37.7), 1 week ago) - Helm-like configuration values loader with support for various sources
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.12.6](https://github.com/argoproj/argo-cd/releases/tag/v2.12.6), 1 week ago) - Declarative Continuous Deployment for Kubernetes
 - [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) ([v0.1.39](https://github.com/kubernetes-sigs/image-builder/releases/tag/v0.1.39), 1 week ago) - Tools for building Kubernetes disk images
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.12.0-beta.0](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.12.0-beta.0), 1 week ago) - Ingress NGINX Controller for Kubernetes
-- [kubernetes-sigs/azuredisk-csi-driver](https://github.com/kubernetes-sigs/azuredisk-csi-driver) ([v1.31.0](https://github.com/kubernetes-sigs/azuredisk-csi-driver/releases/tag/v1.31.0), 1 week ago) - Azure Disk CSI Driver
+- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.12.0-beta.0](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.12.0-beta.0), 2 weeks ago) - Ingress NGINX Controller for Kubernetes
+- [kubernetes-sigs/azuredisk-csi-driver](https://github.com/kubernetes-sigs/azuredisk-csi-driver) ([v1.31.0](https://github.com/kubernetes-sigs/azuredisk-csi-driver/releases/tag/v1.31.0), 2 weeks ago) - Azure Disk CSI Driver
 
 #### 🔨 My recent Pull Requests
 
-- [feat(artifacts): add git https insecure option. Fixes #10762](https://github.com/argoproj/argo-workflows/pull/13797) on [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) (6 days ago)
+- [feat(artifacts): add git https insecure option. Fixes #10762](https://github.com/argoproj/argo-workflows/pull/13797) on [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) (1 week ago)
 - [feat(online-boutique): protect the cart with oauth2-proxy](https://github.com/ccl-consulting/k8saas-user-custom/pull/6) on [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) (1 week ago)
 - [feat(online-boutique): enable load generator](https://github.com/ccl-consulting/k8saas-user-custom/pull/4) on [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) (1 week ago)
 - [feat: add opencost logo](https://github.com/stakater/ForecastleIcons/pull/39) on [stakater/ForecastleIcons](https://github.com/stakater/ForecastleIcons) (1 week ago)
@@ -39,13 +39,13 @@
 
 #### ⭐ Recent Stars
 
-- [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault-tolerant SQL engine. (today)
-- [carina-io/carina](https://github.com/carina-io/carina) - Carina: an high performance and ops-free local storage for kubernetes (3 days ago)
+- [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault-tolerant SQL engine. (1 day ago)
+- [carina-io/carina](https://github.com/carina-io/carina) - Carina: an high performance and ops-free local storage for kubernetes (4 days ago)
 - [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - DevSecOps for Air Gap &amp; Limited-Connection Systems. https://zarf.dev/ (1 week ago)
 - [Skarlso/crd-to-sample-yaml](https://github.com/Skarlso/crd-to-sample-yaml) - Generate a sample YAML file from a CRD and view it rendered on a nice website (1 week ago)
 - [hoophq/hoop](https://github.com/hoophq/hoop) - Hoop.dev is an open-source access gateway that provides secure, seamless, and audited access to databases and infrastructure without exposing credentials or sensitive data. (1 week ago)
 - [aptakube/aptakube](https://github.com/aptakube/aptakube) - Modern, lightweight and multi-cluster Kubernetes GUI. Available on Windows, macOS and Linux. (2 weeks ago)
-- [junkurihara/rust-rpxy](https://github.com/junkurihara/rust-rpxy) - A simple and ultrafast http reverse proxy serving multiple domain names and terminating TLS for http/1.1, 2 and 3, written in Rust (2 weeks ago)
+- [junkurihara/rust-rpxy](https://github.com/junkurihara/rust-rpxy) - A simple and ultrafast http reverse proxy serving multiple domain names and terminating TLS for http/1.1, 2 and 3, written in Rust (3 weeks ago)
 - [nilic/kubectl-netshoot](https://github.com/nilic/kubectl-netshoot) - kubectl plugin for spinning up netshoot container for network troubleshooting (3 weeks ago)
 - [grampelberg/kty](https://github.com/grampelberg/kty) - The terminal for Kubernetes (3 weeks ago)
 - [blend-os/blendOS](https://github.com/blend-os/blendOS) - A seamless blend of all Linux distributions. (3 weeks ago)
