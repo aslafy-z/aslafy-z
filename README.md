@@ -39,6 +39,7 @@
 
 #### ⭐ Recent Stars
 
+- [Integuru-AI/Integuru](https://github.com/Integuru-AI/Integuru) - The first AI agent that builds third-party integrations through reverse engineering platforms&#39; internal APIs. (today)
 - [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault-tolerant SQL engine. (2 days ago)
 - [carina-io/carina](https://github.com/carina-io/carina) - Carina: an high performance and ops-free local storage for kubernetes (5 days ago)
 - [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - DevSecOps for Air Gap &amp; Limited-Connection Systems. https://zarf.dev/ (1 week ago)
@@ -48,7 +49,6 @@
 - [junkurihara/rust-rpxy](https://github.com/junkurihara/rust-rpxy) - A simple and ultrafast http reverse proxy serving multiple domain names and terminating TLS for http/1.1, 2 and 3, written in Rust (3 weeks ago)
 - [nilic/kubectl-netshoot](https://github.com/nilic/kubectl-netshoot) - kubectl plugin for spinning up netshoot container for network troubleshooting (3 weeks ago)
 - [grampelberg/kty](https://github.com/grampelberg/kty) - The terminal for Kubernetes (4 weeks ago)
-- [blend-os/blendOS](https://github.com/blend-os/blendOS) - A seamless blend of all Linux distributions. (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
