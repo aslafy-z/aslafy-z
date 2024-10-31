@@ -13,8 +13,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.140.1](https://github.com/renovatebot/renovate/releases/tag/38.140.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) ([v3.6.0-rc4](https://github.com/argoproj/argo-workflows/releases/tag/v3.6.0-rc4), today) - Workflow Engine for Kubernetes
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.140.0](https://github.com/renovatebot/renovate/releases/tag/38.140.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.13.0](https://github.com/kyverno/kyverno/releases/tag/v1.13.0), 2 days ago) - Cloud Native Policy Management
 - [stakater/application](https://github.com/stakater/application) ([v5.2.0](https://github.com/stakater/application/releases/tag/v5.2.0), 3 days ago) - Generic helm chart for all kind of applications
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.5](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.5), 6 days ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
@@ -39,6 +39,7 @@
 
 #### ⭐ Recent Stars
 
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents (today)
 - [Integuru-AI/Integuru](https://github.com/Integuru-AI/Integuru) - The first AI agent that builds third-party integrations through reverse engineering platforms&#39; internal APIs. (1 day ago)
 - [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault-tolerant SQL engine. (3 days ago)
 - [carina-io/carina](https://github.com/carina-io/carina) - Carina: an high performance and ops-free local storage for kubernetes (6 days ago)
@@ -48,7 +49,6 @@
 - [aptakube/aptakube](https://github.com/aptakube/aptakube) - Modern, lightweight and multi-cluster Kubernetes GUI. Available on Windows, macOS and Linux. (2 weeks ago)
 - [junkurihara/rust-rpxy](https://github.com/junkurihara/rust-rpxy) - A simple and ultrafast http reverse proxy serving multiple domain names and terminating TLS for http/1.1, 2 and 3, written in Rust (3 weeks ago)
 - [nilic/kubectl-netshoot](https://github.com/nilic/kubectl-netshoot) - kubectl plugin for spinning up netshoot container for network troubleshooting (3 weeks ago)
-- [grampelberg/kty](https://github.com/grampelberg/kty) - The terminal for Kubernetes (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
