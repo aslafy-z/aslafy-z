@@ -13,6 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [algolia/docsearch](https://github.com/algolia/docsearch) ([v3.6.3](https://github.com/algolia/docsearch/releases/tag/v3.6.3), today) - :blue_book: The easiest way to add search to your documentation.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.140.2](https://github.com/renovatebot/renovate/releases/tag/38.140.2), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) ([v3.6.0-rc4](https://github.com/argoproj/argo-workflows/releases/tag/v3.6.0-rc4), today) - Workflow Engine for Kubernetes
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.13.0](https://github.com/kyverno/kyverno/releases/tag/v1.13.0), 2 days ago) - Cloud Native Policy Management
@@ -22,7 +23,6 @@
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.12.6](https://github.com/argoproj/argo-cd/releases/tag/v2.12.6), 1 week ago) - Declarative Continuous Deployment for Kubernetes
 - [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) ([v0.1.39](https://github.com/kubernetes-sigs/image-builder/releases/tag/v0.1.39), 2 weeks ago) - Tools for building Kubernetes disk images
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.12.0-beta.0](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.12.0-beta.0), 2 weeks ago) - Ingress NGINX Controller for Kubernetes
-- [kubernetes-sigs/azuredisk-csi-driver](https://github.com/kubernetes-sigs/azuredisk-csi-driver) ([v1.31.0](https://github.com/kubernetes-sigs/azuredisk-csi-driver/releases/tag/v1.31.0), 2 weeks ago) - Azure Disk CSI Driver
 
 #### 🔨 My recent Pull Requests
 
