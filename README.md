@@ -13,7 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.139.1](https://github.com/renovatebot/renovate/releases/tag/38.139.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.139.2](https://github.com/renovatebot/renovate/releases/tag/38.139.2), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) ([v3.5.12](https://github.com/argoproj/argo-workflows/releases/tag/v3.5.12), 1 day ago) - Workflow Engine for Kubernetes
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.13.0](https://github.com/kyverno/kyverno/releases/tag/v1.13.0), 2 days ago) - Cloud Native Policy Management
 - [stakater/application](https://github.com/stakater/application) ([v5.2.0](https://github.com/stakater/application/releases/tag/v5.2.0), 3 days ago) - Generic helm chart for all kind of applications
