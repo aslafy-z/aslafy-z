@@ -13,7 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.142.0](https://github.com/renovatebot/renovate/releases/tag/38.142.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.142.1](https://github.com/renovatebot/renovate/releases/tag/38.142.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [algolia/docsearch](https://github.com/algolia/docsearch) ([v3.6.3](https://github.com/algolia/docsearch/releases/tag/v3.6.3), 1 day ago) - :blue_book: The easiest way to add search to your documentation.
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) ([v3.6.0-rc4](https://github.com/argoproj/argo-workflows/releases/tag/v3.6.0-rc4), 1 day ago) - Workflow Engine for Kubernetes
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.13.0](https://github.com/kyverno/kyverno/releases/tag/v1.13.0), 3 days ago) - Cloud Native Policy Management
