@@ -39,6 +39,7 @@
 
 #### ⭐ Recent Stars
 
+- [kubeflame/lutho](https://github.com/kubeflame/lutho) - Manage Kubernetes based resources in a different way. (today)
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents (3 days ago)
 - [Integuru-AI/Integuru](https://github.com/Integuru-AI/Integuru) - The first AI agent that builds third-party integrations through reverse engineering platforms&#39; internal APIs. (4 days ago)
 - [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault-tolerant SQL engine. (6 days ago)
@@ -48,7 +49,6 @@
 - [hoophq/hoop](https://github.com/hoophq/hoop) - Hoop.dev is an open-source access gateway that provides secure, seamless, and audited access to databases and infrastructure without exposing credentials or sensitive data. (2 weeks ago)
 - [aptakube/aptakube](https://github.com/aptakube/aptakube) - Modern, lightweight and multi-cluster Kubernetes GUI. Available on Windows, macOS and Linux. (2 weeks ago)
 - [junkurihara/rust-rpxy](https://github.com/junkurihara/rust-rpxy) - A simple and ultrafast http reverse proxy serving multiple domain names and terminating TLS for http/1.1, 2 and 3, written in Rust (3 weeks ago)
-- [nilic/kubectl-netshoot](https://github.com/nilic/kubectl-netshoot) - kubectl plugin for spinning up netshoot container for network troubleshooting (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
