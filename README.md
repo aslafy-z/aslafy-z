@@ -13,7 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.0.0](https://github.com/renovatebot/renovate/releases/tag/39.0.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.0.1](https://github.com/renovatebot/renovate/releases/tag/39.0.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.13.0](https://github.com/argoproj/argo-cd/releases/tag/v2.13.0), today) - Declarative Continuous Deployment for Kubernetes
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.8](https://github.com/helmfile/vals/releases/tag/v0.37.8), 2 days ago) - Helm-like configuration values loader with support for various sources
 - [algolia/docsearch](https://github.com/algolia/docsearch) ([v3.6.3](https://github.com/algolia/docsearch/releases/tag/v3.6.3), 4 days ago) - :blue_book: The easiest way to add search to your documentation.
