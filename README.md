@@ -13,8 +13,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.1.0](https://github.com/renovatebot/renovate/releases/tag/39.1.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.11.12](https://github.com/argoproj/argo-cd/releases/tag/v2.11.12), today) - Declarative Continuous Deployment for Kubernetes
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.0.4](https://github.com/renovatebot/renovate/releases/tag/39.0.4), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [algolia/docsearch](https://github.com/algolia/docsearch) ([v3.7.0](https://github.com/algolia/docsearch/releases/tag/v3.7.0), today) - :blue_book: The easiest way to add search to your documentation.
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.8](https://github.com/helmfile/vals/releases/tag/v0.37.8), 3 days ago) - Helm-like configuration values loader with support for various sources
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) ([v3.6.0-rc4](https://github.com/argoproj/argo-workflows/releases/tag/v3.6.0-rc4), 5 days ago) - Workflow Engine for Kubernetes
