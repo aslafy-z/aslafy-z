@@ -13,13 +13,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.2.1](https://github.com/renovatebot/renovate/releases/tag/39.2.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.4.0](https://github.com/renovatebot/renovate/releases/tag/39.4.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [stakater/application](https://github.com/stakater/application) ([v5.2.1](https://github.com/stakater/application/releases/tag/v5.2.1), today) - Generic helm chart for all kind of applications
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.11.12](https://github.com/argoproj/argo-cd/releases/tag/v2.11.12), 1 day ago) - Declarative Continuous Deployment for Kubernetes
 - [algolia/docsearch](https://github.com/algolia/docsearch) ([v3.7.0](https://github.com/algolia/docsearch/releases/tag/v3.7.0), 1 day ago) - :blue_book: The easiest way to add search to your documentation.
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.8](https://github.com/helmfile/vals/releases/tag/v0.37.8), 4 days ago) - Helm-like configuration values loader with support for various sources
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) ([v3.6.0-rc4](https://github.com/argoproj/argo-workflows/releases/tag/v3.6.0-rc4), 6 days ago) - Workflow Engine for Kubernetes
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.13.0](https://github.com/kyverno/kyverno/releases/tag/v1.13.0), 1 week ago) - Cloud Native Policy Management
-- [stakater/application](https://github.com/stakater/application) ([v5.2.0](https://github.com/stakater/application/releases/tag/v5.2.0), 1 week ago) - Generic helm chart for all kind of applications
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.5](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.5), 1 week ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) ([v0.1.39](https://github.com/kubernetes-sigs/image-builder/releases/tag/v0.1.39), 2 weeks ago) - Tools for building Kubernetes disk images
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.12.0-beta.0](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.12.0-beta.0), 3 weeks ago) - Ingress NGINX Controller for Kubernetes
