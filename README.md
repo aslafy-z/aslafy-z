@@ -5,8 +5,8 @@
 - [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) -  (2 weeks ago)
 - [swapagarwal/swag-for-dev](https://github.com/swapagarwal/swag-for-dev) - 😎 swag opportunities for developers (2 weeks ago)
 - [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) - Tools for building Kubernetes disk images (3 weeks ago)
-- [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes. (3 weeks ago)
 - [aslafy-z/action-button-test](https://github.com/aslafy-z/action-button-test) -  (3 weeks ago)
+- [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes. (3 weeks ago)
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io (1 month ago)
 - [losisin/helm-docs-github-action](https://github.com/losisin/helm-docs-github-action) - Install helm-docs tool and auto-generate markdown documentation from Helm charts (1 month ago)
 - [seriohub/velero-helm](https://github.com/seriohub/velero-helm) - Helm charts for velero-ui, velero-api, and velero-watchdog (1 month ago)
@@ -15,14 +15,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix(cronjob): add support for containerSecurityContext](https://github.com/stakater/application/pull/358) on [stakater/application](https://github.com/stakater/application) (today)
 - [feat(backups): improve includedNamespaces and add docs](https://github.com/stakater/application/pull/357) on [stakater/application](https://github.com/stakater/application) (today)
 - [docs: add field name to comments](https://github.com/stakater/application/pull/356) on [stakater/application](https://github.com/stakater/application) (today)
 - [feat(artifacts): add git https insecure option. Fixes #10762](https://github.com/argoproj/argo-workflows/pull/13797) on [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) (2 weeks ago)
 - [feat(online-boutique): protect the cart with oauth2-proxy](https://github.com/ccl-consulting/k8saas-user-custom/pull/6) on [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) (2 weeks ago)
-- [feat(online-boutique): enable load generator](https://github.com/ccl-consulting/k8saas-user-custom/pull/4) on [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) (2 weeks ago)
 - [feat: add opencost logo](https://github.com/stakater/ForecastleIcons/pull/39) on [stakater/ForecastleIcons](https://github.com/stakater/ForecastleIcons) (2 weeks ago)
-- [feat: add opencost logo](https://github.com/aslafy-z/ForecastleIcons/pull/1) on [aslafy-z/ForecastleIcons](https://github.com/aslafy-z/ForecastleIcons) (2 weeks ago)
 - [feat(loadgenerator): allow customizing frontend protocol](https://github.com/GoogleCloudPlatform/microservices-demo/pull/2775) on [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) (2 weeks ago)
 - [feat(online-boutique): custom branding](https://github.com/ccl-consulting/k8saas-user-custom/pull/3) on [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) (2 weeks ago)
 
