@@ -1,20 +1,20 @@
 #### 👷 Check out what I'm currently working on
 
-- [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) -  (2 weeks ago)
+- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (today)
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes (2 weeks ago)
+- [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) -  (2 weeks ago)
 - [swapagarwal/swag-for-dev](https://github.com/swapagarwal/swag-for-dev) - 😎 swag opportunities for developers (2 weeks ago)
 - [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) - Tools for building Kubernetes disk images (3 weeks ago)
-- [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes. (3 weeks ago)
 - [aslafy-z/action-button-test](https://github.com/aslafy-z/action-button-test) -  (3 weeks ago)
-- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (1 month ago)
+- [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes. (3 weeks ago)
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io (1 month ago)
 - [losisin/helm-docs-github-action](https://github.com/losisin/helm-docs-github-action) - Install helm-docs tool and auto-generate markdown documentation from Helm charts (1 month ago)
 - [seriohub/velero-helm](https://github.com/seriohub/velero-helm) - Helm charts for velero-ui, velero-api, and velero-watchdog (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [stakater/application](https://github.com/stakater/application) ([v5.2.2](https://github.com/stakater/application/releases/tag/v5.2.2), today) - Generic helm chart for all kind of applications
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.5.0](https://github.com/renovatebot/renovate/releases/tag/39.5.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [stakater/application](https://github.com/stakater/application) ([v5.2.1](https://github.com/stakater/application/releases/tag/v5.2.1), today) - Generic helm chart for all kind of applications
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.11.12](https://github.com/argoproj/argo-cd/releases/tag/v2.11.12), 1 day ago) - Declarative Continuous Deployment for Kubernetes
 - [algolia/docsearch](https://github.com/algolia/docsearch) ([v3.7.0](https://github.com/algolia/docsearch/releases/tag/v3.7.0), 1 day ago) - :blue_book: The easiest way to add search to your documentation.
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.8](https://github.com/helmfile/vals/releases/tag/v0.37.8), 4 days ago) - Helm-like configuration values loader with support for various sources
