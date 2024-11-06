@@ -12,7 +12,9 @@
 
 #### 🔨 My recent Pull Requests
 {{range recentPullRequests 10}}
+{{- if ne .State "CLOSED"}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
+{{- end}}
 {{- end}}
 
 #### ⭐ Recent Stars
