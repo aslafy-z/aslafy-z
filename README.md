@@ -26,6 +26,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(cronjob): add support for containerSecurityContext](https://github.com/stakater/application/pull/358) on [stakater/application](https://github.com/stakater/application) (today)
+- [feat(backups): improve includedNamespaces and add docs](https://github.com/stakater/application/pull/357) on [stakater/application](https://github.com/stakater/application) (today)
+- [docs: add field name to comments](https://github.com/stakater/application/pull/356) on [stakater/application](https://github.com/stakater/application) (today)
 - [feat(artifacts): add git https insecure option. Fixes #10762](https://github.com/argoproj/argo-workflows/pull/13797) on [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) (2 weeks ago)
 - [feat(online-boutique): protect the cart with oauth2-proxy](https://github.com/ccl-consulting/k8saas-user-custom/pull/6) on [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) (2 weeks ago)
 - [feat(online-boutique): enable load generator](https://github.com/ccl-consulting/k8saas-user-custom/pull/4) on [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) (2 weeks ago)
@@ -33,9 +36,6 @@
 - [feat: add opencost logo](https://github.com/aslafy-z/ForecastleIcons/pull/1) on [aslafy-z/ForecastleIcons](https://github.com/aslafy-z/ForecastleIcons) (2 weeks ago)
 - [feat(loadgenerator): allow customizing frontend protocol](https://github.com/GoogleCloudPlatform/microservices-demo/pull/2775) on [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) (2 weeks ago)
 - [feat(online-boutique): custom branding](https://github.com/ccl-consulting/k8saas-user-custom/pull/3) on [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) (2 weeks ago)
-- [feat(online-boutique): add dashboard](https://github.com/ccl-consulting/k8saas-user-custom/pull/2) on [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) (2 weeks ago)
-- [feat: add online-boutique](https://github.com/ccl-consulting/k8saas-user-custom/pull/1) on [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) (2 weeks ago)
-- [feat(cost-reporter): update dashboards names and ids](https://github.com/opencost/opencost-grafana-dashboard/pull/8) on [opencost/opencost-grafana-dashboard](https://github.com/opencost/opencost-grafana-dashboard) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
