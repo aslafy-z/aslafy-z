@@ -15,13 +15,13 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Feat/online boutique loadgenerator](https://github.com/ccl-consulting/k8saas-user-custom/pull/8) on [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) (today)
 - [feat(backups): improve includedNamespaces and add docs](https://github.com/stakater/application/pull/357) on [stakater/application](https://github.com/stakater/application) (1 day ago)
 - [docs: add field name to comments](https://github.com/stakater/application/pull/356) on [stakater/application](https://github.com/stakater/application) (1 day ago)
 - [feat(artifacts): add git https insecure option. Fixes #10762](https://github.com/argoproj/argo-workflows/pull/13797) on [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) (2 weeks ago)
 - [feat(online-boutique): protect a sample endpoint with oauth2-proxy](https://github.com/ccl-consulting/k8saas-user-custom/pull/6) on [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) (2 weeks ago)
 - [feat: add opencost logo](https://github.com/stakater/ForecastleIcons/pull/39) on [stakater/ForecastleIcons](https://github.com/stakater/ForecastleIcons) (2 weeks ago)
 - [feat(loadgenerator): allow customizing frontend protocol](https://github.com/GoogleCloudPlatform/microservices-demo/pull/2775) on [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) (2 weeks ago)
-- [feat(online-boutique): custom branding](https://github.com/ccl-consulting/k8saas-user-custom/pull/3) on [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
