@@ -15,6 +15,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: set page title to configured title](https://github.com/stakater/Forecastle/pull/460) on [stakater/Forecastle](https://github.com/stakater/Forecastle) (today)
+- [docs: update helm chart section](https://github.com/stakater/Forecastle/pull/459) on [stakater/Forecastle](https://github.com/stakater/Forecastle) (today)
 - [fix(helm): redundant container security contexts](https://github.com/stakater/Forecastle/pull/458) on [stakater/Forecastle](https://github.com/stakater/Forecastle) (today)
 - [feat: open links with A instead of JS](https://github.com/stakater/Forecastle/pull/457) on [stakater/Forecastle](https://github.com/stakater/Forecastle) (today)
 - [Feat/online boutique loadgenerator](https://github.com/ccl-consulting/k8saas-user-custom/pull/8) on [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) (2 days ago)
@@ -22,7 +24,6 @@
 - [docs: add field name to comments](https://github.com/stakater/application/pull/356) on [stakater/application](https://github.com/stakater/application) (3 days ago)
 - [feat(artifacts): add git https insecure option. Fixes #10762](https://github.com/argoproj/argo-workflows/pull/13797) on [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) (2 weeks ago)
 - [feat(online-boutique): protect a sample endpoint with oauth2-proxy](https://github.com/ccl-consulting/k8saas-user-custom/pull/6) on [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) (3 weeks ago)
-- [feat: add opencost logo](https://github.com/stakater/ForecastleIcons/pull/39) on [stakater/ForecastleIcons](https://github.com/stakater/ForecastleIcons) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
