@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(helm): redundant container security contexts](https://github.com/stakater/Forecastle/pull/458) on [stakater/Forecastle](https://github.com/stakater/Forecastle) (today)
 - [feat: open links with A instead of JS](https://github.com/stakater/Forecastle/pull/457) on [stakater/Forecastle](https://github.com/stakater/Forecastle) (today)
 - [Feat/online boutique loadgenerator](https://github.com/ccl-consulting/k8saas-user-custom/pull/8) on [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) (2 days ago)
 - [feat(backups): improve includedNamespaces and add docs](https://github.com/stakater/application/pull/357) on [stakater/application](https://github.com/stakater/application) (3 days ago)
