@@ -1,10 +1,10 @@
 #### 👷 Check out what I'm currently working on
 
+- [swapagarwal/swag-for-dev](https://github.com/swapagarwal/swag-for-dev) - 😎 swag opportunities for developers (today)
 - [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) -  (2 days ago)
-- [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) -  (4 days ago)
 - [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (4 days ago)
+- [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) -  (4 days ago)
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes (2 weeks ago)
-- [swapagarwal/swag-for-dev](https://github.com/swapagarwal/swag-for-dev) - 😎 swag opportunities for developers (3 weeks ago)
 - [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) - Tools for building Kubernetes disk images (3 weeks ago)
 - [aslafy-z/action-button-test](https://github.com/aslafy-z/action-button-test) -  (1 month ago)
 - [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes. (1 month ago)
