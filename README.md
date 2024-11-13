@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix!: allow disabling custom service account #major](https://github.com/stakater/application/pull/361) on [stakater/application](https://github.com/stakater/application) (today)
 - [chore: dockerfile lint](https://github.com/stakater/Forecastle/pull/462) on [stakater/Forecastle](https://github.com/stakater/Forecastle) (4 days ago)
 - [fix: sort groups and apps alphabetically](https://github.com/stakater/Forecastle/pull/461) on [stakater/Forecastle](https://github.com/stakater/Forecastle) (4 days ago)
 - [feat: set page title to configured title](https://github.com/stakater/Forecastle/pull/460) on [stakater/Forecastle](https://github.com/stakater/Forecastle) (4 days ago)
@@ -23,7 +24,6 @@
 - [feat: open links with A instead of JS](https://github.com/stakater/Forecastle/pull/457) on [stakater/Forecastle](https://github.com/stakater/Forecastle) (4 days ago)
 - [Feat/online boutique loadgenerator](https://github.com/ccl-consulting/k8saas-user-custom/pull/8) on [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) (6 days ago)
 - [feat(backups): improve includedNamespaces and add docs](https://github.com/stakater/application/pull/357) on [stakater/application](https://github.com/stakater/application) (1 week ago)
-- [docs: add field name to comments](https://github.com/stakater/application/pull/356) on [stakater/application](https://github.com/stakater/application) (1 week ago)
 
 #### ⭐ Recent Stars
 
