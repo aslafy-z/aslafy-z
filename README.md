@@ -27,6 +27,7 @@
 
 #### ⭐ Recent Stars
 
+- [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money. (today)
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (3 days ago)
 - [kubeflame/lutho](https://github.com/kubeflame/lutho) - Manage Kubernetes based resources in a different way. (1 week ago)
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents (2 weeks ago)
@@ -36,7 +37,6 @@
 - [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - DevSecOps for Air Gap &amp; Limited-Connection Systems. https://zarf.dev/ (3 weeks ago)
 - [Skarlso/crd-to-sample-yaml](https://github.com/Skarlso/crd-to-sample-yaml) - Generate a sample YAML file from a CRD and view it rendered on a nice website (3 weeks ago)
 - [hoophq/hoop](https://github.com/hoophq/hoop) - Hoop.dev is an open-source access gateway that provides secure, seamless, and audited access to databases and infrastructure without exposing credentials or sensitive data. (3 weeks ago)
-- [aptakube/aptakube](https://github.com/aptakube/aptakube) - Modern, lightweight and multi-cluster Kubernetes GUI. Available on Windows, macOS and Linux. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
