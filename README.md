@@ -1,8 +1,8 @@
 #### 👷 Check out what I'm currently working on
 
+- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (today)
 - [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) -  (1 day ago)
 - [swapagarwal/swag-for-dev](https://github.com/swapagarwal/swag-for-dev) - 😎 swag opportunities for developers (5 days ago)
-- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (1 week ago)
 - [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) -  (1 week ago)
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes (3 weeks ago)
 - [opencost/opencost-grafana-dashboard](https://github.com/opencost/opencost-grafana-dashboard) -  (4 weeks ago)
@@ -15,7 +15,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix!: allow disabling custom service account #major](https://github.com/stakater/application/pull/361) on [stakater/application](https://github.com/stakater/application) (2 days ago)
+- [ci(helm-docs): fix diff issue in GitHub action check](https://github.com/stakater/application/pull/362) on [stakater/application](https://github.com/stakater/application) (today)
+- [fix: allow disabling custom service account](https://github.com/stakater/application/pull/361) on [stakater/application](https://github.com/stakater/application) (2 days ago)
 - [chore: dockerfile lint](https://github.com/stakater/Forecastle/pull/462) on [stakater/Forecastle](https://github.com/stakater/Forecastle) (6 days ago)
 - [fix: sort groups and apps alphabetically](https://github.com/stakater/Forecastle/pull/461) on [stakater/Forecastle](https://github.com/stakater/Forecastle) (6 days ago)
 - [feat: set page title to configured title](https://github.com/stakater/Forecastle/pull/460) on [stakater/Forecastle](https://github.com/stakater/Forecastle) (6 days ago)
@@ -23,7 +24,6 @@
 - [fix(helm): redundant container security contexts](https://github.com/stakater/Forecastle/pull/458) on [stakater/Forecastle](https://github.com/stakater/Forecastle) (6 days ago)
 - [feat: open links with A instead of JS](https://github.com/stakater/Forecastle/pull/457) on [stakater/Forecastle](https://github.com/stakater/Forecastle) (6 days ago)
 - [feat(online-boutique): enable load generator](https://github.com/ccl-consulting/k8saas-user-custom/pull/8) on [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) (1 week ago)
-- [feat(backups): improve includedNamespaces and add docs](https://github.com/stakater/application/pull/357) on [stakater/application](https://github.com/stakater/application) (1 week ago)
 
 #### ⭐ Recent Stars
 
