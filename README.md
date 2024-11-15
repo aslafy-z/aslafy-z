@@ -28,6 +28,7 @@
 
 #### ⭐ Recent Stars
 
+- [KusionStack/karpor](https://github.com/KusionStack/karpor) - Intelligence for Kubernetes. World&#39;s most promising Kubernetes Visualization Tool for Developer and Platform Engineering teams.  (today)
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money. (1 day ago)
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (4 days ago)
 - [kubeflame/lutho](https://github.com/kubeflame/lutho) - Manage Kubernetes based resources in a different way. (1 week ago)
@@ -37,15 +38,14 @@
 - [carina-io/carina](https://github.com/carina-io/carina) - Carina: an high performance and ops-free local storage for kubernetes (3 weeks ago)
 - [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - DevSecOps for Air Gap &amp; Limited-Connection Systems. https://zarf.dev/ (4 weeks ago)
 - [Skarlso/crd-to-sample-yaml](https://github.com/Skarlso/crd-to-sample-yaml) - Generate a sample YAML file from a CRD and view it rendered on a nice website (4 weeks ago)
-- [hoophq/hoop](https://github.com/hoophq/hoop) - Hoop.dev is an open-source access gateway that provides secure, seamless, and audited access to databases and infrastructure without exposing credentials or sensitive data. (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
+- [littlezuzu](https://github.com/littlezuzu)
 - [standardgalactic](https://github.com/standardgalactic)
 - [whisperky](https://github.com/whisperky)
 - [bhavy3103](https://github.com/bhavy3103)
 - [Tejas-Sharma-dev](https://github.com/Tejas-Sharma-dev)
-- [KaranSingh36752](https://github.com/KaranSingh36752)
 
 #### 📈 Stats
 
