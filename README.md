@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(online-boutique): configure autoscaling](https://github.com/ccl-consulting/k8saas-user-custom/pull/9) on [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) (today)
 - [feat: allow usage of existing service account](https://github.com/stakater/application/pull/363) on [stakater/application](https://github.com/stakater/application) (today)
 - [ci(helm-docs): fix diff issue in GitHub action check](https://github.com/stakater/application/pull/362) on [stakater/application](https://github.com/stakater/application) (today)
 - [fix: allow disabling builtin service account](https://github.com/stakater/application/pull/361) on [stakater/application](https://github.com/stakater/application) (2 days ago)
@@ -24,7 +25,6 @@
 - [docs: update helm chart section](https://github.com/stakater/Forecastle/pull/459) on [stakater/Forecastle](https://github.com/stakater/Forecastle) (6 days ago)
 - [fix(helm): redundant container security contexts](https://github.com/stakater/Forecastle/pull/458) on [stakater/Forecastle](https://github.com/stakater/Forecastle) (6 days ago)
 - [feat: open links with A instead of JS](https://github.com/stakater/Forecastle/pull/457) on [stakater/Forecastle](https://github.com/stakater/Forecastle) (6 days ago)
-- [feat(online-boutique): enable load generator](https://github.com/ccl-consulting/k8saas-user-custom/pull/8) on [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) (1 week ago)
 
 #### ⭐ Recent Stars
 
