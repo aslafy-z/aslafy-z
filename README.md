@@ -15,8 +15,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: allow usage of existing service account](https://github.com/stakater/application/pull/363) on [stakater/application](https://github.com/stakater/application) (today)
 - [ci(helm-docs): fix diff issue in GitHub action check](https://github.com/stakater/application/pull/362) on [stakater/application](https://github.com/stakater/application) (today)
-- [fix: allow disabling custom service account](https://github.com/stakater/application/pull/361) on [stakater/application](https://github.com/stakater/application) (2 days ago)
+- [fix: allow disabling builtin service account](https://github.com/stakater/application/pull/361) on [stakater/application](https://github.com/stakater/application) (2 days ago)
 - [chore: dockerfile lint](https://github.com/stakater/Forecastle/pull/462) on [stakater/Forecastle](https://github.com/stakater/Forecastle) (6 days ago)
 - [fix: sort groups and apps alphabetically](https://github.com/stakater/Forecastle/pull/461) on [stakater/Forecastle](https://github.com/stakater/Forecastle) (6 days ago)
 - [feat: set page title to configured title](https://github.com/stakater/Forecastle/pull/460) on [stakater/Forecastle](https://github.com/stakater/Forecastle) (6 days ago)
