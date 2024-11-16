@@ -41,11 +41,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [amirisback](https://github.com/amirisback)
 - [littlezuzu](https://github.com/littlezuzu)
 - [standardgalactic](https://github.com/standardgalactic)
 - [whisperky](https://github.com/whisperky)
 - [bhavy3103](https://github.com/bhavy3103)
-- [Tejas-Sharma-dev](https://github.com/Tejas-Sharma-dev)
 
 #### 📈 Stats
 
