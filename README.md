@@ -1,9 +1,9 @@
 #### 👷 Check out what I'm currently working on
 
+- [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) -  (today)
 - [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (4 days ago)
 - [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) -  (5 days ago)
 - [swapagarwal/swag-for-dev](https://github.com/swapagarwal/swag-for-dev) - 😎 swag opportunities for developers (1 week ago)
-- [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) -  (1 week ago)
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes (4 weeks ago)
 - [opencost/opencost-grafana-dashboard](https://github.com/opencost/opencost-grafana-dashboard) -  (1 month ago)
 - [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) - Tools for building Kubernetes disk images (1 month ago)
