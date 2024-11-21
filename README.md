@@ -1,5 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
+- [crossplane-contrib/provider-keycloak](https://github.com/crossplane-contrib/provider-keycloak) -  (today)
 - [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (today)
 - [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) -  (2 days ago)
 - [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) -  (1 week ago)
@@ -9,7 +10,6 @@
 - [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder) - Tools for building Kubernetes disk images (1 month ago)
 - [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes. (1 month ago)
 - [aslafy-z/action-button-test](https://github.com/aslafy-z/action-button-test) -  (1 month ago)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io (1 month ago)
 
 
 
