@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: add missing ClientOptionalScopes](https://github.com/crossplane-contrib/provider-keycloak/pull/188) on [crossplane-contrib/provider-keycloak](https://github.com/crossplane-contrib/provider-keycloak) (today)
 - [feat(online-boutique): configure autoscaling](https://github.com/ccl-consulting/k8saas-user-custom/pull/9) on [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) (6 days ago)
 - [feat: allow usage of existing service account](https://github.com/stakater/application/pull/363) on [stakater/application](https://github.com/stakater/application) (6 days ago)
 - [ci(helm-docs): fix diff issue in GitHub action check](https://github.com/stakater/application/pull/362) on [stakater/application](https://github.com/stakater/application) (6 days ago)
@@ -24,7 +25,6 @@
 - [feat: set page title to configured title](https://github.com/stakater/Forecastle/pull/460) on [stakater/Forecastle](https://github.com/stakater/Forecastle) (1 week ago)
 - [docs: update helm chart section](https://github.com/stakater/Forecastle/pull/459) on [stakater/Forecastle](https://github.com/stakater/Forecastle) (1 week ago)
 - [fix(helm): redundant container security contexts](https://github.com/stakater/Forecastle/pull/458) on [stakater/Forecastle](https://github.com/stakater/Forecastle) (1 week ago)
-- [feat: open links with A instead of JS](https://github.com/stakater/Forecastle/pull/457) on [stakater/Forecastle](https://github.com/stakater/Forecastle) (1 week ago)
 
 #### ⭐ Recent Stars
 
