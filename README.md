@@ -28,7 +28,7 @@
 
 #### ⭐ Recent Stars
 
-- [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - kubectl port-forward but way better 🦀 ⚡ kubernetes port forward manager with gui &amp; tui (1 day ago)
+- [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - kubernetes port forward manager 🦀 ⚡ (1 day ago)
 - [KusionStack/karpor](https://github.com/KusionStack/karpor) - Intelligence for Kubernetes. World&#39;s most promising Kubernetes Visualization Tool for Developer and Platform Engineering teams.  (1 week ago)
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money. (1 week ago)
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (1 week ago)
