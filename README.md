@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: lint dockerfile](https://github.com/kube-logging/logging-operator/pull/1869) on [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) (today)
 - [feat: update grafana dashboard](https://github.com/s3gw-tech/s3gw/pull/874) on [s3gw-tech/s3gw](https://github.com/s3gw-tech/s3gw) (6 days ago)
 - [feat: add fine-grained realm-wide client scope management](https://github.com/keycloak/terraform-provider-keycloak/pull/1021) on [keycloak/terraform-provider-keycloak](https://github.com/keycloak/terraform-provider-keycloak) (6 days ago)
 - [fix: add missing ClientOptionalScopes](https://github.com/crossplane-contrib/provider-keycloak/pull/188) on [crossplane-contrib/provider-keycloak](https://github.com/crossplane-contrib/provider-keycloak) (1 week ago)
@@ -24,7 +25,6 @@
 - [fix: allow disabling builtin service account](https://github.com/stakater/application/pull/361) on [stakater/application](https://github.com/stakater/application) (2 weeks ago)
 - [chore: dockerfile lint](https://github.com/stakater/Forecastle/pull/462) on [stakater/Forecastle](https://github.com/stakater/Forecastle) (2 weeks ago)
 - [fix: sort groups and apps alphabetically](https://github.com/stakater/Forecastle/pull/461) on [stakater/Forecastle](https://github.com/stakater/Forecastle) (2 weeks ago)
-- [feat: set page title to configured title](https://github.com/stakater/Forecastle/pull/460) on [stakater/Forecastle](https://github.com/stakater/Forecastle) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
