@@ -41,11 +41,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [ernst-bablick](https://github.com/ernst-bablick)
 - [nholuongut](https://github.com/nholuongut)
 - [amirisback](https://github.com/amirisback)
 - [littlezuzu](https://github.com/littlezuzu)
 - [standardgalactic](https://github.com/standardgalactic)
-- [whisperky](https://github.com/whisperky)
 
 #### 📈 Stats
 
