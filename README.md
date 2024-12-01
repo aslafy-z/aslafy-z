@@ -15,7 +15,6 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: update dashboard variables](https://github.com/ZPascal/keycloak-grafana-dashboard/pull/3) on [ZPascal/keycloak-grafana-dashboard](https://github.com/ZPascal/keycloak-grafana-dashboard) (2 days ago)
 - [chore: lint dockerfile](https://github.com/kube-logging/logging-operator/pull/1869) on [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) (3 days ago)
 - [feat: update grafana dashboard](https://github.com/s3gw-tech/s3gw/pull/874) on [s3gw-tech/s3gw](https://github.com/s3gw-tech/s3gw) (1 week ago)
 - [feat: add fine-grained realm-wide client scope management](https://github.com/keycloak/terraform-provider-keycloak/pull/1021) on [keycloak/terraform-provider-keycloak](https://github.com/keycloak/terraform-provider-keycloak) (1 week ago)
