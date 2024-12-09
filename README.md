@@ -27,6 +27,9 @@
 
 #### ⭐ Recent Stars
 
+- [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav... (today)
+- [deskflow/deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It&#39;s like a software KVM (but without video). (today)
+- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites (today)
 - [kubewarden/kubewarden-controller](https://github.com/kubewarden/kubewarden-controller) - Manage admission policies in your Kubernetes cluster with ease (3 days ago)
 - [robinovitch61/kl](https://github.com/robinovitch61/kl) - An interactive Kubernetes log viewer for your terminal. (1 week ago)
 - [replicatedhq/ttl.sh](https://github.com/replicatedhq/ttl.sh) - An anonymous &amp; ephemeral Docker image registry (1 week ago)
@@ -34,9 +37,6 @@
 - [KusionStack/karpor](https://github.com/KusionStack/karpor) - Intelligence for Kubernetes. World&#39;s most promising Kubernetes Visualization Tool for Developer and Platform Engineering teams.  (3 weeks ago)
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money. (3 weeks ago)
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (4 weeks ago)
-- [kubeflame/lutho](https://github.com/kubeflame/lutho) - Manage Kubernetes based resources in a different way. (1 month ago)
-- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents (1 month ago)
-- [Integuru-AI/Integuru](https://github.com/Integuru-AI/Integuru) - The first AI agent that builds third-party integrations through reverse engineering platforms&#39; internal APIs. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
