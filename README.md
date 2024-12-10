@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [WIP: feat: jetson orin](https://github.com/aslafy-z/yolo-object-detection-cli/pull/13) on [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) (today)
 - [feat: use a stable dashboard UID](https://github.com/ZPascal/keycloak-grafana-dashboard/pull/6) on [ZPascal/keycloak-grafana-dashboard](https://github.com/ZPascal/keycloak-grafana-dashboard) (5 days ago)
 - [fix: use the right datasource variable for Source of metrics](https://github.com/ZPascal/keycloak-grafana-dashboard/pull/5) on [ZPascal/keycloak-grafana-dashboard](https://github.com/ZPascal/keycloak-grafana-dashboard) (5 days ago)
 - [chore: lint dockerfile](https://github.com/kube-logging/logging-operator/pull/1869) on [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) (1 week ago)
@@ -23,7 +24,6 @@
 - [fix: add missing ClientOptionalScopes](https://github.com/crossplane-contrib/provider-keycloak/pull/188) on [crossplane-contrib/provider-keycloak](https://github.com/crossplane-contrib/provider-keycloak) (2 weeks ago)
 - [feat(online-boutique): configure autoscaling](https://github.com/ccl-consulting/k8saas-user-custom/pull/9) on [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) (3 weeks ago)
 - [feat: allow usage of existing service account](https://github.com/stakater/application/pull/363) on [stakater/application](https://github.com/stakater/application) (3 weeks ago)
-- [ci(helm-docs): fix diff issue in GitHub action check](https://github.com/stakater/application/pull/362) on [stakater/application](https://github.com/stakater/application) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
