@@ -40,11 +40,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [feder-cr](https://github.com/feder-cr)
 - [XiaomingX](https://github.com/XiaomingX)
 - [ernst-bablick](https://github.com/ernst-bablick)
 - [nholuongut](https://github.com/nholuongut)
 - [amirisback](https://github.com/amirisback)
-- [littlezuzu](https://github.com/littlezuzu)
 
 #### 📈 Stats
 
