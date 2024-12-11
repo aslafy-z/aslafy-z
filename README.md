@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: Add support for configuring Alertmanager STS persistentVolumeClaimRetentionPolicy](https://github.com/prometheus-operator/prometheus-operator/pull/7183) on [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) (today)
 - [WIP: feat: jetson orin](https://github.com/aslafy-z/yolo-object-detection-cli/pull/13) on [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) (1 day ago)
 - [feat: use a stable dashboard UID](https://github.com/ZPascal/keycloak-grafana-dashboard/pull/6) on [ZPascal/keycloak-grafana-dashboard](https://github.com/ZPascal/keycloak-grafana-dashboard) (6 days ago)
 - [fix: use the right datasource variable for Source of metrics](https://github.com/ZPascal/keycloak-grafana-dashboard/pull/5) on [ZPascal/keycloak-grafana-dashboard](https://github.com/ZPascal/keycloak-grafana-dashboard) (6 days ago)
@@ -23,7 +24,6 @@
 - [feat: add fine-grained realm-wide client scope management](https://github.com/keycloak/terraform-provider-keycloak/pull/1021) on [keycloak/terraform-provider-keycloak](https://github.com/keycloak/terraform-provider-keycloak) (2 weeks ago)
 - [fix: add missing ClientOptionalScopes](https://github.com/crossplane-contrib/provider-keycloak/pull/188) on [crossplane-contrib/provider-keycloak](https://github.com/crossplane-contrib/provider-keycloak) (2 weeks ago)
 - [feat(online-boutique): configure autoscaling](https://github.com/ccl-consulting/k8saas-user-custom/pull/9) on [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) (3 weeks ago)
-- [feat: allow usage of existing service account](https://github.com/stakater/application/pull/363) on [stakater/application](https://github.com/stakater/application) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
