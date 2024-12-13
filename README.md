@@ -23,7 +23,6 @@
 - [feat: update grafana dashboard](https://github.com/s3gw-tech/s3gw/pull/874) on [s3gw-tech/s3gw](https://github.com/s3gw-tech/s3gw) (3 weeks ago)
 - [feat: add fine-grained realm-wide client scope management](https://github.com/keycloak/terraform-provider-keycloak/pull/1021) on [keycloak/terraform-provider-keycloak](https://github.com/keycloak/terraform-provider-keycloak) (3 weeks ago)
 - [fix: add missing ClientOptionalScopes](https://github.com/crossplane-contrib/provider-keycloak/pull/188) on [crossplane-contrib/provider-keycloak](https://github.com/crossplane-contrib/provider-keycloak) (3 weeks ago)
-- [feat(online-boutique): configure autoscaling](https://github.com/ccl-consulting/k8saas-user-custom/pull/9) on [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
