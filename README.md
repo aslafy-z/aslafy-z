@@ -15,14 +15,14 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: update torchvision version](https://github.com/aslafy-z/yolo-object-detection-cli/pull/31) on [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) (today)
+- [fix: add missing onnxslim package](https://github.com/aslafy-z/yolo-object-detection-cli/pull/30) on [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) (today)
 - [feat: Add support for configuring Alertmanager STS persistentVolumeClaimRetentionPolicy](https://github.com/prometheus-operator/prometheus-operator/pull/7183) on [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) (2 days ago)
 - [New version](https://github.com/aslafy-z/yolo-object-detection-cli/pull/13) on [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) (3 days ago)
 - [feat: use a stable dashboard UID](https://github.com/ZPascal/keycloak-grafana-dashboard/pull/6) on [ZPascal/keycloak-grafana-dashboard](https://github.com/ZPascal/keycloak-grafana-dashboard) (1 week ago)
 - [fix: use the right datasource variable for Source of metrics](https://github.com/ZPascal/keycloak-grafana-dashboard/pull/5) on [ZPascal/keycloak-grafana-dashboard](https://github.com/ZPascal/keycloak-grafana-dashboard) (1 week ago)
 - [chore: lint dockerfile](https://github.com/kube-logging/logging-operator/pull/1869) on [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) (2 weeks ago)
 - [feat: update grafana dashboard](https://github.com/s3gw-tech/s3gw/pull/874) on [s3gw-tech/s3gw](https://github.com/s3gw-tech/s3gw) (3 weeks ago)
-- [feat: add fine-grained realm-wide client scope management](https://github.com/keycloak/terraform-provider-keycloak/pull/1021) on [keycloak/terraform-provider-keycloak](https://github.com/keycloak/terraform-provider-keycloak) (3 weeks ago)
-- [fix: add missing ClientOptionalScopes](https://github.com/crossplane-contrib/provider-keycloak/pull/188) on [crossplane-contrib/provider-keycloak](https://github.com/crossplane-contrib/provider-keycloak) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
