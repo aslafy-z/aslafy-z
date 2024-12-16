@@ -1,9 +1,9 @@
 #### 👷 Check out what I'm currently working on
 
-- [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) -  (2 days ago)
-- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes (4 days ago)
-- [stakater/Forecastle](https://github.com/stakater/Forecastle) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it! (4 days ago)
-- [swapagarwal/swag-for-dev](https://github.com/swapagarwal/swag-for-dev) - 😎 swag opportunities for developers (6 days ago)
+- [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) -  (3 days ago)
+- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes (5 days ago)
+- [stakater/Forecastle](https://github.com/stakater/Forecastle) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it! (5 days ago)
+- [swapagarwal/swag-for-dev](https://github.com/swapagarwal/swag-for-dev) - 😎 swag opportunities for developers (1 week ago)
 - [ZPascal/keycloak-grafana-dashboard](https://github.com/ZPascal/keycloak-grafana-dashboard) - Includes a KeyCloak Grafana dashboard to display the Quarkus MicroProfile metrics (1 week ago)
 - [aslafy-z/yolo-object-detection-samples](https://github.com/aslafy-z/yolo-object-detection-samples) -  (1 week ago)
 - [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes (2 weeks ago)
@@ -15,9 +15,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: add missing onnxslim package](https://github.com/aslafy-z/yolo-object-detection-cli/pull/30) on [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) (2 days ago)
-- [feat: Add support for configuring Alertmanager STS persistentVolumeClaimRetentionPolicy](https://github.com/prometheus-operator/prometheus-operator/pull/7183) on [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) (4 days ago)
-- [New version](https://github.com/aslafy-z/yolo-object-detection-cli/pull/13) on [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) (5 days ago)
+- [fix: add missing onnxslim package](https://github.com/aslafy-z/yolo-object-detection-cli/pull/30) on [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) (3 days ago)
+- [feat: Add support for configuring Alertmanager STS persistentVolumeClaimRetentionPolicy](https://github.com/prometheus-operator/prometheus-operator/pull/7183) on [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) (5 days ago)
+- [New version](https://github.com/aslafy-z/yolo-object-detection-cli/pull/13) on [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) (6 days ago)
 - [feat: use a stable dashboard UID](https://github.com/ZPascal/keycloak-grafana-dashboard/pull/6) on [ZPascal/keycloak-grafana-dashboard](https://github.com/ZPascal/keycloak-grafana-dashboard) (1 week ago)
 - [fix: use the right datasource variable for Source of metrics](https://github.com/ZPascal/keycloak-grafana-dashboard/pull/5) on [ZPascal/keycloak-grafana-dashboard](https://github.com/ZPascal/keycloak-grafana-dashboard) (1 week ago)
 - [chore: lint dockerfile](https://github.com/kube-logging/logging-operator/pull/1869) on [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) (2 weeks ago)
@@ -25,11 +25,11 @@
 
 #### ⭐ Recent Stars
 
-- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows (1 day ago)
-- [runs-on/runs-on](https://github.com/runs-on/runs-on) - 10x cheaper GitHub Actions runners. 5x faster caches. Self-hosted on AWS. (2 days ago)
-- [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav... (6 days ago)
-- [deskflow/deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It&#39;s like a software KVM (but without video). (6 days ago)
-- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites (6 days ago)
+- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows (2 days ago)
+- [runs-on/runs-on](https://github.com/runs-on/runs-on) - 10x cheaper GitHub Actions runners. 5x faster caches. Self-hosted on AWS. (3 days ago)
+- [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav... (1 week ago)
+- [deskflow/deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It&#39;s like a software KVM (but without video). (1 week ago)
+- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites (1 week ago)
 - [kubewarden/kubewarden-controller](https://github.com/kubewarden/kubewarden-controller) - Manage admission policies in your Kubernetes cluster with ease (1 week ago)
 - [robinovitch61/kl](https://github.com/robinovitch61/kl) - An interactive Kubernetes log viewer for your terminal. (2 weeks ago)
 - [replicatedhq/ttl.sh](https://github.com/replicatedhq/ttl.sh) - An anonymous &amp; ephemeral Docker image registry (2 weeks ago)
