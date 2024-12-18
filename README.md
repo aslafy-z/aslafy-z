@@ -25,6 +25,7 @@
 
 #### ⭐ Recent Stars
 
+- [andrewrk/poop](https://github.com/andrewrk/poop) - Performance Optimizer Observation Platform (today)
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows (4 days ago)
 - [runs-on/runs-on](https://github.com/runs-on/runs-on) - 10x cheaper GitHub Actions runners. 5x faster caches. Self-hosted on AWS. (5 days ago)
 - [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav... (1 week ago)
@@ -34,7 +35,6 @@
 - [robinovitch61/kl](https://github.com/robinovitch61/kl) - An interactive Kubernetes log viewer for your terminal. (2 weeks ago)
 - [replicatedhq/ttl.sh](https://github.com/replicatedhq/ttl.sh) - An anonymous &amp; ephemeral Docker image registry (2 weeks ago)
 - [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - 🦀 ⚡ kubectl port forward manager, with support for UDP and proxy connections through k8s clusters  (3 weeks ago)
-- [KusionStack/karpor](https://github.com/KusionStack/karpor) - Intelligence for Kubernetes. World&#39;s most promising Kubernetes Visualization Tool for Developer and Platform Engineering teams.  (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
