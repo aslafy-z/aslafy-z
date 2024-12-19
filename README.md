@@ -1,5 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) -  (6 days ago)
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes (1 week ago)
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it! (1 week ago)
@@ -9,7 +10,6 @@
 - [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes (3 weeks ago)
 - [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (4 weeks ago)
 - [crossplane-contrib/provider-keycloak](https://github.com/crossplane-contrib/provider-keycloak) -  (4 weeks ago)
-- [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) -  (1 month ago)
 
 
 
