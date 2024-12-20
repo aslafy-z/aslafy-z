@@ -15,13 +15,13 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: Add argo SVG logo](https://github.com/stakater/ForecastleIcons/pull/40) on [stakater/ForecastleIcons](https://github.com/stakater/ForecastleIcons) (today)
 - [[kube-prometheus-stack] Add alertmanager persistentVolumeClaimRetentionPolicy](https://github.com/prometheus-community/helm-charts/pull/5078) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [fix: add missing onnxslim package](https://github.com/aslafy-z/yolo-object-detection-cli/pull/30) on [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) (1 week ago)
 - [feat: Add support for configuring Alertmanager STS persistentVolumeClaimRetentionPolicy](https://github.com/prometheus-operator/prometheus-operator/pull/7183) on [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) (1 week ago)
 - [New version](https://github.com/aslafy-z/yolo-object-detection-cli/pull/13) on [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) (1 week ago)
 - [feat: use a stable dashboard UID](https://github.com/ZPascal/keycloak-grafana-dashboard/pull/6) on [ZPascal/keycloak-grafana-dashboard](https://github.com/ZPascal/keycloak-grafana-dashboard) (2 weeks ago)
 - [fix: use the right datasource variable for Source of metrics](https://github.com/ZPascal/keycloak-grafana-dashboard/pull/5) on [ZPascal/keycloak-grafana-dashboard](https://github.com/ZPascal/keycloak-grafana-dashboard) (2 weeks ago)
-- [chore: lint dockerfile](https://github.com/kube-logging/logging-operator/pull/1869) on [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
