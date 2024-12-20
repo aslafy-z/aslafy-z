@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: run tests on synchronize if ok-to-test is present](https://github.com/stakater/Forecastle/pull/469) on [stakater/Forecastle](https://github.com/stakater/Forecastle) (today)
 - [feat: Add argo SVG logo](https://github.com/stakater/ForecastleIcons/pull/40) on [stakater/ForecastleIcons](https://github.com/stakater/ForecastleIcons) (today)
 - [[kube-prometheus-stack] Add alertmanager persistentVolumeClaimRetentionPolicy](https://github.com/prometheus-community/helm-charts/pull/5078) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [fix: add missing onnxslim package](https://github.com/aslafy-z/yolo-object-detection-cli/pull/30) on [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) (1 week ago)
