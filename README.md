@@ -39,11 +39,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [bludnic](https://github.com/bludnic)
 - [GoldenDev321](https://github.com/GoldenDev321)
 - [XiaomingX](https://github.com/XiaomingX)
 - [ernst-bablick](https://github.com/ernst-bablick)
 - [nholuongut](https://github.com/nholuongut)
-- [amirisback](https://github.com/amirisback)
 
 #### 📈 Stats
 
