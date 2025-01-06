@@ -2,6 +2,7 @@
 
 - [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) -  (today)
 - [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts strait from Git repositories (3 days ago)
+- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (4 days ago)
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it! (2 weeks ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 weeks ago)
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes (3 weeks ago)
@@ -9,13 +10,11 @@
 - [ZPascal/keycloak-grafana-dashboard](https://github.com/ZPascal/keycloak-grafana-dashboard) - Includes a KeyCloak Grafana dashboard to display the Quarkus MicroProfile metrics (4 weeks ago)
 - [aslafy-z/yolo-object-detection-samples](https://github.com/aslafy-z/yolo-object-detection-samples) -  (1 month ago)
 - [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes (1 month ago)
-- [crossplane-contrib/provider-keycloak](https://github.com/crossplane-contrib/provider-keycloak) -  (1 month ago)
 
 
 
 #### 🔨 My recent Pull Requests
 
-- [test: certificate commonName to null](https://github.com/stakater/application/pull/370) on [stakater/application](https://github.com/stakater/application) (today)
 - [docs: remove privileged docker flag](https://github.com/aslafy-z/yolo-object-detection-cli/pull/37) on [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) (today)
 - [ci: run tests on synchronize if ok-to-test is present](https://github.com/stakater/Forecastle/pull/469) on [stakater/Forecastle](https://github.com/stakater/Forecastle) (2 weeks ago)
 - [feat: Add argo SVG logo](https://github.com/stakater/ForecastleIcons/pull/40) on [stakater/ForecastleIcons](https://github.com/stakater/ForecastleIcons) (2 weeks ago)
