@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [test: list all packages](https://github.com/aslafy-z/yolo-object-detection-cli/pull/38) on [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) (today)
 - [fix: upgrading nltk dependency to fix wordnet/punkt download](https://github.com/srbhr/Resume-Matcher/pull/300) on [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) (today)
 - [docs: remove privileged docker flag](https://github.com/aslafy-z/yolo-object-detection-cli/pull/37) on [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) (2 days ago)
 - [ci: run tests on synchronize if ok-to-test is present](https://github.com/stakater/Forecastle/pull/469) on [stakater/Forecastle](https://github.com/stakater/Forecastle) (2 weeks ago)
