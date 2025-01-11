@@ -38,11 +38,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [mowhn](https://github.com/mowhn)
 - [xxspell](https://github.com/xxspell)
 - [bludnic](https://github.com/bludnic)
 - [GoldenDev321](https://github.com/GoldenDev321)
 - [ernst-bablick](https://github.com/ernst-bablick)
-- [nholuongut](https://github.com/nholuongut)
 
 #### 📈 Stats
 
