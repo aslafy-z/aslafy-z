@@ -15,7 +15,6 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add debug log](https://github.com/styfle/cancel-workflow-action/pull/213) on [styfle/cancel-workflow-action](https://github.com/styfle/cancel-workflow-action) (2 days ago)
 - [test: list all packages](https://github.com/aslafy-z/yolo-object-detection-cli/pull/38) on [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) (4 days ago)
 - [fix: upgrading nltk dependency to fix wordnet/punkt download](https://github.com/srbhr/Resume-Matcher/pull/300) on [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) (4 days ago)
 - [docs: remove privileged docker flag](https://github.com/aslafy-z/yolo-object-detection-cli/pull/37) on [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) (6 days ago)
