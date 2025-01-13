@@ -15,13 +15,13 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(mqtt): add auth support](https://github.com/aslafy-z/yolo-object-detection-cli/pull/40) on [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) (today)
 - [fix: disable onnx model simplification](https://github.com/aslafy-z/yolo-object-detection-cli/pull/39) on [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) (today)
 - [test: list all packages](https://github.com/aslafy-z/yolo-object-detection-cli/pull/38) on [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) (5 days ago)
 - [fix: upgrading nltk dependency to fix wordnet/punkt download](https://github.com/srbhr/Resume-Matcher/pull/300) on [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) (5 days ago)
 - [docs: remove privileged docker flag](https://github.com/aslafy-z/yolo-object-detection-cli/pull/37) on [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) (1 week ago)
 - [ci: run tests on synchronize if ok-to-test is present](https://github.com/stakater/Forecastle/pull/469) on [stakater/Forecastle](https://github.com/stakater/Forecastle) (3 weeks ago)
 - [feat: Add argo SVG logo](https://github.com/stakater/ForecastleIcons/pull/40) on [stakater/ForecastleIcons](https://github.com/stakater/ForecastleIcons) (3 weeks ago)
-- [[kube-prometheus-stack] Add alertmanager persistentVolumeClaimRetentionPolicy](https://github.com/prometheus-community/helm-charts/pull/5078) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
