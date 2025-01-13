@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: disable onnx model simplification](https://github.com/aslafy-z/yolo-object-detection-cli/pull/39) on [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) (today)
 - [test: list all packages](https://github.com/aslafy-z/yolo-object-detection-cli/pull/38) on [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) (5 days ago)
 - [fix: upgrading nltk dependency to fix wordnet/punkt download](https://github.com/srbhr/Resume-Matcher/pull/300) on [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) (5 days ago)
 - [docs: remove privileged docker flag](https://github.com/aslafy-z/yolo-object-detection-cli/pull/37) on [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) (1 week ago)
