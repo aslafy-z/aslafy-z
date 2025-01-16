@@ -25,6 +25,7 @@
 
 #### ⭐ Recent Stars
 
+- [giantswarm/crd-docs-generator](https://github.com/giantswarm/crd-docs-generator) - Tooling to create user-friendly reference documentation for Kubernetes Custom Resource Definitions (CRDs) (today)
 - [xentra-ai/kube-guardian](https://github.com/xentra-ai/kube-guardian) - A Kubernetes tool leveraging eBPF for advanced Kubernetes security, auto-generating Network Policies, Seccomp Profiles, and more. (today)
 - [fast4x/RiMusic](https://github.com/fast4x/RiMusic) - A multilingual Android application for streaming music from YouTube Music. (1 week ago)
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.  (1 week ago)
@@ -34,7 +35,6 @@
 - [gianlucam76/k8s-cleaner](https://github.com/gianlucam76/k8s-cleaner) - Cleaner is a Kubernetes controller that identifies unused or unhealthy resources, helping you maintain a streamlined and efficient Kubernetes cluster. It provides flexible scheduling, label filtering, Lua-based selection criteria, resource removal or update and notifications via Slack, Webex and Discord. it can also automate clusters operations. (4 weeks ago)
 - [andrewrk/poop](https://github.com/andrewrk/poop) - Performance Optimizer Observation Platform (4 weeks ago)
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows (1 month ago)
-- [runs-on/runs-on](https://github.com/runs-on/runs-on) - Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, 30% faster, and unlimited caching. Best alternative to Actions Runner Controller. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
