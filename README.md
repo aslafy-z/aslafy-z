@@ -25,6 +25,7 @@
 
 #### ⭐ Recent Stars
 
+- [Freika/dawarich](https://github.com/Freika/dawarich) - Self-hosted alternative to Google Location History (Google Maps Timeline) (today)
 - [microcumulus/ca-injector](https://github.com/microcumulus/ca-injector) - Painlessly use off-the-shelf images (and your own) in your k8s cluster, with custom root CAs. (1 day ago)
 - [giantswarm/crd-docs-generator](https://github.com/giantswarm/crd-docs-generator) - Tooling to create user-friendly reference documentation for Kubernetes Custom Resource Definitions (CRDs) (1 day ago)
 - [xentra-ai/kube-guardian](https://github.com/xentra-ai/kube-guardian) - A Kubernetes tool leveraging eBPF for advanced Kubernetes security, auto-generating Network Policies, Seccomp Profiles, and more. (1 day ago)
@@ -34,7 +35,6 @@
 - [Trow-Registry/trow](https://github.com/Trow-Registry/trow) - Container Registry and Image Management for Kubernetes Clusters (2 weeks ago)
 - [containerd/nydus-snapshotter](https://github.com/containerd/nydus-snapshotter) - A containerd snapshotter with data deduplication and lazy loading in P2P fashion (3 weeks ago)
 - [gianlucam76/k8s-cleaner](https://github.com/gianlucam76/k8s-cleaner) - Cleaner is a Kubernetes controller that identifies unused or unhealthy resources, helping you maintain a streamlined and efficient Kubernetes cluster. It provides flexible scheduling, label filtering, Lua-based selection criteria, resource removal or update and notifications via Slack, Webex and Discord. it can also automate clusters operations. (4 weeks ago)
-- [andrewrk/poop](https://github.com/andrewrk/poop) - Performance Optimizer Observation Platform (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
