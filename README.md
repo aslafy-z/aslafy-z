@@ -25,6 +25,7 @@
 
 #### ⭐ Recent Stars
 
+- [keygen-sh/keygen-api](https://github.com/keygen-sh/keygen-api) - Keygen is a fair source software licensing and distribution API built with Ruby on Rails. For developers, by developers. (today)
 - [container-registry/helm-charts-oci-proxy](https://github.com/container-registry/helm-charts-oci-proxy) - The Helm Charts OCI Proxy, will proxy and transform Helm Chart into OCI images on the fly. Address any Helm Chart as OCI image.  (today)
 - [Freika/dawarich](https://github.com/Freika/dawarich) - Self-hosted alternative to Google Location History (Google Maps Timeline) (today)
 - [microcumulus/ca-injector](https://github.com/microcumulus/ca-injector) - Painlessly use off-the-shelf images (and your own) in your k8s cluster, with custom root CAs. (1 day ago)
@@ -34,7 +35,6 @@
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.  (1 week ago)
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (2 weeks ago)
 - [Trow-Registry/trow](https://github.com/Trow-Registry/trow) - Container Registry and Image Management for Kubernetes Clusters (2 weeks ago)
-- [containerd/nydus-snapshotter](https://github.com/containerd/nydus-snapshotter) - A containerd snapshotter with data deduplication and lazy loading in P2P fashion (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
