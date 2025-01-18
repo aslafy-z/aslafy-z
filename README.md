@@ -15,13 +15,13 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(french): update broken link](https://github.com/fmhy/edit/pull/2859) on [fmhy/edit](https://github.com/fmhy/edit) (today)
 - [feat: use kubectl events for plugin `watch-events`](https://github.com/derailed/k9s/pull/3062) on [derailed/k9s](https://github.com/derailed/k9s) (2 days ago)
 - [feat(mqtt): add auth support](https://github.com/aslafy-z/yolo-object-detection-cli/pull/40) on [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) (5 days ago)
 - [fix: disable onnx model simplification](https://github.com/aslafy-z/yolo-object-detection-cli/pull/39) on [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) (5 days ago)
 - [test: list all packages](https://github.com/aslafy-z/yolo-object-detection-cli/pull/38) on [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) (1 week ago)
 - [fix: upgrading nltk dependency to fix wordnet/punkt download](https://github.com/srbhr/Resume-Matcher/pull/300) on [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) (1 week ago)
 - [docs: remove privileged docker flag](https://github.com/aslafy-z/yolo-object-detection-cli/pull/37) on [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) (1 week ago)
-- [ci: run tests on synchronize if ok-to-test is present](https://github.com/stakater/Forecastle/pull/469) on [stakater/Forecastle](https://github.com/stakater/Forecastle) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
