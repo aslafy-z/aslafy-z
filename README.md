@@ -1,8 +1,8 @@
 #### 👷 Check out what I'm currently working on
 
+- [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) -  (today)
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style! (3 days ago)
 - [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY (4 days ago)
-- [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) -  (1 week ago)
 - [terraform-aws-modules/terraform-aws-lambda](https://github.com/terraform-aws-modules/terraform-aws-lambda) - Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦 (2 weeks ago)
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using AI, Reader LLMs, to compare and rank resumes with job descriptions.  (2 weeks ago)
 - [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts strait from Git repositories (2 weeks ago)
@@ -15,14 +15,14 @@
 
 #### 🔨 My recent Pull Requests
 
+- [WIP: fix cross-platform dependencies](https://github.com/aslafy-z/yolo-object-detection-cli/pull/42) on [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) (today)
+- [feat: configurable model precision](https://github.com/aslafy-z/yolo-object-detection-cli/pull/41) on [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) (today)
 - [fix(fleet-provisioning): CSR creation null check](https://github.com/aws-greengrass/aws-greengrass-lite/pull/793) on [aws-greengrass/aws-greengrass-lite](https://github.com/aws-greengrass/aws-greengrass-lite) (today)
 - [fix(fleet-provisioning): remove csr version set](https://github.com/aws-greengrass/aws-greengrass-lite/pull/792) on [aws-greengrass/aws-greengrass-lite](https://github.com/aws-greengrass/aws-greengrass-lite) (today)
 - [fix(french): update broken link](https://github.com/fmhy/edit/pull/2859) on [fmhy/edit](https://github.com/fmhy/edit) (4 days ago)
 - [feat: use kubectl events for plugin `watch-events`](https://github.com/derailed/k9s/pull/3062) on [derailed/k9s](https://github.com/derailed/k9s) (6 days ago)
 - [feat(mqtt): add auth support](https://github.com/aslafy-z/yolo-object-detection-cli/pull/40) on [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) (1 week ago)
 - [fix: disable onnx model simplification](https://github.com/aslafy-z/yolo-object-detection-cli/pull/39) on [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) (1 week ago)
-- [test: list all packages](https://github.com/aslafy-z/yolo-object-detection-cli/pull/38) on [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) (2 weeks ago)
-- [fix: upgrading nltk dependency to fix wordnet/punkt download](https://github.com/srbhr/Resume-Matcher/pull/300) on [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
