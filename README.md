@@ -26,6 +26,7 @@
 
 #### ⭐ Recent Stars
 
+- [yassinebenaid/bunster](https://github.com/yassinebenaid/bunster) - Compile shell scripts to static binaries. (today)
 - [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, and IAM services in public beta. (1 day ago)
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image (1 day ago)
 - [fmhy/FMHY](https://github.com/fmhy/FMHY) - /r/FREEMEDIAHECKYEAH (5 days ago)
@@ -35,7 +36,6 @@
 - [Freika/dawarich](https://github.com/Freika/dawarich) - Self-hosted alternative to Google Location History (Google Maps Timeline) (1 week ago)
 - [microcumulus/ca-injector](https://github.com/microcumulus/ca-injector) - Painlessly use off-the-shelf images (and your own) in your k8s cluster, with custom root CAs. (1 week ago)
 - [giantswarm/crd-docs-generator](https://github.com/giantswarm/crd-docs-generator) - Tooling to create user-friendly reference documentation for Kubernetes Custom Resource Definitions (CRDs) (1 week ago)
-- [xentra-ai/kube-guardian](https://github.com/xentra-ai/kube-guardian) - A Kubernetes tool leveraging eBPF for advanced Kubernetes security, auto-generating Network Policies, Seccomp Profiles, and more. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
