@@ -26,6 +26,7 @@
 
 #### ⭐ Recent Stars
 
+- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API. (today)
 - [yassinebenaid/bunster](https://github.com/yassinebenaid/bunster) - Compile shell scripts to static binaries. (1 day ago)
 - [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, and IAM services in public beta. (2 days ago)
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image (2 days ago)
@@ -35,7 +36,6 @@
 - [container-registry/helm-charts-oci-proxy](https://github.com/container-registry/helm-charts-oci-proxy) - The Helm Charts OCI Proxy, will proxy and transform Helm Chart into OCI images on the fly. Address any Helm Chart as OCI image.  (1 week ago)
 - [Freika/dawarich](https://github.com/Freika/dawarich) - Self-hosted alternative to Google Location History (Google Maps Timeline) (1 week ago)
 - [microcumulus/ca-injector](https://github.com/microcumulus/ca-injector) - Painlessly use off-the-shelf images (and your own) in your k8s cluster, with custom root CAs. (1 week ago)
-- [giantswarm/crd-docs-generator](https://github.com/giantswarm/crd-docs-generator) - Tooling to create user-friendly reference documentation for Kubernetes Custom Resource Definitions (CRDs) (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
