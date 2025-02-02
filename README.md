@@ -26,6 +26,8 @@
 
 #### ⭐ Recent Stars
 
+- [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - DevSecOps for Air Gap &amp; Limited-Connection Systems. https://zarf.dev/ (today)
+- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps. (today)
 - [freedomofpress/dangerzone](https://github.com/freedomofpress/dangerzone) - Take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs (1 day ago)
 - [dphilla/boxer](https://github.com/dphilla/boxer) - Dockerfile → Universal Wasm Binary (1 day ago)
 - [latitude-dev/latitude-llm](https://github.com/latitude-dev/latitude-llm) - Latitude is the open-source prompt engineering platform to build, evaluate, and refine your prompts with AI (6 days ago)
@@ -34,8 +36,6 @@
 - [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, and IAM services in public beta. (1 week ago)
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image (1 week ago)
 - [fmhy/FMHY](https://github.com/fmhy/FMHY) - /r/FREEMEDIAHECKYEAH (2 weeks ago)
-- [Jigsaw-Code/outline-apps](https://github.com/Jigsaw-Code/outline-apps) - Outline Client and Manager, developed by Jigsaw. Outline Manager makes it easy to create your own VPN server. Outline Client lets you share access to your VPN with anyone in your network, giving them access to the free and open internet. (2 weeks ago)
-- [keygen-sh/keygen-api](https://github.com/keygen-sh/keygen-api) - Keygen is a fair source software licensing and distribution API built with Ruby on Rails. For developers, by developers. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
