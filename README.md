@@ -2,7 +2,7 @@
 
 - [aws-greengrass/aws-greengrass-lite](https://github.com/aws-greengrass/aws-greengrass-lite) - The Greengrass nucleus lite provides a lightweight alternative to the Greengrass nucleus runtime. The nucleus lite aims to be compatible with the Greengrass nucleus, but implements a subset of its functionality. Expect future releases to reduce the feature gap. (2 weeks ago)
 - [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) -  (2 weeks ago)
-- [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style! (2 weeks ago)
+- [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style! (3 weeks ago)
 - [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY (3 weeks ago)
 - [terraform-aws-modules/terraform-aws-lambda](https://github.com/terraform-aws-modules/terraform-aws-lambda) - Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦 (1 month ago)
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using AI, Reader LLMs, to compare and rank resumes with job descriptions.  (1 month ago)
@@ -26,11 +26,11 @@
 
 #### ⭐ Recent Stars
 
-- [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (6 days ago)
-- [sustainable-computing-io/kepler](https://github.com/sustainable-computing-io/kepler) - Kepler (Kubernetes-based Efficient Power Level Exporter) uses eBPF to probe performance counters and other system stats, use ML models to estimate workload energy consumption based on these stats, and exports them as Prometheus metrics (6 days ago)
-- [metal-stack/metal-api](https://github.com/metal-stack/metal-api) - API to manage and control plane resources like machines, switches, operating system images, machine sizes, networks, IP addresses and more (6 days ago)
-- [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - DevSecOps for Air Gap &amp; Limited-Connection Systems. https://zarf.dev/ (6 days ago)
-- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps. (6 days ago)
+- [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (1 week ago)
+- [sustainable-computing-io/kepler](https://github.com/sustainable-computing-io/kepler) - Kepler (Kubernetes-based Efficient Power Level Exporter) uses eBPF to probe performance counters and other system stats, use ML models to estimate workload energy consumption based on these stats, and exports them as Prometheus metrics (1 week ago)
+- [metal-stack/metal-api](https://github.com/metal-stack/metal-api) - API to manage and control plane resources like machines, switches, operating system images, machine sizes, networks, IP addresses and more (1 week ago)
+- [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - DevSecOps for Air Gap &amp; Limited-Connection Systems. https://zarf.dev/ (1 week ago)
+- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps. (1 week ago)
 - [freedomofpress/dangerzone](https://github.com/freedomofpress/dangerzone) - Take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs (1 week ago)
 - [dphilla/boxer](https://github.com/dphilla/boxer) - Dockerfile → Universal Wasm Binary (1 week ago)
 - [latitude-dev/latitude-llm](https://github.com/latitude-dev/latitude-llm) - Latitude is the open-source prompt engineering platform to build, evaluate, and refine your prompts with AI (1 week ago)
