@@ -21,12 +21,12 @@
 - [fix(fleet-provisioning): remove csr version set](https://github.com/aws-greengrass/aws-greengrass-lite/pull/792) on [aws-greengrass/aws-greengrass-lite](https://github.com/aws-greengrass/aws-greengrass-lite) (2 weeks ago)
 - [fix(french): update broken link](https://github.com/fmhy/edit/pull/2859) on [fmhy/edit](https://github.com/fmhy/edit) (3 weeks ago)
 - [feat: use kubectl events for plugin `watch-events`](https://github.com/derailed/k9s/pull/3062) on [derailed/k9s](https://github.com/derailed/k9s) (3 weeks ago)
-- [feat(mqtt): add auth support](https://github.com/aslafy-z/yolo-object-detection-cli/pull/40) on [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) (3 weeks ago)
-- [fix: disable onnx model simplification](https://github.com/aslafy-z/yolo-object-detection-cli/pull/39) on [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) (3 weeks ago)
+- [feat(mqtt): add auth support](https://github.com/aslafy-z/yolo-object-detection-cli/pull/40) on [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) (4 weeks ago)
+- [fix: disable onnx model simplification](https://github.com/aslafy-z/yolo-object-detection-cli/pull/39) on [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (today)
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (1 day ago)
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (1 week ago)
 - [sustainable-computing-io/kepler](https://github.com/sustainable-computing-io/kepler) - Kepler (Kubernetes-based Efficient Power Level Exporter) uses eBPF to probe performance counters and other system stats, use ML models to estimate workload energy consumption based on these stats, and exports them as Prometheus metrics (1 week ago)
 - [metal-stack/metal-api](https://github.com/metal-stack/metal-api) - API to manage and control plane resources like machines, switches, operating system images, machine sizes, networks, IP addresses and more (1 week ago)
@@ -34,7 +34,7 @@
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps. (1 week ago)
 - [freedomofpress/dangerzone](https://github.com/freedomofpress/dangerzone) - Take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs (1 week ago)
 - [dphilla/boxer](https://github.com/dphilla/boxer) - Dockerfile → Universal Wasm Binary (1 week ago)
-- [latitude-dev/latitude-llm](https://github.com/latitude-dev/latitude-llm) - Latitude is the open-source prompt engineering platform to build, evaluate, and refine your prompts with AI (1 week ago)
+- [latitude-dev/latitude-llm](https://github.com/latitude-dev/latitude-llm) - Latitude is the open-source prompt engineering platform to build, evaluate, and refine your prompts with AI (2 weeks ago)
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
