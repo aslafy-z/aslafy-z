@@ -26,6 +26,7 @@
 
 #### ⭐ Recent Stars
 
+- [deepch/RTSPtoWeb](https://github.com/deepch/RTSPtoWeb) - RTSP Stream to WebBrowser (today)
 - [mrhavens/Dedockify](https://github.com/mrhavens/Dedockify) - Reverse engineer Docker images into Dockerfiles. (today)
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (2 days ago)
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (1 week ago)
@@ -35,7 +36,6 @@
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps. (1 week ago)
 - [freedomofpress/dangerzone](https://github.com/freedomofpress/dangerzone) - Take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs (1 week ago)
 - [dphilla/boxer](https://github.com/dphilla/boxer) - Dockerfile → Universal Wasm Binary (1 week ago)
-- [latitude-dev/latitude-llm](https://github.com/latitude-dev/latitude-llm) - Latitude is the open-source prompt engineering platform to build, evaluate, and refine your prompts with AI (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
