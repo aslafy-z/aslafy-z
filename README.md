@@ -26,6 +26,7 @@
 
 #### ⭐ Recent Stars
 
+- [mrhavens/Dedockify](https://github.com/mrhavens/Dedockify) - Reverse engineer Docker images into Dockerfiles. (today)
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (2 days ago)
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (1 week ago)
 - [sustainable-computing-io/kepler](https://github.com/sustainable-computing-io/kepler) - Kepler (Kubernetes-based Efficient Power Level Exporter) uses eBPF to probe performance counters and other system stats, use ML models to estimate workload energy consumption based on these stats, and exports them as Prometheus metrics (1 week ago)
@@ -35,7 +36,6 @@
 - [freedomofpress/dangerzone](https://github.com/freedomofpress/dangerzone) - Take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs (1 week ago)
 - [dphilla/boxer](https://github.com/dphilla/boxer) - Dockerfile → Universal Wasm Binary (1 week ago)
 - [latitude-dev/latitude-llm](https://github.com/latitude-dev/latitude-llm) - Latitude is the open-source prompt engineering platform to build, evaluate, and refine your prompts with AI (2 weeks ago)
-- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
