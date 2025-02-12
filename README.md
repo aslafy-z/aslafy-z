@@ -26,6 +26,7 @@
 
 #### ⭐ Recent Stars
 
+- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful (today)
 - [deepch/RTSPtoWeb](https://github.com/deepch/RTSPtoWeb) - RTSP Stream to WebBrowser (1 day ago)
 - [mrhavens/Dedockify](https://github.com/mrhavens/Dedockify) - Reverse engineer Docker images into Dockerfiles. (1 day ago)
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (3 days ago)
@@ -35,7 +36,6 @@
 - [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - DevSecOps for Air Gap &amp; Limited-Connection Systems. https://zarf.dev/ (1 week ago)
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps. (1 week ago)
 - [freedomofpress/dangerzone](https://github.com/freedomofpress/dangerzone) - Take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs (1 week ago)
-- [dphilla/boxer](https://github.com/dphilla/boxer) - Dockerfile → Universal Wasm Binary (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
