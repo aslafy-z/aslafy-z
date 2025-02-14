@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(docs): update killercoda scenario url](https://github.com/peak-scale/capsule-argo-addon/pull/143) on [peak-scale/capsule-argo-addon](https://github.com/peak-scale/capsule-argo-addon) (today)
 - [WIP: fix cross-platform dependencies](https://github.com/aslafy-z/yolo-object-detection-cli/pull/42) on [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) (3 weeks ago)
 - [feat: configurable model precision](https://github.com/aslafy-z/yolo-object-detection-cli/pull/41) on [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) (3 weeks ago)
 - [fix(fleet-provisioning): CSR creation null check](https://github.com/aws-greengrass/aws-greengrass-lite/pull/793) on [aws-greengrass/aws-greengrass-lite](https://github.com/aws-greengrass/aws-greengrass-lite) (3 weeks ago)
