@@ -39,11 +39,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [XiaomingX](https://github.com/XiaomingX)
 - [Pratik-Sanghavi](https://github.com/Pratik-Sanghavi)
 - [LinuxJS](https://github.com/LinuxJS)
 - [mowhn](https://github.com/mowhn)
 - [xxspell](https://github.com/xxspell)
-- [bludnic](https://github.com/bludnic)
 
 #### 📈 Stats
 
