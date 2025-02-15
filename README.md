@@ -1,5 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
+- [peak-scale/capsule-argo-addon](https://github.com/peak-scale/capsule-argo-addon) - Addon for Capsule to integrate with Argo Projects (today)
 - [aws-greengrass/aws-greengrass-lite](https://github.com/aws-greengrass/aws-greengrass-lite) - The Greengrass nucleus lite provides a lightweight alternative to the Greengrass nucleus runtime. The nucleus lite aims to be compatible with the Greengrass nucleus, but implements a subset of its functionality. Expect future releases to reduce the feature gap. (3 weeks ago)
 - [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) -  (3 weeks ago)
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style! (3 weeks ago)
@@ -9,7 +10,6 @@
 - [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts strait from Git repositories (1 month ago)
 - [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (1 month ago)
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it! (1 month ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 month ago)
 
 
 
