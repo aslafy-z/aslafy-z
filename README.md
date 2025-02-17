@@ -27,6 +27,7 @@
 
 #### ⭐ Recent Stars
 
+- [wger-project/wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout, nutrition and weight tracker (today)
 - [whot/git-branch-tools](https://github.com/whot/git-branch-tools) - A set of tools to manage git branches better (3 days ago)
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful (5 days ago)
 - [deepch/RTSPtoWeb](https://github.com/deepch/RTSPtoWeb) - RTSP Stream to WebBrowser (6 days ago)
@@ -36,7 +37,6 @@
 - [sustainable-computing-io/kepler](https://github.com/sustainable-computing-io/kepler) - Kepler (Kubernetes-based Efficient Power Level Exporter) uses eBPF to probe performance counters and other system stats, use ML models to estimate workload energy consumption based on these stats, and exports them as Prometheus metrics (2 weeks ago)
 - [metal-stack/metal-api](https://github.com/metal-stack/metal-api) - API to manage and control plane resources like machines, switches, operating system images, machine sizes, networks, IP addresses and more (2 weeks ago)
 - [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - DevSecOps for Air Gap &amp; Limited-Connection Systems. https://zarf.dev/ (2 weeks ago)
-- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
