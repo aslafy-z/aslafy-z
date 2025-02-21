@@ -15,7 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [docs: update redirect error handler validation for code](https://github.com/dadrus/heimdall/pull/2203) on [dadrus/heimdall](https://github.com/dadrus/heimdall) (today)
+- [chore: Warning related to redirect error handler code usage removed](https://github.com/dadrus/heimdall/pull/2203) on [dadrus/heimdall](https://github.com/dadrus/heimdall) (today)
 - [chore: update pull request template links](https://github.com/dadrus/heimdall/pull/2202) on [dadrus/heimdall](https://github.com/dadrus/heimdall) (today)
 - [fix: www_authenticate error handler schema typo](https://github.com/dadrus/heimdall/pull/2201) on [dadrus/heimdall](https://github.com/dadrus/heimdall) (today)
 - [fix(docs): update killercoda scenario url](https://github.com/peak-scale/capsule-argo-addon/pull/143) on [peak-scale/capsule-argo-addon](https://github.com/peak-scale/capsule-argo-addon) (1 week ago)
