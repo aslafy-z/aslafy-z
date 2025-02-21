@@ -1,5 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
+- [dadrus/heimdall](https://github.com/dadrus/heimdall) - A cloud native Identity Aware Proxy and Access Control Decision service (today)
 - [peak-scale/capsule-argo-addon](https://github.com/peak-scale/capsule-argo-addon) - Addon for Capsule to integrate with Argo Projects (6 days ago)
 - [aws-greengrass/aws-greengrass-lite](https://github.com/aws-greengrass/aws-greengrass-lite) - The Greengrass nucleus lite provides a lightweight alternative to the Greengrass nucleus runtime. The nucleus lite aims to be compatible with the Greengrass nucleus, but implements a subset of its functionality. Expect future releases to reduce the feature gap. (4 weeks ago)
 - [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) -  (1 month ago)
@@ -9,12 +10,14 @@
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using AI, Reader LLMs, to compare and rank resumes with job descriptions.  (1 month ago)
 - [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts strait from Git repositories (1 month ago)
 - [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (1 month ago)
-- [stakater/Forecastle](https://github.com/stakater/Forecastle) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it! (2 months ago)
 
 
 
 #### 🔨 My recent Pull Requests
 
+- [docs: update redirect error handler validation for code](https://github.com/dadrus/heimdall/pull/2203) on [dadrus/heimdall](https://github.com/dadrus/heimdall) (today)
+- [chore: update pull request template links](https://github.com/dadrus/heimdall/pull/2202) on [dadrus/heimdall](https://github.com/dadrus/heimdall) (today)
+- [fix: www_authenticate error handler schema typo](https://github.com/dadrus/heimdall/pull/2201) on [dadrus/heimdall](https://github.com/dadrus/heimdall) (today)
 - [fix(docs): update killercoda scenario url](https://github.com/peak-scale/capsule-argo-addon/pull/143) on [peak-scale/capsule-argo-addon](https://github.com/peak-scale/capsule-argo-addon) (1 week ago)
 - [WIP: fix cross-platform dependencies](https://github.com/aslafy-z/yolo-object-detection-cli/pull/42) on [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) (1 month ago)
 - [feat: configurable model precision](https://github.com/aslafy-z/yolo-object-detection-cli/pull/41) on [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) (1 month ago)
@@ -22,8 +25,6 @@
 - [fix(fleet-provisioning): remove csr version set](https://github.com/aws-greengrass/aws-greengrass-lite/pull/792) on [aws-greengrass/aws-greengrass-lite](https://github.com/aws-greengrass/aws-greengrass-lite) (1 month ago)
 - [fix(french): update broken link](https://github.com/fmhy/edit/pull/2859) on [fmhy/edit](https://github.com/fmhy/edit) (1 month ago)
 - [feat: use kubectl events for plugin `watch-events`](https://github.com/derailed/k9s/pull/3062) on [derailed/k9s](https://github.com/derailed/k9s) (1 month ago)
-- [feat(mqtt): add auth support](https://github.com/aslafy-z/yolo-object-detection-cli/pull/40) on [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) (1 month ago)
-- [fix: disable onnx model simplification](https://github.com/aslafy-z/yolo-object-detection-cli/pull/39) on [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) (1 month ago)
 
 #### ⭐ Recent Stars
 
