@@ -42,10 +42,10 @@
 #### 👯 Check out some of my recent followers
 
 - [reed6868](https://github.com/reed6868)
-- [XiaomingX](https://github.com/XiaomingX)
 - [Pratik-Sanghavi](https://github.com/Pratik-Sanghavi)
 - [LinuxJS](https://github.com/LinuxJS)
 - [mowhn](https://github.com/mowhn)
+- [xxspell](https://github.com/xxspell)
 
 #### 📈 Stats
 
