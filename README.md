@@ -1,6 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
-- [dadrus/heimdall](https://github.com/dadrus/heimdall) - A cloud native Identity Aware Proxy and Access Control Decision service (3 days ago)
+- [dadrus/heimdall](https://github.com/dadrus/heimdall) - A cloud native Identity Aware Proxy and Access Control Decision service (4 days ago)
 - [peak-scale/capsule-argo-addon](https://github.com/peak-scale/capsule-argo-addon) - Addon for Capsule to integrate with Argo Projects (1 week ago)
 - [aws-greengrass/aws-greengrass-lite](https://github.com/aws-greengrass/aws-greengrass-lite) - The Greengrass nucleus lite provides a lightweight alternative to the Greengrass nucleus runtime. The nucleus lite aims to be compatible with the Greengrass nucleus, but implements a subset of its functionality. Expect future releases to reduce the feature gap. (1 month ago)
 - [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) -  (1 month ago)
@@ -15,9 +15,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [chore: Warning related to redirect error handler code usage removed](https://github.com/dadrus/heimdall/pull/2203) on [dadrus/heimdall](https://github.com/dadrus/heimdall) (3 days ago)
-- [chore: update pull request template links](https://github.com/dadrus/heimdall/pull/2202) on [dadrus/heimdall](https://github.com/dadrus/heimdall) (3 days ago)
-- [fix: www_authenticate error handler schema typo](https://github.com/dadrus/heimdall/pull/2201) on [dadrus/heimdall](https://github.com/dadrus/heimdall) (3 days ago)
+- [chore: Warning related to redirect error handler code usage removed](https://github.com/dadrus/heimdall/pull/2203) on [dadrus/heimdall](https://github.com/dadrus/heimdall) (4 days ago)
+- [chore: update pull request template links](https://github.com/dadrus/heimdall/pull/2202) on [dadrus/heimdall](https://github.com/dadrus/heimdall) (4 days ago)
+- [fix: www_authenticate error handler schema typo](https://github.com/dadrus/heimdall/pull/2201) on [dadrus/heimdall](https://github.com/dadrus/heimdall) (4 days ago)
 - [fix(docs): update killercoda scenario url](https://github.com/peak-scale/capsule-argo-addon/pull/143) on [peak-scale/capsule-argo-addon](https://github.com/peak-scale/capsule-argo-addon) (1 week ago)
 - [WIP: fix cross-platform dependencies](https://github.com/aslafy-z/yolo-object-detection-cli/pull/42) on [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) (1 month ago)
 - [feat: configurable model precision](https://github.com/aslafy-z/yolo-object-detection-cli/pull/41) on [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) (1 month ago)
@@ -28,15 +28,15 @@
 
 #### ⭐ Recent Stars
 
-- [cilium/pwru](https://github.com/cilium/pwru) - Packet, where are you? -- eBPF-based Linux kernel networking debugger (2 days ago)
-- [kro-run/kro](https://github.com/kro-run/kro) - kro | Kube Resource Orchestrator (2 days ago)
-- [dadrus/heimdall](https://github.com/dadrus/heimdall) - A cloud native Identity Aware Proxy and Access Control Decision service (3 days ago)
-- [peak-scale/capsule-argo-addon](https://github.com/peak-scale/capsule-argo-addon) - Addon for Capsule to integrate with Argo Projects (3 days ago)
+- [cilium/pwru](https://github.com/cilium/pwru) - Packet, where are you? -- eBPF-based Linux kernel networking debugger (3 days ago)
+- [kro-run/kro](https://github.com/kro-run/kro) - kro | Kube Resource Orchestrator (3 days ago)
+- [dadrus/heimdall](https://github.com/dadrus/heimdall) - A cloud native Identity Aware Proxy and Access Control Decision service (4 days ago)
+- [peak-scale/capsule-argo-addon](https://github.com/peak-scale/capsule-argo-addon) - Addon for Capsule to integrate with Argo Projects (4 days ago)
 - [wger-project/wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout, nutrition and weight tracker (1 week ago)
 - [whot/git-branch-tools](https://github.com/whot/git-branch-tools) - A set of tools to manage git branches better (1 week ago)
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful (1 week ago)
-- [deepch/RTSPtoWeb](https://github.com/deepch/RTSPtoWeb) - RTSP Stream to WebBrowser (1 week ago)
-- [mrhavens/Dedockify](https://github.com/mrhavens/Dedockify) - Reverse engineer Docker images into Dockerfiles. (1 week ago)
+- [deepch/RTSPtoWeb](https://github.com/deepch/RTSPtoWeb) - RTSP Stream to WebBrowser (2 weeks ago)
+- [mrhavens/Dedockify](https://github.com/mrhavens/Dedockify) - Reverse engineer Docker images into Dockerfiles. (2 weeks ago)
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
