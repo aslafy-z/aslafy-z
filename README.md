@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(tailer): reduce fluent-bit log level to error](https://github.com/kube-logging/logging-operator/pull/1957) on [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) (today)
 - [chore: update hugo package to 0.144.0-r0](https://github.com/dadrus/heimdall/pull/2245) on [dadrus/heimdall](https://github.com/dadrus/heimdall) (today)
 - [feat(header-finalizer): support multiple headers with same name](https://github.com/dadrus/heimdall/pull/2244) on [dadrus/heimdall](https://github.com/dadrus/heimdall) (today)
 - [test workflow](https://github.com/aslafy-z/github-actions/pull/16) on [aslafy-z/github-actions](https://github.com/aslafy-z/github-actions) (today)
