@@ -15,11 +15,12 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: update hugo package to 0.144.0-r0](https://github.com/dadrus/heimdall/pull/2245) on [dadrus/heimdall](https://github.com/dadrus/heimdall) (today)
+- [feat(header-finalizer): support multiple headers with same name](https://github.com/dadrus/heimdall/pull/2244) on [dadrus/heimdall](https://github.com/dadrus/heimdall) (today)
 - [test workflow](https://github.com/aslafy-z/github-actions/pull/16) on [aslafy-z/github-actions](https://github.com/aslafy-z/github-actions) (today)
 - [chore: Warning related to redirect error handler code usage removed](https://github.com/dadrus/heimdall/pull/2203) on [dadrus/heimdall](https://github.com/dadrus/heimdall) (6 days ago)
 - [chore: update pull request template links](https://github.com/dadrus/heimdall/pull/2202) on [dadrus/heimdall](https://github.com/dadrus/heimdall) (6 days ago)
 - [fix: www_authenticate error handler schema typo](https://github.com/dadrus/heimdall/pull/2201) on [dadrus/heimdall](https://github.com/dadrus/heimdall) (6 days ago)
-- [Update e2e.yml](https://github.com/aslafy-z/github-actions/pull/11) on [aslafy-z/github-actions](https://github.com/aslafy-z/github-actions) (1 week ago)
 
 #### ⭐ Recent Stars
 
