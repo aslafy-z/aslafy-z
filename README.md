@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(online-boutique): update velero schedule ttl](https://github.com/ccl-consulting/k8saas-user-custom/pull/11) on [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) (today)
 - [feat(tailer): reduce fluent-bit log level to error](https://github.com/kube-logging/logging-operator/pull/1957) on [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) (1 day ago)
 - [chore: update hugo package to 0.144.0-r0](https://github.com/dadrus/heimdall/pull/2245) on [dadrus/heimdall](https://github.com/dadrus/heimdall) (1 day ago)
 - [feat(header-finalizer): support multiple headers with same name](https://github.com/dadrus/heimdall/pull/2244) on [dadrus/heimdall](https://github.com/dadrus/heimdall) (1 day ago)
