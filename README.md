@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(online-boutique): stop forcing online-boutique namespace](https://github.com/ccl-consulting/k8saas-user-custom/pull/14) on [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) (today)
 - [feat(online-boutique): add name and instance labels](https://github.com/ccl-consulting/k8saas-user-custom/pull/13) on [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) (today)
 - [fix(online-boutique): update velero schedule ttl](https://github.com/ccl-consulting/k8saas-user-custom/pull/11) on [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) (1 week ago)
 - [feat(tailer): reduce fluent-bit log level to error](https://github.com/kube-logging/logging-operator/pull/1957) on [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) (1 week ago)
