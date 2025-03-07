@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(logs): add application/octet-stream to the supported formats](https://github.com/seriohub/velero-api/pull/48) on [seriohub/velero-api](https://github.com/seriohub/velero-api) (today)
 - [fix(online-boutique): stop forcing online-boutique namespace](https://github.com/ccl-consulting/k8saas-user-custom/pull/14) on [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) (today)
 - [feat(online-boutique): add name and instance labels](https://github.com/ccl-consulting/k8saas-user-custom/pull/13) on [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) (today)
 - [fix(online-boutique): update velero schedule ttl](https://github.com/ccl-consulting/k8saas-user-custom/pull/11) on [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) (1 week ago)
@@ -24,7 +25,6 @@
 - [test workflow](https://github.com/aslafy-z/github-actions/pull/16) on [aslafy-z/github-actions](https://github.com/aslafy-z/github-actions) (1 week ago)
 - [chore: Warning related to redirect error handler code usage removed](https://github.com/dadrus/heimdall/pull/2203) on [dadrus/heimdall](https://github.com/dadrus/heimdall) (2 weeks ago)
 - [chore: update pull request template links](https://github.com/dadrus/heimdall/pull/2202) on [dadrus/heimdall](https://github.com/dadrus/heimdall) (2 weeks ago)
-- [fix: www_authenticate error handler schema typo](https://github.com/dadrus/heimdall/pull/2201) on [dadrus/heimdall](https://github.com/dadrus/heimdall) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
