@@ -41,11 +41,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Suzan1994](https://github.com/Suzan1994)
 - [chipnertkj](https://github.com/chipnertkj)
 - [reed6868](https://github.com/reed6868)
 - [Pratik-Sanghavi](https://github.com/Pratik-Sanghavi)
 - [LinuxJS](https://github.com/LinuxJS)
-- [mowhn](https://github.com/mowhn)
 
 #### 📈 Stats
 
