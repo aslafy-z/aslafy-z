@@ -15,6 +15,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: use capsule svg logo in readme](https://github.com/projectcapsule/capsule/pull/1401) on [projectcapsule/capsule](https://github.com/projectcapsule/capsule) (today)
+- [chore: Square Fit capsule SVG logo](https://github.com/projectcapsule/capsule/pull/1400) on [projectcapsule/capsule](https://github.com/projectcapsule/capsule) (today)
 - [fix(logs): add application/octet-stream to the supported formats](https://github.com/seriohub/velero-api/pull/48) on [seriohub/velero-api](https://github.com/seriohub/velero-api) (6 days ago)
 - [fix(online-boutique): stop forcing online-boutique namespace](https://github.com/ccl-consulting/k8saas-user-custom/pull/14) on [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) (6 days ago)
 - [feat(online-boutique): add name and instance labels](https://github.com/ccl-consulting/k8saas-user-custom/pull/13) on [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) (6 days ago)
@@ -23,8 +25,6 @@
 - [chore: update hugo package to 0.144.0-r0](https://github.com/dadrus/heimdall/pull/2245) on [dadrus/heimdall](https://github.com/dadrus/heimdall) (2 weeks ago)
 - [feat(header-finalizer): support multiple headers with same name](https://github.com/dadrus/heimdall/pull/2244) on [dadrus/heimdall](https://github.com/dadrus/heimdall) (2 weeks ago)
 - [test workflow](https://github.com/aslafy-z/github-actions/pull/16) on [aslafy-z/github-actions](https://github.com/aslafy-z/github-actions) (2 weeks ago)
-- [chore: Warning related to redirect error handler code usage removed](https://github.com/dadrus/heimdall/pull/2203) on [dadrus/heimdall](https://github.com/dadrus/heimdall) (2 weeks ago)
-- [chore: update pull request template links](https://github.com/dadrus/heimdall/pull/2202) on [dadrus/heimdall](https://github.com/dadrus/heimdall) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
