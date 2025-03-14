@@ -28,6 +28,7 @@
 
 #### ⭐ Recent Stars
 
+- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop (today)
 - [ChristofferNissen/helmper](https://github.com/ChristofferNissen/helmper) - Import Helm Charts to OCI registries, optionally with vulnerability patching (1 week ago)
 - [kubecost/disk-autoscaler](https://github.com/kubecost/disk-autoscaler) - Resize Kubernetes PersistentVolumes automatically based on Kubecost recommendations. (1 week ago)
 - [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure &amp; Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP) (1 week ago)
@@ -37,7 +38,6 @@
 - [sebadob/rauthy](https://github.com/sebadob/rauthy) - OpenID Connect Single Sign-On Identity &amp; Access Management (2 weeks ago)
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (2 weeks ago)
 - [maniacx/Bluetooth-Battery-Meter](https://github.com/maniacx/Bluetooth-Battery-Meter) - A Gnome extension featuring indicator icons in system tray, serving as meter for Bluetooth device battery levels and providing detailed battery levels via icon/text in the Bluetooth quick settings menu. (2 weeks ago)
-- [acrlabs/simkube](https://github.com/acrlabs/simkube) - Record-and-replay Kubernetes simulator based on KWOK (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
