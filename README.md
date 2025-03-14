@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [docs: remove non existing enable-global-auth configmap field](https://github.com/kubernetes/ingress-nginx/pull/12976) on [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) (today)
 - [chore: use capsule svg logo in readme](https://github.com/projectcapsule/capsule/pull/1401) on [projectcapsule/capsule](https://github.com/projectcapsule/capsule) (1 day ago)
 - [chore: Square Fit capsule SVG logo](https://github.com/projectcapsule/capsule/pull/1400) on [projectcapsule/capsule](https://github.com/projectcapsule/capsule) (1 day ago)
 - [fix(logs): add application/octet-stream to the supported formats](https://github.com/seriohub/velero-api/pull/48) on [seriohub/velero-api](https://github.com/seriohub/velero-api) (1 week ago)
@@ -24,7 +25,6 @@
 - [feat(tailer): reduce fluent-bit log level to error](https://github.com/kube-logging/logging-operator/pull/1957) on [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) (2 weeks ago)
 - [chore: update hugo package to 0.144.0-r0](https://github.com/dadrus/heimdall/pull/2245) on [dadrus/heimdall](https://github.com/dadrus/heimdall) (2 weeks ago)
 - [feat(header-finalizer): support multiple headers with same name](https://github.com/dadrus/heimdall/pull/2244) on [dadrus/heimdall](https://github.com/dadrus/heimdall) (2 weeks ago)
-- [test workflow](https://github.com/aslafy-z/github-actions/pull/16) on [aslafy-z/github-actions](https://github.com/aslafy-z/github-actions) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
