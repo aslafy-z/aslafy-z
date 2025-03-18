@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: update readme header](https://github.com/kube-logging/logging-operator/pull/1985) on [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) (today)
 - [feat: annotations &amp; pod annotations](https://github.com/seriohub/velero-helm/pull/59) on [seriohub/velero-helm](https://github.com/seriohub/velero-helm) (1 day ago)
 - [Docs: Use `enable-global-auth` annotation instead of non-existing ConfigMap option.](https://github.com/kubernetes/ingress-nginx/pull/12976) on [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) (4 days ago)
 - [chore: use capsule svg logo in readme](https://github.com/projectcapsule/capsule/pull/1401) on [projectcapsule/capsule](https://github.com/projectcapsule/capsule) (5 days ago)
@@ -24,7 +25,6 @@
 - [feat(online-boutique): add name and instance labels](https://github.com/ccl-consulting/k8saas-user-custom/pull/13) on [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) (1 week ago)
 - [fix(online-boutique): update velero schedule ttl](https://github.com/ccl-consulting/k8saas-user-custom/pull/11) on [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) (2 weeks ago)
 - [feat(tailer): reduce fluent-bit log level to error](https://github.com/kube-logging/logging-operator/pull/1957) on [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) (2 weeks ago)
-- [chore: update hugo package to 0.144.0-r0](https://github.com/dadrus/heimdall/pull/2245) on [dadrus/heimdall](https://github.com/dadrus/heimdall) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
