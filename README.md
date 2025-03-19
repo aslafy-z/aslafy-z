@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: support for single users role association](https://github.com/cloudposse/terraform-aws-managed-grafana/pull/7) on [cloudposse/terraform-aws-managed-grafana](https://github.com/cloudposse/terraform-aws-managed-grafana) (today)
 - [chore: update readme header](https://github.com/kube-logging/logging-operator/pull/1985) on [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) (1 day ago)
 - [feat: annotations &amp; pod annotations](https://github.com/seriohub/velero-helm/pull/59) on [seriohub/velero-helm](https://github.com/seriohub/velero-helm) (2 days ago)
 - [Docs: Use `enable-global-auth` annotation instead of non-existing ConfigMap option.](https://github.com/kubernetes/ingress-nginx/pull/12976) on [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) (5 days ago)
@@ -24,7 +25,6 @@
 - [fix(online-boutique): stop forcing online-boutique namespace](https://github.com/ccl-consulting/k8saas-user-custom/pull/14) on [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) (1 week ago)
 - [feat(online-boutique): add name and instance labels](https://github.com/ccl-consulting/k8saas-user-custom/pull/13) on [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) (1 week ago)
 - [fix(online-boutique): update velero schedule ttl](https://github.com/ccl-consulting/k8saas-user-custom/pull/11) on [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) (2 weeks ago)
-- [feat(tailer): reduce fluent-bit log level to error](https://github.com/kube-logging/logging-operator/pull/1957) on [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
