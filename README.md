@@ -28,6 +28,7 @@
 
 #### ⭐ Recent Stars
 
+- [mirceanton/kubectl-switch](https://github.com/mirceanton/kubectl-switch) - A simple tool to help manage multiple kubeconfig files (today)
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop (6 days ago)
 - [ChristofferNissen/helmper](https://github.com/ChristofferNissen/helmper) - Import Helm Charts to OCI registries, optionally with vulnerability patching (2 weeks ago)
 - [kubecost/disk-autoscaler](https://github.com/kubecost/disk-autoscaler) - Resize Kubernetes PersistentVolumes automatically based on Kubecost recommendations. (2 weeks ago)
@@ -37,7 +38,6 @@
 - [sebadob/hiqlite](https://github.com/sebadob/hiqlite) - Hiqlite - highly-available, embeddable, raft-based SQLite &#43; cache (2 weeks ago)
 - [sebadob/rauthy](https://github.com/sebadob/rauthy) - OpenID Connect Single Sign-On Identity &amp; Access Management (2 weeks ago)
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (3 weeks ago)
-- [maniacx/Bluetooth-Battery-Meter](https://github.com/maniacx/Bluetooth-Battery-Meter) - A Gnome extension featuring indicator icons in system tray, serving as meter for Bluetooth device battery levels and providing detailed battery levels via icon/text in the Bluetooth quick settings menu. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
