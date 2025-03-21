@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(chart): aggregated view clusterrole](https://github.com/kube-logging/logging-operator/pull/1989) on [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) (today)
 - [fix: update artifact name downloaded by get-crdoc.sh](https://github.com/fybrik/crdoc/pull/321) on [fybrik/crdoc](https://github.com/fybrik/crdoc) (1 day ago)
 - [fix: crd API references](https://github.com/projectcapsule/website/pull/16) on [projectcapsule/website](https://github.com/projectcapsule/website) (1 day ago)
 - [feat: support for single users role association](https://github.com/cloudposse/terraform-aws-managed-grafana/pull/7) on [cloudposse/terraform-aws-managed-grafana](https://github.com/cloudposse/terraform-aws-managed-grafana) (2 days ago)
@@ -24,7 +25,6 @@
 - [chore: use capsule svg logo in readme](https://github.com/projectcapsule/capsule/pull/1401) on [projectcapsule/capsule](https://github.com/projectcapsule/capsule) (1 week ago)
 - [chore: Square Fit capsule SVG logo](https://github.com/projectcapsule/capsule/pull/1400) on [projectcapsule/capsule](https://github.com/projectcapsule/capsule) (1 week ago)
 - [fix(logs): add application/octet-stream to the supported formats](https://github.com/seriohub/velero-api/pull/48) on [seriohub/velero-api](https://github.com/seriohub/velero-api) (2 weeks ago)
-- [fix(online-boutique): stop forcing online-boutique namespace](https://github.com/ccl-consulting/k8saas-user-custom/pull/14) on [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
