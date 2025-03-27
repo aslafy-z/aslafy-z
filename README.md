@@ -1,6 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
-- [projectcapsule/website](https://github.com/projectcapsule/website) - Capsule User-Documentation (6 days ago)
+- [projectcapsule/website](https://github.com/projectcapsule/website) - Capsule User-Documentation (1 week ago)
 - [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes (1 week ago)
 - [projectcapsule/capsule](https://github.com/projectcapsule/capsule) - Multi-tenancy and policy-based framework for Kubernetes. (1 week ago)
 - [seriohub/velero-helm](https://github.com/seriohub/velero-helm) - Helm charts for velero-ui, velero-api, and velero-watchdog (1 week ago)
@@ -15,22 +15,22 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat(chart): aggregated view clusterrole](https://github.com/kube-logging/logging-operator/pull/1989) on [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) (5 days ago)
-- [fix: update artifact name downloaded by get-crdoc.sh](https://github.com/fybrik/crdoc/pull/321) on [fybrik/crdoc](https://github.com/fybrik/crdoc) (6 days ago)
-- [fix: crd API references](https://github.com/projectcapsule/website/pull/16) on [projectcapsule/website](https://github.com/projectcapsule/website) (6 days ago)
+- [feat(chart): aggregated view clusterrole](https://github.com/kube-logging/logging-operator/pull/1989) on [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) (6 days ago)
+- [fix: update artifact name downloaded by get-crdoc.sh](https://github.com/fybrik/crdoc/pull/321) on [fybrik/crdoc](https://github.com/fybrik/crdoc) (1 week ago)
+- [fix: crd API references](https://github.com/projectcapsule/website/pull/16) on [projectcapsule/website](https://github.com/projectcapsule/website) (1 week ago)
 - [feat: support for single users role association](https://github.com/cloudposse/terraform-aws-managed-grafana/pull/7) on [cloudposse/terraform-aws-managed-grafana](https://github.com/cloudposse/terraform-aws-managed-grafana) (1 week ago)
 - [chore: update readme header](https://github.com/kube-logging/logging-operator/pull/1985) on [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) (1 week ago)
 - [feat: annotations &amp; pod annotations](https://github.com/seriohub/velero-helm/pull/59) on [seriohub/velero-helm](https://github.com/seriohub/velero-helm) (1 week ago)
 - [Docs: Use `enable-global-auth` annotation instead of non-existing ConfigMap option.](https://github.com/kubernetes/ingress-nginx/pull/12976) on [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) (1 week ago)
-- [chore: use capsule svg logo in readme](https://github.com/projectcapsule/capsule/pull/1401) on [projectcapsule/capsule](https://github.com/projectcapsule/capsule) (1 week ago)
-- [chore: Square Fit capsule SVG logo](https://github.com/projectcapsule/capsule/pull/1400) on [projectcapsule/capsule](https://github.com/projectcapsule/capsule) (1 week ago)
+- [chore: use capsule svg logo in readme](https://github.com/projectcapsule/capsule/pull/1401) on [projectcapsule/capsule](https://github.com/projectcapsule/capsule) (2 weeks ago)
+- [chore: Square Fit capsule SVG logo](https://github.com/projectcapsule/capsule/pull/1400) on [projectcapsule/capsule](https://github.com/projectcapsule/capsule) (2 weeks ago)
 - [fix(logs): add application/octet-stream to the supported formats](https://github.com/seriohub/velero-api/pull/48) on [seriohub/velero-api](https://github.com/seriohub/velero-api) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator. (today)
-- [fybrik/crdoc](https://github.com/fybrik/crdoc) - Generate markdown documentation from Kubernetes Custom Resource Definition (CRD) YAML files (6 days ago)
-- [mirceanton/kubectl-switch](https://github.com/mirceanton/kubectl-switch) - A simple tool to help manage multiple kubeconfig files (6 days ago)
+- [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator. (1 day ago)
+- [fybrik/crdoc](https://github.com/fybrik/crdoc) - Generate markdown documentation from Kubernetes Custom Resource Definition (CRD) YAML files (1 week ago)
+- [mirceanton/kubectl-switch](https://github.com/mirceanton/kubectl-switch) - A simple tool to help manage multiple kubeconfig files (1 week ago)
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop (1 week ago)
 - [ChristofferNissen/helmper](https://github.com/ChristofferNissen/helmper) - Import Helm Charts to OCI registries, optionally with vulnerability patching (3 weeks ago)
 - [kubecost/disk-autoscaler](https://github.com/kubecost/disk-autoscaler) - Resize Kubernetes PersistentVolumes automatically based on Kubecost recommendations. (3 weeks ago)
