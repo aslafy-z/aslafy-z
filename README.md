@@ -28,6 +28,7 @@
 
 #### ⭐ Recent Stars
 
+- [jumppad-labs/jumppad](https://github.com/jumppad-labs/jumppad) - Modern cloud native development environments (today)
 - [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator. (1 day ago)
 - [fybrik/crdoc](https://github.com/fybrik/crdoc) - Generate markdown documentation from Kubernetes Custom Resource Definition (CRD) YAML files (1 week ago)
 - [mirceanton/kubectl-switch](https://github.com/mirceanton/kubectl-switch) - A simple tool to help manage multiple kubeconfig files (1 week ago)
@@ -37,7 +38,6 @@
 - [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure &amp; Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP) (3 weeks ago)
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation. (3 weeks ago)
 - [knqyf263/sou](https://github.com/knqyf263/sou) - A tool for exploring files in container image layers (3 weeks ago)
-- [sebadob/hiqlite](https://github.com/sebadob/hiqlite) - Hiqlite - highly-available, embeddable, raft-based SQLite &#43; cache (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
