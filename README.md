@@ -28,6 +28,7 @@
 
 #### ⭐ Recent Stars
 
+- [krkn-chaos/krkn](https://github.com/krkn-chaos/krkn) - Chaos and resiliency testing tool for Kubernetes with a focus on improving performance under failure conditions. A CNCF sandbox project. (today)
 - [jumppad-labs/jumppad](https://github.com/jumppad-labs/jumppad) - Modern cloud native development environments (6 days ago)
 - [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator. (1 week ago)
 - [fybrik/crdoc](https://github.com/fybrik/crdoc) - Generate markdown documentation from Kubernetes Custom Resource Definition (CRD) YAML files (1 week ago)
@@ -37,7 +38,6 @@
 - [kubecost/disk-autoscaler](https://github.com/kubecost/disk-autoscaler) - Resize Kubernetes PersistentVolumes automatically based on Kubecost recommendations. (1 month ago)
 - [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure &amp; Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP) (1 month ago)
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation. (1 month ago)
-- [knqyf263/sou](https://github.com/knqyf263/sou) - A tool for exploring files in container image layers (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
