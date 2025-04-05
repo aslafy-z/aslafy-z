@@ -4,7 +4,7 @@
 - [projectcapsule/website](https://github.com/projectcapsule/website) - Capsule User-Documentation (2 weeks ago)
 - [projectcapsule/capsule](https://github.com/projectcapsule/capsule) - Multi-tenancy and policy-based framework for Kubernetes. (2 weeks ago)
 - [seriohub/velero-helm](https://github.com/seriohub/velero-helm) - Helm charts for velero-ui, velero-api, and velero-watchdog (2 weeks ago)
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress NGINX Controller for Kubernetes (2 weeks ago)
+- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress NGINX Controller for Kubernetes (3 weeks ago)
 - [seriohub/velero-api](https://github.com/seriohub/velero-api) - This Python project is designed to communicate with the velero client in the Kubernetes environment. Created as a backend project for Velero-UI. (4 weeks ago)
 - [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) -  (4 weeks ago)
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it! (1 month ago)
@@ -15,8 +15,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [chore: standardize naming to &#34;Logging operator&#34;](https://github.com/kube-logging/.github/pull/5) on [kube-logging/.github](https://github.com/kube-logging/.github) (today)
-- [chore: standardize naming to &#34;Logging operator&#34;](https://github.com/kube-logging/logging-operator/pull/2004) on [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) (today)
+- [chore: standardize naming to &#34;Logging operator&#34;](https://github.com/kube-logging/.github/pull/5) on [kube-logging/.github](https://github.com/kube-logging/.github) (1 day ago)
+- [chore: standardize naming to &#34;Logging operator&#34;](https://github.com/kube-logging/logging-operator/pull/2004) on [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) (1 day ago)
 - [feat(chart): aggregated view clusterrole](https://github.com/kube-logging/logging-operator/pull/1989) on [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) (2 weeks ago)
 - [fix: update artifact name downloaded by get-crdoc.sh](https://github.com/fybrik/crdoc/pull/321) on [fybrik/crdoc](https://github.com/fybrik/crdoc) (2 weeks ago)
 - [fix: crd API references](https://github.com/projectcapsule/website/pull/16) on [projectcapsule/website](https://github.com/projectcapsule/website) (2 weeks ago)
@@ -28,11 +28,11 @@
 
 #### ⭐ Recent Stars
 
-- [kube-burner/kube-burner](https://github.com/kube-burner/kube-burner) - Kubernetes performance and scale test orchestration framework written in golang (today)
-- [perses/perses](https://github.com/perses/perses) - The CNCF sandbox for observability visualisation. Already supports Prometheus/Tempo - more data sources to come! (1 day ago)
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI (2 days ago)
-- [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry. (2 days ago)
-- [krkn-chaos/krkn](https://github.com/krkn-chaos/krkn) - Chaos and resiliency testing tool for Kubernetes with a focus on improving performance under failure conditions. A CNCF sandbox project. (2 days ago)
+- [kube-burner/kube-burner](https://github.com/kube-burner/kube-burner) - Kubernetes performance and scale test orchestration framework written in golang (1 day ago)
+- [perses/perses](https://github.com/perses/perses) - The CNCF sandbox for observability visualisation. Already supports Prometheus/Tempo - more data sources to come! (2 days ago)
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI (3 days ago)
+- [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry. (3 days ago)
+- [krkn-chaos/krkn](https://github.com/krkn-chaos/krkn) - Chaos and resiliency testing tool for Kubernetes with a focus on improving performance under failure conditions. A CNCF sandbox project. (3 days ago)
 - [jumppad-labs/jumppad](https://github.com/jumppad-labs/jumppad) - Modern cloud native development environments (1 week ago)
 - [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator. (1 week ago)
 - [fybrik/crdoc](https://github.com/fybrik/crdoc) - Generate markdown documentation from Kubernetes Custom Resource Definition (CRD) YAML files (2 weeks ago)
