@@ -1,7 +1,7 @@
 #### 👷 Check out what I'm currently working on
 
-- [kube-logging/.github](https://github.com/kube-logging/.github) - Org-wide GitHub configurations (6 days ago)
-- [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes (2 weeks ago)
+- [kube-logging/.github](https://github.com/kube-logging/.github) - Org-wide GitHub configurations (1 week ago)
+- [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes (3 weeks ago)
 - [projectcapsule/website](https://github.com/projectcapsule/website) - Capsule User-Documentation (3 weeks ago)
 - [projectcapsule/capsule](https://github.com/projectcapsule/capsule) - Multi-tenancy and policy-based framework for Kubernetes. (3 weeks ago)
 - [seriohub/velero-helm](https://github.com/seriohub/velero-helm) - Helm charts for velero-ui, velero-api, and velero-watchdog (3 weeks ago)
@@ -15,21 +15,21 @@
 
 #### 🔨 My recent Pull Requests
 
-- [chore: standardize naming to &#34;Logging operator&#34;](https://github.com/kube-logging/.github/pull/5) on [kube-logging/.github](https://github.com/kube-logging/.github) (6 days ago)
-- [chore: standardize naming to &#34;Logging operator&#34;](https://github.com/kube-logging/logging-operator/pull/2004) on [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) (6 days ago)
-- [feat(chart): aggregated view clusterrole](https://github.com/kube-logging/logging-operator/pull/1989) on [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) (2 weeks ago)
+- [chore: standardize naming to &#34;Logging operator&#34;](https://github.com/kube-logging/.github/pull/5) on [kube-logging/.github](https://github.com/kube-logging/.github) (1 week ago)
+- [chore: standardize naming to &#34;Logging operator&#34;](https://github.com/kube-logging/logging-operator/pull/2004) on [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) (1 week ago)
+- [feat(chart): aggregated view clusterrole](https://github.com/kube-logging/logging-operator/pull/1989) on [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) (3 weeks ago)
 - [fix: update artifact name downloaded by get-crdoc.sh](https://github.com/fybrik/crdoc/pull/321) on [fybrik/crdoc](https://github.com/fybrik/crdoc) (3 weeks ago)
 - [fix: crd API references](https://github.com/projectcapsule/website/pull/16) on [projectcapsule/website](https://github.com/projectcapsule/website) (3 weeks ago)
 - [feat: support for single users role association](https://github.com/cloudposse/terraform-aws-managed-grafana/pull/7) on [cloudposse/terraform-aws-managed-grafana](https://github.com/cloudposse/terraform-aws-managed-grafana) (3 weeks ago)
 - [chore: update readme header](https://github.com/kube-logging/logging-operator/pull/1985) on [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) (3 weeks ago)
 - [feat: annotations &amp; pod annotations](https://github.com/seriohub/velero-helm/pull/59) on [seriohub/velero-helm](https://github.com/seriohub/velero-helm) (3 weeks ago)
-- [Docs: Use `enable-global-auth` annotation instead of non-existing ConfigMap option.](https://github.com/kubernetes/ingress-nginx/pull/12976) on [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) (3 weeks ago)
+- [Docs: Use `enable-global-auth` annotation instead of non-existing ConfigMap option.](https://github.com/kubernetes/ingress-nginx/pull/12976) on [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) (4 weeks ago)
 - [chore: use capsule svg logo in readme](https://github.com/projectcapsule/capsule/pull/1401) on [projectcapsule/capsule](https://github.com/projectcapsule/capsule) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail) - Real-time logging dashboard for Kubernetes (3 days ago)
-- [kube-burner/kube-burner](https://github.com/kube-burner/kube-burner) - Kubernetes performance and scale test orchestration framework written in golang (6 days ago)
+- [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail) - Real-time logging dashboard for Kubernetes (4 days ago)
+- [kube-burner/kube-burner](https://github.com/kube-burner/kube-burner) - Kubernetes performance and scale test orchestration framework written in golang (1 week ago)
 - [perses/perses](https://github.com/perses/perses) - The CNCF sandbox for observability visualisation. Already supports Prometheus/Tempo - more data sources to come! (1 week ago)
 - [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord (1 week ago)
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry. (1 week ago)
