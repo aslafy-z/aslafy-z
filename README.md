@@ -15,6 +15,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: remove trailing spaces in descriptions](https://github.com/cisco-open/operator-tools/pull/284) on [cisco-open/operator-tools](https://github.com/cisco-open/operator-tools) (today)
+- [chore: standardize naming to &#34;Logging operator&#34;](https://github.com/kube-logging/kube-logging.github.io/pull/282) on [kube-logging/kube-logging.github.io](https://github.com/kube-logging/kube-logging.github.io) (today)
 - [chore: standardize naming to &#34;Logging operator&#34;](https://github.com/kube-logging/.github/pull/5) on [kube-logging/.github](https://github.com/kube-logging/.github) (1 week ago)
 - [chore: standardize naming to &#34;Logging operator&#34;](https://github.com/kube-logging/logging-operator/pull/2004) on [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) (1 week ago)
 - [feat(chart): aggregated view clusterrole](https://github.com/kube-logging/logging-operator/pull/1989) on [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) (3 weeks ago)
@@ -23,8 +25,6 @@
 - [feat: support for single users role association](https://github.com/cloudposse/terraform-aws-managed-grafana/pull/7) on [cloudposse/terraform-aws-managed-grafana](https://github.com/cloudposse/terraform-aws-managed-grafana) (3 weeks ago)
 - [chore: update readme header](https://github.com/kube-logging/logging-operator/pull/1985) on [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) (3 weeks ago)
 - [feat: annotations &amp; pod annotations](https://github.com/seriohub/velero-helm/pull/59) on [seriohub/velero-helm](https://github.com/seriohub/velero-helm) (3 weeks ago)
-- [Docs: Use `enable-global-auth` annotation instead of non-existing ConfigMap option.](https://github.com/kubernetes/ingress-nginx/pull/12976) on [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) (4 weeks ago)
-- [chore: use capsule svg logo in readme](https://github.com/projectcapsule/capsule/pull/1401) on [projectcapsule/capsule](https://github.com/projectcapsule/capsule) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
