@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(*job): render labels and annotations as a map](https://github.com/stakater/application/pull/377) on [stakater/application](https://github.com/stakater/application) (today)
 - [fix: remove trailing spaces in descriptions](https://github.com/cisco-open/operator-tools/pull/284) on [cisco-open/operator-tools](https://github.com/cisco-open/operator-tools) (3 days ago)
 - [chore: standardize naming to &#34;Logging operator&#34;](https://github.com/kube-logging/kube-logging.github.io/pull/282) on [kube-logging/kube-logging.github.io](https://github.com/kube-logging/kube-logging.github.io) (3 days ago)
 - [chore: standardize naming to &#34;Logging operator&#34;](https://github.com/kube-logging/.github/pull/5) on [kube-logging/.github](https://github.com/kube-logging/.github) (1 week ago)
@@ -24,7 +25,6 @@
 - [fix: crd API references](https://github.com/projectcapsule/website/pull/16) on [projectcapsule/website](https://github.com/projectcapsule/website) (3 weeks ago)
 - [feat: support for single users role association](https://github.com/cloudposse/terraform-aws-managed-grafana/pull/7) on [cloudposse/terraform-aws-managed-grafana](https://github.com/cloudposse/terraform-aws-managed-grafana) (3 weeks ago)
 - [chore: update readme header](https://github.com/kube-logging/logging-operator/pull/1985) on [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) (3 weeks ago)
-- [feat: annotations &amp; pod annotations](https://github.com/seriohub/velero-helm/pull/59) on [seriohub/velero-helm](https://github.com/seriohub/velero-helm) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
