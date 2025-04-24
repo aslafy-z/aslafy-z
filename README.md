@@ -1,7 +1,7 @@
 #### 👷 Check out what I'm currently working on
 
+- [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes (1 week ago)
 - [kube-logging/kube-logging.github.io](https://github.com/kube-logging/kube-logging.github.io) - Logging operator documentation (1 week ago)
-- [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes (2 weeks ago)
 - [kube-logging/.github](https://github.com/kube-logging/.github) - Org-wide GitHub configurations (2 weeks ago)
 - [projectcapsule/website](https://github.com/projectcapsule/website) - Capsule User-Documentation (1 month ago)
 - [projectcapsule/capsule](https://github.com/projectcapsule/capsule) - Multi-tenancy and policy-based framework for Kubernetes. (1 month ago)
