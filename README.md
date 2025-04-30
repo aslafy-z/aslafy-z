@@ -28,6 +28,7 @@
 
 #### ⭐ Recent Stars
 
+- [nishanb/CK-X](https://github.com/nishanb/CK-X) - A realistic exam simulator for CKAD, CKA, and CKS featuring timed sessions and hands-on labs with pre-configured clusters. (today)
 - [chdb-io/chdb](https://github.com/chdb-io/chdb) - chDB is an in-process OLAP SQL Engine 🚀 powered by ClickHouse  (1 week ago)
 - [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail) - Real-time logging dashboard for Kubernetes (browser/terminal) (3 weeks ago)
 - [kube-burner/kube-burner](https://github.com/kube-burner/kube-burner) - Kubernetes performance and scale test orchestration framework written in golang (3 weeks ago)
@@ -37,7 +38,6 @@
 - [krkn-chaos/krkn](https://github.com/krkn-chaos/krkn) - Chaos and resiliency testing tool for Kubernetes with a focus on improving performance under failure conditions. A CNCF sandbox project. (4 weeks ago)
 - [jumppad-labs/jumppad](https://github.com/jumppad-labs/jumppad) - Modern cloud native development environments (1 month ago)
 - [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator. (1 month ago)
-- [fybrik/crdoc](https://github.com/fybrik/crdoc) - Generate markdown documentation from Kubernetes Custom Resource Definition (CRD) YAML files (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
