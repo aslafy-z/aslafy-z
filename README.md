@@ -8,7 +8,7 @@
 - [projectcapsule/capsule](https://github.com/projectcapsule/capsule) - Multi-tenancy and policy-based framework for Kubernetes. (1 month ago)
 - [seriohub/velero-helm](https://github.com/seriohub/velero-helm) - Helm charts for velero-ui, velero-api, and velero-watchdog (1 month ago)
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress NGINX Controller for Kubernetes (1 month ago)
-- [seriohub/velero-api](https://github.com/seriohub/velero-api) - This Python project is designed to communicate with the velero client in the Kubernetes environment. Created as a backend project for Velero-UI. (2 months ago)
+- [seriohub/vui-api](https://github.com/seriohub/vui-api) - This Python project is designed to communicate with the velero client in the Kubernetes environment. Created as a backend project for Velero-UI. (2 months ago)
 - [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) -  (2 months ago)
 
 
