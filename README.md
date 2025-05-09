@@ -28,6 +28,7 @@
 
 #### ⭐ Recent Stars
 
+- [SVG-Edit/svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser (today)
 - [nishanb/CK-X](https://github.com/nishanb/CK-X) - A realistic exam simulator for CKAD, CKA, and CKS featuring timed sessions and hands-on labs with pre-configured clusters. (1 week ago)
 - [chdb-io/chdb](https://github.com/chdb-io/chdb) - chDB is an in-process OLAP SQL Engine 🚀 powered by ClickHouse  (2 weeks ago)
 - [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail) - Real-time logging dashboard for Kubernetes (browser/terminal) (1 month ago)
@@ -37,7 +38,6 @@
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry. (1 month ago)
 - [krkn-chaos/krkn](https://github.com/krkn-chaos/krkn) - Chaos and resiliency testing tool for Kubernetes with a focus on improving performance under failure conditions. A CNCF sandbox project. (1 month ago)
 - [jumppad-labs/jumppad](https://github.com/jumppad-labs/jumppad) - Modern cloud native development environments (1 month ago)
-- [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
