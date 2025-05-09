@@ -1,8 +1,8 @@
 #### 👷 Check out what I'm currently working on
 
-- [aslafy-z/aws-greengrass-docker-builds](https://github.com/aslafy-z/aws-greengrass-docker-builds) - Automated multi-arch images of AWS Greengrass Nucleus, built daily with the latest aws-greengrass-docker code and published to GHCR. (1 day ago)
-- [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes (3 weeks ago)
-- [kube-logging/kube-logging.github.io](https://github.com/kube-logging/kube-logging.github.io) - Logging operator documentation (3 weeks ago)
+- [aslafy-z/aws-greengrass-docker-builds](https://github.com/aslafy-z/aws-greengrass-docker-builds) - Automated multi-arch images of AWS Greengrass Nucleus, built daily with the latest aws-greengrass-docker code and published to GHCR. (2 days ago)
+- [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes (4 weeks ago)
+- [kube-logging/kube-logging.github.io](https://github.com/kube-logging/kube-logging.github.io) - Logging operator documentation (4 weeks ago)
 - [kube-logging/.github](https://github.com/kube-logging/.github) - Org-wide GitHub configurations (1 month ago)
 - [projectcapsule/website](https://github.com/projectcapsule/website) - Capsule User-Documentation (1 month ago)
 - [projectcapsule/capsule](https://github.com/projectcapsule/capsule) - Multi-tenancy and policy-based framework for Kubernetes. (1 month ago)
@@ -16,8 +16,8 @@
 #### 🔨 My recent Pull Requests
 
 - [fix(*job): render labels and annotations as a map](https://github.com/stakater/application/pull/377) on [stakater/application](https://github.com/stakater/application) (3 weeks ago)
-- [fix: remove trailing spaces in descriptions](https://github.com/cisco-open/operator-tools/pull/284) on [cisco-open/operator-tools](https://github.com/cisco-open/operator-tools) (3 weeks ago)
-- [chore: standardize naming to &#34;Logging operator&#34;](https://github.com/kube-logging/kube-logging.github.io/pull/282) on [kube-logging/kube-logging.github.io](https://github.com/kube-logging/kube-logging.github.io) (3 weeks ago)
+- [fix: remove trailing spaces in descriptions](https://github.com/cisco-open/operator-tools/pull/284) on [cisco-open/operator-tools](https://github.com/cisco-open/operator-tools) (4 weeks ago)
+- [chore: standardize naming to &#34;Logging operator&#34;](https://github.com/kube-logging/kube-logging.github.io/pull/282) on [kube-logging/kube-logging.github.io](https://github.com/kube-logging/kube-logging.github.io) (4 weeks ago)
 - [chore: standardize naming to &#34;Logging operator&#34;](https://github.com/kube-logging/.github/pull/5) on [kube-logging/.github](https://github.com/kube-logging/.github) (1 month ago)
 - [chore: standardize naming to &#34;Logging operator&#34;](https://github.com/kube-logging/logging-operator/pull/2004) on [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) (1 month ago)
 - [feat(chart): aggregated view clusterrole](https://github.com/kube-logging/logging-operator/pull/1989) on [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) (1 month ago)
