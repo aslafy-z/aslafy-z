@@ -1,5 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
+- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (today)
 - [aslafy-z/aws-greengrass-docker-builds](https://github.com/aslafy-z/aws-greengrass-docker-builds) - Automated multi-arch images of AWS Greengrass Nucleus, built daily with the latest aws-greengrass-docker code and published to GHCR. (1 week ago)
 - [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes (1 month ago)
 - [kube-logging/kube-logging.github.io](https://github.com/kube-logging/kube-logging.github.io) - Logging operator documentation (1 month ago)
@@ -9,12 +10,12 @@
 - [seriohub/velero-helm](https://github.com/seriohub/velero-helm) - Helm charts for velero-ui, velero-api, and velero-watchdog (1 month ago)
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress NGINX Controller for Kubernetes (2 months ago)
 - [seriohub/vui-api](https://github.com/seriohub/vui-api) - This Python project is designed to communicate with the velero client in the Kubernetes environment. Created as a backend project for Velero-UI. (2 months ago)
-- [ccl-consulting/k8saas-user-custom](https://github.com/ccl-consulting/k8saas-user-custom) -  (2 months ago)
 
 
 
 #### 🔨 My recent Pull Requests
 
+- [fix: revamp backup &amp; add snapshot](https://github.com/stakater/application/pull/383) on [stakater/application](https://github.com/stakater/application) (today)
 - [fix(*job): render labels and annotations as a map](https://github.com/stakater/application/pull/377) on [stakater/application](https://github.com/stakater/application) (1 month ago)
 - [fix: remove trailing spaces in descriptions](https://github.com/cisco-open/operator-tools/pull/284) on [cisco-open/operator-tools](https://github.com/cisco-open/operator-tools) (1 month ago)
 - [chore: standardize naming to &#34;Logging operator&#34;](https://github.com/kube-logging/kube-logging.github.io/pull/282) on [kube-logging/kube-logging.github.io](https://github.com/kube-logging/kube-logging.github.io) (1 month ago)
@@ -24,7 +25,6 @@
 - [fix: update artifact name downloaded by get-crdoc.sh](https://github.com/fybrik/crdoc/pull/321) on [fybrik/crdoc](https://github.com/fybrik/crdoc) (1 month ago)
 - [fix: crd API references](https://github.com/projectcapsule/website/pull/16) on [projectcapsule/website](https://github.com/projectcapsule/website) (1 month ago)
 - [feat: support for single users role association](https://github.com/cloudposse/terraform-aws-managed-grafana/pull/7) on [cloudposse/terraform-aws-managed-grafana](https://github.com/cloudposse/terraform-aws-managed-grafana) (1 month ago)
-- [chore: update readme header](https://github.com/kube-logging/logging-operator/pull/1985) on [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) (1 month ago)
 
 #### ⭐ Recent Stars
 
