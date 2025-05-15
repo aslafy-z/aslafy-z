@@ -15,7 +15,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: test](https://github.com/stakater/application/pull/385) on [stakater/application](https://github.com/stakater/application) (today)
+- [ci: validate pull request titles](https://github.com/stakater/application/pull/387) on [stakater/application](https://github.com/stakater/application) (today)
+- [ci: update tagging actions](https://github.com/stakater/application/pull/386) on [stakater/application](https://github.com/stakater/application) (today)
 - [chore: deprecate changelog](https://github.com/stakater/application/pull/384) on [stakater/application](https://github.com/stakater/application) (today)
 - [fix: revamp backup &amp; add snapshot](https://github.com/stakater/application/pull/383) on [stakater/application](https://github.com/stakater/application) (today)
 - [fix(*job): render labels and annotations as a map](https://github.com/stakater/application/pull/377) on [stakater/application](https://github.com/stakater/application) (1 month ago)
@@ -23,8 +24,6 @@
 - [chore: standardize naming to &#34;Logging operator&#34;](https://github.com/kube-logging/kube-logging.github.io/pull/282) on [kube-logging/kube-logging.github.io](https://github.com/kube-logging/kube-logging.github.io) (1 month ago)
 - [chore: standardize naming to &#34;Logging operator&#34;](https://github.com/kube-logging/.github/pull/5) on [kube-logging/.github](https://github.com/kube-logging/.github) (1 month ago)
 - [chore: standardize naming to &#34;Logging operator&#34;](https://github.com/kube-logging/logging-operator/pull/2004) on [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) (1 month ago)
-- [feat(chart): aggregated view clusterrole](https://github.com/kube-logging/logging-operator/pull/1989) on [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) (1 month ago)
-- [fix: update artifact name downloaded by get-crdoc.sh](https://github.com/fybrik/crdoc/pull/321) on [fybrik/crdoc](https://github.com/fybrik/crdoc) (1 month ago)
 
 #### ⭐ Recent Stars
 
