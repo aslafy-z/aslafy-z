@@ -1,7 +1,7 @@
 #### 👷 Check out what I'm currently working on
 
-- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (5 days ago)
-- [aslafy-z/aws-greengrass-docker-builds](https://github.com/aslafy-z/aws-greengrass-docker-builds) - Automated multi-arch images of AWS Greengrass Nucleus, built daily with the latest aws-greengrass-docker code and published to GHCR. (1 week ago)
+- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (6 days ago)
+- [aslafy-z/aws-greengrass-docker-builds](https://github.com/aslafy-z/aws-greengrass-docker-builds) - Automated multi-arch images of AWS Greengrass Nucleus, built daily with the latest aws-greengrass-docker code and published to GHCR. (2 weeks ago)
 - [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes (1 month ago)
 - [kube-logging/kube-logging.github.io](https://github.com/kube-logging/kube-logging.github.io) - Logging operator documentation (1 month ago)
 - [kube-logging/.github](https://github.com/kube-logging/.github) - Org-wide GitHub configurations (1 month ago)
@@ -15,12 +15,12 @@
 
 #### 🔨 My recent Pull Requests
 
-- [chore: switch to main branch](https://github.com/stakater/application/pull/392) on [stakater/application](https://github.com/stakater/application) (5 days ago)
-- [feat: support for external secrets v1](https://github.com/stakater/application/pull/391) on [stakater/application](https://github.com/stakater/application) (5 days ago)
-- [ci: validate pull request titles](https://github.com/stakater/application/pull/387) on [stakater/application](https://github.com/stakater/application) (5 days ago)
-- [ci: update tagging actions](https://github.com/stakater/application/pull/386) on [stakater/application](https://github.com/stakater/application) (5 days ago)
-- [chore: deprecate changelog](https://github.com/stakater/application/pull/384) on [stakater/application](https://github.com/stakater/application) (5 days ago)
-- [fix: revamp backup &amp; add snapshot](https://github.com/stakater/application/pull/383) on [stakater/application](https://github.com/stakater/application) (5 days ago)
+- [chore: switch to main branch](https://github.com/stakater/application/pull/392) on [stakater/application](https://github.com/stakater/application) (6 days ago)
+- [feat: support for external secrets v1](https://github.com/stakater/application/pull/391) on [stakater/application](https://github.com/stakater/application) (6 days ago)
+- [ci: validate pull request titles](https://github.com/stakater/application/pull/387) on [stakater/application](https://github.com/stakater/application) (6 days ago)
+- [ci: update tagging actions](https://github.com/stakater/application/pull/386) on [stakater/application](https://github.com/stakater/application) (6 days ago)
+- [chore: deprecate changelog](https://github.com/stakater/application/pull/384) on [stakater/application](https://github.com/stakater/application) (6 days ago)
+- [fix: revamp backup &amp; add snapshot](https://github.com/stakater/application/pull/383) on [stakater/application](https://github.com/stakater/application) (6 days ago)
 - [fix(*job): render labels and annotations as a map](https://github.com/stakater/application/pull/377) on [stakater/application](https://github.com/stakater/application) (1 month ago)
 - [fix: remove trailing spaces in descriptions](https://github.com/cisco-open/operator-tools/pull/284) on [cisco-open/operator-tools](https://github.com/cisco-open/operator-tools) (1 month ago)
 - [chore: standardize naming to &#34;Logging operator&#34;](https://github.com/kube-logging/kube-logging.github.io/pull/282) on [kube-logging/kube-logging.github.io](https://github.com/kube-logging/kube-logging.github.io) (1 month ago)
@@ -28,8 +28,8 @@
 #### ⭐ Recent Stars
 
 - [SVG-Edit/svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser (1 week ago)
-- [nishanb/CK-X](https://github.com/nishanb/CK-X) - A realistic exam simulator for CKAD, CKA, and CKS featuring timed sessions and hands-on labs with pre-configured clusters. (2 weeks ago)
-- [chdb-io/chdb](https://github.com/chdb-io/chdb) - chDB is an in-process OLAP SQL Engine 🚀 powered by ClickHouse  (3 weeks ago)
+- [nishanb/CK-X](https://github.com/nishanb/CK-X) - A realistic exam simulator for CKAD, CKA, and CKS featuring timed sessions and hands-on labs with pre-configured clusters. (3 weeks ago)
+- [chdb-io/chdb](https://github.com/chdb-io/chdb) - chDB is an in-process OLAP SQL Engine 🚀 powered by ClickHouse  (4 weeks ago)
 - [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail) - Real-time logging dashboard for Kubernetes (browser/terminal) (1 month ago)
 - [kube-burner/kube-burner](https://github.com/kube-burner/kube-burner) - Kubernetes performance and scale test orchestration framework written in golang (1 month ago)
 - [perses/perses](https://github.com/perses/perses) - The CNCF sandbox for observability visualisation. Already supports Prometheus/Tempo - more data sources to come! (1 month ago)
