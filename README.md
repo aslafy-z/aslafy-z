@@ -1,5 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
+- [crossplane-contrib/provider-keycloak](https://github.com/crossplane-contrib/provider-keycloak) -  (today)
 - [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (1 week ago)
 - [aslafy-z/aws-greengrass-docker-builds](https://github.com/aslafy-z/aws-greengrass-docker-builds) - Automated multi-arch images of AWS Greengrass Nucleus, built daily with the latest aws-greengrass-docker code and published to GHCR. (2 weeks ago)
 - [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes (1 month ago)
@@ -9,7 +10,6 @@
 - [projectcapsule/capsule](https://github.com/projectcapsule/capsule) - Multi-tenancy and policy-based framework for Kubernetes. (2 months ago)
 - [seriohub/velero-helm](https://github.com/seriohub/velero-helm) - Helm charts for velero-ui, velero-api, and velero-watchdog (2 months ago)
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress NGINX Controller for Kubernetes (2 months ago)
-- [seriohub/vui-api](https://github.com/seriohub/vui-api) - This Python project is designed to communicate with the velero client in the Kubernetes environment. Created as a backend project for Velero-UI. (2 months ago)
 
 
 
