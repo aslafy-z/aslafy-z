@@ -20,8 +20,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
         with:
-          template: "templates/README.md.tmpl"
-          writeTo: "README.md"
+          template: README.md.tmpl
+          writeTo: README.md
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         env:
