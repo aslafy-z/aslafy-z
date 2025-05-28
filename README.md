@@ -72,11 +72,8 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 
 ## 📈 Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aslafy-z&show_icons=true&count_private=true&hide_border=true&theme=transparent" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslafy-z&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=aslafy-z&hide_border=true&theme=transparent" alt="GitHub streak" />
-</p>
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aslafy-z&show_icons=true&count_private=true&hide_border=true&theme=transparent" alt="GitHub stats" />
+<img height=200 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=aslafy-z&hide_border=true&theme=transparent" alt="GitHub streak" />
 
 ## Reach me
 
