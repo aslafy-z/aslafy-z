@@ -1,4 +1,33 @@
-#### 👷 Check out what I'm currently working on
+# Hi there, I am Zadkiel Aharonian 👋
+
+Linux lover, cloud native builder and open source maintainer from Toulouse, France. I design and operate scalable Kubernetes platforms at **CCL Consulting** and hack on side projects after hours.
+
+## About me
+
+* 💼 Full-stack developer turned platform engineer
+* 💡 Open source maintainer and community advocate
+* 🏢 Previously at Airbus and Carrefour
+* 🎓 Alumni of EPITECH
+
+## My toolbox
+
+![Linux](https://img.shields.io/badge/-Linux-000?logo=linux)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?logo=kubernetes\&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go\&logoColor=white)
+![Shell](https://img.shields.io/badge/-Shell-4EAA25?logo=gnu-bash\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions\&logoColor=white)
+![Helm](https://img.shields.io/badge/-Helm-0F1689?logo=helm\&logoColor=white)
+![Fluentd](https://img.shields.io/badge/-Fluentd-0A61AA?logo=fluentd\&logoColor=white)
+
+## Project I maintain
+
+- [helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts strait from Git repositories
+- [logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes
+- [swag-for-dev](https://github.com/swapagarwal/swag-for-dev) - 😎 swag opportunities for developers
+
+## 👷 What I'm currently working on
+
 
 - [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (today)
 - [crossplane-contrib/provider-keycloak](https://github.com/crossplane-contrib/provider-keycloak) -  (6 days ago)
@@ -13,7 +42,8 @@
 
 
 
-#### 🔨 My recent Pull Requests
+## 🔨 Recent Pull Requests
+
 
 - [feat: add `hostAliases` to Job and CronJob pod spec](https://github.com/stakater/application/pull/398) on [stakater/application](https://github.com/stakater/application) (today)
 - [chore(deps): update github actions version annotations](https://github.com/stakater/application/pull/396) on [stakater/application](https://github.com/stakater/application) (today)
@@ -25,7 +55,8 @@
 - [ci: update tagging actions](https://github.com/stakater/application/pull/386) on [stakater/application](https://github.com/stakater/application) (1 week ago)
 - [chore: deprecate changelog](https://github.com/stakater/application/pull/384) on [stakater/application](https://github.com/stakater/application) (1 week ago)
 
-#### ⭐ Recent Stars
+## ⭐ Recent Stars
+
 
 - [SVG-Edit/svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser (2 weeks ago)
 - [nishanb/CK-X](https://github.com/nishanb/CK-X) - A realistic exam simulator for CKAD, CKA, and CKS featuring timed sessions and hands-on labs with pre-configured clusters. (4 weeks ago)
@@ -38,19 +69,16 @@
 - [krkn-chaos/krkn](https://github.com/krkn-chaos/krkn) - Chaos and resiliency testing tool for Kubernetes with a focus on improving performance under failure conditions. A CNCF sandbox project. (1 month ago)
 - [jumppad-labs/jumppad](https://github.com/jumppad-labs/jumppad) - Modern cloud native development environments (2 months ago)
 
-#### 👯 Check out some of my recent followers
+## 📈 Stats
 
-- [yyle88](https://github.com/yyle88)
-- [chipnertkj](https://github.com/chipnertkj)
-- [reed6868](https://github.com/reed6868)
-- [Pratik-Sanghavi](https://github.com/Pratik-Sanghavi)
-- [LinuxJS](https://github.com/LinuxJS)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aslafy-z&show_icons=true&count_private=true&hide_border=true&theme=transparent" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=aslafy-z&hide_border=true&theme=transparent" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslafy-z&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+</p>
 
-#### 📈 Stats
+## Reach me
 
-**NOTE:** Some stats may be incorrect as contributions to organizations
-are not counted.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aslafy-z&count_private=false&theme=tokyonight&show_icons=true)
-
-Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
+* 🌐 [zadkiel.fr](https://zadkiel.fr)
+* 💬 hello at zadkiel.fr
+* 🤝 [LinkedIn](https://go.zadkiel.fr/linkedin)
