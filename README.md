@@ -1,10 +1,10 @@
 #### 👷 Check out what I'm currently working on
 
+- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (today)
 - [crossplane-contrib/provider-keycloak](https://github.com/crossplane-contrib/provider-keycloak) -  (6 days ago)
-- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (1 week ago)
 - [aslafy-z/aws-greengrass-docker-builds](https://github.com/aslafy-z/aws-greengrass-docker-builds) - Automated multi-arch images of AWS Greengrass Nucleus, built daily with the latest aws-greengrass-docker code and published to GHCR. (3 weeks ago)
-- [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes (1 month ago)
 - [kube-logging/kube-logging.github.io](https://github.com/kube-logging/kube-logging.github.io) - Logging operator documentation (1 month ago)
+- [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes (1 month ago)
 - [kube-logging/.github](https://github.com/kube-logging/.github) - Org-wide GitHub configurations (1 month ago)
 - [projectcapsule/website](https://github.com/projectcapsule/website) - Capsule User-Documentation (2 months ago)
 - [projectcapsule/capsule](https://github.com/projectcapsule/capsule) - Multi-tenancy and policy-based framework for Kubernetes. (2 months ago)
@@ -15,6 +15,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore(deps): update github actions version annotations](https://github.com/stakater/application/pull/396) on [stakater/application](https://github.com/stakater/application) (today)
+- [feat: add `optional` to `deployment.envFrom`](https://github.com/stakater/application/pull/395) on [stakater/application](https://github.com/stakater/application) (today)
 - [fix: add support for ClientScope in GroupMembershipProtocolMapper](https://github.com/crossplane-contrib/provider-keycloak/pull/306) on [crossplane-contrib/provider-keycloak](https://github.com/crossplane-contrib/provider-keycloak) (6 days ago)
 - [chore: switch to main branch](https://github.com/stakater/application/pull/392) on [stakater/application](https://github.com/stakater/application) (1 week ago)
 - [feat: support for external secrets v1](https://github.com/stakater/application/pull/391) on [stakater/application](https://github.com/stakater/application) (1 week ago)
@@ -22,8 +24,6 @@
 - [ci: update tagging actions](https://github.com/stakater/application/pull/386) on [stakater/application](https://github.com/stakater/application) (1 week ago)
 - [chore: deprecate changelog](https://github.com/stakater/application/pull/384) on [stakater/application](https://github.com/stakater/application) (1 week ago)
 - [fix: revamp backup &amp; add snapshot](https://github.com/stakater/application/pull/383) on [stakater/application](https://github.com/stakater/application) (1 week ago)
-- [fix(*job): render labels and annotations as a map](https://github.com/stakater/application/pull/377) on [stakater/application](https://github.com/stakater/application) (1 month ago)
-- [fix: remove trailing spaces in descriptions](https://github.com/cisco-open/operator-tools/pull/284) on [cisco-open/operator-tools](https://github.com/cisco-open/operator-tools) (1 month ago)
 
 #### ⭐ Recent Stars
 
