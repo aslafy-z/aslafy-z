@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add `hostAliases` to Job and CronJob pod spec](https://github.com/stakater/application/pull/398) on [stakater/application](https://github.com/stakater/application) (today)
 - [chore(deps): update github actions version annotations](https://github.com/stakater/application/pull/396) on [stakater/application](https://github.com/stakater/application) (today)
 - [feat: add `optional` to `deployment.envFrom`](https://github.com/stakater/application/pull/395) on [stakater/application](https://github.com/stakater/application) (today)
 - [fix: add support for ClientScope in GroupMembershipProtocolMapper](https://github.com/crossplane-contrib/provider-keycloak/pull/306) on [crossplane-contrib/provider-keycloak](https://github.com/crossplane-contrib/provider-keycloak) (6 days ago)
@@ -23,7 +24,6 @@
 - [ci: validate pull request titles](https://github.com/stakater/application/pull/387) on [stakater/application](https://github.com/stakater/application) (1 week ago)
 - [ci: update tagging actions](https://github.com/stakater/application/pull/386) on [stakater/application](https://github.com/stakater/application) (1 week ago)
 - [chore: deprecate changelog](https://github.com/stakater/application/pull/384) on [stakater/application](https://github.com/stakater/application) (1 week ago)
-- [fix: revamp backup &amp; add snapshot](https://github.com/stakater/application/pull/383) on [stakater/application](https://github.com/stakater/application) (1 week ago)
 
 #### ⭐ Recent Stars
 
