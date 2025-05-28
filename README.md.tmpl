@@ -22,9 +22,10 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 
 ## Project I maintain
 
-- [helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts strait from Git repositories
-- [logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes
-- [swag-for-dev](https://github.com/swapagarwal/swag-for-dev) - 😎 swag opportunities for developers
+- [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts strait from Git repositories
+- [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes
+- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (today)
+- [swapagarwal/swag-for-dev](https://github.com/swapagarwal/swag-for-dev) - 😎 swag opportunities for developers
 
 ## 👷 What I'm currently working on
 
