@@ -9,17 +9,6 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 * 🏢 Previously at Airbus and Carrefour
 * 🎓 Alumni of EPITECH
 
-## My toolbox
-
-![Linux](https://img.shields.io/badge/-Linux-000?logo=linux)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?logo=kubernetes\&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go\&logoColor=white)
-![Shell](https://img.shields.io/badge/-Shell-4EAA25?logo=gnu-bash\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions\&logoColor=white)
-![Helm](https://img.shields.io/badge/-Helm-0F1689?logo=helm\&logoColor=white)
-![Fluentd](https://img.shields.io/badge/-Fluentd-0A61AA?logo=fluentd\&logoColor=white)
-
 ## Project I maintain
 
 - [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts strait from Git repositories
