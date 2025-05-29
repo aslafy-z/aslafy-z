@@ -35,6 +35,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 ## 🔨 Recent Pull Requests
 
 
+- [feat: Implement 1-minute in-memory cache for Montpellier CSV data](https://github.com/aslafy-z/montpellier-tam-api/pull/7) on [aslafy-z/montpellier-tam-api](https://github.com/aslafy-z/montpellier-tam-api) (today)
 - [fix: remove newlines in rendered manifests](https://github.com/stakater/application/pull/400) on [stakater/application](https://github.com/stakater/application) (today)
 - [feat: add `hostAliases` to Job and CronJob pod spec](https://github.com/stakater/application/pull/398) on [stakater/application](https://github.com/stakater/application) (1 day ago)
 - [chore(deps): update github actions version annotations](https://github.com/stakater/application/pull/396) on [stakater/application](https://github.com/stakater/application) (1 day ago)
@@ -43,7 +44,6 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 - [chore: switch to main branch](https://github.com/stakater/application/pull/392) on [stakater/application](https://github.com/stakater/application) (2 weeks ago)
 - [feat: support for external secrets v1](https://github.com/stakater/application/pull/391) on [stakater/application](https://github.com/stakater/application) (2 weeks ago)
 - [ci: validate pull request titles](https://github.com/stakater/application/pull/387) on [stakater/application](https://github.com/stakater/application) (2 weeks ago)
-- [ci: update tagging actions](https://github.com/stakater/application/pull/386) on [stakater/application](https://github.com/stakater/application) (2 weeks ago)
 
 ## ⭐ Recent Stars
 
