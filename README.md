@@ -58,7 +58,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 - [krkn-chaos/krkn](https://github.com/krkn-chaos/krkn) - Chaos and resiliency testing tool for Kubernetes with a focus on improving performance under failure conditions. A CNCF sandbox project. (1 month ago)
 - [jumppad-labs/jumppad](https://github.com/jumppad-labs/jumppad) - Modern cloud native development environments (2 months ago)
 
-[View all stargazers →](https://github.com/aslafy-z/stars?direction=desc&sort=created)
+[View all stars →](https://github.com/aslafy-z?tab=stars)
 
 ## 📈 Stats
 
