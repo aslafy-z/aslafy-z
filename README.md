@@ -43,7 +43,6 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 - [feat: support for external secrets v1](https://github.com/stakater/application/pull/391) on [stakater/application](https://github.com/stakater/application) (2 weeks ago)
 - [ci: validate pull request titles](https://github.com/stakater/application/pull/387) on [stakater/application](https://github.com/stakater/application) (2 weeks ago)
 - [ci: update tagging actions](https://github.com/stakater/application/pull/386) on [stakater/application](https://github.com/stakater/application) (2 weeks ago)
-- [chore: deprecate changelog](https://github.com/stakater/application/pull/384) on [stakater/application](https://github.com/stakater/application) (2 weeks ago)
 
 ## ⭐ Recent Stars
 
@@ -58,6 +57,8 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry. (1 month ago)
 - [krkn-chaos/krkn](https://github.com/krkn-chaos/krkn) - Chaos and resiliency testing tool for Kubernetes with a focus on improving performance under failure conditions. A CNCF sandbox project. (1 month ago)
 - [jumppad-labs/jumppad](https://github.com/jumppad-labs/jumppad) - Modern cloud native development environments (2 months ago)
+
+[View all stargazers →](https://github.com/aslafy-z/aslafy-z/stargazers?direction=desc&sort=created)
 
 ## 📈 Stats
 
