@@ -19,9 +19,9 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 ## 👷 What I'm currently working on
 
 
-- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (5 days ago)
+- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (6 days ago)
 - [crossplane-contrib/provider-keycloak](https://github.com/crossplane-contrib/provider-keycloak) -  (1 week ago)
-- [aslafy-z/aws-greengrass-docker-builds](https://github.com/aslafy-z/aws-greengrass-docker-builds) - Automated multi-arch images of AWS Greengrass Nucleus, built daily with the latest aws-greengrass-docker code and published to GHCR. (3 weeks ago)
+- [aslafy-z/aws-greengrass-docker-builds](https://github.com/aslafy-z/aws-greengrass-docker-builds) - Automated multi-arch images of AWS Greengrass Nucleus, built daily with the latest aws-greengrass-docker code and published to GHCR. (4 weeks ago)
 - [kube-logging/kube-logging.github.io](https://github.com/kube-logging/kube-logging.github.io) - Logging operator documentation (1 month ago)
 - [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes (1 month ago)
 - [kube-logging/.github](https://github.com/kube-logging/.github) - Org-wide GitHub configurations (2 months ago)
@@ -35,11 +35,11 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 ## 🔨 Recent Pull Requests
 
 
-- [feat: Implement 1-minute in-memory cache for Montpellier CSV data](https://github.com/aslafy-z/montpellier-tam-api/pull/7) on [aslafy-z/montpellier-tam-api](https://github.com/aslafy-z/montpellier-tam-api) (5 days ago)
-- [fix: remove newlines in rendered manifests](https://github.com/stakater/application/pull/400) on [stakater/application](https://github.com/stakater/application) (5 days ago)
-- [feat: add `hostAliases` to Job and CronJob pod spec](https://github.com/stakater/application/pull/398) on [stakater/application](https://github.com/stakater/application) (6 days ago)
-- [chore(deps): update github actions version annotations](https://github.com/stakater/application/pull/396) on [stakater/application](https://github.com/stakater/application) (6 days ago)
-- [feat: add `optional` to `deployment.envFrom`](https://github.com/stakater/application/pull/395) on [stakater/application](https://github.com/stakater/application) (6 days ago)
+- [feat: Implement 1-minute in-memory cache for Montpellier CSV data](https://github.com/aslafy-z/montpellier-tam-api/pull/7) on [aslafy-z/montpellier-tam-api](https://github.com/aslafy-z/montpellier-tam-api) (6 days ago)
+- [fix: remove newlines in rendered manifests](https://github.com/stakater/application/pull/400) on [stakater/application](https://github.com/stakater/application) (6 days ago)
+- [feat: add `hostAliases` to Job and CronJob pod spec](https://github.com/stakater/application/pull/398) on [stakater/application](https://github.com/stakater/application) (1 week ago)
+- [chore(deps): update github actions version annotations](https://github.com/stakater/application/pull/396) on [stakater/application](https://github.com/stakater/application) (1 week ago)
+- [feat: add `optional` to `deployment.envFrom`](https://github.com/stakater/application/pull/395) on [stakater/application](https://github.com/stakater/application) (1 week ago)
 - [fix: add support for ClientScope in GroupMembershipProtocolMapper](https://github.com/crossplane-contrib/provider-keycloak/pull/306) on [crossplane-contrib/provider-keycloak](https://github.com/crossplane-contrib/provider-keycloak) (1 week ago)
 - [chore: switch to main branch](https://github.com/stakater/application/pull/392) on [stakater/application](https://github.com/stakater/application) (2 weeks ago)
 - [feat: support for external secrets v1](https://github.com/stakater/application/pull/391) on [stakater/application](https://github.com/stakater/application) (2 weeks ago)
@@ -48,10 +48,10 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 ## ⭐ Recent Stars
 
 
-- [kanbn/kan](https://github.com/kanbn/kan) - The open source Trello alternative. (today)
-- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Open Source AI coding assistant for planning, building, and fixing code. We&#39;re a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social (1 day ago)
-- [znailnetem/znail](https://github.com/znailnetem/znail) - Network emulator intended to run on a Raspberry Pi. (1 day ago)
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems. (3 days ago)
+- [kanbn/kan](https://github.com/kanbn/kan) - The open source Trello alternative. (1 day ago)
+- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Open Source AI coding assistant for planning, building, and fixing code. We&#39;re a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social (2 days ago)
+- [znailnetem/znail](https://github.com/znailnetem/znail) - Network emulator intended to run on a Raspberry Pi. (2 days ago)
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems. (4 days ago)
 - [SVG-Edit/svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser (3 weeks ago)
 - [sailor-sh/CK-X](https://github.com/sailor-sh/CK-X) - A realistic exam simulator for CKAD, CKA, and CKS featuring timed sessions and hands-on labs with pre-configured clusters. (1 month ago)
 - [chdb-io/chdb](https://github.com/chdb-io/chdb) - chDB is an in-process OLAP SQL Engine 🚀 powered by ClickHouse  (1 month ago)
