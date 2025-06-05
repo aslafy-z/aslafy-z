@@ -35,6 +35,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 ## 🔨 Recent Pull Requests
 
 
+- [feat: migrate plugin to scaleway](https://github.com/aslafy-z/gitlab-fleeting-plugin-scaleway/pull/6) on [aslafy-z/gitlab-fleeting-plugin-scaleway](https://github.com/aslafy-z/gitlab-fleeting-plugin-scaleway) (today)
 - [feat: Implement 1-minute in-memory cache for Montpellier CSV data](https://github.com/aslafy-z/montpellier-tam-api/pull/7) on [aslafy-z/montpellier-tam-api](https://github.com/aslafy-z/montpellier-tam-api) (1 week ago)
 - [fix: remove newlines in rendered manifests](https://github.com/stakater/application/pull/400) on [stakater/application](https://github.com/stakater/application) (1 week ago)
 - [feat: add `hostAliases` to Job and CronJob pod spec](https://github.com/stakater/application/pull/398) on [stakater/application](https://github.com/stakater/application) (1 week ago)
@@ -43,7 +44,6 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 - [fix: add support for ClientScope in GroupMembershipProtocolMapper](https://github.com/crossplane-contrib/provider-keycloak/pull/306) on [crossplane-contrib/provider-keycloak](https://github.com/crossplane-contrib/provider-keycloak) (2 weeks ago)
 - [chore: switch to main branch](https://github.com/stakater/application/pull/392) on [stakater/application](https://github.com/stakater/application) (3 weeks ago)
 - [feat: support for external secrets v1](https://github.com/stakater/application/pull/391) on [stakater/application](https://github.com/stakater/application) (3 weeks ago)
-- [ci: validate pull request titles](https://github.com/stakater/application/pull/387) on [stakater/application](https://github.com/stakater/application) (3 weeks ago)
 
 ## ⭐ Recent Stars
 
