@@ -1,4 +1,4 @@
-# Hi there, I am Zadkiel Aharonian 👋
+# Hi there, I am Zadkiel 👋
 
 Linux lover, cloud native builder and open source maintainer from Toulouse, France. I design and operate scalable Kubernetes platforms at **CCL Consulting** and hack on side projects after hours.
 
@@ -11,9 +11,9 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 
 ## Project I maintain
 
-- [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts strait from Git repositories
+- [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts straight from Git repositories
 - [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes
-- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (today)
+- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications
 - [swapagarwal/swag-for-dev](https://github.com/swapagarwal/swag-for-dev) - 😎 swag opportunities for developers
 
 ## 👷 What I'm currently working on
