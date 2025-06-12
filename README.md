@@ -19,8 +19,8 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 ## 👷 What I'm currently working on
 
 
-- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (1 week ago)
-- [crossplane-contrib/provider-keycloak](https://github.com/crossplane-contrib/provider-keycloak) -  (2 weeks ago)
+- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (2 weeks ago)
+- [crossplane-contrib/provider-keycloak](https://github.com/crossplane-contrib/provider-keycloak) -  (3 weeks ago)
 - [aslafy-z/aws-greengrass-docker-builds](https://github.com/aslafy-z/aws-greengrass-docker-builds) - Automated multi-arch images of AWS Greengrass Nucleus, built daily with the latest aws-greengrass-docker code and published to GHCR. (1 month ago)
 - [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes (2 months ago)
 - [kube-logging/kube-logging.github.io](https://github.com/kube-logging/kube-logging.github.io) - Logging operator documentation (2 months ago)
@@ -35,22 +35,22 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 ## 🔨 Recent Pull Requests
 
 
-- [feat: Implement 1-minute in-memory cache for Montpellier CSV data](https://github.com/aslafy-z/montpellier-tam-api/pull/7) on [aslafy-z/montpellier-tam-api](https://github.com/aslafy-z/montpellier-tam-api) (1 week ago)
-- [fix: remove newlines in rendered manifests](https://github.com/stakater/application/pull/400) on [stakater/application](https://github.com/stakater/application) (1 week ago)
+- [feat: Implement 1-minute in-memory cache for Montpellier CSV data](https://github.com/aslafy-z/montpellier-tam-api/pull/7) on [aslafy-z/montpellier-tam-api](https://github.com/aslafy-z/montpellier-tam-api) (2 weeks ago)
+- [fix: remove newlines in rendered manifests](https://github.com/stakater/application/pull/400) on [stakater/application](https://github.com/stakater/application) (2 weeks ago)
 - [feat: add `hostAliases` to Job and CronJob pod spec](https://github.com/stakater/application/pull/398) on [stakater/application](https://github.com/stakater/application) (2 weeks ago)
 - [chore(deps): update github actions version annotations](https://github.com/stakater/application/pull/396) on [stakater/application](https://github.com/stakater/application) (2 weeks ago)
 - [feat: add `optional` to `deployment.envFrom`](https://github.com/stakater/application/pull/395) on [stakater/application](https://github.com/stakater/application) (2 weeks ago)
-- [fix: add support for ClientScope in GroupMembershipProtocolMapper](https://github.com/crossplane-contrib/provider-keycloak/pull/306) on [crossplane-contrib/provider-keycloak](https://github.com/crossplane-contrib/provider-keycloak) (2 weeks ago)
-- [chore: switch to main branch](https://github.com/stakater/application/pull/392) on [stakater/application](https://github.com/stakater/application) (3 weeks ago)
-- [feat: support for external secrets v1](https://github.com/stakater/application/pull/391) on [stakater/application](https://github.com/stakater/application) (3 weeks ago)
-- [ci: validate pull request titles](https://github.com/stakater/application/pull/387) on [stakater/application](https://github.com/stakater/application) (3 weeks ago)
+- [fix: add support for ClientScope in GroupMembershipProtocolMapper](https://github.com/crossplane-contrib/provider-keycloak/pull/306) on [crossplane-contrib/provider-keycloak](https://github.com/crossplane-contrib/provider-keycloak) (3 weeks ago)
+- [chore: switch to main branch](https://github.com/stakater/application/pull/392) on [stakater/application](https://github.com/stakater/application) (4 weeks ago)
+- [feat: support for external secrets v1](https://github.com/stakater/application/pull/391) on [stakater/application](https://github.com/stakater/application) (4 weeks ago)
+- [ci: validate pull request titles](https://github.com/stakater/application/pull/387) on [stakater/application](https://github.com/stakater/application) (4 weeks ago)
 
 ## ⭐ Recent Stars
 
 
-- [argoproj-labs/argocd-rbac-operator](https://github.com/argoproj-labs/argocd-rbac-operator) - Kubernetes Operator for Argo CD RBAC Management. (1 day ago)
-- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development. (4 days ago)
-- [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool (5 days ago)
+- [argoproj-labs/argocd-rbac-operator](https://github.com/argoproj-labs/argocd-rbac-operator) - Kubernetes Operator for Argo CD RBAC Management. (2 days ago)
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development. (5 days ago)
+- [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool (6 days ago)
 - [kanbn/kan](https://github.com/kanbn/kan) - The open source Trello alternative. (1 week ago)
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Open Source AI coding assistant for planning, building, and fixing code. We&#39;re a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social (1 week ago)
 - [znailnetem/znail](https://github.com/znailnetem/znail) - Network emulator intended to run on a Raspberry Pi. (1 week ago)
