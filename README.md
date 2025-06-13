@@ -35,6 +35,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 ## 🔨 Recent Pull Requests
 
 
+- [Add GitHub Action for tests](https://github.com/aslafy-z/fleeting-plugin-scaleway/pull/4) on [aslafy-z/fleeting-plugin-scaleway](https://github.com/aslafy-z/fleeting-plugin-scaleway) (today)
 - [Add extra volumes support](https://github.com/aslafy-z/fleeting-plugin-scaleway/pull/3) on [aslafy-z/fleeting-plugin-scaleway](https://github.com/aslafy-z/fleeting-plugin-scaleway) (today)
 - [feat: Implement 1-minute in-memory cache for Montpellier CSV data](https://github.com/aslafy-z/montpellier-tam-api/pull/7) on [aslafy-z/montpellier-tam-api](https://github.com/aslafy-z/montpellier-tam-api) (2 weeks ago)
 - [fix: remove newlines in rendered manifests](https://github.com/stakater/application/pull/400) on [stakater/application](https://github.com/stakater/application) (2 weeks ago)
@@ -43,7 +44,6 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 - [feat: add `optional` to `deployment.envFrom`](https://github.com/stakater/application/pull/395) on [stakater/application](https://github.com/stakater/application) (2 weeks ago)
 - [fix: add support for ClientScope in GroupMembershipProtocolMapper](https://github.com/crossplane-contrib/provider-keycloak/pull/306) on [crossplane-contrib/provider-keycloak](https://github.com/crossplane-contrib/provider-keycloak) (3 weeks ago)
 - [chore: switch to main branch](https://github.com/stakater/application/pull/392) on [stakater/application](https://github.com/stakater/application) (4 weeks ago)
-- [feat: support for external secrets v1](https://github.com/stakater/application/pull/391) on [stakater/application](https://github.com/stakater/application) (4 weeks ago)
 
 ## ⭐ Recent Stars
 
