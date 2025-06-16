@@ -35,6 +35,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 ## 🔨 Recent Pull Requests
 
 
+- [fix(instance): let backend resolve marketplace images](https://github.com/scaleway/scaleway-sdk-go/pull/2605) on [scaleway/scaleway-sdk-go](https://github.com/scaleway/scaleway-sdk-go) (today)
 - [refactor: Run lint and test jobs in parallel in GitHub Actions
 
 ](https://github.com/aslafy-z/fleeting-plugin-scaleway/pull/5) on [aslafy-z/fleeting-plugin-scaleway](https://github.com/aslafy-z/fleeting-plugin-scaleway) (3 days ago)
@@ -45,7 +46,6 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 - [feat: add `hostAliases` to Job and CronJob pod spec](https://github.com/stakater/application/pull/398) on [stakater/application](https://github.com/stakater/application) (2 weeks ago)
 - [chore(deps): update github actions version annotations](https://github.com/stakater/application/pull/396) on [stakater/application](https://github.com/stakater/application) (2 weeks ago)
 - [feat: add `optional` to `deployment.envFrom`](https://github.com/stakater/application/pull/395) on [stakater/application](https://github.com/stakater/application) (2 weeks ago)
-- [fix: add support for ClientScope in GroupMembershipProtocolMapper](https://github.com/crossplane-contrib/provider-keycloak/pull/306) on [crossplane-contrib/provider-keycloak](https://github.com/crossplane-contrib/provider-keycloak) (3 weeks ago)
 
 ## ⭐ Recent Stars
 
