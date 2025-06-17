@@ -35,7 +35,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 ## 🔨 Recent Pull Requests
 
 
-- [fix(instance): let backend resolve marketplace images](https://github.com/scaleway/scaleway-sdk-go/pull/2605) on [scaleway/scaleway-sdk-go](https://github.com/scaleway/scaleway-sdk-go) (1 day ago)
+- [fix(instance): let the backend resolve marketplace images](https://github.com/scaleway/scaleway-sdk-go/pull/2605) on [scaleway/scaleway-sdk-go](https://github.com/scaleway/scaleway-sdk-go) (1 day ago)
 - [refactor: Run lint and test jobs in parallel in GitHub Actions
 
 ](https://github.com/aslafy-z/fleeting-plugin-scaleway/pull/5) on [aslafy-z/fleeting-plugin-scaleway](https://github.com/aslafy-z/fleeting-plugin-scaleway) (4 days ago)
@@ -56,7 +56,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 - [kanbn/kan](https://github.com/kanbn/kan) - The open source Trello alternative. (2 weeks ago)
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Open Source AI coding assistant for planning, building, and fixing code. We&#39;re a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social (2 weeks ago)
 - [znailnetem/znail](https://github.com/znailnetem/znail) - Network emulator intended to run on a Raspberry Pi. (2 weeks ago)
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A self-contained, light-weight, and language-agnostic workflow engine, alternative to Airflow, Cron, etc. It aims to solve greater problems. (2 weeks ago)
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A self-contained, powerful, and language-agnostic workflow engine, alternative to Airflow, Cron, etc. It aims to solve greater problems. (2 weeks ago)
 - [SVG-Edit/svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser (1 month ago)
 - [sailor-sh/CK-X](https://github.com/sailor-sh/CK-X) - A realistic exam simulator for CKAD, CKA, and CKS featuring timed sessions and hands-on labs with pre-configured clusters. (1 month ago)
 - [chdb-io/chdb](https://github.com/chdb-io/chdb) - chDB is an in-process OLAP SQL Engine 🚀 powered by ClickHouse  (1 month ago)
