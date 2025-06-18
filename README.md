@@ -35,6 +35,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 ## 🔨 Recent Pull Requests
 
 
+- [fix(basic-007): clarify host usage by removing colon](https://github.com/varnish/vtc-examples/pull/2) on [varnish/vtc-examples](https://github.com/varnish/vtc-examples) (today)
 - [fix(instance): let the backend resolve marketplace images](https://github.com/scaleway/scaleway-sdk-go/pull/2605) on [scaleway/scaleway-sdk-go](https://github.com/scaleway/scaleway-sdk-go) (2 days ago)
 - [refactor: Run lint and test jobs in parallel in GitHub Actions
 
@@ -45,7 +46,6 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 - [fix: remove newlines in rendered manifests](https://github.com/stakater/application/pull/400) on [stakater/application](https://github.com/stakater/application) (2 weeks ago)
 - [feat: add `hostAliases` to Job and CronJob pod spec](https://github.com/stakater/application/pull/398) on [stakater/application](https://github.com/stakater/application) (3 weeks ago)
 - [chore(deps): update github actions version annotations](https://github.com/stakater/application/pull/396) on [stakater/application](https://github.com/stakater/application) (3 weeks ago)
-- [feat: add `optional` to `deployment.envFrom`](https://github.com/stakater/application/pull/395) on [stakater/application](https://github.com/stakater/application) (3 weeks ago)
 
 ## ⭐ Recent Stars
 
