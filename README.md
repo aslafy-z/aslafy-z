@@ -57,7 +57,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 - [kanbn/kan](https://github.com/kanbn/kan) - The open source Trello alternative. (2 weeks ago)
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Open Source AI coding assistant for planning, building, and fixing code. We&#39;re a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social (2 weeks ago)
 - [znailnetem/znail](https://github.com/znailnetem/znail) - Network emulator intended to run on a Raspberry Pi. (2 weeks ago)
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A self-contained, local-first, and language-agnostic workflow engine, alternative to Airflow, Cron, etc. It aims to solve greater problems. (2 weeks ago)
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A self-contained, local-first, human-readable, and language-agnostic workflow engine, alternative to Airflow, Cron, etc. It aims to solve greater problems. (2 weeks ago)
 - [SVG-Edit/svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser (1 month ago)
 - [sailor-sh/CK-X](https://github.com/sailor-sh/CK-X) - A realistic exam simulator for CKAD, CKA, and CKS featuring timed sessions and hands-on labs with pre-configured clusters. (1 month ago)
 
