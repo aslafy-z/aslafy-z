@@ -19,7 +19,6 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 ## 👷 What I'm currently working on
 
 
-- [ccl-consulting/fleeting-plugin-scaleway](https://github.com/ccl-consulting/fleeting-plugin-scaleway) -  (today)
 - [ccl-consulting/grafana-dashboards](https://github.com/ccl-consulting/grafana-dashboards) - Collection of Grafana dashboards (today)
 - [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (1 week ago)
 - [varnish/vtc-examples](https://github.com/varnish/vtc-examples) -  (2 weeks ago)
@@ -29,6 +28,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 - [aslafy-z/aws-greengrass-docker-builds](https://github.com/aslafy-z/aws-greengrass-docker-builds) - Automated multi-arch images of AWS Greengrass Nucleus, built daily with the latest aws-greengrass-docker code and published to GHCR. (1 month ago)
 - [kube-logging/kube-logging.github.io](https://github.com/kube-logging/kube-logging.github.io) - Logging operator documentation (2 months ago)
 - [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes (2 months ago)
+- [kube-logging/.github](https://github.com/kube-logging/.github) - Org-wide GitHub configurations (3 months ago)
 
 
 
