@@ -38,7 +38,6 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 - [feat: gitlab runners](https://github.com/ccl-consulting/grafana-dashboards/pull/1) on [ccl-consulting/grafana-dashboards](https://github.com/ccl-consulting/grafana-dashboards) (1 day ago)
 - [feat(logical-support): add sse_c support to aws s3 cp](https://github.com/zalando/postgres-operator/pull/2926) on [zalando/postgres-operator](https://github.com/zalando/postgres-operator) (2 weeks ago)
 - [fix(basic-007): clarify host usage by removing colon](https://github.com/varnish/vtc-examples/pull/2) on [varnish/vtc-examples](https://github.com/varnish/vtc-examples) (2 weeks ago)
-- [fix(instance): let the backend resolve marketplace images](https://github.com/scaleway/scaleway-sdk-go/pull/2605) on [scaleway/scaleway-sdk-go](https://github.com/scaleway/scaleway-sdk-go) (2 weeks ago)
 - [refactor: Run lint and test jobs in parallel in GitHub Actions
 
 ](https://github.com/aslafy-z/fleeting-plugin-scaleway/pull/5) on [aslafy-z/fleeting-plugin-scaleway](https://github.com/aslafy-z/fleeting-plugin-scaleway) (3 weeks ago)
