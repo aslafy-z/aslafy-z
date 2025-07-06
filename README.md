@@ -49,6 +49,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 ## ⭐ Recent Stars
 
 
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 High-performance distributed object storage for MinIO  alternative. (today)
 - [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen. (3 days ago)
 - [trufflesecurity/force-push-scanner](https://github.com/trufflesecurity/force-push-scanner) - Scan for secrets in dangling commits on GitHub using GH Archive data. (3 days ago)
 - [octelium/octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA/BeyondCorp architecture, API/AI gateway, a PaaS, an infrastructure for MCP &amp; A2A architectures or even as an ngrok-alternative and a homelab infrastructure. (1 week ago)
@@ -58,7 +59,6 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 - [argoproj-labs/argocd-rbac-operator](https://github.com/argoproj-labs/argocd-rbac-operator) - Kubernetes Operator for Argo CD RBAC Management. (3 weeks ago)
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development. (4 weeks ago)
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool (1 month ago)
-- [kanbn/kan](https://github.com/kanbn/kan) - The open source Trello alternative. (1 month ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
