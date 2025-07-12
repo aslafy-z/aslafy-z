@@ -19,9 +19,9 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 ## 👷 What I'm currently working on
 
 
-- [apricote/releaser-pleaser](https://github.com/apricote/releaser-pleaser) - Automate versioning and changelog management for GitHub and GitLab projects. (today)
-- [aslafy-z/montpellier-tam-api](https://github.com/aslafy-z/montpellier-tam-api) - Montpellier TAM JSON API (1 day ago)
-- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (2 days ago)
+- [apricote/releaser-pleaser](https://github.com/apricote/releaser-pleaser) - Automate versioning and changelog management for GitHub and GitLab projects. (1 day ago)
+- [aslafy-z/montpellier-tam-api](https://github.com/aslafy-z/montpellier-tam-api) - Montpellier TAM JSON API (2 days ago)
+- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (3 days ago)
 - [ccl-consulting/grafana-dashboards](https://github.com/ccl-consulting/grafana-dashboards) - Collection of Grafana dashboards (1 week ago)
 - [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (2 weeks ago)
 - [varnish/vtc-examples](https://github.com/varnish/vtc-examples) -  (3 weeks ago)
@@ -35,7 +35,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 ## 🔨 Recent Pull Requests
 
 
-- [fix(gitlab): support Fast-forward merge](https://github.com/apricote/releaser-pleaser/pull/210) on [apricote/releaser-pleaser](https://github.com/apricote/releaser-pleaser) (1 day ago)
+- [fix(gitlab): support Fast-forward merge](https://github.com/apricote/releaser-pleaser/pull/210) on [apricote/releaser-pleaser](https://github.com/apricote/releaser-pleaser) (2 days ago)
 - [feat: gitlab runners](https://github.com/ccl-consulting/grafana-dashboards/pull/1) on [ccl-consulting/grafana-dashboards](https://github.com/ccl-consulting/grafana-dashboards) (1 week ago)
 - [feat(logical-support): add sse_c support to aws s3 cp](https://github.com/zalando/postgres-operator/pull/2926) on [zalando/postgres-operator](https://github.com/zalando/postgres-operator) (3 weeks ago)
 - [fix(basic-007): clarify host usage by removing colon](https://github.com/varnish/vtc-examples/pull/2) on [varnish/vtc-examples](https://github.com/varnish/vtc-examples) (3 weeks ago)
@@ -47,8 +47,8 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 ## ⭐ Recent Stars
 
 
-- [foks-proj/go-foks](https://github.com/foks-proj/go-foks) - Go implementation of FOKS -- client and server (today)
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 High-performance distributed object storage for MinIO  alternative. (5 days ago)
+- [foks-proj/go-foks](https://github.com/foks-proj/go-foks) - Go implementation of FOKS -- client and server (1 day ago)
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 High-performance distributed object storage for MinIO  alternative. (6 days ago)
 - [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen. (1 week ago)
 - [trufflesecurity/force-push-scanner](https://github.com/trufflesecurity/force-push-scanner) - Scan for secrets in dangling commits on GitHub using GH Archive data. (1 week ago)
 - [octelium/octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA/BeyondCorp architecture, API/AI gateway, a PaaS, an infrastructure for MCP &amp; A2A architectures or even as an ngrok-alternative and a homelab infrastructure. (1 week ago)
