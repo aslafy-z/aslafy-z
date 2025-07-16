@@ -52,7 +52,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 - [trufflesecurity/force-push-scanner](https://github.com/trufflesecurity/force-push-scanner) - Scan for secrets in dangling commits on GitHub using GH Archive data. (1 week ago)
 - [octelium/octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA/BeyondCorp architecture, API/AI gateway, a PaaS, an infrastructure for MCP &amp; A2A architectures or even as an ngrok-alternative and a homelab infrastructure. (2 weeks ago)
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers. (2 weeks ago)
-- [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://discord.gg/mail0 (3 weeks ago)
+- [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord (3 weeks ago)
 - [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry (3 weeks ago)
 - [argoproj-labs/argocd-rbac-operator](https://github.com/argoproj-labs/argocd-rbac-operator) - Kubernetes Operator for Argo CD RBAC Management. (1 month ago)
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development. (1 month ago)
