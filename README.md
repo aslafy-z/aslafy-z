@@ -19,6 +19,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 ## 👷 What I'm currently working on
 
 
+- [SyllerBy/stl-quote-calculator](https://github.com/SyllerBy/stl-quote-calculator) -  (today)
 - [aslafy-z/deepstream-demo](https://github.com/aslafy-z/deepstream-demo) -  (1 week ago)
 - [apricote/releaser-pleaser](https://github.com/apricote/releaser-pleaser) - Automate versioning and changelog management for GitHub and GitLab projects. (2 weeks ago)
 - [aslafy-z/montpellier-tam-api](https://github.com/aslafy-z/montpellier-tam-api) - Montpellier TAM JSON API (2 weeks ago)
@@ -28,7 +29,6 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 - [varnish/vtc-examples](https://github.com/varnish/vtc-examples) -  (1 month ago)
 - [crossplane-contrib/provider-keycloak](https://github.com/crossplane-contrib/provider-keycloak) -  (2 months ago)
 - [aslafy-z/aws-greengrass-docker-builds](https://github.com/aslafy-z/aws-greengrass-docker-builds) - Automated multi-arch images of AWS Greengrass Nucleus, built daily with the latest aws-greengrass-docker code and published to GHCR. (2 months ago)
-- [kube-logging/kube-logging.github.io](https://github.com/kube-logging/kube-logging.github.io) - Logging operator documentation (3 months ago)
 
 
 
