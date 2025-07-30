@@ -22,7 +22,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 - [aslafy-z/deepstream-demo](https://github.com/aslafy-z/deepstream-demo) -  (1 week ago)
 - [apricote/releaser-pleaser](https://github.com/apricote/releaser-pleaser) - Automate versioning and changelog management for GitHub and GitLab projects. (2 weeks ago)
 - [aslafy-z/montpellier-tam-api](https://github.com/aslafy-z/montpellier-tam-api) - Montpellier TAM JSON API (2 weeks ago)
-- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (2 weeks ago)
+- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (3 weeks ago)
 - [ccl-consulting/grafana-dashboards](https://github.com/ccl-consulting/grafana-dashboards) - Collection of Grafana dashboards (3 weeks ago)
 - [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (1 month ago)
 - [varnish/vtc-examples](https://github.com/varnish/vtc-examples) -  (1 month ago)
@@ -46,7 +46,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 ## ⭐ Recent Stars
 
 
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK (5 days ago)
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK (6 days ago)
 - [PlakarKorp/plakar](https://github.com/PlakarKorp/plakar) - plakar is a backup solution powered by Kloset and ptar (1 week ago)
 - [suxess-it/kubriX](https://github.com/suxess-it/kubriX) -  (1 week ago)
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Kanban board to manage your AI coding agents (1 week ago)
