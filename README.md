@@ -45,6 +45,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 ## ⭐ Recent Stars
 
 
+- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal. (today)
 - [facebookincubator/below](https://github.com/facebookincubator/below) - A time traveling resource monitor for modern Linux systems (2 days ago)
 - [n0-computer/dumbpipe](https://github.com/n0-computer/dumbpipe) - Unix pipes between devices (5 days ago)
 - [lapce/lapdev](https://github.com/lapce/lapdev) - Self-Hosted Remote Dev Environment (5 days ago)
@@ -54,7 +55,6 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Kanban board to manage your AI coding agents (2 weeks ago)
 - [foks-proj/go-foks](https://github.com/foks-proj/go-foks) - Go implementation of FOKS -- client and server (3 weeks ago)
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 High-performance distributed object storage for MinIO  alternative. (4 weeks ago)
-- [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen. (1 month ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
