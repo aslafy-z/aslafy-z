@@ -19,7 +19,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 ## 👷 What I'm currently working on
 
 
-- [SyllerBy/stl-quote-calculator](https://github.com/SyllerBy/stl-quote-calculator) -  (5 days ago)
+- [SyllerBy/stl-quote-calculator](https://github.com/SyllerBy/stl-quote-calculator) -  (6 days ago)
 - [aslafy-z/deepstream-demo](https://github.com/aslafy-z/deepstream-demo) -  (2 weeks ago)
 - [apricote/releaser-pleaser](https://github.com/apricote/releaser-pleaser) - Automate versioning and changelog management for GitHub and GitLab projects. (3 weeks ago)
 - [aslafy-z/montpellier-tam-api](https://github.com/aslafy-z/montpellier-tam-api) - Montpellier TAM JSON API (3 weeks ago)
@@ -28,14 +28,14 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 - [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (1 month ago)
 - [varnish/vtc-examples](https://github.com/varnish/vtc-examples) -  (1 month ago)
 - [crossplane-contrib/provider-keycloak](https://github.com/crossplane-contrib/provider-keycloak) -  (2 months ago)
-- [aslafy-z/aws-greengrass-docker-builds](https://github.com/aslafy-z/aws-greengrass-docker-builds) - Automated multi-arch images of AWS Greengrass Nucleus, built daily with the latest aws-greengrass-docker code and published to GHCR. (2 months ago)
+- [aslafy-z/aws-greengrass-docker-builds](https://github.com/aslafy-z/aws-greengrass-docker-builds) - Automated multi-arch images of AWS Greengrass Nucleus, built daily with the latest aws-greengrass-docker code and published to GHCR. (3 months ago)
 
 
 
 ## 🔨 Recent Pull Requests
 
 
-- [various fixes](https://github.com/SyllerBy/stl-quote-calculator/pull/1) on [SyllerBy/stl-quote-calculator](https://github.com/SyllerBy/stl-quote-calculator) (5 days ago)
+- [various fixes](https://github.com/SyllerBy/stl-quote-calculator/pull/1) on [SyllerBy/stl-quote-calculator](https://github.com/SyllerBy/stl-quote-calculator) (6 days ago)
 - [fix(gitlab): support Fast-forward merge](https://github.com/apricote/releaser-pleaser/pull/210) on [apricote/releaser-pleaser](https://github.com/apricote/releaser-pleaser) (3 weeks ago)
 - [feat: gitlab runners](https://github.com/ccl-consulting/grafana-dashboards/pull/1) on [ccl-consulting/grafana-dashboards](https://github.com/ccl-consulting/grafana-dashboards) (1 month ago)
 - [feat(logical-support): add sse_c support to aws s3 cp](https://github.com/zalando/postgres-operator/pull/2926) on [zalando/postgres-operator](https://github.com/zalando/postgres-operator) (1 month ago)
@@ -45,16 +45,16 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 ## ⭐ Recent Stars
 
 
-- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal. (today)
-- [facebookincubator/below](https://github.com/facebookincubator/below) - A time traveling resource monitor for modern Linux systems (2 days ago)
-- [n0-computer/dumbpipe](https://github.com/n0-computer/dumbpipe) - Unix pipes between devices (5 days ago)
-- [lapce/lapdev](https://github.com/lapce/lapdev) - Self-Hosted Remote Dev Environment (5 days ago)
+- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal. (1 day ago)
+- [facebookincubator/below](https://github.com/facebookincubator/below) - A time traveling resource monitor for modern Linux systems (3 days ago)
+- [n0-computer/dumbpipe](https://github.com/n0-computer/dumbpipe) - Unix pipes between devices (6 days ago)
+- [lapce/lapdev](https://github.com/lapce/lapdev) - Self-Hosted Remote Dev Environment (6 days ago)
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK (1 week ago)
 - [PlakarKorp/plakar](https://github.com/PlakarKorp/plakar) - plakar is a backup solution powered by Kloset and ptar (2 weeks ago)
 - [suxess-it/kubriX](https://github.com/suxess-it/kubriX) -  (2 weeks ago)
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Kanban board to manage your AI coding agents (2 weeks ago)
 - [foks-proj/go-foks](https://github.com/foks-proj/go-foks) - Go implementation of FOKS -- client and server (3 weeks ago)
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 High-performance distributed object storage for MinIO  alternative. (4 weeks ago)
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 High-performance distributed object storage for MinIO  alternative. (1 month ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
