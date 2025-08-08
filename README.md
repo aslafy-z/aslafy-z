@@ -21,9 +21,9 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 
 - [SyllerBy/stl-quote-calculator](https://github.com/SyllerBy/stl-quote-calculator) -  (1 week ago)
 - [aslafy-z/deepstream-demo](https://github.com/aslafy-z/deepstream-demo) -  (2 weeks ago)
-- [apricote/releaser-pleaser](https://github.com/apricote/releaser-pleaser) - Automate versioning and changelog management for GitHub and GitLab projects. (3 weeks ago)
+- [apricote/releaser-pleaser](https://github.com/apricote/releaser-pleaser) - Automate versioning and changelog management for GitHub and GitLab projects. (4 weeks ago)
 - [aslafy-z/montpellier-tam-api](https://github.com/aslafy-z/montpellier-tam-api) - Montpellier TAM JSON API (4 weeks ago)
-- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (4 weeks ago)
+- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (1 month ago)
 - [ccl-consulting/grafana-dashboards](https://github.com/ccl-consulting/grafana-dashboards) - Collection of Grafana dashboards (1 month ago)
 - [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (1 month ago)
 - [varnish/vtc-examples](https://github.com/varnish/vtc-examples) -  (1 month ago)
@@ -45,15 +45,15 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 ## ⭐ Recent Stars
 
 
-- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal. (3 days ago)
-- [facebookincubator/below](https://github.com/facebookincubator/below) - A time traveling resource monitor for modern Linux systems (5 days ago)
+- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal. (4 days ago)
+- [facebookincubator/below](https://github.com/facebookincubator/below) - A time traveling resource monitor for modern Linux systems (6 days ago)
 - [n0-computer/dumbpipe](https://github.com/n0-computer/dumbpipe) - Unix pipes between devices (1 week ago)
 - [lapce/lapdev](https://github.com/lapce/lapdev) - Self-Hosted Remote Dev Environment (1 week ago)
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK (2 weeks ago)
-- [PlakarKorp/plakar](https://github.com/PlakarKorp/plakar) - plakar is a backup solution powered by Kloset and ptar (2 weeks ago)
-- [suxess-it/kubriX](https://github.com/suxess-it/kubriX) -  (2 weeks ago)
+- [PlakarKorp/plakar](https://github.com/PlakarKorp/plakar) - plakar is a backup solution powered by Kloset and ptar (3 weeks ago)
+- [suxess-it/kubriX](https://github.com/suxess-it/kubriX) -  (3 weeks ago)
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Kanban board to manage your AI coding agents (3 weeks ago)
-- [foks-proj/go-foks](https://github.com/foks-proj/go-foks) - Go implementation of FOKS -- client and server (3 weeks ago)
+- [foks-proj/go-foks](https://github.com/foks-proj/go-foks) - Go implementation of FOKS -- client and server (4 weeks ago)
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 High-performance distributed object storage for MinIO  alternative. (1 month ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
