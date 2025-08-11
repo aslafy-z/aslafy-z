@@ -20,7 +20,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 
 
 - [SyllerBy/stl-quote-calculator](https://github.com/SyllerBy/stl-quote-calculator) -  (1 week ago)
-- [aslafy-z/deepstream-demo](https://github.com/aslafy-z/deepstream-demo) -  (2 weeks ago)
+- [aslafy-z/deepstream-demo](https://github.com/aslafy-z/deepstream-demo) -  (3 weeks ago)
 - [apricote/releaser-pleaser](https://github.com/apricote/releaser-pleaser) - Automate versioning and changelog management for GitHub and GitLab projects. (1 month ago)
 - [aslafy-z/montpellier-tam-api](https://github.com/aslafy-z/montpellier-tam-api) - Montpellier TAM JSON API (1 month ago)
 - [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (1 month ago)
@@ -45,8 +45,8 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 ## ⭐ Recent Stars
 
 
-- [mindverse/Second-Me](https://github.com/mindverse/Second-Me) - Train your AI self, amplify you, bridge the world (1 day ago)
-- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal. (6 days ago)
+- [mindverse/Second-Me](https://github.com/mindverse/Second-Me) - Train your AI self, amplify you, bridge the world (2 days ago)
+- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal. (1 week ago)
 - [facebookincubator/below](https://github.com/facebookincubator/below) - A time traveling resource monitor for modern Linux systems (1 week ago)
 - [n0-computer/dumbpipe](https://github.com/n0-computer/dumbpipe) - Unix pipes between devices (1 week ago)
 - [lapce/lapdev](https://github.com/lapce/lapdev) - Self-Hosted Remote Dev Environment (1 week ago)
