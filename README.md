@@ -45,6 +45,8 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 ## ⭐ Recent Stars
 
 
+- [microsoft/wassette](https://github.com/microsoft/wassette) - Wassette: A security-oriented runtime that runs WebAssembly Components via MCP (today)
+- [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project (today)
 - [mindverse/Second-Me](https://github.com/mindverse/Second-Me) - Train your AI self, amplify you, bridge the world (2 days ago)
 - [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal. (1 week ago)
 - [facebookincubator/below](https://github.com/facebookincubator/below) - A time traveling resource monitor for modern Linux systems (1 week ago)
@@ -53,8 +55,6 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK (2 weeks ago)
 - [PlakarKorp/plakar](https://github.com/PlakarKorp/plakar) - plakar is a backup solution powered by Kloset and ptar (3 weeks ago)
 - [suxess-it/kubriX](https://github.com/suxess-it/kubriX) -  (3 weeks ago)
-- [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Kanban board to manage your AI coding agents (3 weeks ago)
-- [foks-proj/go-foks](https://github.com/foks-proj/go-foks) - Go implementation of FOKS -- client and server (1 month ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
