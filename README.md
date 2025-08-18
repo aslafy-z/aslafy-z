@@ -45,6 +45,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 ## ⭐ Recent Stars
 
 
+- [amantus-ai/vibetunnel](https://github.com/amantus-ai/vibetunnel) - Turn any browser into your terminal &amp; command your agents on the go. (today)
 - [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox (3 days ago)
 - [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus) - The All in One Framework to Build Undefeatable Scrapers (4 days ago)
 - [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust (4 days ago)
@@ -54,7 +55,6 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 - [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal. (2 weeks ago)
 - [facebookincubator/below](https://github.com/facebookincubator/below) - A time traveling resource monitor for modern Linux systems (2 weeks ago)
 - [n0-computer/dumbpipe](https://github.com/n0-computer/dumbpipe) - Unix pipes between devices (2 weeks ago)
-- [lapce/lapdev](https://github.com/lapce/lapdev) - Self-Hosted Remote Dev Environment (2 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
