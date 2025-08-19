@@ -20,6 +20,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 
 
 - [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (today)
+- [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts straight from Git repositories (today)
 - [SyllerBy/stl-quote-calculator](https://github.com/SyllerBy/stl-quote-calculator) -  (2 weeks ago)
 - [aslafy-z/deepstream-demo](https://github.com/aslafy-z/deepstream-demo) -  (4 weeks ago)
 - [apricote/releaser-pleaser](https://github.com/apricote/releaser-pleaser) - Automate versioning and changelog management for GitHub and GitLab projects. (1 month ago)
@@ -28,7 +29,6 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 - [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (1 month ago)
 - [varnish/vtc-examples](https://github.com/varnish/vtc-examples) -  (2 months ago)
 - [crossplane-contrib/provider-keycloak](https://github.com/crossplane-contrib/provider-keycloak) -  (2 months ago)
-- [aslafy-z/aws-greengrass-docker-builds](https://github.com/aslafy-z/aws-greengrass-docker-builds) - Automated multi-arch images of AWS Greengrass Nucleus, built daily with the latest aws-greengrass-docker code and published to GHCR. (3 months ago)
 
 
 
