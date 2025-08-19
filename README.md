@@ -38,17 +38,17 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 - [various fixes](https://github.com/SyllerBy/stl-quote-calculator/pull/1) on [SyllerBy/stl-quote-calculator](https://github.com/SyllerBy/stl-quote-calculator) (2 weeks ago)
 - [fix(gitlab): support Fast-forward merge](https://github.com/apricote/releaser-pleaser/pull/210) on [apricote/releaser-pleaser](https://github.com/apricote/releaser-pleaser) (1 month ago)
 - [feat: gitlab runners](https://github.com/ccl-consulting/grafana-dashboards/pull/1) on [ccl-consulting/grafana-dashboards](https://github.com/ccl-consulting/grafana-dashboards) (1 month ago)
-- [feat(logical-support): add sse_c support to aws s3 cp](https://github.com/zalando/postgres-operator/pull/2926) on [zalando/postgres-operator](https://github.com/zalando/postgres-operator) (1 month ago)
+- [feat(logical-support): add sse_c support to aws s3 cp](https://github.com/zalando/postgres-operator/pull/2926) on [zalando/postgres-operator](https://github.com/zalando/postgres-operator) (2 months ago)
 - [fix(basic-007): clarify host usage by removing colon](https://github.com/varnish/vtc-examples/pull/2) on [varnish/vtc-examples](https://github.com/varnish/vtc-examples) (2 months ago)
 - [feat: Implement 1-minute in-memory cache for Montpellier CSV data](https://github.com/aslafy-z/montpellier-tam-api/pull/7) on [aslafy-z/montpellier-tam-api](https://github.com/aslafy-z/montpellier-tam-api) (2 months ago)
 
 ## ⭐ Recent Stars
 
 
-- [amantus-ai/vibetunnel](https://github.com/amantus-ai/vibetunnel) - Turn any browser into your terminal &amp; command your agents on the go. (today)
-- [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox (3 days ago)
-- [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus) - The All in One Framework to Build Undefeatable Scrapers (4 days ago)
-- [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust (4 days ago)
+- [amantus-ai/vibetunnel](https://github.com/amantus-ai/vibetunnel) - Turn any browser into your terminal &amp; command your agents on the go. (1 day ago)
+- [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox (4 days ago)
+- [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus) - The All in One Framework to Build Undefeatable Scrapers (5 days ago)
+- [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust (5 days ago)
 - [microsoft/wassette](https://github.com/microsoft/wassette) - Wassette: A security-oriented runtime that runs WebAssembly Components via MCP (1 week ago)
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project (1 week ago)
 - [mindverse/Second-Me](https://github.com/mindverse/Second-Me) - Train your AI self, amplify you, bridge the world (1 week ago)
