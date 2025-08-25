@@ -19,14 +19,14 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 ## 👷 What I'm currently working on
 
 
-- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (5 days ago)
-- [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts straight from Git repositories (5 days ago)
+- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (6 days ago)
+- [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts straight from Git repositories (6 days ago)
 - [SyllerBy/stl-quote-calculator](https://github.com/SyllerBy/stl-quote-calculator) -  (3 weeks ago)
 - [aslafy-z/deepstream-demo](https://github.com/aslafy-z/deepstream-demo) -  (1 month ago)
 - [apricote/releaser-pleaser](https://github.com/apricote/releaser-pleaser) - Automate versioning and changelog management for GitHub and GitLab projects. (1 month ago)
 - [aslafy-z/montpellier-tam-api](https://github.com/aslafy-z/montpellier-tam-api) - Montpellier TAM JSON API (1 month ago)
 - [ccl-consulting/grafana-dashboards](https://github.com/ccl-consulting/grafana-dashboards) - Collection of Grafana dashboards (1 month ago)
-- [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (1 month ago)
+- [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (2 months ago)
 - [varnish/vtc-examples](https://github.com/varnish/vtc-examples) -  (2 months ago)
 - [crossplane-contrib/provider-keycloak](https://github.com/crossplane-contrib/provider-keycloak) -  (3 months ago)
 
@@ -35,7 +35,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 ## 🔨 Recent Pull Requests
 
 
-- [chore(deps): update helm unittest to 1.0.0](https://github.com/stakater/application/pull/430) on [stakater/application](https://github.com/stakater/application) (5 days ago)
+- [chore(deps): update helm unittest to 1.0.0](https://github.com/stakater/application/pull/430) on [stakater/application](https://github.com/stakater/application) (6 days ago)
 - [various fixes](https://github.com/SyllerBy/stl-quote-calculator/pull/1) on [SyllerBy/stl-quote-calculator](https://github.com/SyllerBy/stl-quote-calculator) (3 weeks ago)
 - [fix(gitlab): support Fast-forward merge](https://github.com/apricote/releaser-pleaser/pull/210) on [apricote/releaser-pleaser](https://github.com/apricote/releaser-pleaser) (1 month ago)
 - [feat: gitlab runners](https://github.com/ccl-consulting/grafana-dashboards/pull/1) on [ccl-consulting/grafana-dashboards](https://github.com/ccl-consulting/grafana-dashboards) (1 month ago)
@@ -45,15 +45,15 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 ## ⭐ Recent Stars
 
 
-- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers (today)
-- [amantus-ai/vibetunnel](https://github.com/amantus-ai/vibetunnel) - Turn any browser into your terminal &amp; command your agents on the go. (6 days ago)
+- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers (1 day ago)
+- [amantus-ai/vibetunnel](https://github.com/amantus-ai/vibetunnel) - Turn any browser into your terminal &amp; command your agents on the go. (1 week ago)
 - [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox (1 week ago)
 - [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus) - The All in One Framework to Build Undefeatable Scrapers (1 week ago)
 - [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust (1 week ago)
-- [microsoft/wassette](https://github.com/microsoft/wassette) - Wassette: A security-oriented runtime that runs WebAssembly Components via MCP (1 week ago)
-- [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project (1 week ago)
+- [microsoft/wassette](https://github.com/microsoft/wassette) - Wassette: A security-oriented runtime that runs WebAssembly Components via MCP (2 weeks ago)
+- [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project (2 weeks ago)
 - [mindverse/Second-Me](https://github.com/mindverse/Second-Me) - Train your AI self, amplify you, bridge the world (2 weeks ago)
-- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal. (2 weeks ago)
+- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal. (3 weeks ago)
 - [facebookincubator/below](https://github.com/facebookincubator/below) - A time traveling resource monitor for modern Linux systems (3 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
