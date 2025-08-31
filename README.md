@@ -19,7 +19,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 ## 👷 What I'm currently working on
 
 
-- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (today)
+- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (1 day ago)
 - [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts straight from Git repositories (1 week ago)
 - [SyllerBy/stl-quote-calculator](https://github.com/SyllerBy/stl-quote-calculator) -  (1 month ago)
 - [aslafy-z/deepstream-demo](https://github.com/aslafy-z/deepstream-demo) -  (1 month ago)
@@ -35,7 +35,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 ## 🔨 Recent Pull Requests
 
 
-- [feat: Implement UserInfo discovery](https://github.com/sevensolutions/traefik-oidc-auth/pull/206) on [sevensolutions/traefik-oidc-auth](https://github.com/sevensolutions/traefik-oidc-auth) (1 day ago)
+- [feat: Implement UserInfo discovery](https://github.com/sevensolutions/traefik-oidc-auth/pull/206) on [sevensolutions/traefik-oidc-auth](https://github.com/sevensolutions/traefik-oidc-auth) (2 days ago)
 - [chore(deps): update helm unittest to 1.0.0](https://github.com/stakater/application/pull/430) on [stakater/application](https://github.com/stakater/application) (1 week ago)
 - [various fixes](https://github.com/SyllerBy/stl-quote-calculator/pull/1) on [SyllerBy/stl-quote-calculator](https://github.com/SyllerBy/stl-quote-calculator) (1 month ago)
 - [fix(gitlab): support Fast-forward merge](https://github.com/apricote/releaser-pleaser/pull/210) on [apricote/releaser-pleaser](https://github.com/apricote/releaser-pleaser) (1 month ago)
@@ -46,8 +46,8 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 ## ⭐ Recent Stars
 
 
-- [DantSu/Telmi-story-teller](https://github.com/DantSu/Telmi-story-teller) - Telmi - An open source story teller and MP3 player for Miyoo Mini and Miyoo Mini Plus (3 days ago)
-- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers (6 days ago)
+- [DantSu/Telmi-story-teller](https://github.com/DantSu/Telmi-story-teller) - Telmi - An open source story teller and MP3 player for Miyoo Mini and Miyoo Mini Plus (4 days ago)
+- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers (1 week ago)
 - [amantus-ai/vibetunnel](https://github.com/amantus-ai/vibetunnel) - Turn any browser into your terminal &amp; command your agents on the go. (1 week ago)
 - [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox (2 weeks ago)
 - [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus) - The All in One Framework to Build Undefeatable Scrapers (2 weeks ago)
