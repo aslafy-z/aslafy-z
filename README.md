@@ -24,7 +24,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 - [SyllerBy/stl-quote-calculator](https://github.com/SyllerBy/stl-quote-calculator) -  (1 month ago)
 - [aslafy-z/deepstream-demo](https://github.com/aslafy-z/deepstream-demo) -  (1 month ago)
 - [apricote/releaser-pleaser](https://github.com/apricote/releaser-pleaser) - Automate versioning and changelog management for GitHub and GitLab projects. (1 month ago)
-- [aslafy-z/montpellier-tam-api](https://github.com/aslafy-z/montpellier-tam-api) - Montpellier TAM JSON API (1 month ago)
+- [aslafy-z/montpellier-tam-api](https://github.com/aslafy-z/montpellier-tam-api) - Montpellier TAM JSON API (2 months ago)
 - [ccl-consulting/grafana-dashboards](https://github.com/ccl-consulting/grafana-dashboards) - Collection of Grafana dashboards (2 months ago)
 - [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (2 months ago)
 - [varnish/vtc-examples](https://github.com/varnish/vtc-examples) -  (2 months ago)
@@ -38,7 +38,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 - [feat: Implement UserInfo discovery](https://github.com/sevensolutions/traefik-oidc-auth/pull/206) on [sevensolutions/traefik-oidc-auth](https://github.com/sevensolutions/traefik-oidc-auth) (1 week ago)
 - [chore(deps): update helm unittest to 1.0.0](https://github.com/stakater/application/pull/430) on [stakater/application](https://github.com/stakater/application) (2 weeks ago)
 - [various fixes](https://github.com/SyllerBy/stl-quote-calculator/pull/1) on [SyllerBy/stl-quote-calculator](https://github.com/SyllerBy/stl-quote-calculator) (1 month ago)
-- [fix(gitlab): support Fast-forward merge](https://github.com/apricote/releaser-pleaser/pull/210) on [apricote/releaser-pleaser](https://github.com/apricote/releaser-pleaser) (1 month ago)
+- [fix(gitlab): support Fast-forward merge](https://github.com/apricote/releaser-pleaser/pull/210) on [apricote/releaser-pleaser](https://github.com/apricote/releaser-pleaser) (2 months ago)
 - [feat: gitlab runners](https://github.com/ccl-consulting/grafana-dashboards/pull/1) on [ccl-consulting/grafana-dashboards](https://github.com/ccl-consulting/grafana-dashboards) (2 months ago)
 - [feat(logical-support): add sse_c support to aws s3 cp](https://github.com/zalando/postgres-operator/pull/2926) on [zalando/postgres-operator](https://github.com/zalando/postgres-operator) (2 months ago)
 - [fix(basic-007): clarify host usage by removing colon](https://github.com/varnish/vtc-examples/pull/2) on [varnish/vtc-examples](https://github.com/varnish/vtc-examples) (2 months ago)
@@ -46,16 +46,16 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 ## ⭐ Recent Stars
 
 
-- [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration (3 days ago)
-- [dust-tt/dust](https://github.com/dust-tt/dust) - Custom AI assistant platform to speed up your work. (4 days ago)
-- [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support. (4 days ago)
+- [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration (4 days ago)
+- [dust-tt/dust](https://github.com/dust-tt/dust) - Custom AI assistant platform to speed up your work. (5 days ago)
+- [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support. (5 days ago)
 - [DantSu/Telmi-story-teller](https://github.com/DantSu/Telmi-story-teller) - Telmi - An open source story teller and MP3 player for Miyoo Mini and Miyoo Mini Plus (1 week ago)
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers (2 weeks ago)
-- [amantus-ai/vibetunnel](https://github.com/amantus-ai/vibetunnel) - Turn any browser into your terminal &amp; command your agents on the go. (2 weeks ago)
+- [amantus-ai/vibetunnel](https://github.com/amantus-ai/vibetunnel) - Turn any browser into your terminal &amp; command your agents on the go. (3 weeks ago)
 - [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox (3 weeks ago)
 - [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus) - The All in One Framework to Build Undefeatable Scrapers (3 weeks ago)
 - [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust (3 weeks ago)
-- [microsoft/wassette](https://github.com/microsoft/wassette) - Wassette: A security-oriented runtime that runs WebAssembly Components via MCP (3 weeks ago)
+- [microsoft/wassette](https://github.com/microsoft/wassette) - Wassette: A security-oriented runtime that runs WebAssembly Components via MCP (4 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
