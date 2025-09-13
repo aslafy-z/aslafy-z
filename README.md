@@ -19,9 +19,9 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 ## 👷 What I'm currently working on
 
 
+- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (today)
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes (2 days ago)
 - [sevensolutions/traefik-oidc-auth](https://github.com/sevensolutions/traefik-oidc-auth) - 🧩 A traefik Plugin for securing the upstream service with OpenID Connect acting as a relying party. (4 days ago)
-- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (2 weeks ago)
 - [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts straight from Git repositories (3 weeks ago)
 - [SyllerBy/stl-quote-calculator](https://github.com/SyllerBy/stl-quote-calculator) -  (1 month ago)
 - [aslafy-z/deepstream-demo](https://github.com/aslafy-z/deepstream-demo) -  (1 month ago)
@@ -35,13 +35,13 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 ## 🔨 Recent Pull Requests
 
 
+- [chore: Update .gitignore to ignore helm-unittest .debug/ directory](https://github.com/stakater/application/pull/447) on [stakater/application](https://github.com/stakater/application) (today)
+- [chore(tests): enable missing features in values-test.yaml](https://github.com/stakater/application/pull/445) on [stakater/application](https://github.com/stakater/application) (today)
 - [feat: Implement UserInfo Claims Integration](https://github.com/sevensolutions/traefik-oidc-auth/pull/206) on [sevensolutions/traefik-oidc-auth](https://github.com/sevensolutions/traefik-oidc-auth) (2 weeks ago)
 - [chore(deps): update helm unittest to 1.0.0](https://github.com/stakater/application/pull/430) on [stakater/application](https://github.com/stakater/application) (3 weeks ago)
 - [various fixes](https://github.com/SyllerBy/stl-quote-calculator/pull/1) on [SyllerBy/stl-quote-calculator](https://github.com/SyllerBy/stl-quote-calculator) (1 month ago)
 - [fix(gitlab): support Fast-forward merge](https://github.com/apricote/releaser-pleaser/pull/210) on [apricote/releaser-pleaser](https://github.com/apricote/releaser-pleaser) (2 months ago)
 - [feat: gitlab runners](https://github.com/ccl-consulting/grafana-dashboards/pull/1) on [ccl-consulting/grafana-dashboards](https://github.com/ccl-consulting/grafana-dashboards) (2 months ago)
-- [feat(logical-support): add sse_c support to aws s3 cp](https://github.com/zalando/postgres-operator/pull/2926) on [zalando/postgres-operator](https://github.com/zalando/postgres-operator) (2 months ago)
-- [fix(basic-007): clarify host usage by removing colon](https://github.com/varnish/vtc-examples/pull/2) on [varnish/vtc-examples](https://github.com/varnish/vtc-examples) (2 months ago)
 
 ## ⭐ Recent Stars
 
