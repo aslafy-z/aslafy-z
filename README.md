@@ -51,7 +51,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 - [just-every/code](https://github.com/just-every/code) - Fast, effective, mind-blowing, coding CLI. Browser integration, multi-agents, theming, and reasoning control. Orchestrate agents from OpenAI, Claude, Gemini or any provider. (2 days ago)
 - [MattKetmo/radar](https://github.com/MattKetmo/radar) - Alert dashboard for Prometheus Alertmanager (6 days ago)
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration (1 week ago)
-- [dust-tt/dust](https://github.com/dust-tt/dust) - Custom AI assistant platform to speed up your work. (2 weeks ago)
+- [dust-tt/dust](https://github.com/dust-tt/dust) - Custom AI agent platform to speed up your work. (2 weeks ago)
 - [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support. (2 weeks ago)
 - [DantSu/Telmi-story-teller](https://github.com/DantSu/Telmi-story-teller) - Telmi - An open source story teller and MP3 player for Miyoo Mini and Miyoo Mini Plus (3 weeks ago)
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers (3 weeks ago)
