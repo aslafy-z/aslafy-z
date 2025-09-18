@@ -48,6 +48,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 ## ⭐ Recent Stars
 
 
+- [dineshba/tf-summarize](https://github.com/dineshba/tf-summarize) - A command-line utility to print the summary of the terraform plan (today)
 - [just-every/code](https://github.com/just-every/code) - Fast, effective, mind-blowing, coding CLI. Browser integration, multi-agents, theming, and reasoning control. Orchestrate agents from OpenAI, Claude, Gemini or any provider. (3 days ago)
 - [MattKetmo/radar](https://github.com/MattKetmo/radar) - Alert dashboard for Prometheus Alertmanager (1 week ago)
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration (2 weeks ago)
@@ -57,7 +58,6 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers (3 weeks ago)
 - [amantus-ai/vibetunnel](https://github.com/amantus-ai/vibetunnel) - Turn any browser into your terminal &amp; command your agents on the go. (1 month ago)
 - [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox (1 month ago)
-- [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus) - The All in One Framework to Build Undefeatable Scrapers (1 month ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
