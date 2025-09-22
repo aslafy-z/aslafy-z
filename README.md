@@ -36,7 +36,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 ## 🔨 Recent Pull Requests
 
 
-- [docs: Fix Helm chart repository link and installation commands](https://github.com/InseeFrLab/s3-operator/pull/103) on [InseeFrLab/s3-operator](https://github.com/InseeFrLab/s3-operator) (6 days ago)
+- [docs: Fix Helm chart repository link and installation commands](https://github.com/InseeFrLab/s3-operator/pull/103) on [InseeFrLab/s3-operator](https://github.com/InseeFrLab/s3-operator) (1 week ago)
 - [feat: setup mise-en-place](https://github.com/stakater/application/pull/450) on [stakater/application](https://github.com/stakater/application) (1 week ago)
 - [fix(backup): move includedNamespaces out of range and guard for nil](https://github.com/stakater/application/pull/448) on [stakater/application](https://github.com/stakater/application) (1 week ago)
 - [chore: Update .gitignore to ignore helm-unittest .debug/ directory](https://github.com/stakater/application/pull/447) on [stakater/application](https://github.com/stakater/application) (1 week ago)
@@ -48,8 +48,8 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 ## ⭐ Recent Stars
 
 
-- [dineshba/tf-summarize](https://github.com/dineshba/tf-summarize) - A command-line utility to print the summary of the terraform plan (3 days ago)
-- [just-every/code](https://github.com/just-every/code) - Fast, effective, mind-blowing, coding CLI. Browser integration, multi-agents, theming, and reasoning control. Orchestrate agents from OpenAI, Claude, Gemini or any provider. (6 days ago)
+- [dineshba/tf-summarize](https://github.com/dineshba/tf-summarize) - A command-line utility to print the summary of the terraform plan (4 days ago)
+- [just-every/code](https://github.com/just-every/code) - Fast, effective, mind-blowing, coding CLI. Browser integration, multi-agents, theming, and reasoning control. Orchestrate agents from OpenAI, Claude, Gemini or any provider. (1 week ago)
 - [MattKetmo/radar](https://github.com/MattKetmo/radar) - Alert dashboard for Prometheus Alertmanager (1 week ago)
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration (2 weeks ago)
 - [dust-tt/dust](https://github.com/dust-tt/dust) - Custom AI agent platform to speed up your work. (2 weeks ago)
