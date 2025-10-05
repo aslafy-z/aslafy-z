@@ -49,6 +49,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 ## ⭐ Recent Stars
 
 
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable. (today)
 - [commercetools/telefonistka](https://github.com/commercetools/telefonistka) - Safe and Controlled GitOps Promotion Across Environments/Failure-Domains (4 days ago)
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline. (1 week ago)
 - [dineshba/tf-summarize](https://github.com/dineshba/tf-summarize) - A command-line utility to print the summary of the terraform plan (2 weeks ago)
@@ -58,7 +59,6 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 - [dust-tt/dust](https://github.com/dust-tt/dust) - Custom AI agent platform to speed up your work. (1 month ago)
 - [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support. (1 month ago)
 - [DantSu/Telmi-story-teller](https://github.com/DantSu/Telmi-story-teller) - Telmi - An open source story teller and MP3 player for Miyoo Mini and Miyoo Mini Plus (1 month ago)
-- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers (1 month ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
