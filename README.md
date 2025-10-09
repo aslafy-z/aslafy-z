@@ -23,12 +23,12 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 - [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (1 week ago)
 - [cloudposse/terraform-aws-managed-grafana](https://github.com/cloudposse/terraform-aws-managed-grafana) -  (1 week ago)
 - [InseeFrLab/s3-operator](https://github.com/InseeFrLab/s3-operator) - A simple operator to dynamically create S3 buckets and policies (3 weeks ago)
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes (3 weeks ago)
-- [sevensolutions/traefik-oidc-auth](https://github.com/sevensolutions/traefik-oidc-auth) - 🧩 A traefik Plugin for securing the upstream service with OpenID Connect acting as a relying party. (4 weeks ago)
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes (4 weeks ago)
+- [sevensolutions/traefik-oidc-auth](https://github.com/sevensolutions/traefik-oidc-auth) - 🧩 A traefik Plugin for securing the upstream service with OpenID Connect acting as a relying party. (1 month ago)
 - [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts straight from Git repositories (1 month ago)
 - [SyllerBy/stl-quote-calculator](https://github.com/SyllerBy/stl-quote-calculator) -  (2 months ago)
 - [aslafy-z/deepstream-demo](https://github.com/aslafy-z/deepstream-demo) -  (2 months ago)
-- [apricote/releaser-pleaser](https://github.com/apricote/releaser-pleaser) - Automate versioning and changelog management for GitHub and GitLab projects. (2 months ago)
+- [apricote/releaser-pleaser](https://github.com/apricote/releaser-pleaser) - Automate versioning and changelog management for GitHub and GitLab projects. (3 months ago)
 - [aslafy-z/montpellier-tam-api](https://github.com/aslafy-z/montpellier-tam-api) - Montpellier TAM JSON API (3 months ago)
 
 
@@ -36,7 +36,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 ## 🔨 Recent Pull Requests
 
 
-- [feat: allow deploying dashboard and alerts on existing instances](https://github.com/coder/observability/pull/62) on [coder/observability](https://github.com/coder/observability) (5 days ago)
+- [feat: allow deploying dashboard and alerts on existing instances](https://github.com/coder/observability/pull/62) on [coder/observability](https://github.com/coder/observability) (6 days ago)
 - [feat!: drop default part-of label, require explicit override](https://github.com/stakater/application/pull/455) on [stakater/application](https://github.com/stakater/application) (1 week ago)
 - [docs: Fix Helm chart repository link and installation commands](https://github.com/InseeFrLab/s3-operator/pull/103) on [InseeFrLab/s3-operator](https://github.com/InseeFrLab/s3-operator) (3 weeks ago)
 - [feat: setup mise-en-place](https://github.com/stakater/application/pull/450) on [stakater/application](https://github.com/stakater/application) (3 weeks ago)
@@ -49,14 +49,14 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 ## ⭐ Recent Stars
 
 
-- [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager (today)
-- [Factory-AI/factory](https://github.com/Factory-AI/factory) - Factory - Agent-Native Software Development (today)
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable. (3 days ago)
+- [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager (1 day ago)
+- [Factory-AI/factory](https://github.com/Factory-AI/factory) - Factory - Agent-Native Software Development (1 day ago)
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable. (4 days ago)
 - [commercetools/telefonistka](https://github.com/commercetools/telefonistka) - Safe and Controlled GitOps Promotion Across Environments/Failure-Domains (1 week ago)
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline. (1 week ago)
-- [dineshba/tf-summarize](https://github.com/dineshba/tf-summarize) - A command-line utility to print the summary of the terraform plan (2 weeks ago)
+- [dineshba/tf-summarize](https://github.com/dineshba/tf-summarize) - A command-line utility to print the summary of the terraform plan (3 weeks ago)
 - [just-every/code](https://github.com/just-every/code) - Fast, effective, mind-blowing, coding CLI. Browser integration, multi-agents, theming, and reasoning control. Orchestrate agents from OpenAI, Claude, Gemini or any provider. (3 weeks ago)
-- [MattKetmo/radar](https://github.com/MattKetmo/radar) - Alert dashboard for Prometheus Alertmanager (3 weeks ago)
+- [MattKetmo/radar](https://github.com/MattKetmo/radar) - Alert dashboard for Prometheus Alertmanager (4 weeks ago)
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration (1 month ago)
 - [dust-tt/dust](https://github.com/dust-tt/dust) - Custom AI agent platform to speed up your work. (1 month ago)
 
