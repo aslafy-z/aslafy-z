@@ -49,6 +49,8 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 ## ⭐ Recent Stars
 
 
+- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The AI Browser Automation Framework (today)
+- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs (today)
 - [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager (1 day ago)
 - [Factory-AI/factory](https://github.com/Factory-AI/factory) - Factory - Agent-Native Software Development (1 day ago)
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable. (4 days ago)
@@ -57,8 +59,6 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 - [dineshba/tf-summarize](https://github.com/dineshba/tf-summarize) - A command-line utility to print the summary of the terraform plan (3 weeks ago)
 - [just-every/code](https://github.com/just-every/code) - Fast, effective, mind-blowing, coding CLI. Browser integration, multi-agents, theming, and reasoning control. Orchestrate agents from OpenAI, Claude, Gemini or any provider. (3 weeks ago)
 - [MattKetmo/radar](https://github.com/MattKetmo/radar) - Alert dashboard for Prometheus Alertmanager (4 weeks ago)
-- [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration (1 month ago)
-- [dust-tt/dust](https://github.com/dust-tt/dust) - Custom AI agent platform to speed up your work. (1 month ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
