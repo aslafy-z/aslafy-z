@@ -49,6 +49,8 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 ## ⭐ Recent Stars
 
 
+- [timelinize/timelinize](https://github.com/timelinize/timelinize) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer (today)
+- [winapps-org/winapps](https://github.com/winapps-org/winapps) -  Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/ (today)
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The AI Browser Automation Framework (1 day ago)
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs (1 day ago)
 - [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager (2 days ago)
@@ -57,8 +59,6 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 - [commercetools/telefonistka](https://github.com/commercetools/telefonistka) - Safe and Controlled GitOps Promotion Across Environments/Failure-Domains (1 week ago)
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline. (1 week ago)
 - [dineshba/tf-summarize](https://github.com/dineshba/tf-summarize) - A command-line utility to print the summary of the terraform plan (3 weeks ago)
-- [just-every/code](https://github.com/just-every/code) - Fast, effective, mind-blowing, coding CLI. Browser integration, multi-agents, theming, and reasoning control. Orchestrate agents from OpenAI, Claude, Gemini or any provider. (3 weeks ago)
-- [MattKetmo/radar](https://github.com/MattKetmo/radar) - Alert dashboard for Prometheus Alertmanager (4 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
