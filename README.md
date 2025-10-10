@@ -36,7 +36,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 ## 🔨 Recent Pull Requests
 
 
-- [feat: allow deploying dashboard and alerts on existing instances](https://github.com/coder/observability/pull/62) on [coder/observability](https://github.com/coder/observability) (6 days ago)
+- [feat: allow deploying dashboard and alerts on existing instances](https://github.com/coder/observability/pull/62) on [coder/observability](https://github.com/coder/observability) (1 week ago)
 - [feat!: drop default part-of label, require explicit override](https://github.com/stakater/application/pull/455) on [stakater/application](https://github.com/stakater/application) (1 week ago)
 - [docs: Fix Helm chart repository link and installation commands](https://github.com/InseeFrLab/s3-operator/pull/103) on [InseeFrLab/s3-operator](https://github.com/InseeFrLab/s3-operator) (3 weeks ago)
 - [feat: setup mise-en-place](https://github.com/stakater/application/pull/450) on [stakater/application](https://github.com/stakater/application) (3 weeks ago)
@@ -49,11 +49,11 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 ## ⭐ Recent Stars
 
 
-- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The AI Browser Automation Framework (today)
-- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs (today)
-- [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager (1 day ago)
-- [Factory-AI/factory](https://github.com/Factory-AI/factory) - Factory - Agent-Native Software Development (1 day ago)
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable. (4 days ago)
+- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The AI Browser Automation Framework (1 day ago)
+- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs (1 day ago)
+- [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager (2 days ago)
+- [Factory-AI/factory](https://github.com/Factory-AI/factory) - Factory - Agent-Native Software Development (2 days ago)
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable. (5 days ago)
 - [commercetools/telefonistka](https://github.com/commercetools/telefonistka) - Safe and Controlled GitOps Promotion Across Environments/Failure-Domains (1 week ago)
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline. (1 week ago)
 - [dineshba/tf-summarize](https://github.com/dineshba/tf-summarize) - A command-line utility to print the summary of the terraform plan (3 weeks ago)
