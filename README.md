@@ -21,6 +21,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 
 
 - [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (today)
+- [adobe/himl](https://github.com/adobe/himl) - A hierarchical yaml config in Python (today)
 - [cloudposse/terraform-aws-managed-grafana](https://github.com/cloudposse/terraform-aws-managed-grafana) -  (1 week ago)
 - [InseeFrLab/s3-operator](https://github.com/InseeFrLab/s3-operator) - A simple operator to dynamically create S3 buckets and policies (3 weeks ago)
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes (1 month ago)
@@ -29,7 +30,6 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 - [SyllerBy/stl-quote-calculator](https://github.com/SyllerBy/stl-quote-calculator) -  (2 months ago)
 - [aslafy-z/deepstream-demo](https://github.com/aslafy-z/deepstream-demo) -  (2 months ago)
 - [apricote/releaser-pleaser](https://github.com/apricote/releaser-pleaser) - Automate versioning and changelog management for GitHub and GitLab projects. (3 months ago)
-- [aslafy-z/montpellier-tam-api](https://github.com/aslafy-z/montpellier-tam-api) - Montpellier TAM JSON API (3 months ago)
 
 
 
