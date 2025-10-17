@@ -49,6 +49,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 ## ⭐ Recent Stars
 
 
+- [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust (today)
 - [alikhil/kubectl-find](https://github.com/alikhil/kubectl-find) - Missing kubectl UNIX-find-like plugin to find resources and perform action on them (3 days ago)
 - [timelinize/timelinize](https://github.com/timelinize/timelinize) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer (1 week ago)
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) -  Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/ (1 week ago)
@@ -58,7 +59,6 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 - [Factory-AI/factory](https://github.com/Factory-AI/factory) - Factory - Agent-Native Software Development (1 week ago)
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable. (1 week ago)
 - [commercetools/telefonistka](https://github.com/commercetools/telefonistka) - Safe and Controlled GitOps Promotion Across Environments/Failure-Domains (2 weeks ago)
-- [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline. (2 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
