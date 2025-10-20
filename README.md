@@ -49,11 +49,11 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 ## ⭐ Recent Stars
 
 
-- [resmoio/kubernetes-event-exporter](https://github.com/resmoio/kubernetes-event-exporter) - Export Kubernetes events to multiple destinations with routing and filtering (2 days ago)
-- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions (2 days ago)
-- [markqvist/Reticulum](https://github.com/markqvist/Reticulum) - The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between. (2 days ago)
-- [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust (2 days ago)
-- [alikhil/kubectl-find](https://github.com/alikhil/kubectl-find) - Missing kubectl UNIX-find-like plugin to find resources and perform action on them (5 days ago)
+- [resmoio/kubernetes-event-exporter](https://github.com/resmoio/kubernetes-event-exporter) - Export Kubernetes events to multiple destinations with routing and filtering (3 days ago)
+- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions (3 days ago)
+- [markqvist/Reticulum](https://github.com/markqvist/Reticulum) - The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between. (3 days ago)
+- [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust (3 days ago)
+- [alikhil/kubectl-find](https://github.com/alikhil/kubectl-find) - Missing kubectl UNIX-find-like plugin to find resources and perform action on them (6 days ago)
 - [timelinize/timelinize](https://github.com/timelinize/timelinize) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer (1 week ago)
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) -  Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/ (1 week ago)
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The AI Browser Automation Framework (1 week ago)
