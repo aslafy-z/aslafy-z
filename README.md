@@ -22,7 +22,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 
 - [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (1 week ago)
 - [adobe/himl](https://github.com/adobe/himl) - A hierarchical yaml config in Python (1 week ago)
-- [cloudposse/terraform-aws-managed-grafana](https://github.com/cloudposse/terraform-aws-managed-grafana) -  (2 weeks ago)
+- [cloudposse/terraform-aws-managed-grafana](https://github.com/cloudposse/terraform-aws-managed-grafana) -  (3 weeks ago)
 - [InseeFrLab/s3-operator](https://github.com/InseeFrLab/s3-operator) - A simple operator to dynamically create S3 buckets and policies (1 month ago)
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes (1 month ago)
 - [sevensolutions/traefik-oidc-auth](https://github.com/sevensolutions/traefik-oidc-auth) - 🧩 A traefik Plugin for securing the upstream service with OpenID Connect acting as a relying party. (1 month ago)
@@ -49,11 +49,11 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 ## ⭐ Recent Stars
 
 
-- [resmoio/kubernetes-event-exporter](https://github.com/resmoio/kubernetes-event-exporter) - Export Kubernetes events to multiple destinations with routing and filtering (3 days ago)
-- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions (3 days ago)
-- [markqvist/Reticulum](https://github.com/markqvist/Reticulum) - The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between. (3 days ago)
-- [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust (3 days ago)
-- [alikhil/kubectl-find](https://github.com/alikhil/kubectl-find) - Missing kubectl UNIX-find-like plugin to find resources and perform action on them (6 days ago)
+- [resmoio/kubernetes-event-exporter](https://github.com/resmoio/kubernetes-event-exporter) - Export Kubernetes events to multiple destinations with routing and filtering (4 days ago)
+- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions (4 days ago)
+- [markqvist/Reticulum](https://github.com/markqvist/Reticulum) - The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between. (4 days ago)
+- [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust (4 days ago)
+- [alikhil/kubectl-find](https://github.com/alikhil/kubectl-find) - Missing kubectl UNIX-find-like plugin to find resources and perform action on them (1 week ago)
 - [timelinize/timelinize](https://github.com/timelinize/timelinize) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer (1 week ago)
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) -  Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/ (1 week ago)
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The AI Browser Automation Framework (1 week ago)
