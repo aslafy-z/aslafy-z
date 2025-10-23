@@ -20,8 +20,9 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 ## 👷 What I'm currently working on
 
 
+- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (today)
+- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets. (today)
 - [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes. (today)
-- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (1 week ago)
 - [adobe/himl](https://github.com/adobe/himl) - A hierarchical yaml config in Python (1 week ago)
 - [cloudposse/terraform-aws-managed-grafana](https://github.com/cloudposse/terraform-aws-managed-grafana) -  (3 weeks ago)
 - [InseeFrLab/s3-operator](https://github.com/InseeFrLab/s3-operator) - A simple operator to dynamically create S3 buckets and policies (1 month ago)
@@ -29,13 +30,14 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 - [sevensolutions/traefik-oidc-auth](https://github.com/sevensolutions/traefik-oidc-auth) - 🧩 A traefik Plugin for securing the upstream service with OpenID Connect acting as a relying party. (1 month ago)
 - [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts straight from Git repositories (2 months ago)
 - [SyllerBy/stl-quote-calculator](https://github.com/SyllerBy/stl-quote-calculator) -  (2 months ago)
-- [aslafy-z/deepstream-demo](https://github.com/aslafy-z/deepstream-demo) -  (3 months ago)
 
 
 
 ## 🔨 Recent Pull Requests
 
 
+- [fix(charts): update certificate duration default value](https://github.com/external-secrets/external-secrets/pull/5497) on [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) (today)
+- [docs(controller-options): typo in controller-options](https://github.com/external-secrets/external-secrets/pull/5496) on [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) (today)
 - [feat: allow deploying dashboard and alerts on existing instances](https://github.com/coder/observability/pull/62) on [coder/observability](https://github.com/coder/observability) (2 weeks ago)
 - [feat!: drop default part-of label, require explicit override](https://github.com/stakater/application/pull/455) on [stakater/application](https://github.com/stakater/application) (3 weeks ago)
 - [docs: Fix Helm chart repository link and installation commands](https://github.com/InseeFrLab/s3-operator/pull/103) on [InseeFrLab/s3-operator](https://github.com/InseeFrLab/s3-operator) (1 month ago)
@@ -44,7 +46,6 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 - [chore: Update .gitignore to ignore helm-unittest .debug/ directory](https://github.com/stakater/application/pull/447) on [stakater/application](https://github.com/stakater/application) (1 month ago)
 - [chore(tests): enable missing features in values-test.yaml](https://github.com/stakater/application/pull/445) on [stakater/application](https://github.com/stakater/application) (1 month ago)
 - [feat: Implement UserInfo Claims Integration](https://github.com/sevensolutions/traefik-oidc-auth/pull/206) on [sevensolutions/traefik-oidc-auth](https://github.com/sevensolutions/traefik-oidc-auth) (1 month ago)
-- [chore(deps): update helm unittest to 1.0.0](https://github.com/stakater/application/pull/430) on [stakater/application](https://github.com/stakater/application) (2 months ago)
 
 ## ⭐ Recent Stars
 
