@@ -50,6 +50,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 ## ⭐ Recent Stars
 
 
+- [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system (today)
 - [resmoio/kubernetes-event-exporter](https://github.com/resmoio/kubernetes-event-exporter) - Export Kubernetes events to multiple destinations with routing and filtering (1 week ago)
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions (1 week ago)
 - [markqvist/Reticulum](https://github.com/markqvist/Reticulum) - The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between. (1 week ago)
@@ -59,7 +60,6 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) -  Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/ (2 weeks ago)
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The AI Browser Automation Framework (2 weeks ago)
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs (2 weeks ago)
-- [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager (2 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
