@@ -36,7 +36,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 ## 🔨 Recent Pull Requests
 
 
-- [fix(charts): update certificate duration default value](https://github.com/external-secrets/external-secrets/pull/5497) on [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) (1 day ago)
+- [fix(charts): normalize certificate duration default value](https://github.com/external-secrets/external-secrets/pull/5497) on [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) (1 day ago)
 - [docs(controller-options): typo in controller-options](https://github.com/external-secrets/external-secrets/pull/5496) on [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) (1 day ago)
 - [feat: allow deploying dashboard and alerts on existing instances](https://github.com/coder/observability/pull/62) on [coder/observability](https://github.com/coder/observability) (3 weeks ago)
 - [feat!: drop default part-of label, require explicit override](https://github.com/stakater/application/pull/455) on [stakater/application](https://github.com/stakater/application) (3 weeks ago)
