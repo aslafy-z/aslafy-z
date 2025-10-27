@@ -50,6 +50,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 ## ⭐ Recent Stars
 
 
+- [Telemaco019/kubesafe](https://github.com/Telemaco019/kubesafe) - Safely manage multiple Kubernetes clusters by defining safe contexts and protected commands. (today)
 - [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager (1 day ago)
 - [zxh326/kite](https://github.com/zxh326/kite) - 🪁 A modern, lightweight Kubernetes dashboard.  (2 days ago)
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system (3 days ago)
@@ -59,7 +60,6 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 - [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust (1 week ago)
 - [alikhil/kubectl-find](https://github.com/alikhil/kubectl-find) - Missing kubectl UNIX-find-like plugin to find resources and perform action on them (1 week ago)
 - [timelinize/timelinize](https://github.com/timelinize/timelinize) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer (2 weeks ago)
-- [winapps-org/winapps](https://github.com/winapps-org/winapps) -  Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/ (2 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
