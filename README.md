@@ -20,22 +20,23 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 ## 👷 What I'm currently working on
 
 
+- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (today)
+- [aslafy-z/github-actions](https://github.com/aslafy-z/github-actions) -  (today)
 - [dadrus/heimdall](https://github.com/dadrus/heimdall) - A cloud native Identity Aware Proxy and Access Control Decision service (3 days ago)
 - [coder/observability](https://github.com/coder/observability) -  (4 days ago)
-- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets. (5 days ago)
-- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (5 days ago)
 - [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes. (5 days ago)
+- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets. (5 days ago)
 - [adobe/himl](https://github.com/adobe/himl) - A hierarchical yaml config in Python (2 weeks ago)
 - [cloudposse/terraform-aws-managed-grafana](https://github.com/cloudposse/terraform-aws-managed-grafana) -  (4 weeks ago)
 - [InseeFrLab/s3-operator](https://github.com/InseeFrLab/s3-operator) - A simple operator to dynamically create S3 buckets and policies (1 month ago)
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes (1 month ago)
-- [sevensolutions/traefik-oidc-auth](https://github.com/sevensolutions/traefik-oidc-auth) - 🧩 A traefik Plugin for securing the upstream service with OpenID Connect acting as a relying party. (1 month ago)
 
 
 
 ## 🔨 Recent Pull Requests
 
 
+- [Change default wait timeout for reactions](https://github.com/aslafy-z/github-actions/pull/17) on [aslafy-z/github-actions](https://github.com/aslafy-z/github-actions) (today)
 - [fix(charts): normalize certificate duration default value](https://github.com/external-secrets/external-secrets/pull/5497) on [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) (5 days ago)
 - [docs(controller-options): typo in controller-options](https://github.com/external-secrets/external-secrets/pull/5496) on [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) (5 days ago)
 - [feat: allow deploying dashboard and alerts on existing instances](https://github.com/coder/observability/pull/62) on [coder/observability](https://github.com/coder/observability) (3 weeks ago)
@@ -45,7 +46,6 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 - [fix(backup): move includedNamespaces out of range and guard for nil](https://github.com/stakater/application/pull/448) on [stakater/application](https://github.com/stakater/application) (1 month ago)
 - [chore: Update .gitignore to ignore helm-unittest .debug/ directory](https://github.com/stakater/application/pull/447) on [stakater/application](https://github.com/stakater/application) (1 month ago)
 - [chore(tests): enable missing features in values-test.yaml](https://github.com/stakater/application/pull/445) on [stakater/application](https://github.com/stakater/application) (1 month ago)
-- [feat: Implement UserInfo Claims Integration](https://github.com/sevensolutions/traefik-oidc-auth/pull/206) on [sevensolutions/traefik-oidc-auth](https://github.com/sevensolutions/traefik-oidc-auth) (2 months ago)
 
 ## ⭐ Recent Stars
 
