@@ -20,6 +20,13 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 
 ## 👷 What I'm currently working on
 
+* Edge-native Kubernetes platforms for aircraft systems at **Airbus**  
+* **ROS2 Dashcam**: a Jetson-powered computer vision system for edge video processing  
+* Enhancing Kubernetes compliance, automation, and GitOps workflows at **CCL Consulting**  
+* Maintaining open-source tools and Helm plugins for the Cloud Native ecosystem  
+
+and more...
+
 
 - [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (today)
 - [aslafy-z/github-actions](https://github.com/aslafy-z/github-actions) -  (today)
@@ -46,7 +53,6 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 - [feat: setup mise-en-place](https://github.com/stakater/application/pull/450) on [stakater/application](https://github.com/stakater/application) (1 month ago)
 - [fix(backup): move includedNamespaces out of range and guard for nil](https://github.com/stakater/application/pull/448) on [stakater/application](https://github.com/stakater/application) (1 month ago)
 - [chore: Update .gitignore to ignore helm-unittest .debug/ directory](https://github.com/stakater/application/pull/447) on [stakater/application](https://github.com/stakater/application) (1 month ago)
-- [chore(tests): enable missing features in values-test.yaml](https://github.com/stakater/application/pull/445) on [stakater/application](https://github.com/stakater/application) (1 month ago)
 
 ## ⭐ Recent Stars
 
