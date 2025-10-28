@@ -28,6 +28,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
+- [google/go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries (today)
 - [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (today)
 - [fybrik/crdoc](https://github.com/fybrik/crdoc) - Generate markdown documentation from Kubernetes Custom Resource Definition (CRD) YAML files (today)
 - [aslafy-z/github-actions](https://github.com/aslafy-z/github-actions) -  (today)
@@ -37,7 +38,6 @@ and more...
 - [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes. (5 days ago)
 - [adobe/himl](https://github.com/adobe/himl) - A hierarchical yaml config in Python (2 weeks ago)
 - [cloudposse/terraform-aws-managed-grafana](https://github.com/cloudposse/terraform-aws-managed-grafana) -  (4 weeks ago)
-- [InseeFrLab/s3-operator](https://github.com/InseeFrLab/s3-operator) - A simple operator to dynamically create S3 buckets and policies (1 month ago)
 
 
 
