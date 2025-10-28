@@ -4,10 +4,11 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 
 ## About me
 
-* 💼 Full-stack developer turned platform engineer
-* 💡 Open source maintainer and community advocate
-* 🏢 Previously at Airbus and Carrefour
-* 🎓 Alumni of EPITECH
+* 💼 Full-stack developer turned platform engineer  
+* ☁️ Specialized in Kubernetes, GitOps, and multi-cloud automation  
+* 💡 Active open-source maintainer and community advocate  
+* 🏢 Previously at Airbus and Carrefour  
+* 🎓 MSc in Cybersecurity (University of Kent) and Engineering degree (EPITECH)
 
 ## Project I maintain
 
