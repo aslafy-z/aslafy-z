@@ -56,6 +56,7 @@ and more...
 ## ⭐ Recent Stars
 
 
+- [Sync-in/server](https://github.com/Sync-in/server) - Sync-in Server · Secure, open-source platform for file storage, sharing, collaboration, and syncing. (today)
 - [gdubicki/ets](https://github.com/gdubicki/ets) - A maintained fork of zmwangx&#39;s command output timestamper (today)
 - [Telemaco019/kubesafe](https://github.com/Telemaco019/kubesafe) - Safely manage multiple Kubernetes clusters by defining safe contexts and protected commands. (2 days ago)
 - [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager (3 days ago)
@@ -65,7 +66,6 @@ and more...
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions (1 week ago)
 - [markqvist/Reticulum](https://github.com/markqvist/Reticulum) - The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between. (1 week ago)
 - [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust (1 week ago)
-- [alikhil/kubectl-find](https://github.com/alikhil/kubectl-find) - Missing kubectl UNIX-find-like plugin to find resources and perform action on them (2 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
