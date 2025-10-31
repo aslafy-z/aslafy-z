@@ -28,13 +28,13 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [google/go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries (3 days ago)
-- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (3 days ago)
+- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets. (today)
 - [fybrik/crdoc](https://github.com/fybrik/crdoc) - Generate markdown documentation from Kubernetes Custom Resource Definition (CRD) YAML files (3 days ago)
+- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (3 days ago)
 - [aslafy-z/github-actions](https://github.com/aslafy-z/github-actions) -  (3 days ago)
+- [google/go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries (3 days ago)
 - [dadrus/heimdall](https://github.com/dadrus/heimdall) - A cloud native Identity Aware Proxy and Access Control Decision service (6 days ago)
 - [coder/observability](https://github.com/coder/observability) -  (1 week ago)
-- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets. (1 week ago)
 - [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes. (1 week ago)
 - [adobe/himl](https://github.com/adobe/himl) - A hierarchical yaml config in Python (2 weeks ago)
 - [cloudposse/terraform-aws-managed-grafana](https://github.com/cloudposse/terraform-aws-managed-grafana) -  (1 month ago)
