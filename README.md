@@ -56,6 +56,7 @@ and more...
 ## ⭐ Recent Stars
 
 
+- [usestrix/strix](https://github.com/usestrix/strix) - ✨ Open-source AI hackers for your apps 👨🏻‍💻 (today)
 - [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚 (5 days ago)
 - [Sync-in/server](https://github.com/Sync-in/server) - Sync-in Server · Secure, open-source platform for file storage, sharing, collaboration, and syncing. (1 week ago)
 - [gdubicki/ets](https://github.com/gdubicki/ets) - A maintained fork of zmwangx&#39;s command output timestamper (1 week ago)
@@ -65,7 +66,6 @@ and more...
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system (2 weeks ago)
 - [resmoio/kubernetes-event-exporter](https://github.com/resmoio/kubernetes-event-exporter) - Export Kubernetes events to multiple destinations with routing and filtering (3 weeks ago)
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions (3 weeks ago)
-- [markqvist/Reticulum](https://github.com/markqvist/Reticulum) - The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between. (3 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
