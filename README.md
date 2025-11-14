@@ -56,6 +56,7 @@ and more...
 ## ⭐ Recent Stars
 
 
+- [ctrox/zeropod](https://github.com/ctrox/zeropod) - pod that scales down to zero (today)
 - [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, &amp; Geekbench (3 days ago)
 - [darksworm/argonaut](https://github.com/darksworm/argonaut) - Keyboard-first terminal UI for Argo CD. Browse apps, scope by clusters/namespaces/projects, stream live resource status, trigger syncs, inspect diffs, and roll back safely — all without leaving your terminal. (3 days ago)
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing (6 days ago)
@@ -65,7 +66,6 @@ and more...
 - [Telemaco019/kubesafe](https://github.com/Telemaco019/kubesafe) - Safely manage multiple Kubernetes clusters by defining safe contexts and protected commands. (2 weeks ago)
 - [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager (2 weeks ago)
 - [zxh326/kite](https://github.com/zxh326/kite) - 🪁 A modern, lightweight Kubernetes dashboard.  (2 weeks ago)
-- [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system (3 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
