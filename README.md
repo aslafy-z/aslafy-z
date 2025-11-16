@@ -28,7 +28,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [dusty-nv/jetson-containers](https://github.com/dusty-nv/jetson-containers) - Machine Learning Containers for NVIDIA Jetson and JetPack-L4T (3 days ago)
+- [dusty-nv/jetson-containers](https://github.com/dusty-nv/jetson-containers) - Machine Learning Containers for NVIDIA Jetson and JetPack-L4T (4 days ago)
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets. (2 weeks ago)
 - [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (2 weeks ago)
 - [fybrik/crdoc](https://github.com/fybrik/crdoc) - Generate markdown documentation from Kubernetes Custom Resource Definition (CRD) YAML files (2 weeks ago)
@@ -44,7 +44,7 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [fix(l4t_version): ignore empty LSB_RELEASE environment variable](https://github.com/dusty-nv/jetson-containers/pull/1516) on [dusty-nv/jetson-containers](https://github.com/dusty-nv/jetson-containers) (3 days ago)
+- [fix(l4t_version): ignore empty LSB_RELEASE environment variable](https://github.com/dusty-nv/jetson-containers/pull/1516) on [dusty-nv/jetson-containers](https://github.com/dusty-nv/jetson-containers) (4 days ago)
 - [fix(helm): remove duplicate namespace entry in rbac.yaml](https://github.com/peak-scale/capsule-argo-addon/pull/270) on [peak-scale/capsule-argo-addon](https://github.com/peak-scale/capsule-argo-addon) (1 week ago)
 - [fix: Add test for resource name pattern matching](https://github.com/stakater/application/pull/466) on [stakater/application](https://github.com/stakater/application) (2 weeks ago)
 - [Delete README.md](https://github.com/aslafy-z/github-actions/pull/18) on [aslafy-z/github-actions](https://github.com/aslafy-z/github-actions) (2 weeks ago)
@@ -56,15 +56,15 @@ and more...
 ## ⭐ Recent Stars
 
 
-- [ctrox/zeropod](https://github.com/ctrox/zeropod) - pod that scales down to zero (1 day ago)
-- [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, &amp; Geekbench (4 days ago)
-- [darksworm/argonaut](https://github.com/darksworm/argonaut) - Keyboard-first terminal UI for Argo CD. Browse apps, scope by clusters/namespaces/projects, stream live resource status, trigger syncs, inspect diffs, and roll back safely — all without leaving your terminal. (4 days ago)
+- [ctrox/zeropod](https://github.com/ctrox/zeropod) - pod that scales down to zero (2 days ago)
+- [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, &amp; Geekbench (5 days ago)
+- [darksworm/argonaut](https://github.com/darksworm/argonaut) - Keyboard-first terminal UI for Argo CD. Browse apps, scope by clusters/namespaces/projects, stream live resource status, trigger syncs, inspect diffs, and roll back safely — all without leaving your terminal. (5 days ago)
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing (1 week ago)
 - [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚 (1 week ago)
 - [Sync-in/server](https://github.com/Sync-in/server) - Sync-in Server · Secure, open-source platform for file storage, sharing, collaboration, and syncing. (2 weeks ago)
 - [gdubicki/ets](https://github.com/gdubicki/ets) - A maintained fork of zmwangx&#39;s command output timestamper (2 weeks ago)
 - [Telemaco019/kubesafe](https://github.com/Telemaco019/kubesafe) - Safely manage multiple Kubernetes clusters by defining safe contexts and protected commands. (2 weeks ago)
-- [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager (2 weeks ago)
+- [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager (3 weeks ago)
 - [zxh326/kite](https://github.com/zxh326/kite) - 🪁 A modern, lightweight Kubernetes dashboard.  (3 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
