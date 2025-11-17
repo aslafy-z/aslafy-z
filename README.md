@@ -56,6 +56,7 @@ and more...
 ## ⭐ Recent Stars
 
 
+- [kir4h/rvault](https://github.com/kir4h/rvault) - Small tool to perform some recursive operations on Hashicorp&#39;s Vault KV (today)
 - [ctrox/zeropod](https://github.com/ctrox/zeropod) - pod that scales down to zero (3 days ago)
 - [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, &amp; Geekbench (6 days ago)
 - [darksworm/argonaut](https://github.com/darksworm/argonaut) - Keyboard-first terminal UI for Argo CD. Browse apps, scope by clusters/namespaces/projects, stream live resource status, trigger syncs, inspect diffs, and roll back safely — all without leaving your terminal. (6 days ago)
@@ -65,7 +66,6 @@ and more...
 - [gdubicki/ets](https://github.com/gdubicki/ets) - A maintained fork of zmwangx&#39;s command output timestamper (2 weeks ago)
 - [Telemaco019/kubesafe](https://github.com/Telemaco019/kubesafe) - Safely manage multiple Kubernetes clusters by defining safe contexts and protected commands. (3 weeks ago)
 - [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager (3 weeks ago)
-- [zxh326/kite](https://github.com/zxh326/kite) - 🪁 A modern, lightweight Kubernetes dashboard.  (3 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
