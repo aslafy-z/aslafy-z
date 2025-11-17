@@ -56,6 +56,7 @@ and more...
 ## ⭐ Recent Stars
 
 
+- [coderabbitai/git-worktree-runner](https://github.com/coderabbitai/git-worktree-runner) - Bash-based Git worktree manager with editor and AI tool integration. Automates per-branch worktree creation, configuration copying, dependency installation, and workspace setup for efficient parallel development. (today)
 - [kir4h/rvault](https://github.com/kir4h/rvault) - Small tool to perform some recursive operations on Hashicorp&#39;s Vault KV (today)
 - [ctrox/zeropod](https://github.com/ctrox/zeropod) - pod that scales down to zero (3 days ago)
 - [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, &amp; Geekbench (6 days ago)
@@ -65,7 +66,6 @@ and more...
 - [Sync-in/server](https://github.com/Sync-in/server) - Sync-in Server · Secure, open-source platform for file storage, sharing, collaboration, and syncing. (2 weeks ago)
 - [gdubicki/ets](https://github.com/gdubicki/ets) - A maintained fork of zmwangx&#39;s command output timestamper (2 weeks ago)
 - [Telemaco019/kubesafe](https://github.com/Telemaco019/kubesafe) - Safely manage multiple Kubernetes clusters by defining safe contexts and protected commands. (3 weeks ago)
-- [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager (3 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
