@@ -44,6 +44,7 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [fix(prometheus): scope postgres metrics to coder-observability ns](https://github.com/coder/observability/pull/72) on [coder/observability](https://github.com/coder/observability) (today)
 - [fix(l4t_version): ignore empty LSB_RELEASE environment variable](https://github.com/dusty-nv/jetson-containers/pull/1516) on [dusty-nv/jetson-containers](https://github.com/dusty-nv/jetson-containers) (1 week ago)
 - [fix(helm): remove duplicate namespace entry in rbac.yaml](https://github.com/peak-scale/capsule-argo-addon/pull/270) on [peak-scale/capsule-argo-addon](https://github.com/peak-scale/capsule-argo-addon) (2 weeks ago)
 - [fix: Add test for resource name pattern matching](https://github.com/stakater/application/pull/466) on [stakater/application](https://github.com/stakater/application) (3 weeks ago)
@@ -51,7 +52,6 @@ and more...
 - [Change default wait timeout for reactions](https://github.com/aslafy-z/github-actions/pull/17) on [aslafy-z/github-actions](https://github.com/aslafy-z/github-actions) (3 weeks ago)
 - [fix(charts): normalize certificate duration default value](https://github.com/external-secrets/external-secrets/pull/5497) on [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) (3 weeks ago)
 - [docs(controller-options): typo in controller-options](https://github.com/external-secrets/external-secrets/pull/5496) on [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) (3 weeks ago)
-- [feat: allow deploying dashboard and alerts on existing instances](https://github.com/coder/observability/pull/62) on [coder/observability](https://github.com/coder/observability) (1 month ago)
 
 ## ⭐ Recent Stars
 
