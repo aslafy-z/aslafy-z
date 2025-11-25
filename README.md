@@ -28,13 +28,13 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [coder/observability](https://github.com/coder/observability) -  (5 days ago)
+- [coder/observability](https://github.com/coder/observability) -  (6 days ago)
 - [dusty-nv/jetson-containers](https://github.com/dusty-nv/jetson-containers) - Machine Learning Containers for NVIDIA Jetson and JetPack-L4T (1 week ago)
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets. (3 weeks ago)
-- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (3 weeks ago)
-- [google/go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries (3 weeks ago)
-- [aslafy-z/github-actions](https://github.com/aslafy-z/github-actions) -  (3 weeks ago)
-- [fybrik/crdoc](https://github.com/fybrik/crdoc) - Generate markdown documentation from Kubernetes Custom Resource Definition (CRD) YAML files (3 weeks ago)
+- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (4 weeks ago)
+- [google/go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries (4 weeks ago)
+- [aslafy-z/github-actions](https://github.com/aslafy-z/github-actions) -  (4 weeks ago)
+- [fybrik/crdoc](https://github.com/fybrik/crdoc) - Generate markdown documentation from Kubernetes Custom Resource Definition (CRD) YAML files (4 weeks ago)
 - [dadrus/heimdall](https://github.com/dadrus/heimdall) - A cloud native Identity Aware Proxy and Access Control Decision service (1 month ago)
 - [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes. (1 month ago)
 - [adobe/himl](https://github.com/adobe/himl) - A hierarchical yaml config in Python (1 month ago)
@@ -44,24 +44,24 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [fix(prometheus): scope postgres metrics to coder-observability ns](https://github.com/coder/observability/pull/72) on [coder/observability](https://github.com/coder/observability) (5 days ago)
+- [fix(prometheus): scope postgres metrics to coder-observability ns](https://github.com/coder/observability/pull/72) on [coder/observability](https://github.com/coder/observability) (6 days ago)
 - [fix(l4t_version): ignore empty LSB_RELEASE environment variable](https://github.com/dusty-nv/jetson-containers/pull/1516) on [dusty-nv/jetson-containers](https://github.com/dusty-nv/jetson-containers) (1 week ago)
 - [fix(helm): remove duplicate namespace entry in rbac.yaml](https://github.com/peak-scale/capsule-argo-addon/pull/270) on [peak-scale/capsule-argo-addon](https://github.com/peak-scale/capsule-argo-addon) (3 weeks ago)
-- [fix: Add test for resource name pattern matching](https://github.com/stakater/application/pull/466) on [stakater/application](https://github.com/stakater/application) (3 weeks ago)
-- [Delete README.md](https://github.com/aslafy-z/github-actions/pull/18) on [aslafy-z/github-actions](https://github.com/aslafy-z/github-actions) (3 weeks ago)
-- [Change default wait timeout for reactions](https://github.com/aslafy-z/github-actions/pull/17) on [aslafy-z/github-actions](https://github.com/aslafy-z/github-actions) (3 weeks ago)
+- [fix: Add test for resource name pattern matching](https://github.com/stakater/application/pull/466) on [stakater/application](https://github.com/stakater/application) (4 weeks ago)
+- [Delete README.md](https://github.com/aslafy-z/github-actions/pull/18) on [aslafy-z/github-actions](https://github.com/aslafy-z/github-actions) (4 weeks ago)
+- [Change default wait timeout for reactions](https://github.com/aslafy-z/github-actions/pull/17) on [aslafy-z/github-actions](https://github.com/aslafy-z/github-actions) (4 weeks ago)
 - [fix(charts): normalize certificate duration default value](https://github.com/external-secrets/external-secrets/pull/5497) on [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) (1 month ago)
 - [docs(controller-options): typo in controller-options](https://github.com/external-secrets/external-secrets/pull/5496) on [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) (1 month ago)
 
 ## ⭐ Recent Stars
 
 
-- [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the creators of Material for MkDocs (4 days ago)
+- [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the creators of Material for MkDocs (5 days ago)
 - [coderabbitai/git-worktree-runner](https://github.com/coderabbitai/git-worktree-runner) - Bash-based Git worktree manager with editor and AI tool integration. Automates per-branch worktree creation, configuration copying, dependency installation, and workspace setup for efficient parallel development. (1 week ago)
 - [kir4h/rvault](https://github.com/kir4h/rvault) - Small tool to perform some recursive operations on Hashicorp&#39;s Vault KV (1 week ago)
 - [ctrox/zeropod](https://github.com/ctrox/zeropod) - pod that scales down to zero (1 week ago)
-- [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, &amp; Geekbench (1 week ago)
-- [darksworm/argonaut](https://github.com/darksworm/argonaut) - Keyboard-first terminal UI for Argo CD. Browse apps, scope by clusters/namespaces/projects, stream live resource status, trigger syncs, inspect diffs, and roll back safely — all without leaving your terminal. (1 week ago)
+- [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, &amp; Geekbench (2 weeks ago)
+- [darksworm/argonaut](https://github.com/darksworm/argonaut) - Keyboard-first terminal UI for Argo CD. Browse apps, scope by clusters/namespaces/projects, stream live resource status, trigger syncs, inspect diffs, and roll back safely — all without leaving your terminal. (2 weeks ago)
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing (2 weeks ago)
 - [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚 (3 weeks ago)
 - [Sync-in/server](https://github.com/Sync-in/server) - Sync-in Server · Secure, open-source platform for file storage, sharing, collaboration, and syncing. (3 weeks ago)
