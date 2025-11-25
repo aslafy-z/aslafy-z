@@ -44,6 +44,7 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [feat: Add custom LB health check type using `healthCheckNodePort`](https://github.com/scaleway/scaleway-cloud-controller-manager/pull/193) on [scaleway/scaleway-cloud-controller-manager](https://github.com/scaleway/scaleway-cloud-controller-manager) (today)
 - [fix(prometheus): scope postgres metrics to coder-observability ns](https://github.com/coder/observability/pull/72) on [coder/observability](https://github.com/coder/observability) (6 days ago)
 - [fix(l4t_version): ignore empty LSB_RELEASE environment variable](https://github.com/dusty-nv/jetson-containers/pull/1516) on [dusty-nv/jetson-containers](https://github.com/dusty-nv/jetson-containers) (1 week ago)
 - [fix(helm): remove duplicate namespace entry in rbac.yaml](https://github.com/peak-scale/capsule-argo-addon/pull/270) on [peak-scale/capsule-argo-addon](https://github.com/peak-scale/capsule-argo-addon) (3 weeks ago)
@@ -51,7 +52,6 @@ and more...
 - [Delete README.md](https://github.com/aslafy-z/github-actions/pull/18) on [aslafy-z/github-actions](https://github.com/aslafy-z/github-actions) (4 weeks ago)
 - [Change default wait timeout for reactions](https://github.com/aslafy-z/github-actions/pull/17) on [aslafy-z/github-actions](https://github.com/aslafy-z/github-actions) (4 weeks ago)
 - [fix(charts): normalize certificate duration default value](https://github.com/external-secrets/external-secrets/pull/5497) on [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) (1 month ago)
-- [docs(controller-options): typo in controller-options](https://github.com/external-secrets/external-secrets/pull/5496) on [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) (1 month ago)
 
 ## ⭐ Recent Stars
 
