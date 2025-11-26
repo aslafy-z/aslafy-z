@@ -44,7 +44,7 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [fix: gate scheme default value handling in fluentd.monitorServiceMetrics](https://github.com/kube-logging/logging-operator/pull/2146) on [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) (today)
+- [fix: guard default value handling for monitorServiceMetrics methods](https://github.com/kube-logging/logging-operator/pull/2146) on [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) (today)
 - [feat: Add custom LB health check type using `healthCheckNodePort`](https://github.com/scaleway/scaleway-cloud-controller-manager/pull/193) on [scaleway/scaleway-cloud-controller-manager](https://github.com/scaleway/scaleway-cloud-controller-manager) (1 day ago)
 - [fix(prometheus): scope postgres metrics to coder-observability ns](https://github.com/coder/observability/pull/72) on [coder/observability](https://github.com/coder/observability) (1 week ago)
 - [fix(l4t_version): ignore empty LSB_RELEASE environment variable](https://github.com/dusty-nv/jetson-containers/pull/1516) on [dusty-nv/jetson-containers](https://github.com/dusty-nv/jetson-containers) (2 weeks ago)
