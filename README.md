@@ -34,8 +34,8 @@ and more...
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets. (3 weeks ago)
 - [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (1 month ago)
 - [fybrik/crdoc](https://github.com/fybrik/crdoc) - Generate markdown documentation from Kubernetes Custom Resource Definition (CRD) YAML files (1 month ago)
-- [google/go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries (1 month ago)
 - [aslafy-z/github-actions](https://github.com/aslafy-z/github-actions) -  (1 month ago)
+- [google/go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries (1 month ago)
 - [dadrus/heimdall](https://github.com/dadrus/heimdall) - A cloud native Identity Aware Proxy and Access Control Decision service (1 month ago)
 - [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes. (1 month ago)
 
@@ -46,7 +46,7 @@ and more...
 
 - [fix(ci): add trivy fallback registry mirrors](https://github.com/kube-logging/logging-operator/pull/2148) on [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) (today)
 - [fix: align metrics service names and reuse object metadata](https://github.com/kube-logging/logging-operator/pull/2147) on [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) (1 day ago)
-- [fix: guard default value handling for monitorServiceMetrics methods](https://github.com/kube-logging/logging-operator/pull/2146) on [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) (1 day ago)
+- [fix: apply ServiceMonitor default values only when metrics are enabled](https://github.com/kube-logging/logging-operator/pull/2146) on [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) (1 day ago)
 - [feat: Add custom LB health check type using `healthCheckNodePort`](https://github.com/scaleway/scaleway-cloud-controller-manager/pull/193) on [scaleway/scaleway-cloud-controller-manager](https://github.com/scaleway/scaleway-cloud-controller-manager) (2 days ago)
 - [fix(prometheus): scope postgres metrics to coder-observability ns](https://github.com/coder/observability/pull/72) on [coder/observability](https://github.com/coder/observability) (1 week ago)
 - [fix(l4t_version): ignore empty LSB_RELEASE environment variable](https://github.com/dusty-nv/jetson-containers/pull/1516) on [dusty-nv/jetson-containers](https://github.com/dusty-nv/jetson-containers) (2 weeks ago)
