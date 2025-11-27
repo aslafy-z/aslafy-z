@@ -57,6 +57,7 @@ and more...
 ## ⭐ Recent Stars
 
 
+- [chr15m/runprompt](https://github.com/chr15m/runprompt) - Tiny script to run .prompt files (today)
 - [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the creators of Material for MkDocs (1 week ago)
 - [coderabbitai/git-worktree-runner](https://github.com/coderabbitai/git-worktree-runner) - Bash-based Git worktree manager with editor and AI tool integration. Automates per-branch worktree creation, configuration copying, dependency installation, and workspace setup for efficient parallel development. (1 week ago)
 - [kir4h/rvault](https://github.com/kir4h/rvault) - Small tool to perform some recursive operations on Hashicorp&#39;s Vault KV (1 week ago)
@@ -66,7 +67,6 @@ and more...
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing (2 weeks ago)
 - [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚 (3 weeks ago)
 - [Sync-in/server](https://github.com/Sync-in/server) - Sync-in Server · Secure, open-source platform for file storage, sharing, collaboration, and syncing. (4 weeks ago)
-- [gdubicki/ets](https://github.com/gdubicki/ets) - A maintained fork of zmwangx&#39;s command output timestamper (4 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
