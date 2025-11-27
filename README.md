@@ -44,6 +44,7 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [feat(loadbalancer): add health check port annotation](https://github.com/scaleway/scaleway-cloud-controller-manager/pull/195) on [scaleway/scaleway-cloud-controller-manager](https://github.com/scaleway/scaleway-cloud-controller-manager) (today)
 - [fix(ci): add trivy fallback registry mirrors](https://github.com/kube-logging/logging-operator/pull/2148) on [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) (today)
 - [fix: align metrics service names and reuse object metadata](https://github.com/kube-logging/logging-operator/pull/2147) on [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) (1 day ago)
 - [fix: apply ServiceMonitor default values only when metrics are enabled](https://github.com/kube-logging/logging-operator/pull/2146) on [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) (1 day ago)
