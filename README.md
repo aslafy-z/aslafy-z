@@ -58,7 +58,7 @@ and more...
 
 
 - [chr15m/runprompt](https://github.com/chr15m/runprompt) - Tiny script to run .prompt files (4 days ago)
-- [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the creators of Material for MkDocs (1 week ago)
+- [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team (1 week ago)
 - [coderabbitai/git-worktree-runner](https://github.com/coderabbitai/git-worktree-runner) - Bash-based Git worktree manager with editor and AI tool integration. Automates per-branch worktree creation, configuration copying, dependency installation, and workspace setup for efficient parallel development. (2 weeks ago)
 - [kir4h/rvault](https://github.com/kir4h/rvault) - Small tool to perform some recursive operations on Hashicorp&#39;s Vault KV (2 weeks ago)
 - [ctrox/zeropod](https://github.com/ctrox/zeropod) - pod that scales down to zero (2 weeks ago)
