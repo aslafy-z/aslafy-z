@@ -44,15 +44,13 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [feat(loadbalancer): add healthCheckNodePort opt-in support](https://github.com/scaleway/scaleway-cloud-controller-manager/pull/197) on [scaleway/scaleway-cloud-controller-manager](https://github.com/scaleway/scaleway-cloud-controller-manager) (today)
 - [feat: healthchecknodeport](https://github.com/aslafy-z/scaleway-cloud-controller-manager/pull/1) on [aslafy-z/scaleway-cloud-controller-manager](https://github.com/aslafy-z/scaleway-cloud-controller-manager) (today)
-- [feat(loadbalancer): add healthCheckNodePort opt-in support](https://github.com/scaleway/scaleway-cloud-controller-manager/pull/196) on [scaleway/scaleway-cloud-controller-manager](https://github.com/scaleway/scaleway-cloud-controller-manager) (5 days ago)
-- [feat(loadbalancer): add health check port annotation](https://github.com/scaleway/scaleway-cloud-controller-manager/pull/195) on [scaleway/scaleway-cloud-controller-manager](https://github.com/scaleway/scaleway-cloud-controller-manager) (5 days ago)
 - [fix(ci): add trivy fallback registry mirrors](https://github.com/kube-logging/logging-operator/pull/2148) on [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) (5 days ago)
 - [fix: align metrics service names and reuse object metadata](https://github.com/kube-logging/logging-operator/pull/2147) on [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) (6 days ago)
 - [fix: apply ServiceMonitor default values only when metrics are enabled](https://github.com/kube-logging/logging-operator/pull/2146) on [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) (6 days ago)
 - [fix(prometheus): scope postgres metrics to coder-observability ns](https://github.com/coder/observability/pull/72) on [coder/observability](https://github.com/coder/observability) (1 week ago)
 - [fix(l4t_version): ignore empty LSB_RELEASE environment variable](https://github.com/dusty-nv/jetson-containers/pull/1516) on [dusty-nv/jetson-containers](https://github.com/dusty-nv/jetson-containers) (2 weeks ago)
-- [fix(helm): remove duplicate namespace entry in rbac.yaml](https://github.com/peak-scale/capsule-argo-addon/pull/270) on [peak-scale/capsule-argo-addon](https://github.com/peak-scale/capsule-argo-addon) (4 weeks ago)
 
 ## ⭐ Recent Stars
 
