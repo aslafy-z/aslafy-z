@@ -54,6 +54,7 @@ and more...
 ## ⭐ Recent Stars
 
 
+- [picosh/pico](https://github.com/picosh/pico) - The ultimate ssh powered services for developers (today)
 - [gabe565/CastSponsorSkip](https://github.com/gabe565/CastSponsorSkip) - Skip YouTube sponsorships (and sometimes ads) on all local Google Cast devices. (2 days ago)
 - [chr15m/runprompt](https://github.com/chr15m/runprompt) - Tiny script to run .prompt files (1 week ago)
 - [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team (2 weeks ago)
@@ -63,7 +64,6 @@ and more...
 - [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, &amp; Geekbench (3 weeks ago)
 - [darksworm/argonaut](https://github.com/darksworm/argonaut) - Keyboard-first terminal UI for Argo CD. Browse apps, scope by clusters/namespaces/projects, stream live resource status, trigger syncs, inspect diffs, and roll back safely — all without leaving your terminal. (3 weeks ago)
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing (3 weeks ago)
-- [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚 (1 month ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
