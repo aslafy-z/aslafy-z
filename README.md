@@ -44,13 +44,13 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [feat(gitprovider/gitlab): Wait - Support for squash merge and fast forward](https://github.com/akuity/kargo/pull/5454) on [akuity/kargo](https://github.com/akuity/kargo) (today)
 - [feat(promotion): allow ssh urls into pr builtins](https://github.com/akuity/kargo/pull/5452) on [akuity/kargo](https://github.com/akuity/kargo) (today)
 - [fix(gitprovider): Normalize Git URL before parsing in registration](https://github.com/akuity/kargo/pull/5451) on [akuity/kargo](https://github.com/akuity/kargo) (today)
 - [chore(ghactions): bump actions](https://github.com/scaleway/scaleway-cloud-controller-manager/pull/198) on [scaleway/scaleway-cloud-controller-manager](https://github.com/scaleway/scaleway-cloud-controller-manager) (1 day ago)
 - [feat(loadbalancer): add healthCheckNodePort opt-in support](https://github.com/scaleway/scaleway-cloud-controller-manager/pull/197) on [scaleway/scaleway-cloud-controller-manager](https://github.com/scaleway/scaleway-cloud-controller-manager) (3 days ago)
 - [fix(ci): add trivy fallback registry mirrors](https://github.com/kube-logging/logging-operator/pull/2148) on [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) (1 week ago)
 - [fix: align metrics service names and reuse object metadata](https://github.com/kube-logging/logging-operator/pull/2147) on [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) (1 week ago)
-- [fix: apply ServiceMonitor default values only when metrics are enabled](https://github.com/kube-logging/logging-operator/pull/2146) on [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) (1 week ago)
 
 ## ⭐ Recent Stars
 
