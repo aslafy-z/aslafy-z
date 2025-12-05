@@ -44,8 +44,8 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [chore(ghactions): bump actions](https://github.com/scaleway/scaleway-cloud-controller-manager/pull/198) on [scaleway/scaleway-cloud-controller-manager](https://github.com/scaleway/scaleway-cloud-controller-manager) (today)
-- [feat(loadbalancer): add healthCheckNodePort opt-in support](https://github.com/scaleway/scaleway-cloud-controller-manager/pull/197) on [scaleway/scaleway-cloud-controller-manager](https://github.com/scaleway/scaleway-cloud-controller-manager) (2 days ago)
+- [chore(ghactions): bump actions](https://github.com/scaleway/scaleway-cloud-controller-manager/pull/198) on [scaleway/scaleway-cloud-controller-manager](https://github.com/scaleway/scaleway-cloud-controller-manager) (1 day ago)
+- [feat(loadbalancer): add healthCheckNodePort opt-in support](https://github.com/scaleway/scaleway-cloud-controller-manager/pull/197) on [scaleway/scaleway-cloud-controller-manager](https://github.com/scaleway/scaleway-cloud-controller-manager) (3 days ago)
 - [fix(ci): add trivy fallback registry mirrors](https://github.com/kube-logging/logging-operator/pull/2148) on [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) (1 week ago)
 - [fix: align metrics service names and reuse object metadata](https://github.com/kube-logging/logging-operator/pull/2147) on [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) (1 week ago)
 - [fix: apply ServiceMonitor default values only when metrics are enabled](https://github.com/kube-logging/logging-operator/pull/2146) on [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) (1 week ago)
@@ -54,13 +54,13 @@ and more...
 ## ⭐ Recent Stars
 
 
-- [picosh/pico](https://github.com/picosh/pico) - The ultimate ssh powered services for developers (today)
-- [gabe565/CastSponsorSkip](https://github.com/gabe565/CastSponsorSkip) - Skip YouTube sponsorships (and sometimes ads) on all local Google Cast devices. (2 days ago)
+- [picosh/pico](https://github.com/picosh/pico) - The ultimate ssh powered services for developers (1 day ago)
+- [gabe565/CastSponsorSkip](https://github.com/gabe565/CastSponsorSkip) - Skip YouTube sponsorships (and sometimes ads) on all local Google Cast devices. (3 days ago)
 - [chr15m/runprompt](https://github.com/chr15m/runprompt) - Tiny script to run .prompt files (1 week ago)
 - [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team (2 weeks ago)
 - [coderabbitai/git-worktree-runner](https://github.com/coderabbitai/git-worktree-runner) - Bash-based Git worktree manager with editor and AI tool integration. Automates per-branch worktree creation, configuration copying, dependency installation, and workspace setup for efficient parallel development. (2 weeks ago)
 - [kir4h/rvault](https://github.com/kir4h/rvault) - Small tool to perform some recursive operations on Hashicorp&#39;s Vault KV (2 weeks ago)
-- [ctrox/zeropod](https://github.com/ctrox/zeropod) - pod that scales down to zero (2 weeks ago)
+- [ctrox/zeropod](https://github.com/ctrox/zeropod) - pod that scales down to zero (3 weeks ago)
 - [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, &amp; Geekbench (3 weeks ago)
 - [darksworm/argonaut](https://github.com/darksworm/argonaut) - Keyboard-first terminal UI for Argo CD. Browse apps, scope by clusters/namespaces/projects, stream live resource status, trigger syncs, inspect diffs, and roll back safely — all without leaving your terminal. (3 weeks ago)
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing (3 weeks ago)
