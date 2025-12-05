@@ -54,6 +54,7 @@ and more...
 ## ⭐ Recent Stars
 
 
+- [telekom/k8s-breakglass](https://github.com/telekom/k8s-breakglass) - Temporary privilege elevation for Kubernetes. (today)
 - [picosh/pico](https://github.com/picosh/pico) - The ultimate ssh powered services for developers (1 day ago)
 - [gabe565/CastSponsorSkip](https://github.com/gabe565/CastSponsorSkip) - Skip YouTube sponsorships (and sometimes ads) on all local Google Cast devices. (3 days ago)
 - [chr15m/runprompt](https://github.com/chr15m/runprompt) - Tiny script to run .prompt files (1 week ago)
@@ -63,7 +64,6 @@ and more...
 - [ctrox/zeropod](https://github.com/ctrox/zeropod) - pod that scales down to zero (3 weeks ago)
 - [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, &amp; Geekbench (3 weeks ago)
 - [darksworm/argonaut](https://github.com/darksworm/argonaut) - Keyboard-first terminal UI for Argo CD. Browse apps, scope by clusters/namespaces/projects, stream live resource status, trigger syncs, inspect diffs, and roll back safely — all without leaving your terminal. (3 weeks ago)
-- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing (3 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
