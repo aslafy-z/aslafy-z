@@ -44,6 +44,7 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [feat(promotion): allow ssh urls into pr builtins](https://github.com/akuity/kargo/pull/5452) on [akuity/kargo](https://github.com/akuity/kargo) (today)
 - [fix(gitprovider): Normalize Git URL before parsing in registration](https://github.com/akuity/kargo/pull/5451) on [akuity/kargo](https://github.com/akuity/kargo) (today)
 - [chore(ghactions): bump actions](https://github.com/scaleway/scaleway-cloud-controller-manager/pull/198) on [scaleway/scaleway-cloud-controller-manager](https://github.com/scaleway/scaleway-cloud-controller-manager) (1 day ago)
 - [feat(loadbalancer): add healthCheckNodePort opt-in support](https://github.com/scaleway/scaleway-cloud-controller-manager/pull/197) on [scaleway/scaleway-cloud-controller-manager](https://github.com/scaleway/scaleway-cloud-controller-manager) (3 days ago)
