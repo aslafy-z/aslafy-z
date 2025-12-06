@@ -36,14 +36,15 @@ and more...
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets. (1 month ago)
 - [fybrik/crdoc](https://github.com/fybrik/crdoc) - Generate markdown documentation from Kubernetes Custom Resource Definition (CRD) YAML files (1 month ago)
 - [aslafy-z/github-actions](https://github.com/aslafy-z/github-actions) -  (1 month ago)
-- [google/go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries (1 month ago)
 - [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (1 month ago)
+- [google/go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries (1 month ago)
 
 
 
 ## 🔨 Recent Pull Requests
 
 
+- [fix(plugin): re-add CLI environment variables for subprocess](https://github.com/helm/helm/pull/31611) on [helm/helm](https://github.com/helm/helm) (today)
 - [chore(release): update versions to 1.5.0 [skip ci]](https://github.com/aslafy-z/helm-git/pull/373) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (today)
 - [fix: Support for Helm 4.x](https://github.com/aslafy-z/helm-git/pull/372) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (today)
 - [Revert &#34;chore(deps-dev): bump bats from 1.12.0 to 1.13.0&#34;](https://github.com/aslafy-z/helm-git/pull/371) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (today)
