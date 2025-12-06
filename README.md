@@ -28,7 +28,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [scaleway/scaleway-cloud-controller-manager](https://github.com/scaleway/scaleway-cloud-controller-manager) -  Kubernetes Cloud Controller Manager for Scaleway (1 day ago)
+- [scaleway/scaleway-cloud-controller-manager](https://github.com/scaleway/scaleway-cloud-controller-manager) -  Kubernetes Cloud Controller Manager for Scaleway (2 days ago)
 - [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes (1 week ago)
 - [coder/observability](https://github.com/coder/observability) -  (2 weeks ago)
 - [dusty-nv/jetson-containers](https://github.com/dusty-nv/jetson-containers) - Machine Learning Containers for NVIDIA Jetson and JetPack-L4T (3 weeks ago)
@@ -44,20 +44,20 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [feat(gitprovider/gitlab): Wait - Support for squash merge and fast forward](https://github.com/akuity/kargo/pull/5454) on [akuity/kargo](https://github.com/akuity/kargo) (today)
-- [feat(promotion): allow ssh urls into pr builtins](https://github.com/akuity/kargo/pull/5452) on [akuity/kargo](https://github.com/akuity/kargo) (today)
-- [fix(gitprovider): Normalize Git URL before parsing in registration](https://github.com/akuity/kargo/pull/5451) on [akuity/kargo](https://github.com/akuity/kargo) (today)
-- [chore(ghactions): bump actions](https://github.com/scaleway/scaleway-cloud-controller-manager/pull/198) on [scaleway/scaleway-cloud-controller-manager](https://github.com/scaleway/scaleway-cloud-controller-manager) (1 day ago)
-- [feat(loadbalancer): add healthCheckNodePort opt-in support](https://github.com/scaleway/scaleway-cloud-controller-manager/pull/197) on [scaleway/scaleway-cloud-controller-manager](https://github.com/scaleway/scaleway-cloud-controller-manager) (3 days ago)
+- [feat(gitprovider/gitlab): Wait - Support for squash merge and fast forward](https://github.com/akuity/kargo/pull/5454) on [akuity/kargo](https://github.com/akuity/kargo) (1 day ago)
+- [feat(promotion): allow ssh urls into pr builtins](https://github.com/akuity/kargo/pull/5452) on [akuity/kargo](https://github.com/akuity/kargo) (1 day ago)
+- [fix(gitprovider): Normalize Git URL before parsing in registration](https://github.com/akuity/kargo/pull/5451) on [akuity/kargo](https://github.com/akuity/kargo) (1 day ago)
+- [chore(ghactions): bump actions](https://github.com/scaleway/scaleway-cloud-controller-manager/pull/198) on [scaleway/scaleway-cloud-controller-manager](https://github.com/scaleway/scaleway-cloud-controller-manager) (2 days ago)
+- [feat(loadbalancer): add healthCheckNodePort opt-in support](https://github.com/scaleway/scaleway-cloud-controller-manager/pull/197) on [scaleway/scaleway-cloud-controller-manager](https://github.com/scaleway/scaleway-cloud-controller-manager) (4 days ago)
 - [fix(ci): add trivy fallback registry mirrors](https://github.com/kube-logging/logging-operator/pull/2148) on [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) (1 week ago)
 - [fix: align metrics service names and reuse object metadata](https://github.com/kube-logging/logging-operator/pull/2147) on [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) (1 week ago)
 
 ## ⭐ Recent Stars
 
 
-- [telekom/k8s-breakglass](https://github.com/telekom/k8s-breakglass) - Temporary privilege elevation for Kubernetes. (today)
-- [picosh/pico](https://github.com/picosh/pico) - The ultimate ssh powered services for developers (1 day ago)
-- [gabe565/CastSponsorSkip](https://github.com/gabe565/CastSponsorSkip) - Skip YouTube sponsorships (and sometimes ads) on all local Google Cast devices. (3 days ago)
+- [telekom/k8s-breakglass](https://github.com/telekom/k8s-breakglass) - Temporary privilege elevation for Kubernetes. (1 day ago)
+- [picosh/pico](https://github.com/picosh/pico) - The ultimate ssh powered services for developers (2 days ago)
+- [gabe565/CastSponsorSkip](https://github.com/gabe565/CastSponsorSkip) - Skip YouTube sponsorships (and sometimes ads) on all local Google Cast devices. (4 days ago)
 - [chr15m/runprompt](https://github.com/chr15m/runprompt) - Tiny script to run .prompt files (1 week ago)
 - [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team (2 weeks ago)
 - [coderabbitai/git-worktree-runner](https://github.com/coderabbitai/git-worktree-runner) - Bash-based Git worktree manager with editor and AI tool integration. Automates per-branch worktree creation, configuration copying, dependency installation, and workspace setup for efficient parallel development. (2 weeks ago)
