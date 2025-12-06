@@ -44,6 +44,8 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [fix(getter): pass settings environment variables](https://github.com/helm/helm/pull/31613) on [helm/helm](https://github.com/helm/helm) (today)
+- [fix(webhook): gitlab ssh url warehouse not refreshed](https://github.com/akuity/kargo/pull/5456) on [akuity/kargo](https://github.com/akuity/kargo) (today)
 - [fix(plugin): re-add CLI environment variables for subprocess](https://github.com/helm/helm/pull/31611) on [helm/helm](https://github.com/helm/helm) (today)
 - [chore(release): update versions to 1.5.0 [skip ci]](https://github.com/aslafy-z/helm-git/pull/373) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (today)
 - [fix: Support for Helm 4.x](https://github.com/aslafy-z/helm-git/pull/372) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (today)
@@ -52,7 +54,6 @@ and more...
 - [feat(promotion): allow ssh urls into pr builtins](https://github.com/akuity/kargo/pull/5452) on [akuity/kargo](https://github.com/akuity/kargo) (1 day ago)
 - [fix(gitprovider): Normalize Git URL before parsing in registration](https://github.com/akuity/kargo/pull/5451) on [akuity/kargo](https://github.com/akuity/kargo) (1 day ago)
 - [chore(ghactions): bump actions](https://github.com/scaleway/scaleway-cloud-controller-manager/pull/198) on [scaleway/scaleway-cloud-controller-manager](https://github.com/scaleway/scaleway-cloud-controller-manager) (2 days ago)
-- [feat(loadbalancer): add healthCheckNodePort opt-in support](https://github.com/scaleway/scaleway-cloud-controller-manager/pull/197) on [scaleway/scaleway-cloud-controller-manager](https://github.com/scaleway/scaleway-cloud-controller-manager) (4 days ago)
 
 ## ⭐ Recent Stars
 
