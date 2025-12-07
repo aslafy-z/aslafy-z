@@ -49,7 +49,7 @@ and more...
 - [chore(release): update versions to 1.5.0 [skip ci]](https://github.com/aslafy-z/helm-git/pull/373) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (1 day ago)
 - [fix: Support for Helm 4.x](https://github.com/aslafy-z/helm-git/pull/372) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (1 day ago)
 - [Revert &#34;chore(deps-dev): bump bats from 1.12.0 to 1.13.0&#34;](https://github.com/aslafy-z/helm-git/pull/371) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (1 day ago)
-- [feat(gitprovider/gitlab): Wait - Support for squash merge and fast forward](https://github.com/akuity/kargo/pull/5454) on [akuity/kargo](https://github.com/akuity/kargo) (2 days ago)
+- [feat(gitprovider/gitlab): Support for squash merge and fast forward](https://github.com/akuity/kargo/pull/5454) on [akuity/kargo](https://github.com/akuity/kargo) (2 days ago)
 - [fix(gitprovider): Normalize Git URL before parsing in registration](https://github.com/akuity/kargo/pull/5451) on [akuity/kargo](https://github.com/akuity/kargo) (2 days ago)
 - [chore(ghactions): bump actions](https://github.com/scaleway/scaleway-cloud-controller-manager/pull/198) on [scaleway/scaleway-cloud-controller-manager](https://github.com/scaleway/scaleway-cloud-controller-manager) (3 days ago)
 
