@@ -56,6 +56,7 @@ and more...
 ## ⭐ Recent Stars
 
 
+- [backube/volsync](https://github.com/backube/volsync) - Asynchronous data replication for Kubernetes volumes (today)
 - [telekom/k8s-breakglass](https://github.com/telekom/k8s-breakglass) - Temporary privilege elevation for Kubernetes. (3 days ago)
 - [picosh/pico](https://github.com/picosh/pico) - The ultimate ssh powered services for developers (4 days ago)
 - [gabe565/CastSponsorSkip](https://github.com/gabe565/CastSponsorSkip) - Skip YouTube sponsorships (and sometimes ads) on all local Google Cast devices. (6 days ago)
@@ -65,7 +66,6 @@ and more...
 - [kir4h/rvault](https://github.com/kir4h/rvault) - Small tool to perform some recursive operations on Hashicorp&#39;s Vault KV (3 weeks ago)
 - [ctrox/zeropod](https://github.com/ctrox/zeropod) - pod that scales down to zero (3 weeks ago)
 - [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, &amp; Geekbench (3 weeks ago)
-- [darksworm/argonaut](https://github.com/darksworm/argonaut) - Keyboard-first terminal UI for Argo CD. Browse apps, scope by clusters/namespaces/projects, stream live resource status, trigger syncs, inspect diffs, and roll back safely — all without leaving your terminal. (3 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
