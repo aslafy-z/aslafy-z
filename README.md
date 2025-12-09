@@ -56,6 +56,7 @@ and more...
 ## ⭐ Recent Stars
 
 
+- [ricoberger/grafana-kubernetes-plugin](https://github.com/ricoberger/grafana-kubernetes-plugin) - The Grafana Kubernetes Plugin allows you to explore your Kubernetes resources and logs directly within Grafana. (today)
 - [backube/volsync](https://github.com/backube/volsync) - Asynchronous data replication for Kubernetes volumes (1 day ago)
 - [telekom/k8s-breakglass](https://github.com/telekom/k8s-breakglass) - Temporary privilege elevation for Kubernetes. (4 days ago)
 - [picosh/pico](https://github.com/picosh/pico) - The ultimate ssh powered services for developers (5 days ago)
@@ -65,7 +66,6 @@ and more...
 - [coderabbitai/git-worktree-runner](https://github.com/coderabbitai/git-worktree-runner) - Bash-based Git worktree manager with editor and AI tool integration. Automates per-branch worktree creation, configuration copying, dependency installation, and workspace setup for efficient parallel development. (3 weeks ago)
 - [kir4h/rvault](https://github.com/kir4h/rvault) - Small tool to perform some recursive operations on Hashicorp&#39;s Vault KV (3 weeks ago)
 - [ctrox/zeropod](https://github.com/ctrox/zeropod) - pod that scales down to zero (3 weeks ago)
-- [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, &amp; Geekbench (4 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
