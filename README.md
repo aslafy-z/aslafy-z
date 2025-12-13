@@ -28,8 +28,8 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (6 days ago)
-- [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts straight from Git repositories (6 days ago)
+- [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (1 week ago)
+- [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts straight from Git repositories (1 week ago)
 - [scaleway/scaleway-cloud-controller-manager](https://github.com/scaleway/scaleway-cloud-controller-manager) -  Kubernetes Cloud Controller Manager for Scaleway (1 week ago)
 - [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes (2 weeks ago)
 - [coder/observability](https://github.com/coder/observability) -  (3 weeks ago)
@@ -44,20 +44,20 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [fix(getter): pass settings environment variables](https://github.com/helm/helm/pull/31613) on [helm/helm](https://github.com/helm/helm) (6 days ago)
-- [fix(webhook): gitlab ssh url warehouse not refreshed](https://github.com/akuity/kargo/pull/5456) on [akuity/kargo](https://github.com/akuity/kargo) (6 days ago)
-- [chore(release): update versions to 1.5.0 [skip ci]](https://github.com/aslafy-z/helm-git/pull/373) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (6 days ago)
-- [fix: Support for Helm 4.x](https://github.com/aslafy-z/helm-git/pull/372) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (6 days ago)
-- [Revert &#34;chore(deps-dev): bump bats from 1.12.0 to 1.13.0&#34;](https://github.com/aslafy-z/helm-git/pull/371) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (6 days ago)
+- [fix(getter): pass settings environment variables](https://github.com/helm/helm/pull/31613) on [helm/helm](https://github.com/helm/helm) (1 week ago)
+- [fix(webhook): gitlab ssh url warehouse not refreshed](https://github.com/akuity/kargo/pull/5456) on [akuity/kargo](https://github.com/akuity/kargo) (1 week ago)
+- [chore(release): update versions to 1.5.0 [skip ci]](https://github.com/aslafy-z/helm-git/pull/373) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (1 week ago)
+- [fix: Support for Helm 4.x](https://github.com/aslafy-z/helm-git/pull/372) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (1 week ago)
+- [Revert &#34;chore(deps-dev): bump bats from 1.12.0 to 1.13.0&#34;](https://github.com/aslafy-z/helm-git/pull/371) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (1 week ago)
 - [feat(gitprovider/gitlab): Support for squash merge and fast forward](https://github.com/akuity/kargo/pull/5454) on [akuity/kargo](https://github.com/akuity/kargo) (1 week ago)
 - [chore(ghactions): bump actions](https://github.com/scaleway/scaleway-cloud-controller-manager/pull/198) on [scaleway/scaleway-cloud-controller-manager](https://github.com/scaleway/scaleway-cloud-controller-manager) (1 week ago)
 
 ## ⭐ Recent Stars
 
 
-- [stefanprodan/timoni](https://github.com/stefanprodan/timoni) - Timoni is a package manager for Kubernetes, powered by CUE and inspired by Helm. (3 days ago)
-- [ricoberger/grafana-kubernetes-plugin](https://github.com/ricoberger/grafana-kubernetes-plugin) - The Grafana Kubernetes Plugin allows you to explore your Kubernetes resources and logs directly within Grafana. (3 days ago)
-- [backube/volsync](https://github.com/backube/volsync) - Asynchronous data replication for Kubernetes volumes (4 days ago)
+- [stefanprodan/timoni](https://github.com/stefanprodan/timoni) - Timoni is a package manager for Kubernetes, powered by CUE and inspired by Helm. (4 days ago)
+- [ricoberger/grafana-kubernetes-plugin](https://github.com/ricoberger/grafana-kubernetes-plugin) - The Grafana Kubernetes Plugin allows you to explore your Kubernetes resources and logs directly within Grafana. (4 days ago)
+- [backube/volsync](https://github.com/backube/volsync) - Asynchronous data replication for Kubernetes volumes (5 days ago)
 - [telekom/k8s-breakglass](https://github.com/telekom/k8s-breakglass) - Temporary privilege elevation for Kubernetes. (1 week ago)
 - [picosh/pico](https://github.com/picosh/pico) - The ultimate ssh powered services for developers (1 week ago)
 - [gabe565/CastSponsorSkip](https://github.com/gabe565/CastSponsorSkip) - Skip YouTube sponsorships (and sometimes ads) on all local Google Cast devices. (1 week ago)
