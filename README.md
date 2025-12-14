@@ -56,7 +56,7 @@ and more...
 
 
 - [deuxfleurs-org/garage](https://github.com/deuxfleurs-org/garage) - (Mirror) S3-compatible object store for small self-hosted geo-distributed deployments. Main repo: https://git.deuxfleurs.fr/Deuxfleurs/garage (1 day ago)
-- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A portable and hackable fuzzy finder for the terminal. (1 day ago)
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder for the terminal. (1 day ago)
 - [stefanprodan/timoni](https://github.com/stefanprodan/timoni) - Timoni is a package manager for Kubernetes, powered by CUE and inspired by Helm. (5 days ago)
 - [ricoberger/grafana-kubernetes-plugin](https://github.com/ricoberger/grafana-kubernetes-plugin) - The Grafana Kubernetes Plugin allows you to explore your Kubernetes resources and logs directly within Grafana. (5 days ago)
 - [backube/volsync](https://github.com/backube/volsync) - Asynchronous data replication for Kubernetes volumes (6 days ago)
