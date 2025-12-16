@@ -63,7 +63,7 @@ and more...
 - [telekom/k8s-breakglass](https://github.com/telekom/k8s-breakglass) - Temporary privilege elevation for Kubernetes. (1 week ago)
 - [picosh/pico](https://github.com/picosh/pico) - The ultimate ssh powered services for developers (1 week ago)
 - [gabe565/CastSponsorSkip](https://github.com/gabe565/CastSponsorSkip) - Skip YouTube sponsorships (and sometimes ads) on all local Google Cast devices. (2 weeks ago)
-- [chr15m/runprompt](https://github.com/chr15m/runprompt) - Tiny script to run .prompt files (2 weeks ago)
+- [chr15m/runprompt](https://github.com/chr15m/runprompt) - Run LLM prompts from your shell (2 weeks ago)
 - [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team (3 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
