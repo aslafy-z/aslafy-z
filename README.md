@@ -55,6 +55,7 @@ and more...
 ## ⭐ Recent Stars
 
 
+- [versity/versitygw](https://github.com/versity/versitygw) - versity s3 gateway (today)
 - [deuxfleurs-org/garage](https://github.com/deuxfleurs-org/garage) - (Mirror) S3-compatible object store for small self-hosted geo-distributed deployments. Main repo: https://git.deuxfleurs.fr/Deuxfleurs/garage (6 days ago)
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder for the terminal. (6 days ago)
 - [stefanprodan/timoni](https://github.com/stefanprodan/timoni) - Timoni is a package manager for Kubernetes, powered by CUE and inspired by Helm. (1 week ago)
@@ -64,7 +65,6 @@ and more...
 - [picosh/pico](https://github.com/picosh/pico) - The ultimate ssh powered services for developers (2 weeks ago)
 - [gabe565/CastSponsorSkip](https://github.com/gabe565/CastSponsorSkip) - Skip YouTube sponsorships (and sometimes ads) on all local Google Cast devices. (2 weeks ago)
 - [chr15m/runprompt](https://github.com/chr15m/runprompt) - Run LLM prompts from your shell (3 weeks ago)
-- [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team (4 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
