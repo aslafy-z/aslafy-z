@@ -28,7 +28,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [aslafy-z/terraform-provider-vboxweb](https://github.com/aslafy-z/terraform-provider-vboxweb) - Terraform provider for VirtualBox using vboxwebsrv SOAP API (VirtualBox 7.1&#43;) (6 days ago)
+- [aslafy-z/terraform-provider-vboxweb](https://github.com/aslafy-z/terraform-provider-vboxweb) - Terraform provider for VirtualBox using vboxwebsrv SOAP API (VirtualBox 7.1&#43;) (1 week ago)
 - [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts straight from Git repositories (2 weeks ago)
 - [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (2 weeks ago)
 - [scaleway/scaleway-cloud-controller-manager](https://github.com/scaleway/scaleway-cloud-controller-manager) -  Kubernetes Cloud Controller Manager for Scaleway (2 weeks ago)
@@ -55,7 +55,7 @@ and more...
 ## ⭐ Recent Stars
 
 
-- [versity/versitygw](https://github.com/versity/versitygw) - versity s3 gateway (1 day ago)
+- [versity/versitygw](https://github.com/versity/versitygw) - versity s3 gateway (2 days ago)
 - [deuxfleurs-org/garage](https://github.com/deuxfleurs-org/garage) - (Mirror) S3-compatible object store for small self-hosted geo-distributed deployments. Main repo: https://git.deuxfleurs.fr/Deuxfleurs/garage (1 week ago)
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder for the terminal. (1 week ago)
 - [stefanprodan/timoni](https://github.com/stefanprodan/timoni) - Timoni is a package manager for Kubernetes, powered by CUE and inspired by Helm. (1 week ago)
