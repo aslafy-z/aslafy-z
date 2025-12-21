@@ -55,6 +55,8 @@ and more...
 ## ⭐ Recent Stars
 
 
+- [hcgatewood/kuba](https://github.com/hcgatewood/kuba) - 🪄 The magical kubectl companion (today)
+- [hcgatewood/jdd](https://github.com/hcgatewood/jdd) - 🐙 JSON diff diver — the time machine for your JSON objects (today)
 - [versity/versitygw](https://github.com/versity/versitygw) - versity s3 gateway (2 days ago)
 - [deuxfleurs-org/garage](https://github.com/deuxfleurs-org/garage) - (Mirror) S3-compatible object store for small self-hosted geo-distributed deployments. Main repo: https://git.deuxfleurs.fr/Deuxfleurs/garage (1 week ago)
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder for the terminal. (1 week ago)
@@ -63,8 +65,6 @@ and more...
 - [backube/volsync](https://github.com/backube/volsync) - Asynchronous data replication for Kubernetes volumes (1 week ago)
 - [telekom/k8s-breakglass](https://github.com/telekom/k8s-breakglass) - Temporary privilege elevation for Kubernetes. (2 weeks ago)
 - [picosh/pico](https://github.com/picosh/pico) - The ultimate ssh powered services for developers (2 weeks ago)
-- [gabe565/CastSponsorSkip](https://github.com/gabe565/CastSponsorSkip) - Skip YouTube sponsorships (and sometimes ads) on all local Google Cast devices. (2 weeks ago)
-- [chr15m/runprompt](https://github.com/chr15m/runprompt) - Run LLM prompts from your shell (3 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
