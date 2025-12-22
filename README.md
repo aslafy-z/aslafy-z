@@ -44,13 +44,13 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [feat(versitygw): Upgrade to VersityGW v1.0.20](https://github.com/alpineworks/helm-charts/pull/15) on [alpineworks/helm-charts](https://github.com/alpineworks/helm-charts) (today)
 - [fix(getter): pass settings environment variables](https://github.com/helm/helm/pull/31613) on [helm/helm](https://github.com/helm/helm) (2 weeks ago)
 - [fix(webhook): gitlab ssh url warehouse not refreshed](https://github.com/akuity/kargo/pull/5456) on [akuity/kargo](https://github.com/akuity/kargo) (2 weeks ago)
 - [chore(release): update versions to 1.5.0 [skip ci]](https://github.com/aslafy-z/helm-git/pull/373) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (2 weeks ago)
 - [fix: Support for Helm 4.x](https://github.com/aslafy-z/helm-git/pull/372) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (2 weeks ago)
 - [Revert &#34;chore(deps-dev): bump bats from 1.12.0 to 1.13.0&#34;](https://github.com/aslafy-z/helm-git/pull/371) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (2 weeks ago)
 - [feat(gitprovider/gitlab): Support for squash merge and fast forward](https://github.com/akuity/kargo/pull/5454) on [akuity/kargo](https://github.com/akuity/kargo) (2 weeks ago)
-- [chore(ghactions): bump actions](https://github.com/scaleway/scaleway-cloud-controller-manager/pull/198) on [scaleway/scaleway-cloud-controller-manager](https://github.com/scaleway/scaleway-cloud-controller-manager) (2 weeks ago)
 
 ## ⭐ Recent Stars
 
