@@ -55,6 +55,7 @@ and more...
 ## ⭐ Recent Stars
 
 
+- [semonte/sisu](https://github.com/semonte/sisu) -  (today)
 - [hcgatewood/kuba](https://github.com/hcgatewood/kuba) - 🪄 The magical kubectl companion (2 days ago)
 - [hcgatewood/jdd](https://github.com/hcgatewood/jdd) - 🐙 JSON diff diver — the time machine for your JSON objects (2 days ago)
 - [versity/versitygw](https://github.com/versity/versitygw) - versity s3 gateway (4 days ago)
@@ -64,7 +65,6 @@ and more...
 - [ricoberger/grafana-kubernetes-plugin](https://github.com/ricoberger/grafana-kubernetes-plugin) - The Grafana Kubernetes Plugin allows you to explore your Kubernetes resources and logs directly within Grafana. (2 weeks ago)
 - [backube/volsync](https://github.com/backube/volsync) - Asynchronous data replication for Kubernetes volumes (2 weeks ago)
 - [telekom/k8s-breakglass](https://github.com/telekom/k8s-breakglass) - Temporary privilege elevation for Kubernetes. (2 weeks ago)
-- [picosh/pico](https://github.com/picosh/pico) - The ultimate ssh powered services for developers (2 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
