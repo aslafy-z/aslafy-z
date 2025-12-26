@@ -44,27 +44,27 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [feat(versitygw): Upgrade to VersityGW v1.0.20](https://github.com/alpineworks/helm-charts/pull/15) on [alpineworks/helm-charts](https://github.com/alpineworks/helm-charts) (3 days ago)
+- [feat(versitygw): Upgrade to VersityGW v1.0.20](https://github.com/alpineworks/helm-charts/pull/15) on [alpineworks/helm-charts](https://github.com/alpineworks/helm-charts) (4 days ago)
 - [fix(getter): pass settings environment variables](https://github.com/helm/helm/pull/31613) on [helm/helm](https://github.com/helm/helm) (2 weeks ago)
 - [fix(webhook): gitlab ssh url warehouse not refreshed](https://github.com/akuity/kargo/pull/5456) on [akuity/kargo](https://github.com/akuity/kargo) (2 weeks ago)
 - [chore(release): update versions to 1.5.0 [skip ci]](https://github.com/aslafy-z/helm-git/pull/373) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (2 weeks ago)
 - [fix: Support for Helm 4.x](https://github.com/aslafy-z/helm-git/pull/372) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (2 weeks ago)
 - [Revert &#34;chore(deps-dev): bump bats from 1.12.0 to 1.13.0&#34;](https://github.com/aslafy-z/helm-git/pull/371) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (2 weeks ago)
-- [feat(gitprovider/gitlab): Support for squash merge and fast forward](https://github.com/akuity/kargo/pull/5454) on [akuity/kargo](https://github.com/akuity/kargo) (2 weeks ago)
+- [feat(gitprovider/gitlab): Support for squash merge and fast forward](https://github.com/akuity/kargo/pull/5454) on [akuity/kargo](https://github.com/akuity/kargo) (3 weeks ago)
 
 ## ⭐ Recent Stars
 
 
-- [semonte/sisu](https://github.com/semonte/sisu) -  (2 days ago)
-- [hcgatewood/kuba](https://github.com/hcgatewood/kuba) - 🪄 The magical kubectl companion (4 days ago)
-- [hcgatewood/jdd](https://github.com/hcgatewood/jdd) - 🐙 JSON diff diver — the time machine for your JSON objects (4 days ago)
-- [versity/versitygw](https://github.com/versity/versitygw) - versity s3 gateway (6 days ago)
+- [semonte/sisu](https://github.com/semonte/sisu) -  (3 days ago)
+- [hcgatewood/kuba](https://github.com/hcgatewood/kuba) - 🪄 The magical kubectl companion (5 days ago)
+- [hcgatewood/jdd](https://github.com/hcgatewood/jdd) - 🐙 JSON diff diver — the time machine for your JSON objects (5 days ago)
+- [versity/versitygw](https://github.com/versity/versitygw) - versity s3 gateway (1 week ago)
 - [deuxfleurs-org/garage](https://github.com/deuxfleurs-org/garage) - (Mirror) S3-compatible object store for small self-hosted geo-distributed deployments. Main repo: https://git.deuxfleurs.fr/Deuxfleurs/garage (1 week ago)
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder for the terminal. (1 week ago)
 - [stefanprodan/timoni](https://github.com/stefanprodan/timoni) - Timoni is a package manager for Kubernetes, powered by CUE and inspired by Helm. (2 weeks ago)
 - [ricoberger/grafana-kubernetes-plugin](https://github.com/ricoberger/grafana-kubernetes-plugin) - The Grafana Kubernetes Plugin allows you to explore your Kubernetes resources and logs directly within Grafana. (2 weeks ago)
 - [backube/volsync](https://github.com/backube/volsync) - Asynchronous data replication for Kubernetes volumes (2 weeks ago)
-- [telekom/k8s-breakglass](https://github.com/telekom/k8s-breakglass) - Temporary privilege elevation for Kubernetes. (2 weeks ago)
+- [telekom/k8s-breakglass](https://github.com/telekom/k8s-breakglass) - Temporary privilege elevation for Kubernetes. (3 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
