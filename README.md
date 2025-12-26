@@ -55,6 +55,7 @@ and more...
 ## ⭐ Recent Stars
 
 
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (today)
 - [semonte/sisu](https://github.com/semonte/sisu) -  (3 days ago)
 - [hcgatewood/kuba](https://github.com/hcgatewood/kuba) - 🪄 The magical kubectl companion (5 days ago)
 - [hcgatewood/jdd](https://github.com/hcgatewood/jdd) - 🐙 JSON diff diver — the time machine for your JSON objects (5 days ago)
@@ -64,7 +65,6 @@ and more...
 - [stefanprodan/timoni](https://github.com/stefanprodan/timoni) - Timoni is a package manager for Kubernetes, powered by CUE and inspired by Helm. (2 weeks ago)
 - [ricoberger/grafana-kubernetes-plugin](https://github.com/ricoberger/grafana-kubernetes-plugin) - The Grafana Kubernetes Plugin allows you to explore your Kubernetes resources and logs directly within Grafana. (2 weeks ago)
 - [backube/volsync](https://github.com/backube/volsync) - Asynchronous data replication for Kubernetes volumes (2 weeks ago)
-- [telekom/k8s-breakglass](https://github.com/telekom/k8s-breakglass) - Temporary privilege elevation for Kubernetes. (3 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
