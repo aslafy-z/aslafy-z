@@ -28,7 +28,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [aslafy-z/terraform-provider-vboxweb](https://github.com/aslafy-z/terraform-provider-vboxweb) - Terraform provider for VirtualBox using vboxwebsrv SOAP API (VirtualBox 7.1&#43;) (1 week ago)
+- [aslafy-z/terraform-provider-vboxweb](https://github.com/aslafy-z/terraform-provider-vboxweb) - Terraform provider for VirtualBox using vboxwebsrv SOAP API (VirtualBox 7.1&#43;) (2 weeks ago)
 - [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts straight from Git repositories (3 weeks ago)
 - [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (3 weeks ago)
 - [scaleway/scaleway-cloud-controller-manager](https://github.com/scaleway/scaleway-cloud-controller-manager) -  Kubernetes Cloud Controller Manager for Scaleway (3 weeks ago)
@@ -44,7 +44,7 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [feat(versitygw): Upgrade to VersityGW v1.0.20](https://github.com/alpineworks/helm-charts/pull/15) on [alpineworks/helm-charts](https://github.com/alpineworks/helm-charts) (5 days ago)
+- [feat(versitygw): Upgrade to VersityGW v1.0.20](https://github.com/alpineworks/helm-charts/pull/15) on [alpineworks/helm-charts](https://github.com/alpineworks/helm-charts) (6 days ago)
 - [fix(getter): pass settings environment variables](https://github.com/helm/helm/pull/31613) on [helm/helm](https://github.com/helm/helm) (3 weeks ago)
 - [fix(webhook): gitlab ssh url warehouse not refreshed](https://github.com/akuity/kargo/pull/5456) on [akuity/kargo](https://github.com/akuity/kargo) (3 weeks ago)
 - [chore(release): update versions to 1.5.0 [skip ci]](https://github.com/aslafy-z/helm-git/pull/373) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (3 weeks ago)
@@ -55,10 +55,10 @@ and more...
 ## ⭐ Recent Stars
 
 
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (1 day ago)
-- [semonte/sisu](https://github.com/semonte/sisu) -  (4 days ago)
-- [hcgatewood/kuba](https://github.com/hcgatewood/kuba) - 🪄 The magical kubectl companion (6 days ago)
-- [hcgatewood/jdd](https://github.com/hcgatewood/jdd) - 🐙 JSON diff diver — the time machine for your JSON objects (6 days ago)
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (2 days ago)
+- [semonte/sisu](https://github.com/semonte/sisu) -  (5 days ago)
+- [hcgatewood/kuba](https://github.com/hcgatewood/kuba) - 🪄 The magical kubectl companion (1 week ago)
+- [hcgatewood/jdd](https://github.com/hcgatewood/jdd) - 🐙 JSON diff diver — the time machine for your JSON objects (1 week ago)
 - [versity/versitygw](https://github.com/versity/versitygw) - versity s3 gateway (1 week ago)
 - [deuxfleurs-org/garage](https://github.com/deuxfleurs-org/garage) - (Mirror) S3-compatible object store for small self-hosted geo-distributed deployments. Main repo: https://git.deuxfleurs.fr/Deuxfleurs/garage (2 weeks ago)
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder for the terminal. (2 weeks ago)
