@@ -55,6 +55,7 @@ and more...
 ## ⭐ Recent Stars
 
 
+- [autobrr/qui](https://github.com/autobrr/qui) - Modern alternative webUI for qBittorrent, with multi-instance support. Written in Go/React. (today)
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac. (today)
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (2 days ago)
 - [semonte/sisu](https://github.com/semonte/sisu) -  (5 days ago)
@@ -64,7 +65,6 @@ and more...
 - [deuxfleurs-org/garage](https://github.com/deuxfleurs-org/garage) - (Mirror) S3-compatible object store for small self-hosted geo-distributed deployments. Main repo: https://git.deuxfleurs.fr/Deuxfleurs/garage (2 weeks ago)
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder for the terminal. (2 weeks ago)
 - [stefanprodan/timoni](https://github.com/stefanprodan/timoni) - Timoni is a package manager for Kubernetes, powered by CUE and inspired by Helm. (2 weeks ago)
-- [ricoberger/grafana-kubernetes-plugin](https://github.com/ricoberger/grafana-kubernetes-plugin) - The Grafana Kubernetes Plugin allows you to explore your Kubernetes resources and logs directly within Grafana. (2 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
