@@ -55,6 +55,7 @@ and more...
 ## ⭐ Recent Stars
 
 
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac. (today)
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (2 days ago)
 - [semonte/sisu](https://github.com/semonte/sisu) -  (5 days ago)
 - [hcgatewood/kuba](https://github.com/hcgatewood/kuba) - 🪄 The magical kubectl companion (1 week ago)
@@ -64,7 +65,6 @@ and more...
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder for the terminal. (2 weeks ago)
 - [stefanprodan/timoni](https://github.com/stefanprodan/timoni) - Timoni is a package manager for Kubernetes, powered by CUE and inspired by Helm. (2 weeks ago)
 - [ricoberger/grafana-kubernetes-plugin](https://github.com/ricoberger/grafana-kubernetes-plugin) - The Grafana Kubernetes Plugin allows you to explore your Kubernetes resources and logs directly within Grafana. (2 weeks ago)
-- [backube/volsync](https://github.com/backube/volsync) - Asynchronous data replication for Kubernetes volumes (2 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
