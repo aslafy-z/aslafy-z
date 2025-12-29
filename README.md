@@ -44,7 +44,7 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [feat(versitygw): Upgrade to VersityGW v1.0.20](https://github.com/alpineworks/helm-charts/pull/15) on [alpineworks/helm-charts](https://github.com/alpineworks/helm-charts) (6 days ago)
+- [feat(versitygw): Upgrade to VersityGW v1.0.20](https://github.com/alpineworks/helm-charts/pull/15) on [alpineworks/helm-charts](https://github.com/alpineworks/helm-charts) (1 week ago)
 - [fix(getter): pass settings environment variables](https://github.com/helm/helm/pull/31613) on [helm/helm](https://github.com/helm/helm) (3 weeks ago)
 - [fix(webhook): gitlab ssh url warehouse not refreshed](https://github.com/akuity/kargo/pull/5456) on [akuity/kargo](https://github.com/akuity/kargo) (3 weeks ago)
 - [chore(release): update versions to 1.5.0 [skip ci]](https://github.com/aslafy-z/helm-git/pull/373) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (3 weeks ago)
@@ -55,10 +55,10 @@ and more...
 ## ⭐ Recent Stars
 
 
-- [autobrr/qui](https://github.com/autobrr/qui) - Modern alternative webUI for qBittorrent, with multi-instance support. Written in Go/React. (today)
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac. (today)
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (2 days ago)
-- [semonte/sisu](https://github.com/semonte/sisu) -  (5 days ago)
+- [autobrr/qui](https://github.com/autobrr/qui) - Modern alternative webUI for qBittorrent, with multi-instance support. Written in Go/React. (1 day ago)
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac. (1 day ago)
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (3 days ago)
+- [semonte/sisu](https://github.com/semonte/sisu) -  (6 days ago)
 - [hcgatewood/kuba](https://github.com/hcgatewood/kuba) - 🪄 The magical kubectl companion (1 week ago)
 - [hcgatewood/jdd](https://github.com/hcgatewood/jdd) - 🐙 JSON diff diver — the time machine for your JSON objects (1 week ago)
 - [versity/versitygw](https://github.com/versity/versitygw) - versity s3 gateway (1 week ago)
