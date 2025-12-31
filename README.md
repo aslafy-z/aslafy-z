@@ -44,7 +44,7 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [Add support for init containers in client and guacd deployments](https://github.com/dmunozv04/charts/pull/3) on [dmunozv04/charts](https://github.com/dmunozv04/charts) (today)
+- [Add support for init containers in client and guacd deployments](https://github.com/dmunozv04/charts/pull/3) on [dmunozv04/charts](https://github.com/dmunozv04/charts) (1 day ago)
 - [feat(versitygw): Upgrade to VersityGW v1.0.20](https://github.com/alpineworks/helm-charts/pull/15) on [alpineworks/helm-charts](https://github.com/alpineworks/helm-charts) (1 week ago)
 - [fix(getter): pass settings environment variables](https://github.com/helm/helm/pull/31613) on [helm/helm](https://github.com/helm/helm) (3 weeks ago)
 - [fix(webhook): gitlab ssh url warehouse not refreshed](https://github.com/akuity/kargo/pull/5456) on [akuity/kargo](https://github.com/akuity/kargo) (3 weeks ago)
@@ -56,13 +56,13 @@ and more...
 ## ⭐ Recent Stars
 
 
-- [pyrra-dev/pyrra](https://github.com/pyrra-dev/pyrra) - Making SLOs with Prometheus manageable, accessible, and easy to use for everyone! (today)
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere. (today)
-- [superset-sh/superset](https://github.com/superset-sh/superset) - The terminal for parallel coding agents - Run dozens of Claude Code, OpenCode, or any other CLI agents in parallel on your machine using worktrees.  (today)
-- [tinkerbell/tinkerbell](https://github.com/tinkerbell/tinkerbell) - Bare metal provisioning engine, supporting network and ISO booting, BMC interactions, metadata service, and workflow engine. (1 day ago)
-- [autobrr/qui](https://github.com/autobrr/qui) - Modern alternative webUI for qBittorrent, with multi-instance support. Written in Go/React. (2 days ago)
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac. (2 days ago)
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (4 days ago)
+- [pyrra-dev/pyrra](https://github.com/pyrra-dev/pyrra) - Making SLOs with Prometheus manageable, accessible, and easy to use for everyone! (1 day ago)
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere. (1 day ago)
+- [superset-sh/superset](https://github.com/superset-sh/superset) - The terminal for parallel coding agents - Run dozens of Claude Code, OpenCode, or any other CLI agents in parallel on your machine using worktrees.  (1 day ago)
+- [tinkerbell/tinkerbell](https://github.com/tinkerbell/tinkerbell) - Bare metal provisioning engine, supporting network and ISO booting, BMC interactions, metadata service, and workflow engine. (2 days ago)
+- [autobrr/qui](https://github.com/autobrr/qui) - Modern alternative webUI for qBittorrent, with multi-instance support. Written in Go/React. (3 days ago)
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac. (3 days ago)
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (5 days ago)
 - [semonte/sisu](https://github.com/semonte/sisu) -  (1 week ago)
 - [hcgatewood/kuba](https://github.com/hcgatewood/kuba) - 🪄 The magical kubectl companion (1 week ago)
 - [hcgatewood/jdd](https://github.com/hcgatewood/jdd) - 🐙 JSON diff diver — the time machine for your JSON objects (1 week ago)
