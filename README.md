@@ -56,6 +56,7 @@ and more...
 ## ⭐ Recent Stars
 
 
+- [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in. (today)
 - [pyrra-dev/pyrra](https://github.com/pyrra-dev/pyrra) - Making SLOs with Prometheus manageable, accessible, and easy to use for everyone! (1 day ago)
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere. (1 day ago)
 - [superset-sh/superset](https://github.com/superset-sh/superset) - The terminal for parallel coding agents - Run dozens of Claude Code, OpenCode, or any other CLI agents in parallel on your machine using worktrees.  (1 day ago)
@@ -65,7 +66,6 @@ and more...
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (5 days ago)
 - [semonte/sisu](https://github.com/semonte/sisu) -  (1 week ago)
 - [hcgatewood/kuba](https://github.com/hcgatewood/kuba) - 🪄 The magical kubectl companion (1 week ago)
-- [hcgatewood/jdd](https://github.com/hcgatewood/jdd) - 🐙 JSON diff diver — the time machine for your JSON objects (1 week ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
