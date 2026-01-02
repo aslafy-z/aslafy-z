@@ -44,27 +44,27 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [Add support for init containers in client and guacd deployments](https://github.com/dmunozv04/charts/pull/3) on [dmunozv04/charts](https://github.com/dmunozv04/charts) (2 days ago)
+- [Add support for init containers in client and guacd deployments](https://github.com/dmunozv04/charts/pull/3) on [dmunozv04/charts](https://github.com/dmunozv04/charts) (3 days ago)
 - [feat(versitygw): Upgrade to VersityGW v1.0.20](https://github.com/alpineworks/helm-charts/pull/15) on [alpineworks/helm-charts](https://github.com/alpineworks/helm-charts) (1 week ago)
 - [fix(getter): pass settings environment variables](https://github.com/helm/helm/pull/31613) on [helm/helm](https://github.com/helm/helm) (3 weeks ago)
 - [fix(webhook): gitlab ssh url warehouse not refreshed](https://github.com/akuity/kargo/pull/5456) on [akuity/kargo](https://github.com/akuity/kargo) (3 weeks ago)
 - [chore(release): update versions to 1.5.0 [skip ci]](https://github.com/aslafy-z/helm-git/pull/373) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (3 weeks ago)
 - [fix: Support for Helm 4.x](https://github.com/aslafy-z/helm-git/pull/372) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (3 weeks ago)
 - [Revert &#34;chore(deps-dev): bump bats from 1.12.0 to 1.13.0&#34;](https://github.com/aslafy-z/helm-git/pull/371) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (3 weeks ago)
-- [feat(gitprovider/gitlab): Support for squash merge and fast forward](https://github.com/akuity/kargo/pull/5454) on [akuity/kargo](https://github.com/akuity/kargo) (3 weeks ago)
+- [feat(gitprovider/gitlab): Support for squash merge and fast forward](https://github.com/akuity/kargo/pull/5454) on [akuity/kargo](https://github.com/akuity/kargo) (4 weeks ago)
 
 ## ⭐ Recent Stars
 
 
-- [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn. (1 day ago)
-- [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in. (1 day ago)
-- [pyrra-dev/pyrra](https://github.com/pyrra-dev/pyrra) - Making SLOs with Prometheus manageable, accessible, and easy to use for everyone! (2 days ago)
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere. (2 days ago)
-- [superset-sh/superset](https://github.com/superset-sh/superset) - The terminal for parallel coding agents - Run dozens of Claude Code, OpenCode, or any other CLI agents in parallel on your machine using worktrees.  (2 days ago)
-- [tinkerbell/tinkerbell](https://github.com/tinkerbell/tinkerbell) - Bare metal provisioning engine, supporting network and ISO booting, BMC interactions, metadata service, and workflow engine. (3 days ago)
-- [autobrr/qui](https://github.com/autobrr/qui) - Modern alternative webUI for qBittorrent, with multi-instance support. Written in Go/React. (4 days ago)
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac. (4 days ago)
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (6 days ago)
+- [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn. (2 days ago)
+- [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in. (2 days ago)
+- [pyrra-dev/pyrra](https://github.com/pyrra-dev/pyrra) - Making SLOs with Prometheus manageable, accessible, and easy to use for everyone! (3 days ago)
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere. (3 days ago)
+- [superset-sh/superset](https://github.com/superset-sh/superset) - The terminal for parallel coding agents - Run dozens of Claude Code, OpenCode, or any other CLI agents in parallel on your machine using worktrees.  (3 days ago)
+- [tinkerbell/tinkerbell](https://github.com/tinkerbell/tinkerbell) - Bare metal provisioning engine, supporting network and ISO booting, BMC interactions, metadata service, and workflow engine. (4 days ago)
+- [autobrr/qui](https://github.com/autobrr/qui) - Modern alternative webUI for qBittorrent, with multi-instance support. Written in Go/React. (5 days ago)
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac. (5 days ago)
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (1 week ago)
 - [semonte/sisu](https://github.com/semonte/sisu) -  (1 week ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
