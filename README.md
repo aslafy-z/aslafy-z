@@ -56,6 +56,7 @@ and more...
 ## ⭐ Recent Stars
 
 
+- [ItsRiprod/DeskThing](https://github.com/ItsRiprod/DeskThing) - Desk Thing: The Discord Thing, Trello Thing, The Weather Thing, The Macro Thing, Just not The Car Thing anymore (today)
 - [music-assistant/server](https://github.com/music-assistant/server) - Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike. (1 day ago)
 - [jnsahaj/lumen](https://github.com/jnsahaj/lumen) - Beautiful git diff, Instant AI Git Commit message, Git changes summary from the CLI (no API key required) (3 days ago)
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn. (5 days ago)
@@ -65,7 +66,6 @@ and more...
 - [superset-sh/superset](https://github.com/superset-sh/superset) - The terminal for parallel coding agents - Run dozens of Claude Code, OpenCode, or any other CLI agents in parallel on your machine using worktrees.  (6 days ago)
 - [tinkerbell/tinkerbell](https://github.com/tinkerbell/tinkerbell) - Bare metal provisioning engine, supporting network and ISO booting, BMC interactions, metadata service, and workflow engine. (1 week ago)
 - [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers. Go &#43; React. (1 week ago)
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac. (1 week ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
