@@ -56,6 +56,8 @@ and more...
 ## ⭐ Recent Stars
 
 
+- [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format. (today)
+- [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever. (today)
 - [ItsRiprod/DeskThing](https://github.com/ItsRiprod/DeskThing) - Desk Thing: The Discord Thing, Trello Thing, The Weather Thing, The Macro Thing, Just not The Car Thing anymore (1 day ago)
 - [music-assistant/server](https://github.com/music-assistant/server) - Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike. (2 days ago)
 - [jnsahaj/lumen](https://github.com/jnsahaj/lumen) - Beautiful git diff, Instant AI Git Commit message, Git changes summary from the CLI (no API key required) (4 days ago)
@@ -64,8 +66,6 @@ and more...
 - [pyrra-dev/pyrra](https://github.com/pyrra-dev/pyrra) - Making SLOs with Prometheus manageable, accessible, and easy to use for everyone! (1 week ago)
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere. (1 week ago)
 - [superset-sh/superset](https://github.com/superset-sh/superset) - The terminal for parallel coding agents - Run dozens of Claude Code, OpenCode, or any other CLI agents in parallel on your machine using worktrees.  (1 week ago)
-- [tinkerbell/tinkerbell](https://github.com/tinkerbell/tinkerbell) - Bare metal provisioning engine, supporting network and ISO booting, BMC interactions, metadata service, and workflow engine. (1 week ago)
-- [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers. Go &#43; React. (1 week ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
