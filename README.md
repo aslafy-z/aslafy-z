@@ -45,7 +45,7 @@ and more...
 
 
 - [Add support for init containers in client and guacd deployments](https://github.com/dmunozv04/charts/pull/3) on [dmunozv04/charts](https://github.com/dmunozv04/charts) (1 week ago)
-- [feat(versitygw): Upgrade to VersityGW v1.0.20](https://github.com/alpineworks/helm-charts/pull/15) on [alpineworks/helm-charts](https://github.com/alpineworks/helm-charts) (2 weeks ago)
+- [feat(versitygw): Upgrade to VersityGW v1.0.20](https://github.com/alpineworks/helm-charts/pull/15) on [alpineworks/helm-charts](https://github.com/alpineworks/helm-charts) (3 weeks ago)
 - [fix(getter): pass settings environment variables](https://github.com/helm/helm/pull/31613) on [helm/helm](https://github.com/helm/helm) (1 month ago)
 - [fix(webhook): gitlab ssh url warehouse not refreshed](https://github.com/akuity/kargo/pull/5456) on [akuity/kargo](https://github.com/akuity/kargo) (1 month ago)
 - [chore(release): update versions to 1.5.0 [skip ci]](https://github.com/aslafy-z/helm-git/pull/373) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (1 month ago)
@@ -56,13 +56,13 @@ and more...
 ## ⭐ Recent Stars
 
 
-- [hackclub/putting-the-you-in-cpu](https://github.com/hackclub/putting-the-you-in-cpu) - A technical explainer by @kognise of how your computer runs programs, from start to finish. (1 day ago)
-- [octopii-rs/octopii](https://github.com/octopii-rs/octopii) - 🦑 Distributed Systems Kernel written in rust (4 days ago)
-- [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross-platform full feature terminal-based sequence editor for git interactive rebase. (5 days ago)
-- [hsr88/log-voyager](https://github.com/hsr88/log-voyager) - Analyze huge log files (10GB&#43;) instantly in your browser. Zero upload, 100% local processing. Features JSON prettifier, regex filtering, and bookmarks. (5 days ago)
-- [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format. (5 days ago)
-- [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever. (5 days ago)
-- [ItsRiprod/DeskThing](https://github.com/ItsRiprod/DeskThing) - Desk Thing: The Discord Thing, Trello Thing, The Weather Thing, The Macro Thing, Just not The Car Thing anymore (6 days ago)
+- [hackclub/putting-the-you-in-cpu](https://github.com/hackclub/putting-the-you-in-cpu) - A technical explainer by @kognise of how your computer runs programs, from start to finish. (2 days ago)
+- [octopii-rs/octopii](https://github.com/octopii-rs/octopii) - 🦑 Distributed Systems Kernel written in rust (5 days ago)
+- [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross-platform full feature terminal-based sequence editor for git interactive rebase. (6 days ago)
+- [hsr88/log-voyager](https://github.com/hsr88/log-voyager) - Analyze huge log files (10GB&#43;) instantly in your browser. Zero upload, 100% local processing. Features JSON prettifier, regex filtering, and bookmarks. (6 days ago)
+- [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format. (6 days ago)
+- [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever. (6 days ago)
+- [ItsRiprod/DeskThing](https://github.com/ItsRiprod/DeskThing) - Desk Thing: The Discord Thing, Trello Thing, The Weather Thing, The Macro Thing, Just not The Car Thing anymore (1 week ago)
 - [music-assistant/server](https://github.com/music-assistant/server) - Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike. (1 week ago)
 - [jnsahaj/lumen](https://github.com/jnsahaj/lumen) - Beautiful git diff viewer, generate commits with AI, get summary of changes, all from the CLI (1 week ago)
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn. (1 week ago)
