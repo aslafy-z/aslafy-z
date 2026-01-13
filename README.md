@@ -28,7 +28,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [aslafy-z/terraform-provider-vboxweb](https://github.com/aslafy-z/terraform-provider-vboxweb) - Terraform provider for VirtualBox using vboxwebsrv SOAP API (VirtualBox 7.1&#43;) (4 weeks ago)
+- [aslafy-z/terraform-provider-vboxweb](https://github.com/aslafy-z/terraform-provider-vboxweb) - Terraform provider for VirtualBox using vboxwebsrv SOAP API (VirtualBox 7.1&#43;) (1 month ago)
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager (1 month ago)
 - [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts straight from Git repositories (1 month ago)
 - [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (1 month ago)
@@ -44,8 +44,8 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [ci: add helm v4](https://github.com/aslafy-z/helm-git/pull/378) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (today)
-- [Add support for init containers in client and guacd deployments](https://github.com/dmunozv04/charts/pull/3) on [dmunozv04/charts](https://github.com/dmunozv04/charts) (1 week ago)
+- [ci: add helm v4](https://github.com/aslafy-z/helm-git/pull/378) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (1 day ago)
+- [Add support for init containers in client and guacd deployments](https://github.com/dmunozv04/charts/pull/3) on [dmunozv04/charts](https://github.com/dmunozv04/charts) (2 weeks ago)
 - [feat(versitygw): Upgrade to VersityGW v1.0.20](https://github.com/alpineworks/helm-charts/pull/15) on [alpineworks/helm-charts](https://github.com/alpineworks/helm-charts) (3 weeks ago)
 - [fix(getter): pass settings environment variables](https://github.com/helm/helm/pull/31613) on [helm/helm](https://github.com/helm/helm) (1 month ago)
 - [fix(webhook): gitlab ssh url warehouse not refreshed](https://github.com/akuity/kargo/pull/5456) on [akuity/kargo](https://github.com/akuity/kargo) (1 month ago)
@@ -57,12 +57,12 @@ and more...
 ## ⭐ Recent Stars
 
 
-- [hackclub/putting-the-you-in-cpu](https://github.com/hackclub/putting-the-you-in-cpu) - A technical explainer by @kognise of how your computer runs programs, from start to finish. (2 days ago)
-- [octopii-rs/octopii](https://github.com/octopii-rs/octopii) - 🦑 Distributed Systems Kernel written in rust (5 days ago)
-- [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross-platform full feature terminal-based sequence editor for git interactive rebase. (6 days ago)
-- [hsr88/log-voyager](https://github.com/hsr88/log-voyager) - Analyze huge log files (10GB&#43;) instantly in your browser. Zero upload, 100% local processing. Features JSON prettifier, regex filtering, and bookmarks. (6 days ago)
-- [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format. (6 days ago)
-- [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever. (6 days ago)
+- [hackclub/putting-the-you-in-cpu](https://github.com/hackclub/putting-the-you-in-cpu) - A technical explainer by @kognise of how your computer runs programs, from start to finish. (3 days ago)
+- [octopii-rs/octopii](https://github.com/octopii-rs/octopii) - 🦑 Distributed Systems Kernel written in rust (6 days ago)
+- [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross-platform full feature terminal-based sequence editor for git interactive rebase. (1 week ago)
+- [hsr88/log-voyager](https://github.com/hsr88/log-voyager) - Analyze huge log files (10GB&#43;) instantly in your browser. Zero upload, 100% local processing. Features JSON prettifier, regex filtering, and bookmarks. (1 week ago)
+- [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format. (1 week ago)
+- [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever. (1 week ago)
 - [ItsRiprod/DeskThing](https://github.com/ItsRiprod/DeskThing) - Desk Thing: The Discord Thing, Trello Thing, The Weather Thing, The Macro Thing, Just not The Car Thing anymore (1 week ago)
 - [music-assistant/server](https://github.com/music-assistant/server) - Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike. (1 week ago)
 - [jnsahaj/lumen](https://github.com/jnsahaj/lumen) - Beautiful git diff viewer, generate commits with AI, get summary of changes, all from the CLI (1 week ago)
