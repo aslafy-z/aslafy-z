@@ -44,7 +44,7 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [ci: add helm v4](https://github.com/aslafy-z/helm-git/pull/378) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (1 day ago)
+- [ci: add helm v4](https://github.com/aslafy-z/helm-git/pull/378) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (2 days ago)
 - [Add support for init containers in client and guacd deployments](https://github.com/dmunozv04/charts/pull/3) on [dmunozv04/charts](https://github.com/dmunozv04/charts) (2 weeks ago)
 - [feat(versitygw): Upgrade to VersityGW v1.0.20](https://github.com/alpineworks/helm-charts/pull/15) on [alpineworks/helm-charts](https://github.com/alpineworks/helm-charts) (3 weeks ago)
 - [fix(getter): pass settings environment variables](https://github.com/helm/helm/pull/31613) on [helm/helm](https://github.com/helm/helm) (1 month ago)
@@ -57,9 +57,9 @@ and more...
 ## ⭐ Recent Stars
 
 
-- [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform (today)
-- [hackclub/putting-the-you-in-cpu](https://github.com/hackclub/putting-the-you-in-cpu) - A technical explainer by @kognise of how your computer runs programs, from start to finish. (3 days ago)
-- [octopii-rs/octopii](https://github.com/octopii-rs/octopii) - 🦑 Distributed Systems Kernel written in rust (6 days ago)
+- [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform (1 day ago)
+- [hackclub/putting-the-you-in-cpu](https://github.com/hackclub/putting-the-you-in-cpu) - A technical explainer by @kognise of how your computer runs programs, from start to finish. (4 days ago)
+- [octopii-rs/octopii](https://github.com/octopii-rs/octopii) - 🦑 Distributed Systems Kernel written in rust (1 week ago)
 - [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross-platform full feature terminal-based sequence editor for git interactive rebase. (1 week ago)
 - [hsr88/log-voyager](https://github.com/hsr88/log-voyager) - Analyze huge log files (10GB&#43;) instantly in your browser. Zero upload, 100% local processing. Features JSON prettifier, regex filtering, and bookmarks. (1 week ago)
 - [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format. (1 week ago)
