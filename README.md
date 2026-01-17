@@ -56,6 +56,7 @@ and more...
 ## ⭐ Recent Stars
 
 
+- [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code. (today)
 - [rajsinghtech/garage-operator](https://github.com/rajsinghtech/garage-operator) - A Kubernetes operator for managing Garage - a distributed S3-compatible object storage system designed for self-hosting. (1 day ago)
 - [steipete/gogcli](https://github.com/steipete/gogcli) - Google Suite CLI: Gmail, GCal, GDrive, GContacts. (1 day ago)
 - [Handfish/talos-pilot](https://github.com/Handfish/talos-pilot) - Talos TUI for real-time node monitoring, log streaming, etcd health, and diagnostics (2 days ago)
@@ -65,7 +66,6 @@ and more...
 - [octopii-rs/octopii](https://github.com/octopii-rs/octopii) - 🦑 Distributed Systems Kernel written in rust (1 week ago)
 - [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross-platform full feature terminal-based sequence editor for git interactive rebase. (1 week ago)
 - [hsr88/log-voyager](https://github.com/hsr88/log-voyager) - Analyze huge log files (10GB&#43;) instantly in your browser. Zero upload, 100% local processing. Features JSON prettifier, regex filtering, and bookmarks. (1 week ago)
-- [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format. (1 week ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
