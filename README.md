@@ -28,8 +28,8 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts straight from Git repositories (4 days ago)
-- [dmunozv04/charts](https://github.com/dmunozv04/charts) -  (2 weeks ago)
+- [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts straight from Git repositories (5 days ago)
+- [dmunozv04/charts](https://github.com/dmunozv04/charts) -  (3 weeks ago)
 - [aslafy-z/terraform-provider-vboxweb](https://github.com/aslafy-z/terraform-provider-vboxweb) - Terraform provider for VirtualBox using vboxwebsrv SOAP API (VirtualBox 7.1&#43;) (1 month ago)
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager (1 month ago)
 - [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (1 month ago)
@@ -44,9 +44,9 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [fix: update helm_v2 detection to support v4](https://github.com/aslafy-z/helm-git/pull/380) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (4 days ago)
+- [fix: update helm_v2 detection to support v4](https://github.com/aslafy-z/helm-git/pull/380) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (5 days ago)
 - [ci: add helm v4](https://github.com/aslafy-z/helm-git/pull/378) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (1 week ago)
-- [Add support for init containers in client and guacd deployments](https://github.com/dmunozv04/charts/pull/3) on [dmunozv04/charts](https://github.com/dmunozv04/charts) (2 weeks ago)
+- [Add support for init containers in client and guacd deployments](https://github.com/dmunozv04/charts/pull/3) on [dmunozv04/charts](https://github.com/dmunozv04/charts) (3 weeks ago)
 - [feat(versitygw): Upgrade to VersityGW v1.0.20](https://github.com/alpineworks/helm-charts/pull/15) on [alpineworks/helm-charts](https://github.com/alpineworks/helm-charts) (4 weeks ago)
 - [fix(getter): pass settings environment variables](https://github.com/helm/helm/pull/31613) on [helm/helm](https://github.com/helm/helm) (1 month ago)
 - [fix(webhook): gitlab ssh url warehouse not refreshed](https://github.com/akuity/kargo/pull/5456) on [akuity/kargo](https://github.com/akuity/kargo) (1 month ago)
@@ -56,16 +56,16 @@ and more...
 ## ⭐ Recent Stars
 
 
-- [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows (today)
-- [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code. (2 days ago)
-- [rajsinghtech/garage-operator](https://github.com/rajsinghtech/garage-operator) - A Kubernetes operator for managing Garage - a distributed S3-compatible object storage system designed for self-hosting. (3 days ago)
-- [steipete/gogcli](https://github.com/steipete/gogcli) - Google Suite CLI: Gmail, GCal, GDrive, GContacts. (3 days ago)
-- [Handfish/talos-pilot](https://github.com/Handfish/talos-pilot) - Talos TUI for real-time node monitoring, log streaming, etcd health, and diagnostics (4 days ago)
-- [atas/autotunnel](https://github.com/atas/autotunnel) - On-demand port forwarding to k8s. (5 days ago)
-- [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform (6 days ago)
+- [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows (1 day ago)
+- [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code. (3 days ago)
+- [rajsinghtech/garage-operator](https://github.com/rajsinghtech/garage-operator) - A Kubernetes operator for managing Garage - a distributed S3-compatible object storage system designed for self-hosting. (4 days ago)
+- [steipete/gogcli](https://github.com/steipete/gogcli) - Google Suite CLI: Gmail, GCal, GDrive, GContacts. (4 days ago)
+- [Handfish/talos-pilot](https://github.com/Handfish/talos-pilot) - Talos TUI for real-time node monitoring, log streaming, etcd health, and diagnostics (5 days ago)
+- [atas/autotunnel](https://github.com/atas/autotunnel) - On-demand port forwarding to k8s. (6 days ago)
+- [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform (1 week ago)
 - [hackclub/putting-the-you-in-cpu](https://github.com/hackclub/putting-the-you-in-cpu) - A technical explainer by @kognise of how your computer runs programs, from start to finish. (1 week ago)
 - [octopii-rs/octopii](https://github.com/octopii-rs/octopii) - 🦑 Distributed Systems Kernel written in rust (1 week ago)
-- [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross-platform full feature terminal-based sequence editor for git interactive rebase. (1 week ago)
+- [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross-platform full feature terminal-based sequence editor for git interactive rebase. (2 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
