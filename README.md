@@ -60,7 +60,7 @@ and more...
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows (1 week ago)
 - [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code. (1 week ago)
 - [rajsinghtech/garage-operator](https://github.com/rajsinghtech/garage-operator) - A Kubernetes operator for managing Garage - a distributed S3-compatible object storage system designed for self-hosting. (1 week ago)
-- [moltbot/gogcli](https://github.com/moltbot/gogcli) - Google Suite CLI: Gmail, GCal, GDrive, GContacts. (1 week ago)
+- [steipete/gogcli](https://github.com/steipete/gogcli) - Google Suite CLI: Gmail, GCal, GDrive, GContacts. (1 week ago)
 - [Handfish/talos-pilot](https://github.com/Handfish/talos-pilot) - Talos TUI for real-time node monitoring, log streaming, etcd health, and diagnostics (1 week ago)
 - [atas/autotunnel](https://github.com/atas/autotunnel) - On-demand port forwarding to k8s. (1 week ago)
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform (2 weeks ago)
