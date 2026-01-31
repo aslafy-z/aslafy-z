@@ -56,6 +56,7 @@ and more...
 ## ⭐ Recent Stars
 
 
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (today)
 - [truefoundry/CruiseKube](https://github.com/truefoundry/CruiseKube) - CruiseKube is an intelligent Kubernetes resource optimization controller that automatically monitors, analyzes, and applies resource recommendations to improve cluster efficiency and reduce costs. (1 week ago)
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows (1 week ago)
 - [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code. (2 weeks ago)
@@ -65,7 +66,6 @@ and more...
 - [atas/autotunnel](https://github.com/atas/autotunnel) - On-demand port forwarding to k8s. (2 weeks ago)
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform (2 weeks ago)
 - [hackclub/putting-the-you-in-cpu](https://github.com/hackclub/putting-the-you-in-cpu) - A technical explainer by @kognise of how your computer runs programs, from start to finish. (3 weeks ago)
-- [octopii-rs/octopii](https://github.com/octopii-rs/octopii) - 🦑 Distributed Systems Kernel written in rust (3 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
