@@ -56,6 +56,7 @@ and more...
 ## ⭐ Recent Stars
 
 
+- [wader/bump](https://github.com/wader/bump) - A generic version tracking and update tool (today)
 - [git-pkgs/git-pkgs](https://github.com/git-pkgs/git-pkgs) -  About  A git subcommand for analyzing package/dependency usage in git repositories over time (1 day ago)
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics (1 day ago)
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (1 day ago)
@@ -65,7 +66,6 @@ and more...
 - [rajsinghtech/garage-operator](https://github.com/rajsinghtech/garage-operator) - A Kubernetes operator for managing Garage - a distributed S3-compatible object storage system designed for self-hosting. (2 weeks ago)
 - [steipete/gogcli](https://github.com/steipete/gogcli) - Google Suite CLI: Gmail, GCal, GDrive, GContacts. (2 weeks ago)
 - [Handfish/talos-pilot](https://github.com/Handfish/talos-pilot) - Talos TUI for real-time node monitoring, log streaming, etcd health, and diagnostics (2 weeks ago)
-- [atas/autotunnel](https://github.com/atas/autotunnel) - On-demand port forwarding to k8s. (2 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
