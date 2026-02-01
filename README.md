@@ -56,6 +56,8 @@ and more...
 ## ⭐ Recent Stars
 
 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (today)
+- [skupperproject/skupper](https://github.com/skupperproject/skupper) - Skupper is an implementation of a Virtual Application Network, enabling rich hybrid cloud communication. (today)
 - [wader/bump](https://github.com/wader/bump) - A generic version tracking and update tool (today)
 - [git-pkgs/git-pkgs](https://github.com/git-pkgs/git-pkgs) -  About  A git subcommand for analyzing package/dependency usage in git repositories over time (1 day ago)
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics (1 day ago)
@@ -64,8 +66,6 @@ and more...
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows (1 week ago)
 - [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code. (2 weeks ago)
 - [rajsinghtech/garage-operator](https://github.com/rajsinghtech/garage-operator) - A Kubernetes operator for managing Garage - a distributed S3-compatible object storage system designed for self-hosting. (2 weeks ago)
-- [steipete/gogcli](https://github.com/steipete/gogcli) - Google Suite CLI: Gmail, GCal, GDrive, GContacts. (2 weeks ago)
-- [Handfish/talos-pilot](https://github.com/Handfish/talos-pilot) - Talos TUI for real-time node monitoring, log streaming, etcd health, and diagnostics (2 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
