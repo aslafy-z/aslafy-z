@@ -28,6 +28,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
+- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (today)
 - [aslafy-z/asdf-git-secret](https://github.com/aslafy-z/asdf-git-secret) -  (6 days ago)
 - [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts straight from Git repositories (2 weeks ago)
 - [dmunozv04/charts](https://github.com/dmunozv04/charts) -  (1 month ago)
@@ -37,7 +38,6 @@ and more...
 - [scaleway/scaleway-cloud-controller-manager](https://github.com/scaleway/scaleway-cloud-controller-manager) -  Kubernetes Cloud Controller Manager for Scaleway (2 months ago)
 - [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes (2 months ago)
 - [coder/observability](https://github.com/coder/observability) -  (2 months ago)
-- [dusty-nv/jetson-containers](https://github.com/dusty-nv/jetson-containers) - Machine Learning Containers for NVIDIA Jetson and JetPack-L4T (2 months ago)
 
 
 
