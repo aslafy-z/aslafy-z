@@ -28,12 +28,12 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (today)
-- [aslafy-z/asdf-git-secret](https://github.com/aslafy-z/asdf-git-secret) -  (6 days ago)
-- [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts straight from Git repositories (2 weeks ago)
+- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (1 day ago)
+- [aslafy-z/asdf-git-secret](https://github.com/aslafy-z/asdf-git-secret) -  (1 week ago)
+- [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts straight from Git repositories (3 weeks ago)
 - [dmunozv04/charts](https://github.com/dmunozv04/charts) -  (1 month ago)
 - [aslafy-z/terraform-provider-vboxweb](https://github.com/aslafy-z/terraform-provider-vboxweb) - Terraform provider for VirtualBox using vboxwebsrv SOAP API (VirtualBox 7.1&#43;) (1 month ago)
-- [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager (1 month ago)
+- [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager (2 months ago)
 - [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (2 months ago)
 - [scaleway/scaleway-cloud-controller-manager](https://github.com/scaleway/scaleway-cloud-controller-manager) -  Kubernetes Cloud Controller Manager for Scaleway (2 months ago)
 - [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes (2 months ago)
@@ -44,7 +44,7 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [fix: update helm_v2 detection to support v4](https://github.com/aslafy-z/helm-git/pull/380) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (2 weeks ago)
+- [fix: update helm_v2 detection to support v4](https://github.com/aslafy-z/helm-git/pull/380) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (3 weeks ago)
 - [ci: add helm v4](https://github.com/aslafy-z/helm-git/pull/378) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (3 weeks ago)
 - [Add support for init containers in client and guacd deployments](https://github.com/dmunozv04/charts/pull/3) on [dmunozv04/charts](https://github.com/dmunozv04/charts) (1 month ago)
 - [feat(versitygw): Upgrade to VersityGW v1.0.20](https://github.com/alpineworks/helm-charts/pull/15) on [alpineworks/helm-charts](https://github.com/alpineworks/helm-charts) (1 month ago)
@@ -56,12 +56,12 @@ and more...
 ## ⭐ Recent Stars
 
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (3 days ago)
-- [skupperproject/skupper](https://github.com/skupperproject/skupper) - Skupper is an implementation of a Virtual Application Network, enabling rich hybrid cloud communication. (3 days ago)
-- [wader/bump](https://github.com/wader/bump) - A generic version tracking and update tool (3 days ago)
-- [git-pkgs/git-pkgs](https://github.com/git-pkgs/git-pkgs) -  About  A git subcommand for analyzing package/dependency usage in git repositories over time (4 days ago)
-- [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics (4 days ago)
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (4 days ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (4 days ago)
+- [skupperproject/skupper](https://github.com/skupperproject/skupper) - Skupper is an implementation of a Virtual Application Network, enabling rich hybrid cloud communication. (4 days ago)
+- [wader/bump](https://github.com/wader/bump) - A generic version tracking and update tool (4 days ago)
+- [git-pkgs/git-pkgs](https://github.com/git-pkgs/git-pkgs) -  About  A git subcommand for analyzing package/dependency usage in git repositories over time (5 days ago)
+- [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics (5 days ago)
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (5 days ago)
 - [truefoundry/CruiseKube](https://github.com/truefoundry/CruiseKube) - CruiseKube is an intelligent Kubernetes resource optimization controller that automatically monitors, analyzes, and applies resource recommendations to improve cluster efficiency and reduce costs. (1 week ago)
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows (2 weeks ago)
 - [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code. (2 weeks ago)
