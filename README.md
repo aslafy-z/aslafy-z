@@ -56,6 +56,7 @@ and more...
 ## ⭐ Recent Stars
 
 
+- [sol1/rustguac](https://github.com/sol1/rustguac) - Lightweight Rust replacement for Apache Guacamole — browser-based SSH, RDP, and web sessions via guacd (today)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (1 week ago)
 - [skupperproject/skupper](https://github.com/skupperproject/skupper) - Skupper is an implementation of a Virtual Application Network, enabling rich hybrid cloud communication. (1 week ago)
 - [wader/bump](https://github.com/wader/bump) - A generic version tracking and update tool (1 week ago)
@@ -65,7 +66,6 @@ and more...
 - [truefoundry/CruiseKube](https://github.com/truefoundry/CruiseKube) - CruiseKube is an intelligent Kubernetes resource optimization controller that automatically monitors, analyzes, and applies resource recommendations to improve cluster efficiency and reduce costs. (2 weeks ago)
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows (3 weeks ago)
 - [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code. (3 weeks ago)
-- [rajsinghtech/garage-operator](https://github.com/rajsinghtech/garage-operator) - A Kubernetes operator for managing Garage - a distributed S3-compatible object storage system designed for self-hosting. (3 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
