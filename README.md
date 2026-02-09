@@ -28,6 +28,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
+- [ansible/terraform-provider-ansible](https://github.com/ansible/terraform-provider-ansible) - community terraform provider for ansible (3 days ago)
 - [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (5 days ago)
 - [aslafy-z/asdf-git-secret](https://github.com/aslafy-z/asdf-git-secret) -  (1 week ago)
 - [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts straight from Git repositories (3 weeks ago)
@@ -37,7 +38,6 @@ and more...
 - [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (2 months ago)
 - [scaleway/scaleway-cloud-controller-manager](https://github.com/scaleway/scaleway-cloud-controller-manager) -  Kubernetes Cloud Controller Manager for Scaleway (2 months ago)
 - [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes (2 months ago)
-- [coder/observability](https://github.com/coder/observability) -  (2 months ago)
 
 
 
