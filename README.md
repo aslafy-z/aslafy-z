@@ -56,7 +56,7 @@ and more...
 ## ⭐ Recent Stars
 
 
-- [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with a modern Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who&#39;s there? 🚪 (today)
+- [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with an interactive Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who&#39;s there? 🚪 (today)
 - [sol1/rustguac](https://github.com/sol1/rustguac) - Lightweight Rust replacement for Apache Guacamole — browser-based SSH, RDP, and web sessions via guacd (1 day ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (1 week ago)
 - [skupperproject/skupper](https://github.com/skupperproject/skupper) - Skupper is an implementation of a Virtual Application Network, enabling rich hybrid cloud communication. (1 week ago)
