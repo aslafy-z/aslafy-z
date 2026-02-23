@@ -28,7 +28,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [Code0x58/gitlab-ci-validate](https://github.com/Code0x58/gitlab-ci-validate) - command line tool to validate .gitlab-ci.yml files (6 days ago)
+- [Code0x58/gitlab-ci-validate](https://github.com/Code0x58/gitlab-ci-validate) - command line tool to validate .gitlab-ci.yml files (1 week ago)
 - [questdb/questdb-kubernetes](https://github.com/questdb/questdb-kubernetes) - Configuration to run QuestDB in your Kubernetes cluster  (1 week ago)
 - [ansible/terraform-provider-ansible](https://github.com/ansible/terraform-provider-ansible) - community terraform provider for ansible (2 weeks ago)
 - [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (2 weeks ago)
@@ -44,7 +44,7 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [Remove &#39;S3 Compatible API&#39; empty page](https://github.com/rustfs/docs.rustfs.com/pull/79) on [rustfs/docs.rustfs.com](https://github.com/rustfs/docs.rustfs.com) (6 days ago)
+- [Remove &#39;S3 Compatible API&#39; empty page](https://github.com/rustfs/docs.rustfs.com/pull/79) on [rustfs/docs.rustfs.com](https://github.com/rustfs/docs.rustfs.com) (1 week ago)
 - [feat: add namespace to resources](https://github.com/questdb/questdb-kubernetes/pull/246) on [questdb/questdb-kubernetes](https://github.com/questdb/questdb-kubernetes) (1 week ago)
 - [feat: Support complex types in ansible_host and ansible_group variables](https://github.com/ansible/terraform-provider-ansible/pull/150) on [ansible/terraform-provider-ansible](https://github.com/ansible/terraform-provider-ansible) (2 weeks ago)
 - [fix: update helm_v2 detection to support v4](https://github.com/aslafy-z/helm-git/pull/380) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (1 month ago)
@@ -60,7 +60,7 @@ and more...
 - [federicolepera/slok](https://github.com/federicolepera/slok) - Kubernetes operator for managing SLOs with error budget tracking (1 week ago)
 - [jdx/communique](https://github.com/jdx/communique) - Editorialized release notes powered by AI (1 week ago)
 - [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with an interactive Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who&#39;s there? 🚪 (1 week ago)
-- [sol1/rustguac](https://github.com/sol1/rustguac) - Lightweight Rust replacement for Apache Guacamole — browser-based SSH, RDP, and web sessions via guacd (1 week ago)
+- [sol1/rustguac](https://github.com/sol1/rustguac) - Lightweight Rust replacement for Apache Guacamole — browser-based SSH, RDP, and web sessions via guacd (2 weeks ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (3 weeks ago)
 - [skupperproject/skupper](https://github.com/skupperproject/skupper) - Skupper is an implementation of a Virtual Application Network, enabling rich hybrid cloud communication. (3 weeks ago)
 - [wader/bump](https://github.com/wader/bump) - A generic version tracking and update tool (3 weeks ago)
