@@ -44,6 +44,7 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [docs(rootless): add instruction to restart user session](https://github.com/kubernetes-sigs/kind/pull/4113) on [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) (today)
 - [Remove &#39;S3 Compatible API&#39; empty page](https://github.com/rustfs/docs.rustfs.com/pull/79) on [rustfs/docs.rustfs.com](https://github.com/rustfs/docs.rustfs.com) (1 week ago)
 - [feat: add namespace to resources](https://github.com/questdb/questdb-kubernetes/pull/246) on [questdb/questdb-kubernetes](https://github.com/questdb/questdb-kubernetes) (1 week ago)
 - [feat: Support complex types in ansible_host and ansible_group variables](https://github.com/ansible/terraform-provider-ansible/pull/150) on [ansible/terraform-provider-ansible](https://github.com/ansible/terraform-provider-ansible) (2 weeks ago)
