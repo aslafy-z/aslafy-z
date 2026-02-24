@@ -57,16 +57,16 @@ and more...
 ## ⭐ Recent Stars
 
 
-- [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers (today)
+- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀 (1 day ago)
+- [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers (1 day ago)
 - [federicolepera/slok](https://github.com/federicolepera/slok) - Kubernetes operator for managing SLOs with error budget tracking (1 week ago)
 - [jdx/communique](https://github.com/jdx/communique) - Editorialized release notes powered by AI (1 week ago)
-- [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with an interactive Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who&#39;s there? 🚪 (1 week ago)
+- [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with an interactive Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who&#39;s there? 🚪 (2 weeks ago)
 - [sol1/rustguac](https://github.com/sol1/rustguac) - Lightweight Rust replacement for Apache Guacamole — browser-based SSH, RDP, and web sessions via guacd (2 weeks ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (3 weeks ago)
 - [skupperproject/skupper](https://github.com/skupperproject/skupper) - Skupper is an implementation of a Virtual Application Network, enabling rich hybrid cloud communication. (3 weeks ago)
 - [wader/bump](https://github.com/wader/bump) - A generic version tracking and update tool (3 weeks ago)
 - [git-pkgs/git-pkgs](https://github.com/git-pkgs/git-pkgs) -  About  A git subcommand for analyzing package/dependency usage in git repositories over time (3 weeks ago)
-- [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics (3 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
