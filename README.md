@@ -44,6 +44,7 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [GUACAMOLE-2235: Clarify env var naming for digits and camelCase](https://github.com/apache/guacamole-manual/pull/285) on [apache/guacamole-manual](https://github.com/apache/guacamole-manual) (today)
 - [docs(rootless): add instruction to restart user session](https://github.com/kubernetes-sigs/kind/pull/4113) on [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) (3 days ago)
 - [Remove &#39;S3 Compatible API&#39; empty page](https://github.com/rustfs/docs.rustfs.com/pull/79) on [rustfs/docs.rustfs.com](https://github.com/rustfs/docs.rustfs.com) (1 week ago)
 - [feat: add namespace to resources](https://github.com/questdb/questdb-kubernetes/pull/246) on [questdb/questdb-kubernetes](https://github.com/questdb/questdb-kubernetes) (2 weeks ago)
@@ -52,8 +53,6 @@ and more...
 - [ci: add helm v4](https://github.com/aslafy-z/helm-git/pull/378) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (1 month ago)
 - [Add support for init containers in client and guacd deployments](https://github.com/dmunozv04/charts/pull/3) on [dmunozv04/charts](https://github.com/dmunozv04/charts) (1 month ago)
 - [feat(versitygw): Upgrade to VersityGW v1.0.20](https://github.com/alpineworks/helm-charts/pull/15) on [alpineworks/helm-charts](https://github.com/alpineworks/helm-charts) (2 months ago)
-- [fix(getter): pass settings environment variables](https://github.com/helm/helm/pull/31613) on [helm/helm](https://github.com/helm/helm) (2 months ago)
-- [fix(webhook): gitlab ssh url warehouse not refreshed](https://github.com/akuity/kargo/pull/5456) on [akuity/kargo](https://github.com/akuity/kargo) (2 months ago)
 
 ## ⭐ Recent Stars
 
