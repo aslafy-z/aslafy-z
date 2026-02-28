@@ -57,6 +57,7 @@ and more...
 ## ⭐ Recent Stars
 
 
+- [hauler-dev/hauler](https://github.com/hauler-dev/hauler) - Airgap Swiss Army Knife (today)
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀 (5 days ago)
 - [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers (5 days ago)
 - [federicolepera/slok](https://github.com/federicolepera/slok) - Kubernetes operator for managing SLOs with error budget tracking (2 weeks ago)
@@ -66,7 +67,6 @@ and more...
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (3 weeks ago)
 - [skupperproject/skupper](https://github.com/skupperproject/skupper) - Skupper is an implementation of a Virtual Application Network, enabling rich hybrid cloud communication. (3 weeks ago)
 - [wader/bump](https://github.com/wader/bump) - A generic version tracking and update tool (3 weeks ago)
-- [git-pkgs/git-pkgs](https://github.com/git-pkgs/git-pkgs) -  About  A git subcommand for analyzing package/dependency usage in git repositories over time (4 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
