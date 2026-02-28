@@ -32,9 +32,9 @@ and more...
 - [questdb/questdb-kubernetes](https://github.com/questdb/questdb-kubernetes) - Configuration to run QuestDB in your Kubernetes cluster  (2 weeks ago)
 - [ansible/terraform-provider-ansible](https://github.com/ansible/terraform-provider-ansible) - community terraform provider for ansible (3 weeks ago)
 - [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (3 weeks ago)
-- [aslafy-z/asdf-git-secret](https://github.com/aslafy-z/asdf-git-secret) -  (4 weeks ago)
+- [aslafy-z/asdf-git-secret](https://github.com/aslafy-z/asdf-git-secret) -  (1 month ago)
 - [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts straight from Git repositories (1 month ago)
-- [dmunozv04/charts](https://github.com/dmunozv04/charts) -  (1 month ago)
+- [dmunozv04/charts](https://github.com/dmunozv04/charts) -  (2 months ago)
 - [aslafy-z/terraform-provider-vboxweb](https://github.com/aslafy-z/terraform-provider-vboxweb) - Terraform provider for VirtualBox using vboxwebsrv SOAP API (VirtualBox 7.1&#43;) (2 months ago)
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager (2 months ago)
 - [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (2 months ago)
@@ -44,21 +44,21 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [GUACAMOLE-2235: Clarify env var naming for digits and camelCase](https://github.com/apache/guacamole-manual/pull/285) on [apache/guacamole-manual](https://github.com/apache/guacamole-manual) (today)
-- [docs(rootless): add instruction to restart user session](https://github.com/kubernetes-sigs/kind/pull/4113) on [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) (3 days ago)
+- [GUACAMOLE-2235: Clarify env var naming for digits and camelCase](https://github.com/apache/guacamole-manual/pull/285) on [apache/guacamole-manual](https://github.com/apache/guacamole-manual) (1 day ago)
+- [docs(rootless): add instruction to restart user session](https://github.com/kubernetes-sigs/kind/pull/4113) on [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) (4 days ago)
 - [Remove &#39;S3 Compatible API&#39; empty page](https://github.com/rustfs/docs.rustfs.com/pull/79) on [rustfs/docs.rustfs.com](https://github.com/rustfs/docs.rustfs.com) (1 week ago)
 - [feat: add namespace to resources](https://github.com/questdb/questdb-kubernetes/pull/246) on [questdb/questdb-kubernetes](https://github.com/questdb/questdb-kubernetes) (2 weeks ago)
 - [feat: Support complex types in ansible_host and ansible_group variables](https://github.com/ansible/terraform-provider-ansible/pull/150) on [ansible/terraform-provider-ansible](https://github.com/ansible/terraform-provider-ansible) (3 weeks ago)
 - [fix: update helm_v2 detection to support v4](https://github.com/aslafy-z/helm-git/pull/380) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (1 month ago)
 - [ci: add helm v4](https://github.com/aslafy-z/helm-git/pull/378) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (1 month ago)
-- [Add support for init containers in client and guacd deployments](https://github.com/dmunozv04/charts/pull/3) on [dmunozv04/charts](https://github.com/dmunozv04/charts) (1 month ago)
+- [Add support for init containers in client and guacd deployments](https://github.com/dmunozv04/charts/pull/3) on [dmunozv04/charts](https://github.com/dmunozv04/charts) (2 months ago)
 - [feat(versitygw): Upgrade to VersityGW v1.0.20](https://github.com/alpineworks/helm-charts/pull/15) on [alpineworks/helm-charts](https://github.com/alpineworks/helm-charts) (2 months ago)
 
 ## ⭐ Recent Stars
 
 
-- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀 (4 days ago)
-- [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers (4 days ago)
+- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀 (5 days ago)
+- [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers (5 days ago)
 - [federicolepera/slok](https://github.com/federicolepera/slok) - Kubernetes operator for managing SLOs with error budget tracking (2 weeks ago)
 - [jdx/communique](https://github.com/jdx/communique) - Editorialized release notes powered by AI (2 weeks ago)
 - [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with an interactive Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who&#39;s there? 🚪 (2 weeks ago)
@@ -66,7 +66,7 @@ and more...
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (3 weeks ago)
 - [skupperproject/skupper](https://github.com/skupperproject/skupper) - Skupper is an implementation of a Virtual Application Network, enabling rich hybrid cloud communication. (3 weeks ago)
 - [wader/bump](https://github.com/wader/bump) - A generic version tracking and update tool (3 weeks ago)
-- [git-pkgs/git-pkgs](https://github.com/git-pkgs/git-pkgs) -  About  A git subcommand for analyzing package/dependency usage in git repositories over time (3 weeks ago)
+- [git-pkgs/git-pkgs](https://github.com/git-pkgs/git-pkgs) -  About  A git subcommand for analyzing package/dependency usage in git repositories over time (4 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
