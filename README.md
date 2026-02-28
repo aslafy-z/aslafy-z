@@ -28,6 +28,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
+- [apache/guacamole-manual](https://github.com/apache/guacamole-manual) - Mirror of Apache Guacamole Manual (1 day ago)
 - [Code0x58/gitlab-ci-validate](https://github.com/Code0x58/gitlab-ci-validate) - command line tool to validate .gitlab-ci.yml files (1 week ago)
 - [questdb/questdb-kubernetes](https://github.com/questdb/questdb-kubernetes) - Configuration to run QuestDB in your Kubernetes cluster  (2 weeks ago)
 - [ansible/terraform-provider-ansible](https://github.com/ansible/terraform-provider-ansible) - community terraform provider for ansible (3 weeks ago)
@@ -37,7 +38,6 @@ and more...
 - [dmunozv04/charts](https://github.com/dmunozv04/charts) -  (2 months ago)
 - [aslafy-z/terraform-provider-vboxweb](https://github.com/aslafy-z/terraform-provider-vboxweb) - Terraform provider for VirtualBox using vboxwebsrv SOAP API (VirtualBox 7.1&#43;) (2 months ago)
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager (2 months ago)
-- [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (2 months ago)
 
 
 
