@@ -65,7 +65,7 @@ and more...
 - [federicolepera/slok](https://github.com/federicolepera/slok) - Kubernetes operator for managing SLOs with error budget tracking (2 weeks ago)
 - [jdx/communique](https://github.com/jdx/communique) - Editorialized release notes powered by AI (3 weeks ago)
 - [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with an interactive Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who&#39;s there? 🚪 (3 weeks ago)
-- [sol1/rustguac](https://github.com/sol1/rustguac) - Lightweight Rust replacement for Apache Guacamole — browser-based SSH, RDP, and web sessions via guacd (3 weeks ago)
+- [sol1/rustguac](https://github.com/sol1/rustguac) - Lightweight Rust replacement for Apache Guacamole — browser-based SSH, RDP, VNC, and web sessions via guacd with SSH jump hosts, Kerberos NLA, Vault address book, and OIDC SSO (3 weeks ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (1 month ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
