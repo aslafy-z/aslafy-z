@@ -57,6 +57,7 @@ and more...
 ## ⭐ Recent Stars
 
 
+- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts. (today)
 - [gmonarque/lighthouse](https://github.com/gmonarque/lighthouse) - Self-hosted nostr torrent indexer with torznab API (1 day ago)
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.  (2 days ago)
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible (5 days ago)
@@ -66,7 +67,6 @@ and more...
 - [federicolepera/slok](https://github.com/federicolepera/slok) - Kubernetes operator for managing SLOs with error budget tracking (3 weeks ago)
 - [jdx/communique](https://github.com/jdx/communique) - Editorialized release notes powered by AI (3 weeks ago)
 - [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with an interactive Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who&#39;s there? 🚪 (3 weeks ago)
-- [sol1/rustguac](https://github.com/sol1/rustguac) - Lightweight Rust replacement for Apache Guacamole — browser-based SSH, RDP, VNC, and web sessions via guacd with SSH jump hosts, Kerberos NLA, Vault address book, and OIDC SSO (3 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
