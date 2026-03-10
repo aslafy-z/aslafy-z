@@ -44,9 +44,9 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [fix(gateway-api): prevent silent Gateway API disable on CRD discovery timeout](https://github.com/cilium/cilium/pull/44662) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
+- [fix(gateway-api): prevent silent Gateway API disable on CRD discovery timeout](https://github.com/cilium/cilium/pull/44662) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
 - [GUACAMOLE-2235: Clarify env var naming for digits and camelCase](https://github.com/apache/guacamole-manual/pull/285) on [apache/guacamole-manual](https://github.com/apache/guacamole-manual) (1 week ago)
-- [docs(rootless): add instruction to restart user session](https://github.com/kubernetes-sigs/kind/pull/4113) on [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) (1 week ago)
+- [docs(rootless): add instruction to restart user session](https://github.com/kubernetes-sigs/kind/pull/4113) on [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) (2 weeks ago)
 - [Remove &#39;S3 Compatible API&#39; empty page](https://github.com/rustfs/docs.rustfs.com/pull/79) on [rustfs/docs.rustfs.com](https://github.com/rustfs/docs.rustfs.com) (3 weeks ago)
 - [feat: add namespace to resources](https://github.com/questdb/questdb-kubernetes/pull/246) on [questdb/questdb-kubernetes](https://github.com/questdb/questdb-kubernetes) (3 weeks ago)
 - [feat: Support complex types in ansible_host and ansible_group variables](https://github.com/ansible/terraform-provider-ansible/pull/150) on [ansible/terraform-provider-ansible](https://github.com/ansible/terraform-provider-ansible) (1 month ago)
@@ -57,16 +57,16 @@ and more...
 ## ⭐ Recent Stars
 
 
-- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts. (3 days ago)
-- [gmonarque/lighthouse](https://github.com/gmonarque/lighthouse) - Self-hosted nostr torrent indexer with torznab API (4 days ago)
-- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.  (5 days ago)
+- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts. (4 days ago)
+- [gmonarque/lighthouse](https://github.com/gmonarque/lighthouse) - Self-hosted nostr torrent indexer with torznab API (5 days ago)
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.  (6 days ago)
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible (1 week ago)
 - [hauler-dev/hauler](https://github.com/hauler-dev/hauler) - Airgap Swiss Army Knife (1 week ago)
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀 (2 weeks ago)
 - [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers (2 weeks ago)
 - [federicolepera/slok](https://github.com/federicolepera/slok) - Kubernetes operator for managing SLOs with error budget tracking (3 weeks ago)
 - [jdx/communique](https://github.com/jdx/communique) - Editorialized release notes powered by AI (3 weeks ago)
-- [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with an interactive Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who&#39;s there? 🚪 (3 weeks ago)
+- [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with an interactive Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who&#39;s there? 🚪 (4 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
