@@ -57,6 +57,7 @@ and more...
 ## ⭐ Recent Stars
 
 
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration. (today)
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts. (5 days ago)
 - [gmonarque/lighthouse](https://github.com/gmonarque/lighthouse) - Self-hosted nostr torrent indexer with torznab API (6 days ago)
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.  (1 week ago)
@@ -66,7 +67,6 @@ and more...
 - [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers (2 weeks ago)
 - [federicolepera/slok](https://github.com/federicolepera/slok) - Kubernetes operator for managing SLOs with error budget tracking (3 weeks ago)
 - [jdx/communique](https://github.com/jdx/communique) - Editorialized release notes powered by AI (3 weeks ago)
-- [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with an interactive Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who&#39;s there? 🚪 (4 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
