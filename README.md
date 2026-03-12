@@ -28,6 +28,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
+- [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes. (today)
 - [siderolabs/pkgs](https://github.com/siderolabs/pkgs) -  (1 day ago)
 - [apache/guacamole-manual](https://github.com/apache/guacamole-manual) - Mirror of Apache Guacamole Manual (1 week ago)
 - [Code0x58/gitlab-ci-validate](https://github.com/Code0x58/gitlab-ci-validate) - command line tool to validate .gitlab-ci.yml files (3 weeks ago)
@@ -37,7 +38,6 @@ and more...
 - [aslafy-z/asdf-git-secret](https://github.com/aslafy-z/asdf-git-secret) -  (1 month ago)
 - [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts straight from Git repositories (1 month ago)
 - [dmunozv04/charts](https://github.com/dmunozv04/charts) -  (2 months ago)
-- [aslafy-z/terraform-provider-vboxweb](https://github.com/aslafy-z/terraform-provider-vboxweb) - Terraform provider for VirtualBox using vboxwebsrv SOAP API (VirtualBox 7.1&#43;) (2 months ago)
 
 
 
