@@ -44,7 +44,7 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [fix(kubernetes-operator): change webhook service port to targetPort](https://github.com/netbirdio/helms/pull/42) on [netbirdio/helms](https://github.com/netbirdio/helms) (today)
+- [fix(kubernetes-operator): change webhook container port to service targetPort](https://github.com/netbirdio/helms/pull/42) on [netbirdio/helms](https://github.com/netbirdio/helms) (today)
 - [feat: bump kernel with uhci_hcd driver](https://github.com/siderolabs/talos/pull/12956) on [siderolabs/talos](https://github.com/siderolabs/talos) (1 day ago)
 - [feat(kernel): enable CONFIG_USB_UHCI_HCD on amd64](https://github.com/siderolabs/pkgs/pull/1483) on [siderolabs/pkgs](https://github.com/siderolabs/pkgs) (2 days ago)
 - [fix(gateway-api): prevent silent Gateway API disable on CRD discovery timeout](https://github.com/cilium/cilium/pull/44662) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
