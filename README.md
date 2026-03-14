@@ -56,6 +56,7 @@ and more...
 ## ⭐ Recent Stars
 
 
+- [TomBadash/MouseControl](https://github.com/TomBadash/MouseControl) - A lightweight, open-source alternative to Logitech Options&#43; for remapping buttons on the Logitech MX Master 3S mouse (today)
 - [kubestellar/console](https://github.com/kubestellar/console) - World&#39;s first fully integrated and fully Automated Kubernetes management and orchestration solution (3 days ago)
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration. (3 days ago)
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts. (1 week ago)
@@ -65,7 +66,6 @@ and more...
 - [hauler-dev/hauler](https://github.com/hauler-dev/hauler) - Airgap Swiss Army Knife (2 weeks ago)
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀 (2 weeks ago)
 - [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers (2 weeks ago)
-- [federicolepera/slok](https://github.com/federicolepera/slok) - Kubernetes operator for managing SLOs with error budget tracking (4 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
