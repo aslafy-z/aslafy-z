@@ -56,7 +56,7 @@ and more...
 ## ⭐ Recent Stars
 
 
-- [TomBadash/MouseControl](https://github.com/TomBadash/MouseControl) - A lightweight, open-source alternative to Logitech Options&#43; for remapping buttons on the Logitech MX Master 3S mouse (today)
+- [TomBadash/Mouser](https://github.com/TomBadash/Mouser) - A lightweight, open-source alternative to Logitech Options&#43; for remapping buttons on the Logitech MX Master 3S mouse (today)
 - [kubestellar/console](https://github.com/kubestellar/console) - World&#39;s first fully integrated and fully Automated Kubernetes management and orchestration solution (3 days ago)
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration. (3 days ago)
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts. (1 week ago)
