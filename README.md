@@ -58,7 +58,7 @@ and more...
 
 - [Xide/infra](https://github.com/Xide/infra) -  (2 days ago)
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities. (3 days ago)
-- [TomBadash/Mouser](https://github.com/TomBadash/Mouser) - A lightweight, open-source alternative to Logitech Options&#43; for remapping buttons on the Logitech MX Master 3S mouse (4 days ago)
+- [TomBadash/Mouser](https://github.com/TomBadash/Mouser) - A lightweight, open-source, fully local alternative to Logitech Options&#43; for remapping Logitech HID&#43;&#43; mice. (4 days ago)
 - [kubestellar/console](https://github.com/kubestellar/console) - World&#39;s first fully integrated and fully Automated Kubernetes management and orchestration solution (1 week ago)
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration. (1 week ago)
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts. (1 week ago)
