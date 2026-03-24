@@ -56,6 +56,7 @@ and more...
 ## ⭐ Recent Stars
 
 
+- [AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain) - Protect against malicious code installed via npm, yarn, pnpm, npx, and pnpx with Aikido Safe Chain. Free to use, no tokens required. (today)
 - [bahdotsh/giff](https://github.com/bahdotsh/giff) - A terminal-based Git diff viewer with interactive rebase capabilities (2 days ago)
 - [Xide/infra](https://github.com/Xide/infra) -  (1 week ago)
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities. (1 week ago)
@@ -65,7 +66,6 @@ and more...
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts. (2 weeks ago)
 - [gmonarque/lighthouse](https://github.com/gmonarque/lighthouse) - Self-hosted nostr torrent indexer with torznab API (2 weeks ago)
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.  (2 weeks ago)
-- [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible (3 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
