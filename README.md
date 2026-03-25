@@ -29,7 +29,7 @@ and more...
 
 
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes. (1 week ago)
-- [siderolabs/pkgs](https://github.com/siderolabs/pkgs) -  (1 week ago)
+- [siderolabs/pkgs](https://github.com/siderolabs/pkgs) -  (2 weeks ago)
 - [apache/guacamole-manual](https://github.com/apache/guacamole-manual) - Mirror of Apache Guacamole Manual (3 weeks ago)
 - [Code0x58/gitlab-ci-validate](https://github.com/Code0x58/gitlab-ci-validate) - command line tool to validate .gitlab-ci.yml files (1 month ago)
 - [questdb/questdb-kubernetes](https://github.com/questdb/questdb-kubernetes) - Configuration to run QuestDB in your Kubernetes cluster  (1 month ago)
@@ -46,7 +46,7 @@ and more...
 
 - [fix(kubernetes-operator): change webhook container port to service targetPort](https://github.com/netbirdio/helms/pull/42) on [netbirdio/helms](https://github.com/netbirdio/helms) (1 week ago)
 - [feat: bump kernel with uhci_hcd driver](https://github.com/siderolabs/talos/pull/12956) on [siderolabs/talos](https://github.com/siderolabs/talos) (1 week ago)
-- [feat(kernel): enable CONFIG_USB_UHCI_HCD on amd64](https://github.com/siderolabs/pkgs/pull/1483) on [siderolabs/pkgs](https://github.com/siderolabs/pkgs) (1 week ago)
+- [feat(kernel): enable CONFIG_USB_UHCI_HCD on amd64](https://github.com/siderolabs/pkgs/pull/1483) on [siderolabs/pkgs](https://github.com/siderolabs/pkgs) (2 weeks ago)
 - [fix(gateway-api): prevent silent Gateway API disable on CRD discovery timeout](https://github.com/cilium/cilium/pull/44662) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [GUACAMOLE-2235: Clarify env var naming for digits and camelCase](https://github.com/apache/guacamole-manual/pull/285) on [apache/guacamole-manual](https://github.com/apache/guacamole-manual) (3 weeks ago)
 - [docs(rootless): add instruction to restart user session](https://github.com/kubernetes-sigs/kind/pull/4113) on [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) (4 weeks ago)
@@ -56,16 +56,16 @@ and more...
 ## ⭐ Recent Stars
 
 
-- [AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain) - Protect against malicious code installed via npm, yarn, pnpm, npx, and pnpx with Aikido Safe Chain. Free to use, no tokens required. (today)
-- [bahdotsh/giff](https://github.com/bahdotsh/giff) - A terminal-based Git diff viewer with interactive rebase capabilities (2 days ago)
+- [AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain) - Protect against malicious code installed via npm, yarn, pnpm, npx, and pnpx with Aikido Safe Chain. Free to use, no tokens required. (1 day ago)
+- [bahdotsh/giff](https://github.com/bahdotsh/giff) - A terminal-based Git diff viewer with interactive rebase capabilities (3 days ago)
 - [Xide/infra](https://github.com/Xide/infra) -  (1 week ago)
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities. (1 week ago)
 - [TomBadash/Mouser](https://github.com/TomBadash/Mouser) - A lightweight, open-source, fully local alternative to Logitech Options&#43; for remapping Logitech HID&#43;&#43; mice. (1 week ago)
-- [kubestellar/console](https://github.com/kubestellar/console) - World&#39;s first fully integrated and fully Automated Kubernetes management and orchestration solution (1 week ago)
-- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic. (1 week ago)
+- [kubestellar/console](https://github.com/kubestellar/console) - World&#39;s first fully integrated and fully Automated Kubernetes management and orchestration solution (2 weeks ago)
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic. (2 weeks ago)
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts. (2 weeks ago)
 - [gmonarque/lighthouse](https://github.com/gmonarque/lighthouse) - Self-hosted nostr torrent indexer with torznab API (2 weeks ago)
-- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.  (2 weeks ago)
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.  (3 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
