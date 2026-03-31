@@ -56,6 +56,8 @@ and more...
 ## ⭐ Recent Stars
 
 
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (today)
+- [adn8naiagent/F1ReplayTiming](https://github.com/adn8naiagent/F1ReplayTiming) - Visualisation of real-time track data and telemetry synced to F1 replays. (today)
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features (1 day ago)
 - [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents (3 days ago)
 - [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification) (5 days ago)
@@ -64,8 +66,6 @@ and more...
 - [AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain) - Protect against malicious code installed via npm, yarn, pnpm, npx, and pnpx with Aikido Safe Chain. Free to use, no tokens required. (1 week ago)
 - [bahdotsh/giff](https://github.com/bahdotsh/giff) - A terminal-based Git diff viewer with interactive rebase capabilities (1 week ago)
 - [Xide/infra](https://github.com/Xide/infra) -  (2 weeks ago)
-- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities. (2 weeks ago)
-- [TomBadash/Mouser](https://github.com/TomBadash/Mouser) - A lightweight, open-source, fully local alternative to Logitech Options&#43; for remapping Logitech HID&#43;&#43; mice. (2 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
