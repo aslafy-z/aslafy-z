@@ -44,7 +44,7 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [fix(kubernetes-operator): change webhook container port to service targetPort](https://github.com/netbirdio/helms/pull/42) on [netbirdio/helms](https://github.com/netbirdio/helms) (2 weeks ago)
+- [fix(kubernetes-operator): change webhook container port to service targetPort](https://github.com/netbirdio/helms/pull/42) on [netbirdio/helms](https://github.com/netbirdio/helms) (3 weeks ago)
 - [feat: bump kernel with uhci_hcd driver](https://github.com/siderolabs/talos/pull/12956) on [siderolabs/talos](https://github.com/siderolabs/talos) (3 weeks ago)
 - [feat(kernel): enable CONFIG_USB_UHCI_HCD on amd64](https://github.com/siderolabs/pkgs/pull/1483) on [siderolabs/pkgs](https://github.com/siderolabs/pkgs) (3 weeks ago)
 - [fix(gateway-api): prevent silent Gateway API disable on CRD discovery timeout](https://github.com/cilium/cilium/pull/44662) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
@@ -56,10 +56,10 @@ and more...
 ## ⭐ Recent Stars
 
 
-- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (2 days ago)
-- [adn8naiagent/F1ReplayTiming](https://github.com/adn8naiagent/F1ReplayTiming) - Visualisation of real-time track data and telemetry synced to F1 replays. (2 days ago)
-- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features (3 days ago)
-- [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents (5 days ago)
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (3 days ago)
+- [adn8naiagent/F1ReplayTiming](https://github.com/adn8naiagent/F1ReplayTiming) - Visualisation of real-time track data and telemetry synced to F1 replays. (3 days ago)
+- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features (4 days ago)
+- [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents (6 days ago)
 - [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification) (1 week ago)
 - [postfinance/kubenurse](https://github.com/postfinance/kubenurse) - Kubernetes network monitoring (1 week ago)
 - [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp. (1 week ago)
