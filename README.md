@@ -44,6 +44,8 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [docs: note that forwardKubeDNSToHost requires hostDNS](https://github.com/siderolabs/docs/pull/481) on [siderolabs/docs](https://github.com/siderolabs/docs) (today)
+- [fix: guard hostDNS forwarding on hostDNS being enabled](https://github.com/siderolabs/talos/pull/13101) on [siderolabs/talos](https://github.com/siderolabs/talos) (today)
 - [fix: appVersion formatting in Chart.yaml](https://github.com/cfgate/helm-chart/pull/4) on [cfgate/helm-chart](https://github.com/cfgate/helm-chart) (3 days ago)
 - [[stable/node-problem-detector] Add initContainers support](https://github.com/deliveryhero/helm-charts/pull/787) on [deliveryhero/helm-charts](https://github.com/deliveryhero/helm-charts) (5 days ago)
 - [fix(kubernetes-operator): change webhook container port to service targetPort](https://github.com/netbirdio/helms/pull/42) on [netbirdio/helms](https://github.com/netbirdio/helms) (3 weeks ago)
@@ -51,7 +53,6 @@ and more...
 - [feat(kernel): enable CONFIG_USB_UHCI_HCD on amd64](https://github.com/siderolabs/pkgs/pull/1483) on [siderolabs/pkgs](https://github.com/siderolabs/pkgs) (4 weeks ago)
 - [fix(gateway-api): prevent silent disable on CRD discovery timeout](https://github.com/cilium/cilium/pull/44662) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
 - [GUACAMOLE-2235: Clarify env var naming for digits and camelCase](https://github.com/apache/guacamole-manual/pull/285) on [apache/guacamole-manual](https://github.com/apache/guacamole-manual) (1 month ago)
-- [docs(rootless): add instruction to restart user session](https://github.com/kubernetes-sigs/kind/pull/4113) on [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) (1 month ago)
 
 ## ⭐ Recent Stars
 
