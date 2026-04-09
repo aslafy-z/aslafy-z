@@ -45,7 +45,7 @@ and more...
 
 
 - [docs: note that forwardKubeDNSToHost requires hostDNS](https://github.com/siderolabs/docs/pull/481) on [siderolabs/docs](https://github.com/siderolabs/docs) (1 day ago)
-- [fix: guard hostDNS forwarding on hostDNS being enabled](https://github.com/siderolabs/talos/pull/13101) on [siderolabs/talos](https://github.com/siderolabs/talos) (1 day ago)
+- [fix: validate hostDNS forwarding requires hostDNS to be enabled](https://github.com/siderolabs/talos/pull/13101) on [siderolabs/talos](https://github.com/siderolabs/talos) (1 day ago)
 - [fix: appVersion formatting in Chart.yaml](https://github.com/cfgate/helm-chart/pull/4) on [cfgate/helm-chart](https://github.com/cfgate/helm-chart) (4 days ago)
 - [[stable/node-problem-detector] Add initContainers support](https://github.com/deliveryhero/helm-charts/pull/787) on [deliveryhero/helm-charts](https://github.com/deliveryhero/helm-charts) (6 days ago)
 - [fix(kubernetes-operator): change webhook container port to service targetPort](https://github.com/netbirdio/helms/pull/42) on [netbirdio/helms](https://github.com/netbirdio/helms) (3 weeks ago)
