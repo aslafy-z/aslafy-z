@@ -57,6 +57,7 @@ and more...
 ## ⭐ Recent Stars
 
 
+- [dominikhei/cardamon](https://github.com/dominikhei/cardamon) - Cardamon is a cleanup tool for Prometheus that collects unused metrics from Grafana and Prometheus and generates drop statements for them. (today)
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC. (4 days ago)
 - [always-further/nono](https://github.com/always-further/nono) - Kernel-enforced agent sandbox. Capability-based isolation with secure key management, atomic rollback, cryptographic immutable audit chain of provenance. Run your agents in a zero-trust environment. (5 days ago)
 - [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine (6 days ago)
@@ -66,7 +67,6 @@ and more...
 - [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents (1 week ago)
 - [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification) (2 weeks ago)
 - [postfinance/kubenurse](https://github.com/postfinance/kubenurse) - Kubernetes network monitoring (2 weeks ago)
-- [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp. (2 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
