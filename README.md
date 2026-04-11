@@ -58,7 +58,7 @@ and more...
 
 - [dominikhei/cardamon](https://github.com/dominikhei/cardamon) - Cardamon is a cleanup tool for Prometheus that collects unused metrics from Grafana and Prometheus and generates drop statements for them. (2 days ago)
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC. (6 days ago)
-- [always-further/nono](https://github.com/always-further/nono) - Kernel-enforced agent sandbox. Capability-based isolation with secure key management, atomic rollback, cryptographic immutable audit chain of provenance. Run your agents in a zero-trust environment. (1 week ago)
+- [always-further/nono](https://github.com/always-further/nono) - nono - a capability-based, multiplexing sandbox tool, built for developers , seamless path to prod. Run agents securely without needing any additional infra, zero setup, zero latency.  (1 week ago)
 - [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine (1 week ago)
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (1 week ago)
 - [adn8naiagent/F1ReplayTiming](https://github.com/adn8naiagent/F1ReplayTiming) - Visualisation of real-time track data and telemetry synced to F1 replays. (1 week ago)
