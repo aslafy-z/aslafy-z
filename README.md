@@ -44,6 +44,7 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [luci-mod-system: add current host to reset reconnect](https://github.com/openwrt/luci/pull/8548) on [openwrt/luci](https://github.com/openwrt/luci) (today)
 - [fix(logical-backup): wait for PG connectivity before running backup](https://github.com/zalando/postgres-operator/pull/3069) on [zalando/postgres-operator](https://github.com/zalando/postgres-operator) (2 days ago)
 - [docs: note that forwardKubeDNSToHost requires hostDNS](https://github.com/siderolabs/docs/pull/481) on [siderolabs/docs](https://github.com/siderolabs/docs) (4 days ago)
 - [fix: validate hostDNS forwarding requires hostDNS to be enabled](https://github.com/siderolabs/talos/pull/13101) on [siderolabs/talos](https://github.com/siderolabs/talos) (4 days ago)
@@ -51,7 +52,6 @@ and more...
 - [fix(kubernetes-operator): change webhook container port to service targetPort](https://github.com/netbirdio/helms/pull/42) on [netbirdio/helms](https://github.com/netbirdio/helms) (1 month ago)
 - [feat: bump kernel with uhci_hcd driver](https://github.com/siderolabs/talos/pull/12956) on [siderolabs/talos](https://github.com/siderolabs/talos) (1 month ago)
 - [feat(kernel): enable CONFIG_USB_UHCI_HCD on amd64](https://github.com/siderolabs/pkgs/pull/1483) on [siderolabs/pkgs](https://github.com/siderolabs/pkgs) (1 month ago)
-- [fix(gateway-api): prevent silent disable on CRD discovery timeout](https://github.com/cilium/cilium/pull/44662) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
 
 ## ⭐ Recent Stars
 
