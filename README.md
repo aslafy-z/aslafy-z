@@ -28,11 +28,11 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes. (3 days ago)
+- [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes. (4 days ago)
 - [siderolabs/pkgs](https://github.com/siderolabs/pkgs) -  (1 month ago)
 - [apache/guacamole-manual](https://github.com/apache/guacamole-manual) - Apache Guacamole&#39;s official documentation (the Guacamole User&#39;s Guide). A copy of this guide for each release of Guacamole can be found at the project website. (1 month ago)
 - [Code0x58/gitlab-ci-validate](https://github.com/Code0x58/gitlab-ci-validate) - command line tool to validate .gitlab-ci.yml files (1 month ago)
-- [questdb/questdb-kubernetes](https://github.com/questdb/questdb-kubernetes) - Configuration to run QuestDB in your Kubernetes cluster  (1 month ago)
+- [questdb/questdb-kubernetes](https://github.com/questdb/questdb-kubernetes) - Configuration to run QuestDB in your Kubernetes cluster  (2 months ago)
 - [ansible/terraform-provider-ansible](https://github.com/ansible/terraform-provider-ansible) - community terraform provider for ansible (2 months ago)
 - [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (2 months ago)
 - [aslafy-z/asdf-git-secret](https://github.com/aslafy-z/asdf-git-secret) -  (2 months ago)
@@ -44,11 +44,11 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [fix(logical-backup): wait for PG connectivity before running backup](https://github.com/zalando/postgres-operator/pull/3069) on [zalando/postgres-operator](https://github.com/zalando/postgres-operator) (1 day ago)
-- [docs: note that forwardKubeDNSToHost requires hostDNS](https://github.com/siderolabs/docs/pull/481) on [siderolabs/docs](https://github.com/siderolabs/docs) (3 days ago)
-- [fix: validate hostDNS forwarding requires hostDNS to be enabled](https://github.com/siderolabs/talos/pull/13101) on [siderolabs/talos](https://github.com/siderolabs/talos) (3 days ago)
+- [fix(logical-backup): wait for PG connectivity before running backup](https://github.com/zalando/postgres-operator/pull/3069) on [zalando/postgres-operator](https://github.com/zalando/postgres-operator) (2 days ago)
+- [docs: note that forwardKubeDNSToHost requires hostDNS](https://github.com/siderolabs/docs/pull/481) on [siderolabs/docs](https://github.com/siderolabs/docs) (4 days ago)
+- [fix: validate hostDNS forwarding requires hostDNS to be enabled](https://github.com/siderolabs/talos/pull/13101) on [siderolabs/talos](https://github.com/siderolabs/talos) (4 days ago)
 - [[stable/node-problem-detector] Add initContainers support](https://github.com/deliveryhero/helm-charts/pull/787) on [deliveryhero/helm-charts](https://github.com/deliveryhero/helm-charts) (1 week ago)
-- [fix(kubernetes-operator): change webhook container port to service targetPort](https://github.com/netbirdio/helms/pull/42) on [netbirdio/helms](https://github.com/netbirdio/helms) (4 weeks ago)
+- [fix(kubernetes-operator): change webhook container port to service targetPort](https://github.com/netbirdio/helms/pull/42) on [netbirdio/helms](https://github.com/netbirdio/helms) (1 month ago)
 - [feat: bump kernel with uhci_hcd driver](https://github.com/siderolabs/talos/pull/12956) on [siderolabs/talos](https://github.com/siderolabs/talos) (1 month ago)
 - [feat(kernel): enable CONFIG_USB_UHCI_HCD on amd64](https://github.com/siderolabs/pkgs/pull/1483) on [siderolabs/pkgs](https://github.com/siderolabs/pkgs) (1 month ago)
 - [fix(gateway-api): prevent silent disable on CRD discovery timeout](https://github.com/cilium/cilium/pull/44662) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
@@ -56,8 +56,8 @@ and more...
 ## ⭐ Recent Stars
 
 
-- [dominikhei/cardamon](https://github.com/dominikhei/cardamon) - Cardamon is a cleanup tool for Prometheus that collects unused metrics from Grafana and Prometheus and generates drop statements for them. (2 days ago)
-- [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC. (6 days ago)
+- [dominikhei/cardamon](https://github.com/dominikhei/cardamon) - Cardamon is a cleanup tool for Prometheus that collects unused metrics from Grafana and Prometheus and generates drop statements for them. (3 days ago)
+- [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC. (1 week ago)
 - [always-further/nono](https://github.com/always-further/nono) - nono - a capability-based, multiplexing sandbox tool, built for developers , seamless path to prod. Run agents securely without needing any additional infra, zero setup, zero latency.  (1 week ago)
 - [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine (1 week ago)
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (1 week ago)
