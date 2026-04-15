@@ -30,6 +30,7 @@ and more...
 
 - [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby. (2 days ago)
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes. (1 week ago)
+- [siderolabs/docs](https://github.com/siderolabs/docs) - Sidero documentation (1 week ago)
 - [siderolabs/pkgs](https://github.com/siderolabs/pkgs) -  (1 month ago)
 - [apache/guacamole-manual](https://github.com/apache/guacamole-manual) - Apache Guacamole&#39;s official documentation (the Guacamole User&#39;s Guide). A copy of this guide for each release of Guacamole can be found at the project website. (1 month ago)
 - [Code0x58/gitlab-ci-validate](https://github.com/Code0x58/gitlab-ci-validate) - command line tool to validate .gitlab-ci.yml files (1 month ago)
@@ -37,7 +38,6 @@ and more...
 - [ansible/terraform-provider-ansible](https://github.com/ansible/terraform-provider-ansible) - community terraform provider for ansible (2 months ago)
 - [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (2 months ago)
 - [aslafy-z/asdf-git-secret](https://github.com/aslafy-z/asdf-git-secret) -  (2 months ago)
-- [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts straight from Git repositories (3 months ago)
 
 
 
