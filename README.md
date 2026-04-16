@@ -28,8 +28,8 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
+- [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby. (today)
 - [siderolabs/docs](https://github.com/siderolabs/docs) - Sidero documentation (1 day ago)
-- [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby. (3 days ago)
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes. (1 week ago)
 - [siderolabs/pkgs](https://github.com/siderolabs/pkgs) -  (1 month ago)
 - [apache/guacamole-manual](https://github.com/apache/guacamole-manual) - Apache Guacamole&#39;s official documentation (the Guacamole User&#39;s Guide). A copy of this guide for each release of Guacamole can be found at the project website. (1 month ago)
@@ -44,6 +44,7 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [chore(helm): update chart source URL](https://github.com/seerr-team/seerr/pull/2889) on [seerr-team/seerr](https://github.com/seerr-team/seerr) (today)
 - [docs: simplify Oracle image upload by using qcow2 directly](https://github.com/siderolabs/docs/pull/490) on [siderolabs/docs](https://github.com/siderolabs/docs) (1 day ago)
 - [feat: add serviceLabelSelector for label-based Service filtering](https://github.com/k8s-gateway/k8s_gateway/pull/307) on [k8s-gateway/k8s_gateway](https://github.com/k8s-gateway/k8s_gateway) (2 days ago)
 - [chore(helm): bump app version to 3.1.2](https://github.com/seerr-team/seerr/pull/2870) on [seerr-team/seerr](https://github.com/seerr-team/seerr) (3 days ago)
@@ -52,7 +53,6 @@ and more...
 - [docs: note that forwardKubeDNSToHost requires hostDNS](https://github.com/siderolabs/docs/pull/481) on [siderolabs/docs](https://github.com/siderolabs/docs) (1 week ago)
 - [fix: validate hostDNS forwarding requires hostDNS to be enabled](https://github.com/siderolabs/talos/pull/13101) on [siderolabs/talos](https://github.com/siderolabs/talos) (1 week ago)
 - [[stable/node-problem-detector] Add initContainers support](https://github.com/deliveryhero/helm-charts/pull/787) on [deliveryhero/helm-charts](https://github.com/deliveryhero/helm-charts) (1 week ago)
-- [fix(kubernetes-operator): change webhook container port to service targetPort](https://github.com/netbirdio/helms/pull/42) on [netbirdio/helms](https://github.com/netbirdio/helms) (1 month ago)
 
 ## ⭐ Recent Stars
 
