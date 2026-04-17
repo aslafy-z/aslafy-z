@@ -28,6 +28,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
+- [k8s-gateway/k8s_gateway](https://github.com/k8s-gateway/k8s_gateway) - A CoreDNS plugin to resolve all types of external Kubernetes resources (today)
 - [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby. (1 day ago)
 - [siderolabs/docs](https://github.com/siderolabs/docs) - Sidero documentation (2 days ago)
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes. (1 week ago)
@@ -37,7 +38,6 @@ and more...
 - [questdb/questdb-kubernetes](https://github.com/questdb/questdb-kubernetes) - Configuration to run QuestDB in your Kubernetes cluster  (2 months ago)
 - [ansible/terraform-provider-ansible](https://github.com/ansible/terraform-provider-ansible) - community terraform provider for ansible (2 months ago)
 - [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications (2 months ago)
-- [aslafy-z/asdf-git-secret](https://github.com/aslafy-z/asdf-git-secret) -  (2 months ago)
 
 
 
