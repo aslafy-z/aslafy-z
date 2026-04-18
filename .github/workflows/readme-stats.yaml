@@ -1,0 +1,30 @@
+name: Update README stats cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true
+          path: stats.svg
+          token: ${{ secrets.GH_PAT }}
+
+      - uses: stefanzweifel/git-auto-commit-action@v7
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          commit_message: Update generated README
+          branch: main
+          commit_user_name: readme-stats 🤖
+          commit_user_email: actions@github.com
+          commit_author: readme-stats 🤖 <actions@github.com>
