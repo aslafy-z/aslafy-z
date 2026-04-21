@@ -28,10 +28,10 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [deliveryhero/helm-charts](https://github.com/deliveryhero/helm-charts) - Helm Charts ⛵ @ Delivery Hero ⭐ (today)
-- [k8s-gateway/k8s_gateway](https://github.com/k8s-gateway/k8s_gateway) - A CoreDNS plugin to resolve all types of external Kubernetes resources (1 day ago)
-- [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby. (4 days ago)
-- [siderolabs/docs](https://github.com/siderolabs/docs) - Sidero documentation (5 days ago)
+- [deliveryhero/helm-charts](https://github.com/deliveryhero/helm-charts) - Helm Charts ⛵ @ Delivery Hero ⭐ (1 day ago)
+- [k8s-gateway/k8s_gateway](https://github.com/k8s-gateway/k8s_gateway) - A CoreDNS plugin to resolve all types of external Kubernetes resources (2 days ago)
+- [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby. (5 days ago)
+- [siderolabs/docs](https://github.com/siderolabs/docs) - Sidero documentation (6 days ago)
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes. (1 week ago)
 - [siderolabs/pkgs](https://github.com/siderolabs/pkgs) -  (1 month ago)
 - [apache/guacamole-manual](https://github.com/apache/guacamole-manual) - Apache Guacamole&#39;s official documentation (the Guacamole User&#39;s Guide). A copy of this guide for each release of Guacamole can be found at the project website. (1 month ago)
@@ -44,10 +44,10 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [chore(helm): bump appVersion to 1.8.0](https://github.com/k8s-gateway/k8s_gateway/pull/309) on [k8s-gateway/k8s_gateway](https://github.com/k8s-gateway/k8s_gateway) (1 day ago)
-- [chore(helm): update chart source URL](https://github.com/seerr-team/seerr/pull/2889) on [seerr-team/seerr](https://github.com/seerr-team/seerr) (4 days ago)
-- [docs: simplify Oracle image upload by using qcow2 directly](https://github.com/siderolabs/docs/pull/490) on [siderolabs/docs](https://github.com/siderolabs/docs) (5 days ago)
-- [feat: add serviceLabelSelector for label-based Service filtering](https://github.com/k8s-gateway/k8s_gateway/pull/307) on [k8s-gateway/k8s_gateway](https://github.com/k8s-gateway/k8s_gateway) (6 days ago)
+- [chore(helm): bump appVersion to 1.8.0](https://github.com/k8s-gateway/k8s_gateway/pull/309) on [k8s-gateway/k8s_gateway](https://github.com/k8s-gateway/k8s_gateway) (2 days ago)
+- [chore(helm): update chart source URL](https://github.com/seerr-team/seerr/pull/2889) on [seerr-team/seerr](https://github.com/seerr-team/seerr) (5 days ago)
+- [docs: simplify Oracle image upload by using qcow2 directly](https://github.com/siderolabs/docs/pull/490) on [siderolabs/docs](https://github.com/siderolabs/docs) (6 days ago)
+- [feat: add serviceLabelSelector for label-based Service filtering](https://github.com/k8s-gateway/k8s_gateway/pull/307) on [k8s-gateway/k8s_gateway](https://github.com/k8s-gateway/k8s_gateway) (1 week ago)
 - [chore(helm): bump app version to 3.1.2](https://github.com/seerr-team/seerr/pull/2870) on [seerr-team/seerr](https://github.com/seerr-team/seerr) (1 week ago)
 - [luci-mod-system: add current host to reset reconnect](https://github.com/openwrt/luci/pull/8548) on [openwrt/luci](https://github.com/openwrt/luci) (1 week ago)
 - [fix(logical-backup): wait for PG connectivity before running backup](https://github.com/zalando/postgres-operator/pull/3069) on [zalando/postgres-operator](https://github.com/zalando/postgres-operator) (1 week ago)
@@ -57,16 +57,16 @@ and more...
 ## ⭐ Recent Stars
 
 
-- [boerdereinar/copyous](https://github.com/boerdereinar/copyous) - Modern Clipboard Manager for GNOME (4 days ago)
-- [damontecres/Wholphin](https://github.com/damontecres/Wholphin) - An OSS Android TV client for Jellyfin (4 days ago)
-- [k8s-gateway/k8s_gateway](https://github.com/k8s-gateway/k8s_gateway) - A CoreDNS plugin to resolve all types of external Kubernetes resources (6 days ago)
+- [boerdereinar/copyous](https://github.com/boerdereinar/copyous) - Modern Clipboard Manager for GNOME (5 days ago)
+- [damontecres/Wholphin](https://github.com/damontecres/Wholphin) - An OSS Android TV client for Jellyfin (5 days ago)
+- [k8s-gateway/k8s_gateway](https://github.com/k8s-gateway/k8s_gateway) - A CoreDNS plugin to resolve all types of external Kubernetes resources (1 week ago)
 - [nearai/ironclaw](https://github.com/nearai/ironclaw) - IronClaw is OpenClaw inspired implementation in Rust focused on privacy and security (1 week ago)
 - [dominikhei/cardamon](https://github.com/dominikhei/cardamon) - Cardamon is a cleanup tool for Prometheus that collects unused metrics from Grafana and Prometheus and generates drop statements for them. (1 week ago)
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC. (2 weeks ago)
 - [always-further/nono](https://github.com/always-further/nono) - nono - a capability-based, multiplexing sandbox tool, built for developers - lift&#39;n&#39;shift seamless path to prod. Run agents securely without needing any additional infra, zero setup, zero latency.  (2 weeks ago)
 - [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine (2 weeks ago)
-- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (2 weeks ago)
-- [adn8naiagent/F1ReplayTiming](https://github.com/adn8naiagent/F1ReplayTiming) - Visualisation of real-time track data and telemetry synced to F1 replays. (2 weeks ago)
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (3 weeks ago)
+- [adn8naiagent/F1ReplayTiming](https://github.com/adn8naiagent/F1ReplayTiming) - Visualisation of real-time track data and telemetry synced to F1 replays. (3 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
