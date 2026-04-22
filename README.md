@@ -44,6 +44,7 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [Allow root-relative server URLs in `oas3-api-servers`](https://github.com/daveshanley/vacuum/pull/859) on [daveshanley/vacuum](https://github.com/daveshanley/vacuum) (today)
 - [chore(helm): bump appVersion to 1.8.0](https://github.com/k8s-gateway/k8s_gateway/pull/309) on [k8s-gateway/k8s_gateway](https://github.com/k8s-gateway/k8s_gateway) (3 days ago)
 - [chore(helm): update chart source URL](https://github.com/seerr-team/seerr/pull/2889) on [seerr-team/seerr](https://github.com/seerr-team/seerr) (6 days ago)
 - [docs: simplify Oracle image upload by using qcow2 directly](https://github.com/siderolabs/docs/pull/490) on [siderolabs/docs](https://github.com/siderolabs/docs) (1 week ago)
