@@ -58,6 +58,7 @@ and more...
 ## ⭐ Recent Stars
 
 
+- [kubernetes-sigs/dranet](https://github.com/kubernetes-sigs/dranet) - DRANET is a Kubernetes Network Driver that uses Dynamic Resource Allocation (DRA) to deliver high-performance networking for demanding applications in Kubernetes. (today)
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models &amp; providers. One command to find what runs on your hardware. (3 days ago)
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (4 days ago)
 - [boerdereinar/copyous](https://github.com/boerdereinar/copyous) - Modern Clipboard Manager for GNOME (1 week ago)
@@ -67,7 +68,6 @@ and more...
 - [dominikhei/cardamon](https://github.com/dominikhei/cardamon) - Cardamon is a cleanup tool for Prometheus that collects unused metrics from Grafana and Prometheus and generates drop statements for them. (2 weeks ago)
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC. (3 weeks ago)
 - [always-further/nono](https://github.com/always-further/nono) - nono - a capability-based, multiplexing sandbox tool, built for developers - lift&#39;n&#39;shift seamless path to prod. Run agents securely without needing any additional infra, zero setup, zero latency.  (3 weeks ago)
-- [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine (3 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
