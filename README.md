@@ -58,6 +58,7 @@ and more...
 ## ⭐ Recent Stars
 
 
+- [y0sif/whisrs](https://github.com/y0sif/whisrs) - Linux-first voice-to-text dictation tool for Wayland, X11, Hyprland &amp; Sway, written in Rust (today)
 - [kubernetes-sigs/dranet](https://github.com/kubernetes-sigs/dranet) - DRANET is a Kubernetes Network Driver that uses Dynamic Resource Allocation (DRA) to deliver high-performance networking for demanding applications in Kubernetes. (2 days ago)
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models &amp; providers. One command to find what runs on your hardware. (5 days ago)
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (6 days ago)
@@ -67,7 +68,6 @@ and more...
 - [nearai/ironclaw](https://github.com/nearai/ironclaw) - IronClaw is OpenClaw inspired implementation in Rust focused on privacy and security (2 weeks ago)
 - [dominikhei/cardamon](https://github.com/dominikhei/cardamon) - Cardamon is a cleanup tool for Prometheus that collects unused metrics from Grafana and Prometheus and generates drop statements for them. (2 weeks ago)
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC. (3 weeks ago)
-- [always-further/nono](https://github.com/always-further/nono) - nono - a capability-based, multiplexing sandbox tool, built for developers - lift&#39;n&#39;shift seamless path to prod. Run agents securely without needing any additional infra, zero setup, zero latency.  (3 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
