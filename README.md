@@ -28,6 +28,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
+- [peak-scale/capsule-argo-addon](https://github.com/peak-scale/capsule-argo-addon) - Addon for Capsule to integrate with Argo Projects (today)
 - [zalando/postgres-operator](https://github.com/zalando/postgres-operator) - Postgres operator creates and manages PostgreSQL clusters running in Kubernetes (1 week ago)
 - [daveshanley/vacuum](https://github.com/daveshanley/vacuum) - vacuum is the worlds fastest and most versatile OpenAPI linter and toolkit. It tears through API specs at light speed. 100% compatible with Spectral rulesets, and OpenAPI 3.0, 3.1 and 3.2 (1 week ago)
 - [deliveryhero/helm-charts](https://github.com/deliveryhero/helm-charts) - Helm Charts ⛵ @ Delivery Hero ⭐ (2 weeks ago)
@@ -37,7 +38,6 @@ and more...
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes. (3 weeks ago)
 - [siderolabs/pkgs](https://github.com/siderolabs/pkgs) -  (1 month ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (1 month ago)
-- [apache/guacamole-manual](https://github.com/apache/guacamole-manual) - Apache Guacamole&#39;s official documentation (the Guacamole User&#39;s Guide). A copy of this guide for each release of Guacamole can be found at the project website. (2 months ago)
 
 
 
