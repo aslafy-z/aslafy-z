@@ -28,12 +28,12 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [peak-scale/capsule-argo-addon](https://github.com/peak-scale/capsule-argo-addon) - Addon for Capsule to integrate with Argo Projects (2 days ago)
-- [zalando/postgres-operator](https://github.com/zalando/postgres-operator) - Postgres operator creates and manages PostgreSQL clusters running in Kubernetes (1 week ago)
+- [peak-scale/capsule-argo-addon](https://github.com/peak-scale/capsule-argo-addon) - Addon for Capsule to integrate with Argo Projects (3 days ago)
+- [zalando/postgres-operator](https://github.com/zalando/postgres-operator) - Postgres operator creates and manages PostgreSQL clusters running in Kubernetes (2 weeks ago)
 - [daveshanley/vacuum](https://github.com/daveshanley/vacuum) - vacuum is the worlds fastest and most versatile OpenAPI linter and toolkit. It tears through API specs at light speed. 100% compatible with Spectral rulesets, and OpenAPI 3.0, 3.1 and 3.2 (2 weeks ago)
 - [deliveryhero/helm-charts](https://github.com/deliveryhero/helm-charts) - Helm Charts ⛵ @ Delivery Hero ⭐ (2 weeks ago)
 - [k8s-gateway/k8s_gateway](https://github.com/k8s-gateway/k8s_gateway) - A CoreDNS plugin to resolve all types of external Kubernetes resources (2 weeks ago)
-- [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby. (2 weeks ago)
+- [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby. (3 weeks ago)
 - [siderolabs/docs](https://github.com/siderolabs/docs) - Sidero documentation (3 weeks ago)
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes. (4 weeks ago)
 - [siderolabs/pkgs](https://github.com/siderolabs/pkgs) -  (1 month ago)
@@ -46,7 +46,7 @@ and more...
 
 - [Allow root-relative server URLs in `oas3-api-servers`](https://github.com/daveshanley/vacuum/pull/859) on [daveshanley/vacuum](https://github.com/daveshanley/vacuum) (2 weeks ago)
 - [chore(helm): bump appVersion to 1.8.0](https://github.com/k8s-gateway/k8s_gateway/pull/309) on [k8s-gateway/k8s_gateway](https://github.com/k8s-gateway/k8s_gateway) (2 weeks ago)
-- [chore(helm): update chart source URL](https://github.com/seerr-team/seerr/pull/2889) on [seerr-team/seerr](https://github.com/seerr-team/seerr) (2 weeks ago)
+- [chore(helm): update chart source URL](https://github.com/seerr-team/seerr/pull/2889) on [seerr-team/seerr](https://github.com/seerr-team/seerr) (3 weeks ago)
 - [docs: simplify Oracle image upload by using qcow2 directly](https://github.com/siderolabs/docs/pull/490) on [siderolabs/docs](https://github.com/siderolabs/docs) (3 weeks ago)
 - [feat: add serviceLabelSelector for label-based Service filtering](https://github.com/k8s-gateway/k8s_gateway/pull/307) on [k8s-gateway/k8s_gateway](https://github.com/k8s-gateway/k8s_gateway) (3 weeks ago)
 - [chore(helm): bump app version to 3.1.2](https://github.com/seerr-team/seerr/pull/2870) on [seerr-team/seerr](https://github.com/seerr-team/seerr) (3 weeks ago)
@@ -58,14 +58,14 @@ and more...
 ## ⭐ Recent Stars
 
 
-- [janosmiko/lfk](https://github.com/janosmiko/lfk) - ⚡ LFK is a lightning-fast, keyboard-focused, yazi-inspired terminal user interface for navigating and managing Kubernetes clusters. Built for speed and efficiency, it brings a three-column Miller columns layout with an owner-based resource hierarchy to your terminal. (today)
-- [mpryor/nothing-less](https://github.com/mpryor/nothing-less) - A TUI pager with advanced support for tabular data, inferring/swapping delimiters, and real-time event parsing.  (today)
+- [janosmiko/lfk](https://github.com/janosmiko/lfk) - ⚡ LFK is a lightning-fast, keyboard-focused, yazi-inspired terminal user interface for navigating and managing Kubernetes clusters. Built for speed and efficiency, it brings a three-column Miller columns layout with an owner-based resource hierarchy to your terminal. (1 day ago)
+- [mpryor/nothing-less](https://github.com/mpryor/nothing-less) - A TUI pager with advanced support for tabular data, inferring/swapping delimiters, and real-time event parsing.  (1 day ago)
 - [y0sif/whisrs](https://github.com/y0sif/whisrs) - Linux-first voice-to-text dictation tool for Wayland, X11, Niri, Hyprland &amp; Sway, written in Rust (1 week ago)
 - [kubernetes-sigs/dranet](https://github.com/kubernetes-sigs/dranet) - DRANET is a Kubernetes Network Driver that uses Dynamic Resource Allocation (DRA) to deliver high-performance networking for demanding applications in Kubernetes. (1 week ago)
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models &amp; providers. One command to find what runs on your hardware. (1 week ago)
-- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (1 week ago)
-- [boerdereinar/copyous](https://github.com/boerdereinar/copyous) - Modern Clipboard Manager for GNOME (2 weeks ago)
-- [damontecres/Wholphin](https://github.com/damontecres/Wholphin) - An OSS Android TV client for Jellyfin (2 weeks ago)
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (2 weeks ago)
+- [boerdereinar/copyous](https://github.com/boerdereinar/copyous) - Modern Clipboard Manager for GNOME (3 weeks ago)
+- [damontecres/Wholphin](https://github.com/damontecres/Wholphin) - An OSS Android TV client for Jellyfin (3 weeks ago)
 - [k8s-gateway/k8s_gateway](https://github.com/k8s-gateway/k8s_gateway) - A CoreDNS plugin to resolve all types of external Kubernetes resources (3 weeks ago)
 - [nearai/ironclaw](https://github.com/nearai/ironclaw) - IronClaw is an Agent OS focused on privacy, security and extensibility (3 weeks ago)
 
