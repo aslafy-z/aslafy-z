@@ -44,6 +44,7 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [feat: simplify CI workflows](https://github.com/stakater/application/pull/504) on [stakater/application](https://github.com/stakater/application) (today)
 - [Allow root-relative server URLs in `oas3-api-servers`](https://github.com/daveshanley/vacuum/pull/859) on [daveshanley/vacuum](https://github.com/daveshanley/vacuum) (2 weeks ago)
 - [chore(helm): bump appVersion to 1.8.0](https://github.com/k8s-gateway/k8s_gateway/pull/309) on [k8s-gateway/k8s_gateway](https://github.com/k8s-gateway/k8s_gateway) (2 weeks ago)
 - [chore(helm): update chart source URL](https://github.com/seerr-team/seerr/pull/2889) on [seerr-team/seerr](https://github.com/seerr-team/seerr) (3 weeks ago)
@@ -53,7 +54,6 @@ and more...
 - [luci-mod-system: add current host to reset reconnect](https://github.com/openwrt/luci/pull/8548) on [openwrt/luci](https://github.com/openwrt/luci) (3 weeks ago)
 - [fix(logical-backup): wait for PG connectivity before running backup](https://github.com/zalando/postgres-operator/pull/3069) on [zalando/postgres-operator](https://github.com/zalando/postgres-operator) (4 weeks ago)
 - [docs: note that forwardKubeDNSToHost requires hostDNS](https://github.com/siderolabs/docs/pull/481) on [siderolabs/docs](https://github.com/siderolabs/docs) (1 month ago)
-- [fix: validate hostDNS forwarding requires hostDNS to be enabled](https://github.com/siderolabs/talos/pull/13101) on [siderolabs/talos](https://github.com/siderolabs/talos) (1 month ago)
 
 ## ⭐ Recent Stars
 
