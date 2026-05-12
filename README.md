@@ -44,29 +44,29 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [feat: simplify CI workflows](https://github.com/stakater/application/pull/504) on [stakater/application](https://github.com/stakater/application) (2 days ago)
+- [feat: simplify CI workflows](https://github.com/stakater/application/pull/504) on [stakater/application](https://github.com/stakater/application) (3 days ago)
 - [Allow root-relative server URLs in `oas3-api-servers`](https://github.com/daveshanley/vacuum/pull/859) on [daveshanley/vacuum](https://github.com/daveshanley/vacuum) (2 weeks ago)
 - [chore(helm): bump appVersion to 1.8.0](https://github.com/k8s-gateway/k8s_gateway/pull/309) on [k8s-gateway/k8s_gateway](https://github.com/k8s-gateway/k8s_gateway) (3 weeks ago)
 - [chore(helm): update chart source URL](https://github.com/seerr-team/seerr/pull/2889) on [seerr-team/seerr](https://github.com/seerr-team/seerr) (3 weeks ago)
 - [docs: simplify Oracle image upload by using qcow2 directly](https://github.com/siderolabs/docs/pull/490) on [siderolabs/docs](https://github.com/siderolabs/docs) (3 weeks ago)
-- [feat: add serviceLabelSelector for label-based Service filtering](https://github.com/k8s-gateway/k8s_gateway/pull/307) on [k8s-gateway/k8s_gateway](https://github.com/k8s-gateway/k8s_gateway) (3 weeks ago)
+- [feat: add serviceLabelSelector for label-based Service filtering](https://github.com/k8s-gateway/k8s_gateway/pull/307) on [k8s-gateway/k8s_gateway](https://github.com/k8s-gateway/k8s_gateway) (4 weeks ago)
 - [chore(helm): bump app version to 3.1.2](https://github.com/seerr-team/seerr/pull/2870) on [seerr-team/seerr](https://github.com/seerr-team/seerr) (4 weeks ago)
-- [luci-mod-system: add current host to reset reconnect](https://github.com/openwrt/luci/pull/8548) on [openwrt/luci](https://github.com/openwrt/luci) (4 weeks ago)
+- [luci-mod-system: add current host to reset reconnect](https://github.com/openwrt/luci/pull/8548) on [openwrt/luci](https://github.com/openwrt/luci) (1 month ago)
 - [fix(logical-backup): wait for PG connectivity before running backup](https://github.com/zalando/postgres-operator/pull/3069) on [zalando/postgres-operator](https://github.com/zalando/postgres-operator) (1 month ago)
 - [docs: note that forwardKubeDNSToHost requires hostDNS](https://github.com/siderolabs/docs/pull/481) on [siderolabs/docs](https://github.com/siderolabs/docs) (1 month ago)
 
 ## ⭐ Recent Stars
 
 
-- [janosmiko/lfk](https://github.com/janosmiko/lfk) - ⚡ LFK is a lightning-fast, keyboard-focused, yazi-inspired terminal user interface for navigating and managing Kubernetes clusters. Built for speed and efficiency, it brings a three-column Miller columns layout with an owner-based resource hierarchy to your terminal. (5 days ago)
-- [mpryor/nothing-less](https://github.com/mpryor/nothing-less) - A TUI pager with advanced support for tabular data, inferring/swapping delimiters, and real-time event parsing.  (5 days ago)
+- [janosmiko/lfk](https://github.com/janosmiko/lfk) - ⚡ LFK is a lightning-fast, keyboard-focused, yazi-inspired terminal user interface for navigating and managing Kubernetes clusters. Built for speed and efficiency, it brings a three-column Miller columns layout with an owner-based resource hierarchy to your terminal. (6 days ago)
+- [mpryor/nothing-less](https://github.com/mpryor/nothing-less) - A TUI pager with advanced support for tabular data, inferring/swapping delimiters, and real-time event parsing.  (6 days ago)
 - [y0sif/whisrs](https://github.com/y0sif/whisrs) - Linux-first voice-to-text dictation tool for Wayland, X11, Niri, Hyprland &amp; Sway, written in Rust (1 week ago)
 - [kubernetes-sigs/dranet](https://github.com/kubernetes-sigs/dranet) - DRANET is a Kubernetes Network Driver that uses Dynamic Resource Allocation (DRA) to deliver high-performance networking for demanding applications in Kubernetes. (2 weeks ago)
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models &amp; providers. One command to find what runs on your hardware. (2 weeks ago)
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (2 weeks ago)
 - [boerdereinar/copyous](https://github.com/boerdereinar/copyous) - Modern Clipboard Manager for GNOME (3 weeks ago)
 - [damontecres/Wholphin](https://github.com/damontecres/Wholphin) - An OSS Android TV client for Jellyfin (3 weeks ago)
-- [k8s-gateway/k8s_gateway](https://github.com/k8s-gateway/k8s_gateway) - A CoreDNS plugin to resolve all types of external Kubernetes resources (3 weeks ago)
+- [k8s-gateway/k8s_gateway](https://github.com/k8s-gateway/k8s_gateway) - A CoreDNS plugin to resolve all types of external Kubernetes resources (4 weeks ago)
 - [nearai/ironclaw](https://github.com/nearai/ironclaw) - IronClaw is an Agent OS focused on privacy, security and extensibility (4 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
