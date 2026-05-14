@@ -44,15 +44,15 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [chore(mise): update tasks](https://github.com/stakater/application/pull/532) on [stakater/application](https://github.com/stakater/application) (today)
+- [feat: add helm values schema](https://github.com/stakater/application/pull/531) on [stakater/application](https://github.com/stakater/application) (today)
+- [feat: support for helm-docs anyof](https://github.com/dadav/helm-schema/pull/218) on [dadav/helm-schema](https://github.com/dadav/helm-schema) (today)
 - [chore(test): align image values](https://github.com/stakater/application/pull/530) on [stakater/application](https://github.com/stakater/application) (today)
 - [chore(test): add snapshot testing](https://github.com/stakater/application/pull/528) on [stakater/application](https://github.com/stakater/application) (today)
 - [feat(build): add ARM64 support for Docker images](https://github.com/aaronspruit/coraza-envoy-go-filter-image/pull/34) on [aaronspruit/coraza-envoy-go-filter-image](https://github.com/aaronspruit/coraza-envoy-go-filter-image) (1 day ago)
 - [test(chart): add endpointmonitor unit tests](https://github.com/stakater/application/pull/522) on [stakater/application](https://github.com/stakater/application) (1 day ago)
 - [feat!: remove deprecated list-based envFrom for Jobs and CronJobs](https://github.com/stakater/application/pull/518) on [stakater/application](https://github.com/stakater/application) (1 day ago)
 - [ci: replace python3 YAML check with yamllint and fix template lint issues](https://github.com/stakater/application/pull/510) on [stakater/application](https://github.com/stakater/application) (1 day ago)
-- [ci: refactor CI/CD workflows](https://github.com/stakater/application/pull/504) on [stakater/application](https://github.com/stakater/application) (5 days ago)
-- [Allow root-relative server URLs in `oas3-api-servers`](https://github.com/daveshanley/vacuum/pull/859) on [daveshanley/vacuum](https://github.com/daveshanley/vacuum) (3 weeks ago)
-- [chore(helm): bump appVersion to 1.8.0](https://github.com/k8s-gateway/k8s_gateway/pull/309) on [k8s-gateway/k8s_gateway](https://github.com/k8s-gateway/k8s_gateway) (3 weeks ago)
 
 ## ⭐ Recent Stars
 
