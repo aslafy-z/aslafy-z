@@ -28,7 +28,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (1 day ago)
+- [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (today)
 - [peak-scale/capsule-argo-addon](https://github.com/peak-scale/capsule-argo-addon) - Addon for Capsule to integrate with Argo Projects (1 week ago)
 - [zalando/postgres-operator](https://github.com/zalando/postgres-operator) - Postgres operator creates and manages PostgreSQL clusters running in Kubernetes (3 weeks ago)
 - [daveshanley/vacuum](https://github.com/daveshanley/vacuum) - vacuum is the worlds fastest and most versatile OpenAPI linter and toolkit. It tears through API specs at light speed. 100% compatible with Spectral rulesets, and OpenAPI 3.0, 3.1 and 3.2 (3 weeks ago)
@@ -36,14 +36,16 @@ and more...
 - [k8s-gateway/k8s_gateway](https://github.com/k8s-gateway/k8s_gateway) - A CoreDNS plugin to resolve all types of external Kubernetes resources (3 weeks ago)
 - [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby. (4 weeks ago)
 - [siderolabs/docs](https://github.com/siderolabs/docs) - Sidero documentation (4 weeks ago)
+- [openwrt/luci](https://github.com/openwrt/luci) - LuCI - OpenWrt Configuration Interface (1 month ago)
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes. (1 month ago)
-- [siderolabs/pkgs](https://github.com/siderolabs/pkgs) -  (2 months ago)
 
 
 
 ## 🔨 Recent Pull Requests
 
 
+- [chore(test): align image values](https://github.com/stakater/application/pull/530) on [stakater/application](https://github.com/stakater/application) (today)
+- [chore(test): add snapshot testing](https://github.com/stakater/application/pull/528) on [stakater/application](https://github.com/stakater/application) (today)
 - [feat(build): add ARM64 support for Docker images](https://github.com/aaronspruit/coraza-envoy-go-filter-image/pull/34) on [aaronspruit/coraza-envoy-go-filter-image](https://github.com/aaronspruit/coraza-envoy-go-filter-image) (1 day ago)
 - [test(chart): add endpointmonitor unit tests](https://github.com/stakater/application/pull/522) on [stakater/application](https://github.com/stakater/application) (1 day ago)
 - [feat!: remove deprecated list-based envFrom for Jobs and CronJobs](https://github.com/stakater/application/pull/518) on [stakater/application](https://github.com/stakater/application) (1 day ago)
@@ -51,8 +53,6 @@ and more...
 - [ci: refactor CI/CD workflows](https://github.com/stakater/application/pull/504) on [stakater/application](https://github.com/stakater/application) (5 days ago)
 - [Allow root-relative server URLs in `oas3-api-servers`](https://github.com/daveshanley/vacuum/pull/859) on [daveshanley/vacuum](https://github.com/daveshanley/vacuum) (3 weeks ago)
 - [chore(helm): bump appVersion to 1.8.0](https://github.com/k8s-gateway/k8s_gateway/pull/309) on [k8s-gateway/k8s_gateway](https://github.com/k8s-gateway/k8s_gateway) (3 weeks ago)
-- [chore(helm): update chart source URL](https://github.com/seerr-team/seerr/pull/2889) on [seerr-team/seerr](https://github.com/seerr-team/seerr) (4 weeks ago)
-- [docs: simplify Oracle image upload by using qcow2 directly](https://github.com/siderolabs/docs/pull/490) on [siderolabs/docs](https://github.com/siderolabs/docs) (4 weeks ago)
 
 ## ⭐ Recent Stars
 
