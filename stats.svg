@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Zadkiel AHARONIAN's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 522, Total Commits  (last year) : 907, Total PRs: 910, Total Issues: 549, Contributed to (last year): 69</desc>
+        <desc id="descId">Total Stars Earned: 522, Total Commits  (last year) : 916, Total PRs: 912, Total Issues: 550, Contributed to (last year): 71</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 11.748188222847922;
+        stroke-dashoffset: 11.664685068600411;
       }
     }
   
@@ -132,7 +132,7 @@
           Top
         </text>
         <text x="-5" y="12" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="percentile-rank-value" class="rank-percentile-text">
-          4.7%
+          4.6%
         </text>
       
         </g>
@@ -166,7 +166,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >907</text>
+      >916</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -181,7 +181,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >910</text>
+      >912</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -196,7 +196,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >549</text>
+      >550</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -211,7 +211,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >69</text>
+      >71</text>
     </g>
   </g>
     </svg>
