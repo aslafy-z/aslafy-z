@@ -35,7 +35,7 @@ and more...
 - [deliveryhero/helm-charts](https://github.com/deliveryhero/helm-charts) - Helm Charts ⛵ @ Delivery Hero ⭐ (3 weeks ago)
 - [k8s-gateway/k8s_gateway](https://github.com/k8s-gateway/k8s_gateway) - A CoreDNS plugin to resolve all types of external Kubernetes resources (3 weeks ago)
 - [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby. (4 weeks ago)
-- [siderolabs/docs](https://github.com/siderolabs/docs) - Sidero documentation (4 weeks ago)
+- [siderolabs/docs](https://github.com/siderolabs/docs) - Sidero documentation (1 month ago)
 - [openwrt/luci](https://github.com/openwrt/luci) - LuCI - OpenWrt Configuration Interface (1 month ago)
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes. (1 month ago)
 
@@ -44,15 +44,16 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [chore(mise): update tasks](https://github.com/stakater/application/pull/532) on [stakater/application](https://github.com/stakater/application) (today)
-- [feat: add helm values schema](https://github.com/stakater/application/pull/531) on [stakater/application](https://github.com/stakater/application) (today)
-- [feat: support for helm-docs anyof](https://github.com/dadav/helm-schema/pull/218) on [dadav/helm-schema](https://github.com/dadav/helm-schema) (today)
-- [chore(test): align image values](https://github.com/stakater/application/pull/530) on [stakater/application](https://github.com/stakater/application) (today)
-- [chore(test): add snapshot testing](https://github.com/stakater/application/pull/528) on [stakater/application](https://github.com/stakater/application) (today)
-- [feat(build): add ARM64 support for Docker images](https://github.com/aaronspruit/coraza-envoy-go-filter-image/pull/34) on [aaronspruit/coraza-envoy-go-filter-image](https://github.com/aaronspruit/coraza-envoy-go-filter-image) (1 day ago)
-- [test(chart): add endpointmonitor unit tests](https://github.com/stakater/application/pull/522) on [stakater/application](https://github.com/stakater/application) (1 day ago)
-- [feat!: remove deprecated list-based envFrom for Jobs and CronJobs](https://github.com/stakater/application/pull/518) on [stakater/application](https://github.com/stakater/application) (1 day ago)
-- [ci: replace python3 YAML check with yamllint and fix template lint issues](https://github.com/stakater/application/pull/510) on [stakater/application](https://github.com/stakater/application) (1 day ago)
+- [fix(schema): accept IntOrString and null for targetPort and pdb fields](https://github.com/stakater/application/pull/536) on [stakater/application](https://github.com/stakater/application) (1 day ago)
+- [chore(test): stabilize snapshot by overriding chart version](https://github.com/stakater/application/pull/535) on [stakater/application](https://github.com/stakater/application) (1 day ago)
+- [fix(schema): accept string for service targetPort](https://github.com/stakater/application/pull/534) on [stakater/application](https://github.com/stakater/application) (1 day ago)
+- [chore(mise): update tasks](https://github.com/stakater/application/pull/532) on [stakater/application](https://github.com/stakater/application) (1 day ago)
+- [feat: add helm values schema](https://github.com/stakater/application/pull/531) on [stakater/application](https://github.com/stakater/application) (1 day ago)
+- [feat: support for helm-docs anyof](https://github.com/dadav/helm-schema/pull/218) on [dadav/helm-schema](https://github.com/dadav/helm-schema) (1 day ago)
+- [chore(test): align image values](https://github.com/stakater/application/pull/530) on [stakater/application](https://github.com/stakater/application) (1 day ago)
+- [chore(test): add snapshot testing](https://github.com/stakater/application/pull/528) on [stakater/application](https://github.com/stakater/application) (1 day ago)
+- [feat(build): add ARM64 support for Docker images](https://github.com/aaronspruit/coraza-envoy-go-filter-image/pull/34) on [aaronspruit/coraza-envoy-go-filter-image](https://github.com/aaronspruit/coraza-envoy-go-filter-image) (2 days ago)
+- [test(chart): add endpointmonitor unit tests](https://github.com/stakater/application/pull/522) on [stakater/application](https://github.com/stakater/application) (2 days ago)
 
 ## ⭐ Recent Stars
 
@@ -61,7 +62,7 @@ and more...
 - [mpryor/nothing-less](https://github.com/mpryor/nothing-less) - A TUI pager with advanced support for tabular data, inferring/swapping delimiters, and real-time event parsing.  (1 week ago)
 - [y0sif/whisrs](https://github.com/y0sif/whisrs) - Linux-first voice-to-text dictation tool for Wayland, X11, Niri, Hyprland &amp; Sway, written in Rust (2 weeks ago)
 - [kubernetes-sigs/dranet](https://github.com/kubernetes-sigs/dranet) - DRANET is a Kubernetes Network Driver that uses Dynamic Resource Allocation (DRA) to deliver high-performance networking for demanding applications in Kubernetes. (2 weeks ago)
-- [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models &amp; providers. One command to find what runs on your hardware. (2 weeks ago)
+- [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models &amp; providers. One command to find what runs on your hardware. (3 weeks ago)
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (3 weeks ago)
 - [boerdereinar/copyous](https://github.com/boerdereinar/copyous) - Modern Clipboard Manager for GNOME (4 weeks ago)
 - [damontecres/Wholphin](https://github.com/damontecres/Wholphin) - An OSS Android TV client for Jellyfin (4 weeks ago)
