@@ -28,12 +28,12 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (1 day ago)
+- [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (2 days ago)
 - [peak-scale/capsule-argo-addon](https://github.com/peak-scale/capsule-argo-addon) - Addon for Capsule to integrate with Argo Projects (1 week ago)
 - [zalando/postgres-operator](https://github.com/zalando/postgres-operator) - Postgres operator creates and manages PostgreSQL clusters running in Kubernetes (3 weeks ago)
 - [daveshanley/vacuum](https://github.com/daveshanley/vacuum) - vacuum is the worlds fastest and most versatile OpenAPI linter and toolkit. It tears through API specs at light speed. 100% compatible with Spectral rulesets, and OpenAPI 3.0, 3.1 and 3.2 (3 weeks ago)
 - [deliveryhero/helm-charts](https://github.com/deliveryhero/helm-charts) - Helm Charts ⛵ @ Delivery Hero ⭐ (3 weeks ago)
-- [k8s-gateway/k8s_gateway](https://github.com/k8s-gateway/k8s_gateway) - A CoreDNS plugin to resolve all types of external Kubernetes resources (3 weeks ago)
+- [k8s-gateway/k8s_gateway](https://github.com/k8s-gateway/k8s_gateway) - A CoreDNS plugin to resolve all types of external Kubernetes resources (4 weeks ago)
 - [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby. (1 month ago)
 - [siderolabs/docs](https://github.com/siderolabs/docs) - Sidero documentation (1 month ago)
 - [openwrt/luci](https://github.com/openwrt/luci) - LuCI - OpenWrt Configuration Interface (1 month ago)
@@ -44,16 +44,16 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [fix(schema): accept IntOrString and null for targetPort and pdb fields](https://github.com/stakater/application/pull/536) on [stakater/application](https://github.com/stakater/application) (2 days ago)
-- [chore(test): stabilize snapshot by overriding chart version](https://github.com/stakater/application/pull/535) on [stakater/application](https://github.com/stakater/application) (2 days ago)
-- [fix(schema): accept string for service targetPort](https://github.com/stakater/application/pull/534) on [stakater/application](https://github.com/stakater/application) (2 days ago)
-- [chore(mise): update tasks](https://github.com/stakater/application/pull/532) on [stakater/application](https://github.com/stakater/application) (2 days ago)
-- [feat: add helm values schema](https://github.com/stakater/application/pull/531) on [stakater/application](https://github.com/stakater/application) (2 days ago)
-- [feat: support for helm-docs anyof](https://github.com/dadav/helm-schema/pull/218) on [dadav/helm-schema](https://github.com/dadav/helm-schema) (2 days ago)
-- [chore(test): align image values](https://github.com/stakater/application/pull/530) on [stakater/application](https://github.com/stakater/application) (2 days ago)
-- [chore(test): add snapshot testing](https://github.com/stakater/application/pull/528) on [stakater/application](https://github.com/stakater/application) (2 days ago)
-- [feat(build): add ARM64 support for Docker images](https://github.com/aaronspruit/coraza-envoy-go-filter-image/pull/34) on [aaronspruit/coraza-envoy-go-filter-image](https://github.com/aaronspruit/coraza-envoy-go-filter-image) (3 days ago)
-- [test(chart): add endpointmonitor unit tests](https://github.com/stakater/application/pull/522) on [stakater/application](https://github.com/stakater/application) (3 days ago)
+- [fix(schema): accept IntOrString and null for targetPort and pdb fields](https://github.com/stakater/application/pull/536) on [stakater/application](https://github.com/stakater/application) (3 days ago)
+- [chore(test): stabilize snapshot by overriding chart version](https://github.com/stakater/application/pull/535) on [stakater/application](https://github.com/stakater/application) (3 days ago)
+- [fix(schema): accept string for service targetPort](https://github.com/stakater/application/pull/534) on [stakater/application](https://github.com/stakater/application) (3 days ago)
+- [chore(mise): update tasks](https://github.com/stakater/application/pull/532) on [stakater/application](https://github.com/stakater/application) (3 days ago)
+- [feat: add helm values schema](https://github.com/stakater/application/pull/531) on [stakater/application](https://github.com/stakater/application) (3 days ago)
+- [feat: support for helm-docs anyof](https://github.com/dadav/helm-schema/pull/218) on [dadav/helm-schema](https://github.com/dadav/helm-schema) (3 days ago)
+- [chore(test): align image values](https://github.com/stakater/application/pull/530) on [stakater/application](https://github.com/stakater/application) (3 days ago)
+- [chore(test): add snapshot testing](https://github.com/stakater/application/pull/528) on [stakater/application](https://github.com/stakater/application) (3 days ago)
+- [feat(build): add ARM64 support for Docker images](https://github.com/aaronspruit/coraza-envoy-go-filter-image/pull/34) on [aaronspruit/coraza-envoy-go-filter-image](https://github.com/aaronspruit/coraza-envoy-go-filter-image) (4 days ago)
+- [test(chart): add endpointmonitor unit tests](https://github.com/stakater/application/pull/522) on [stakater/application](https://github.com/stakater/application) (4 days ago)
 
 ## ⭐ Recent Stars
 
