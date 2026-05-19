@@ -28,6 +28,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
+- [rustfs/docs.rustfs.com](https://github.com/rustfs/docs.rustfs.com) - Let object storage help the world reduce storage costs and improve data security. (today)
 - [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (4 days ago)
 - [peak-scale/capsule-argo-addon](https://github.com/peak-scale/capsule-argo-addon) - Addon for Capsule to integrate with Argo Projects (2 weeks ago)
 - [zalando/postgres-operator](https://github.com/zalando/postgres-operator) - Postgres operator creates and manages PostgreSQL clusters running in Kubernetes (3 weeks ago)
@@ -37,7 +38,6 @@ and more...
 - [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby. (1 month ago)
 - [siderolabs/docs](https://github.com/siderolabs/docs) - Sidero documentation (1 month ago)
 - [openwrt/luci](https://github.com/openwrt/luci) - LuCI - OpenWrt Configuration Interface (1 month ago)
-- [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes. (1 month ago)
 
 
 
