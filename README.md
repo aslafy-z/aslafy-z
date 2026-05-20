@@ -30,6 +30,7 @@ and more...
 
 - [rustfs/docs.rustfs.com](https://github.com/rustfs/docs.rustfs.com) - Let object storage help the world reduce storage costs and improve data security. (1 day ago)
 - [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (5 days ago)
+- [dadav/helm-schema](https://github.com/dadav/helm-schema) - Generate jsonschemas from helm charts. (6 days ago)
 - [peak-scale/capsule-argo-addon](https://github.com/peak-scale/capsule-argo-addon) - Addon for Capsule to integrate with Argo Projects (2 weeks ago)
 - [zalando/postgres-operator](https://github.com/zalando/postgres-operator) - Postgres operator creates and manages PostgreSQL clusters running in Kubernetes (3 weeks ago)
 - [daveshanley/vacuum](https://github.com/daveshanley/vacuum) - vacuum is the worlds fastest and most versatile OpenAPI linter and toolkit. It tears through API specs at light speed. 100% compatible with Spectral rulesets, and OpenAPI 3.0, 3.1 and 3.2 (4 weeks ago)
@@ -37,7 +38,6 @@ and more...
 - [k8s-gateway/k8s_gateway](https://github.com/k8s-gateway/k8s_gateway) - A CoreDNS plugin to resolve all types of external Kubernetes resources (1 month ago)
 - [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby. (1 month ago)
 - [siderolabs/docs](https://github.com/siderolabs/docs) - Sidero documentation (1 month ago)
-- [openwrt/luci](https://github.com/openwrt/luci) - LuCI - OpenWrt Configuration Interface (1 month ago)
 
 
 
