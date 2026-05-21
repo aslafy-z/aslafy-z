@@ -44,6 +44,7 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [feat: Add &#39;null&#39; to helm-docs type translation cases](https://github.com/dadav/helm-schema/pull/220) on [dadav/helm-schema](https://github.com/dadav/helm-schema) (today)
 - [fix(schema): accept IntOrString and null for targetPort and pdb fields](https://github.com/stakater/application/pull/536) on [stakater/application](https://github.com/stakater/application) (1 week ago)
 - [chore(test): stabilize snapshot by overriding chart version](https://github.com/stakater/application/pull/535) on [stakater/application](https://github.com/stakater/application) (1 week ago)
 - [fix(schema): accept string for service targetPort](https://github.com/stakater/application/pull/534) on [stakater/application](https://github.com/stakater/application) (1 week ago)
@@ -53,7 +54,6 @@ and more...
 - [chore(test): align image values](https://github.com/stakater/application/pull/530) on [stakater/application](https://github.com/stakater/application) (1 week ago)
 - [chore(test): add snapshot testing](https://github.com/stakater/application/pull/528) on [stakater/application](https://github.com/stakater/application) (1 week ago)
 - [feat(build): add ARM64 support for Docker images](https://github.com/aaronspruit/coraza-envoy-go-filter-image/pull/34) on [aaronspruit/coraza-envoy-go-filter-image](https://github.com/aaronspruit/coraza-envoy-go-filter-image) (1 week ago)
-- [test(chart): add endpointmonitor unit tests](https://github.com/stakater/application/pull/522) on [stakater/application](https://github.com/stakater/application) (1 week ago)
 
 ## ⭐ Recent Stars
 
