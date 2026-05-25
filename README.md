@@ -72,8 +72,8 @@ and more...
 
 ## 📈 Stats
 
-<a href="#"><img height=200 align="center" src="./stats.svg" alt="GitHub stats" /></a>
-<a href="#"><img height=200 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=aslafy-z&theme=calm-pink" alt="GitHub streak" /></a>
+<p align="center"><img height=200 align="center" src="./stats.svg" alt="GitHub stats" /></p>
+<p align="center"><img height=200 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=aslafy-z&theme=calm-pink" alt="GitHub streak" /></p>
 
 ## Reach me
 
