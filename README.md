@@ -44,8 +44,8 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [feat(block): add DiskHealthStatus resource with SMART monitoring](https://github.com/aslafy-z/talos/pull/2) on [aslafy-z/talos](https://github.com/aslafy-z/talos) (1 day ago)
-- [feat(docker): Add ARM64 support to Docker images](https://github.com/united-security-providers/coraza-envoy-go-filter/pull/109) on [united-security-providers/coraza-envoy-go-filter](https://github.com/united-security-providers/coraza-envoy-go-filter) (4 days ago)
+- [feat(block): add DiskHealthStatus resource with SMART monitoring](https://github.com/aslafy-z/talos/pull/2) on [aslafy-z/talos](https://github.com/aslafy-z/talos) (2 days ago)
+- [feat(docker): Add ARM64 support to Docker images](https://github.com/united-security-providers/coraza-envoy-go-filter/pull/109) on [united-security-providers/coraza-envoy-go-filter](https://github.com/united-security-providers/coraza-envoy-go-filter) (5 days ago)
 - [feat(schema): use comma-separated helm-docs type hints](https://github.com/stakater/application/pull/539) on [stakater/application](https://github.com/stakater/application) (1 week ago)
 - [fix(schema): accept IntOrString and null for targetPort and pdb fields](https://github.com/stakater/application/pull/536) on [stakater/application](https://github.com/stakater/application) (2 weeks ago)
 - [chore(test): stabilize snapshot by overriding chart version](https://github.com/stakater/application/pull/535) on [stakater/application](https://github.com/stakater/application) (2 weeks ago)
@@ -55,9 +55,9 @@ and more...
 ## ⭐ Recent Stars
 
 
-- [kdlbs/kandev](https://github.com/kdlbs/kandev) - AI Kanban &amp; Development Environment. Orchestrate multiple agents, review changes, open PRs. Multi-provider, self-hostable, no telemetry. (4 days ago)
-- [united-security-providers/coraza-envoy-go-filter](https://github.com/united-security-providers/coraza-envoy-go-filter) - Coraza WAF implementation as golang filter for Envoy proxy (4 days ago)
-- [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration (4 days ago)
+- [kdlbs/kandev](https://github.com/kdlbs/kandev) - AI Kanban &amp; Development Environment. Orchestrate multiple agents, review changes, open PRs. Multi-provider, self-hostable, no telemetry. (5 days ago)
+- [united-security-providers/coraza-envoy-go-filter](https://github.com/united-security-providers/coraza-envoy-go-filter) - Coraza WAF implementation as golang filter for Envoy proxy (5 days ago)
+- [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration (5 days ago)
 - [janosmiko/lfk](https://github.com/janosmiko/lfk) - ⚡ LFK is a lightning-fast, keyboard-focused, yazi-inspired terminal user interface for navigating and managing Kubernetes clusters. Built for speed and efficiency, it brings a three-column Miller columns layout with an owner-based resource hierarchy to your terminal. (3 weeks ago)
 - [mpryor/nothing-less](https://github.com/mpryor/nothing-less) - A TUI pager with advanced support for tabular data, inferring/swapping delimiters, and real-time event parsing.  (3 weeks ago)
 - [y0sif/whisrs](https://github.com/y0sif/whisrs) - Linux-first voice-to-text dictation tool for Wayland, X11, Niri, Hyprland &amp; Sway, written in Rust (1 month ago)
