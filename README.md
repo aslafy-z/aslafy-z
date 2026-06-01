@@ -55,6 +55,7 @@ and more...
 ## ⭐ Recent Stars
 
 
+- [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. (today)
 - [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) - Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now. (2 days ago)
 - [kdlbs/kandev](https://github.com/kdlbs/kandev) - AI Kanban &amp; Development Environment. Orchestrate multiple agents, review changes, open PRs. Multi-provider, self-hostable, no telemetry. (1 week ago)
 - [united-security-providers/coraza-envoy-go-filter](https://github.com/united-security-providers/coraza-envoy-go-filter) - Coraza WAF implementation as golang filter for Envoy proxy (1 week ago)
@@ -64,7 +65,6 @@ and more...
 - [y0sif/whisrs](https://github.com/y0sif/whisrs) - Linux-first voice-to-text dictation tool for Wayland, X11, Niri, Hyprland &amp; Sway, written in Rust (1 month ago)
 - [kubernetes-sigs/dranet](https://github.com/kubernetes-sigs/dranet) - DRANET is a Kubernetes Network Driver that uses Dynamic Resource Allocation (DRA) to deliver high-performance networking for demanding applications in Kubernetes. (1 month ago)
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models &amp; providers. One command to find what runs on your hardware. (1 month ago)
-- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (1 month ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
