@@ -44,13 +44,13 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [Feat/arm64 images](https://github.com/aslafy-z/coraza-envoy-go-filter/pull/2) on [aslafy-z/coraza-envoy-go-filter](https://github.com/aslafy-z/coraza-envoy-go-filter) (today)
 - [feat(block): add DiskHealthStatus resource with SMART monitoring](https://github.com/aslafy-z/talos/pull/2) on [aslafy-z/talos](https://github.com/aslafy-z/talos) (1 week ago)
 - [feat(docker): Add ARM64 support to Docker images](https://github.com/united-security-providers/coraza-envoy-go-filter/pull/109) on [united-security-providers/coraza-envoy-go-filter](https://github.com/united-security-providers/coraza-envoy-go-filter) (1 week ago)
 - [feat(schema): use comma-separated helm-docs type hints](https://github.com/stakater/application/pull/539) on [stakater/application](https://github.com/stakater/application) (2 weeks ago)
 - [fix(schema): accept IntOrString and null for targetPort and pdb fields](https://github.com/stakater/application/pull/536) on [stakater/application](https://github.com/stakater/application) (3 weeks ago)
 - [chore(test): stabilize snapshot by overriding chart version](https://github.com/stakater/application/pull/535) on [stakater/application](https://github.com/stakater/application) (3 weeks ago)
 - [fix(schema): accept string for service targetPort](https://github.com/stakater/application/pull/534) on [stakater/application](https://github.com/stakater/application) (3 weeks ago)
-- [chore(mise): update tasks](https://github.com/stakater/application/pull/532) on [stakater/application](https://github.com/stakater/application) (3 weeks ago)
 
 ## ⭐ Recent Stars
 
