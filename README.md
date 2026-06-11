@@ -28,10 +28,10 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [united-security-providers/coraza-envoy-go-filter](https://github.com/united-security-providers/coraza-envoy-go-filter) - Coraza WAF implementation as golang filter for Envoy proxy (5 days ago)
+- [united-security-providers/coraza-envoy-go-filter](https://github.com/united-security-providers/coraza-envoy-go-filter) - Coraza WAF implementation as golang filter for Envoy proxy (6 days ago)
 - [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (1 week ago)
 - [rustfs/docs.rustfs.com](https://github.com/rustfs/docs.rustfs.com) - Let object storage help the world reduce storage costs and improve data security. (3 weeks ago)
-- [dadav/helm-schema](https://github.com/dadav/helm-schema) - Generate jsonschemas from helm charts. (3 weeks ago)
+- [dadav/helm-schema](https://github.com/dadav/helm-schema) - Generate jsonschemas from helm charts. (4 weeks ago)
 - [peak-scale/capsule-argo-addon](https://github.com/peak-scale/capsule-argo-addon) - Addon for Capsule to integrate with Argo Projects (1 month ago)
 - [zalando/postgres-operator](https://github.com/zalando/postgres-operator) - Postgres operator creates and manages PostgreSQL clusters running in Kubernetes (1 month ago)
 - [daveshanley/vacuum](https://github.com/daveshanley/vacuum) - vacuum is the worlds fastest and most versatile OpenAPI, AsyncAPI &amp; JSON Schema linter, docs generator and toolkit. It tears through API specs at light speed. 100% compatible with Spectral rulesets, and OpenAPI 3.0, 3.1 and 3.2 (1 month ago)
@@ -44,13 +44,13 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [Feat/arm64 images](https://github.com/aslafy-z/coraza-envoy-go-filter/pull/2) on [aslafy-z/coraza-envoy-go-filter](https://github.com/aslafy-z/coraza-envoy-go-filter) (5 days ago)
-- [feat(block): add DiskHealthStatus resource with SMART monitoring](https://github.com/aslafy-z/talos/pull/2) on [aslafy-z/talos](https://github.com/aslafy-z/talos) (1 week ago)
+- [Feat/arm64 images](https://github.com/aslafy-z/coraza-envoy-go-filter/pull/2) on [aslafy-z/coraza-envoy-go-filter](https://github.com/aslafy-z/coraza-envoy-go-filter) (6 days ago)
+- [feat(block): add DiskHealthStatus resource with SMART monitoring](https://github.com/aslafy-z/talos/pull/2) on [aslafy-z/talos](https://github.com/aslafy-z/talos) (2 weeks ago)
 - [feat(docker): Add ARM64 support to Docker images](https://github.com/united-security-providers/coraza-envoy-go-filter/pull/109) on [united-security-providers/coraza-envoy-go-filter](https://github.com/united-security-providers/coraza-envoy-go-filter) (2 weeks ago)
-- [feat(schema): use comma-separated helm-docs type hints](https://github.com/stakater/application/pull/539) on [stakater/application](https://github.com/stakater/application) (2 weeks ago)
-- [fix(schema): accept IntOrString and null for targetPort and pdb fields](https://github.com/stakater/application/pull/536) on [stakater/application](https://github.com/stakater/application) (3 weeks ago)
-- [chore(test): stabilize snapshot by overriding chart version](https://github.com/stakater/application/pull/535) on [stakater/application](https://github.com/stakater/application) (3 weeks ago)
-- [fix(schema): accept string for service targetPort](https://github.com/stakater/application/pull/534) on [stakater/application](https://github.com/stakater/application) (3 weeks ago)
+- [feat(schema): use comma-separated helm-docs type hints](https://github.com/stakater/application/pull/539) on [stakater/application](https://github.com/stakater/application) (3 weeks ago)
+- [fix(schema): accept IntOrString and null for targetPort and pdb fields](https://github.com/stakater/application/pull/536) on [stakater/application](https://github.com/stakater/application) (4 weeks ago)
+- [chore(test): stabilize snapshot by overriding chart version](https://github.com/stakater/application/pull/535) on [stakater/application](https://github.com/stakater/application) (4 weeks ago)
+- [fix(schema): accept string for service targetPort](https://github.com/stakater/application/pull/534) on [stakater/application](https://github.com/stakater/application) (4 weeks ago)
 
 ## ⭐ Recent Stars
 
