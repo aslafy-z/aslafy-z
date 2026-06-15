@@ -37,7 +37,7 @@ and more...
 - [daveshanley/vacuum](https://github.com/daveshanley/vacuum) - vacuum is the worlds fastest and most versatile OpenAPI, AsyncAPI &amp; JSON Schema linter, docs generator and toolkit. It tears through API specs at light speed. 100% compatible with Spectral rulesets, and OpenAPI 3.0, 3.1 and 3.2 (1 month ago)
 - [deliveryhero/helm-charts](https://github.com/deliveryhero/helm-charts) - Helm Charts ⛵ @ Delivery Hero ⭐ (1 month ago)
 - [k8s-gateway/k8s_gateway](https://github.com/k8s-gateway/k8s_gateway) - A CoreDNS plugin to resolve all types of external Kubernetes resources (1 month ago)
-- [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby. (1 month ago)
+- [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby. (2 months ago)
 
 
 
@@ -46,7 +46,7 @@ and more...
 
 - [Feat/arm64 images](https://github.com/aslafy-z/coraza-envoy-go-filter/pull/2) on [aslafy-z/coraza-envoy-go-filter](https://github.com/aslafy-z/coraza-envoy-go-filter) (1 week ago)
 - [feat(block): add DiskHealthStatus resource with SMART monitoring](https://github.com/aslafy-z/talos/pull/2) on [aslafy-z/talos](https://github.com/aslafy-z/talos) (2 weeks ago)
-- [feat(docker): Add ARM64 support to Docker images](https://github.com/united-security-providers/coraza-envoy-go-filter/pull/109) on [united-security-providers/coraza-envoy-go-filter](https://github.com/united-security-providers/coraza-envoy-go-filter) (2 weeks ago)
+- [feat(docker): Add ARM64 support to Docker images](https://github.com/united-security-providers/coraza-envoy-go-filter/pull/109) on [united-security-providers/coraza-envoy-go-filter](https://github.com/united-security-providers/coraza-envoy-go-filter) (3 weeks ago)
 - [feat(schema): use comma-separated helm-docs type hints](https://github.com/stakater/application/pull/539) on [stakater/application](https://github.com/stakater/application) (3 weeks ago)
 - [fix(schema): accept IntOrString and null for targetPort and pdb fields](https://github.com/stakater/application/pull/536) on [stakater/application](https://github.com/stakater/application) (1 month ago)
 - [chore(test): stabilize snapshot by overriding chart version](https://github.com/stakater/application/pull/535) on [stakater/application](https://github.com/stakater/application) (1 month ago)
@@ -55,14 +55,14 @@ and more...
 ## ⭐ Recent Stars
 
 
-- [scryer-media/scryer](https://github.com/scryer-media/scryer) - Media manager (today)
-- [PelagicaApp/pelagica](https://github.com/PelagicaApp/pelagica) - An alternative, modern and configurable web frontend for Jellyfin (1 day ago)
+- [scryer-media/scryer](https://github.com/scryer-media/scryer) - Media manager (1 day ago)
+- [PelagicaApp/pelagica](https://github.com/PelagicaApp/pelagica) - An alternative, modern and configurable web frontend for Jellyfin (2 days ago)
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design. (1 week ago)
-- [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. (1 week ago)
+- [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. (2 weeks ago)
 - [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) - Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now. (2 weeks ago)
-- [kdlbs/kandev](https://github.com/kdlbs/kandev) - AI Kanban &amp; Development Environment. Orchestrate multiple agents, review changes, open PRs. Multi-provider, self-hostable, no telemetry. (2 weeks ago)
-- [united-security-providers/coraza-envoy-go-filter](https://github.com/united-security-providers/coraza-envoy-go-filter) - Coraza WAF implementation as golang filter for Envoy proxy (2 weeks ago)
-- [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration (2 weeks ago)
+- [kdlbs/kandev](https://github.com/kdlbs/kandev) - AI Kanban &amp; Development Environment. Orchestrate multiple agents, review changes, open PRs. Multi-provider, self-hostable, no telemetry. (3 weeks ago)
+- [united-security-providers/coraza-envoy-go-filter](https://github.com/united-security-providers/coraza-envoy-go-filter) - Coraza WAF implementation as golang filter for Envoy proxy (3 weeks ago)
+- [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration (3 weeks ago)
 - [janosmiko/lfk](https://github.com/janosmiko/lfk) - ⚡ LFK is a lightning-fast, keyboard-focused, yazi-inspired terminal user interface for navigating and managing Kubernetes clusters. Built for speed and efficiency, it brings a three-column Miller columns layout with an owner-based resource hierarchy to your terminal. (1 month ago)
 - [mpryor/nothing-less](https://github.com/mpryor/nothing-less) - A TUI pager with advanced support for tabular data, inferring/swapping delimiters, and real-time event parsing.  (1 month ago)
 
