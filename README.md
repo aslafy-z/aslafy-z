@@ -28,8 +28,8 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (today)
-- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (today)
+- [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (1 day ago)
+- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (1 day ago)
 - [united-security-providers/coraza-envoy-go-filter](https://github.com/united-security-providers/coraza-envoy-go-filter) - Coraza WAF implementation as golang filter for Envoy proxy (1 week ago)
 - [rustfs/docs.rustfs.com](https://github.com/rustfs/docs.rustfs.com) - Let object storage help the world reduce storage costs and improve data security. (4 weeks ago)
 - [dadav/helm-schema](https://github.com/dadav/helm-schema) - Generate jsonschemas from helm charts. (1 month ago)
@@ -44,8 +44,8 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [fix(charts/kserve-localmodel-resources): remove duplicated nodeSelector](https://github.com/kserve/kserve/pull/5680) on [kserve/kserve](https://github.com/kserve/kserve) (today)
-- [chore(deps): use maintained version of helm-gh-pages action](https://github.com/stakater/application/pull/560) on [stakater/application](https://github.com/stakater/application) (today)
+- [fix(charts/kserve-localmodel-resources): remove duplicated nodeSelector](https://github.com/kserve/kserve/pull/5680) on [kserve/kserve](https://github.com/kserve/kserve) (1 day ago)
+- [chore(deps): use maintained version of helm-gh-pages action](https://github.com/stakater/application/pull/560) on [stakater/application](https://github.com/stakater/application) (1 day ago)
 - [Feat/arm64 images](https://github.com/aslafy-z/coraza-envoy-go-filter/pull/2) on [aslafy-z/coraza-envoy-go-filter](https://github.com/aslafy-z/coraza-envoy-go-filter) (1 week ago)
 - [feat(block): add DiskHealthStatus resource with SMART monitoring](https://github.com/aslafy-z/talos/pull/2) on [aslafy-z/talos](https://github.com/aslafy-z/talos) (2 weeks ago)
 - [feat(docker): Add ARM64 support to Docker images](https://github.com/united-security-providers/coraza-envoy-go-filter/pull/109) on [united-security-providers/coraza-envoy-go-filter](https://github.com/united-security-providers/coraza-envoy-go-filter) (3 weeks ago)
@@ -55,9 +55,9 @@ and more...
 ## ⭐ Recent Stars
 
 
-- [scryer-media/scryer](https://github.com/scryer-media/scryer) - Media manager (2 days ago)
-- [PelagicaApp/pelagica](https://github.com/PelagicaApp/pelagica) - An alternative, modern and configurable web frontend for Jellyfin (3 days ago)
-- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design. (1 week ago)
+- [scryer-media/scryer](https://github.com/scryer-media/scryer) - Media manager (3 days ago)
+- [PelagicaApp/pelagica](https://github.com/PelagicaApp/pelagica) - An alternative, modern and configurable web frontend for Jellyfin (4 days ago)
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design. (2 weeks ago)
 - [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. (2 weeks ago)
 - [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) - Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now. (2 weeks ago)
 - [kdlbs/kandev](https://github.com/kdlbs/kandev) - AI Kanban &amp; Development Environment. Orchestrate multiple agents, review changes, open PRs. Multi-provider, self-hostable, no telemetry. (3 weeks ago)
