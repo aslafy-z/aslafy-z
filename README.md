@@ -28,15 +28,15 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [aslafy-z/ctxdump](https://github.com/aslafy-z/ctxdump) -  (1 day ago)
-- [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (4 days ago)
-- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (4 days ago)
+- [aslafy-z/ctxdump](https://github.com/aslafy-z/ctxdump) -  (2 days ago)
+- [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (5 days ago)
+- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (5 days ago)
 - [united-security-providers/coraza-envoy-go-filter](https://github.com/united-security-providers/coraza-envoy-go-filter) - Coraza WAF implementation as golang filter for Envoy proxy (2 weeks ago)
 - [rustfs/docs.rustfs.com](https://github.com/rustfs/docs.rustfs.com) - Let object storage help the world reduce storage costs and improve data security. (1 month ago)
 - [dadav/helm-schema](https://github.com/dadav/helm-schema) - Generate jsonschemas from helm charts. (1 month ago)
 - [peak-scale/capsule-argo-addon](https://github.com/peak-scale/capsule-argo-addon) - Addon for Capsule to integrate with Argo Projects (1 month ago)
 - [zalando/postgres-operator](https://github.com/zalando/postgres-operator) - Postgres operator creates and manages PostgreSQL clusters running in Kubernetes (1 month ago)
-- [daveshanley/vacuum](https://github.com/daveshanley/vacuum) - vacuum is the worlds fastest and most versatile OpenAPI, AsyncAPI &amp; JSON Schema linter, docs generator and toolkit. It tears through API specs at light speed. 100% compatible with Spectral rulesets, and OpenAPI 3.0, 3.1 and 3.2 (1 month ago)
+- [daveshanley/vacuum](https://github.com/daveshanley/vacuum) - vacuum is the worlds fastest and most versatile OpenAPI, AsyncAPI &amp; JSON Schema linter, docs generator and toolkit. It tears through API specs at light speed. 100% compatible with Spectral rulesets, and OpenAPI 3.0, 3.1 and 3.2 (2 months ago)
 - [deliveryhero/helm-charts](https://github.com/deliveryhero/helm-charts) - Helm Charts ⛵ @ Delivery Hero ⭐ (2 months ago)
 
 
@@ -44,8 +44,8 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [fix(charts/kserve-localmodel-resources): remove duplicated nodeSelector](https://github.com/kserve/kserve/pull/5680) on [kserve/kserve](https://github.com/kserve/kserve) (4 days ago)
-- [chore(deps): use maintained version of helm-gh-pages action](https://github.com/stakater/application/pull/560) on [stakater/application](https://github.com/stakater/application) (4 days ago)
+- [fix(charts/kserve-localmodel-resources): remove duplicated nodeSelector](https://github.com/kserve/kserve/pull/5680) on [kserve/kserve](https://github.com/kserve/kserve) (5 days ago)
+- [chore(deps): use maintained version of helm-gh-pages action](https://github.com/stakater/application/pull/560) on [stakater/application](https://github.com/stakater/application) (5 days ago)
 - [Feat/arm64 images](https://github.com/aslafy-z/coraza-envoy-go-filter/pull/2) on [aslafy-z/coraza-envoy-go-filter](https://github.com/aslafy-z/coraza-envoy-go-filter) (2 weeks ago)
 - [feat(block): add DiskHealthStatus resource with SMART monitoring](https://github.com/aslafy-z/talos/pull/2) on [aslafy-z/talos](https://github.com/aslafy-z/talos) (3 weeks ago)
 - [feat(docker): Add ARM64 support to Docker images](https://github.com/united-security-providers/coraza-envoy-go-filter/pull/109) on [united-security-providers/coraza-envoy-go-filter](https://github.com/united-security-providers/coraza-envoy-go-filter) (3 weeks ago)
@@ -55,9 +55,9 @@ and more...
 ## ⭐ Recent Stars
 
 
-- [sinelaw/fresh](https://github.com/sinelaw/fresh) - Terminal based IDE &amp; text editor: easy, powerful and fast (1 day ago)
-- [lovromazgon/grafana-tui](https://github.com/lovromazgon/grafana-tui) - Grafana dashboards in your terminal (2 days ago)
-- [scryer-media/scryer](https://github.com/scryer-media/scryer) - Media manager (6 days ago)
+- [sinelaw/fresh](https://github.com/sinelaw/fresh) - Terminal based IDE &amp; text editor: easy, powerful and fast (2 days ago)
+- [lovromazgon/grafana-tui](https://github.com/lovromazgon/grafana-tui) - Grafana dashboards in your terminal (3 days ago)
+- [scryer-media/scryer](https://github.com/scryer-media/scryer) - Media manager (1 week ago)
 - [PelagicaApp/pelagica](https://github.com/PelagicaApp/pelagica) - An alternative, modern and configurable web frontend for Jellyfin (1 week ago)
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design. (2 weeks ago)
 - [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. (2 weeks ago)
