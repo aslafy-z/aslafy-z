@@ -28,9 +28,9 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [aslafy-z/ctxdump](https://github.com/aslafy-z/ctxdump) -  (3 days ago)
-- [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (6 days ago)
-- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (6 days ago)
+- [aslafy-z/ctxdump](https://github.com/aslafy-z/ctxdump) -  (4 days ago)
+- [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (1 week ago)
+- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (1 week ago)
 - [united-security-providers/coraza-envoy-go-filter](https://github.com/united-security-providers/coraza-envoy-go-filter) - Coraza WAF implementation as golang filter for Envoy proxy (2 weeks ago)
 - [rustfs/docs.rustfs.com](https://github.com/rustfs/docs.rustfs.com) - Let object storage help the world reduce storage costs and improve data security. (1 month ago)
 - [dadav/helm-schema](https://github.com/dadav/helm-schema) - Generate jsonschemas from helm charts. (1 month ago)
@@ -44,8 +44,8 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [fix(charts/kserve-localmodel-resources): remove duplicated nodeSelector](https://github.com/kserve/kserve/pull/5680) on [kserve/kserve](https://github.com/kserve/kserve) (6 days ago)
-- [chore(deps): use maintained version of helm-gh-pages action](https://github.com/stakater/application/pull/560) on [stakater/application](https://github.com/stakater/application) (6 days ago)
+- [fix(charts/kserve-localmodel-resources): remove duplicated nodeSelector](https://github.com/kserve/kserve/pull/5680) on [kserve/kserve](https://github.com/kserve/kserve) (1 week ago)
+- [chore(deps): use maintained version of helm-gh-pages action](https://github.com/stakater/application/pull/560) on [stakater/application](https://github.com/stakater/application) (1 week ago)
 - [Feat/arm64 images](https://github.com/aslafy-z/coraza-envoy-go-filter/pull/2) on [aslafy-z/coraza-envoy-go-filter](https://github.com/aslafy-z/coraza-envoy-go-filter) (2 weeks ago)
 - [feat(block): add DiskHealthStatus resource with SMART monitoring](https://github.com/aslafy-z/talos/pull/2) on [aslafy-z/talos](https://github.com/aslafy-z/talos) (3 weeks ago)
 - [feat(docker): Add ARM64 support to Docker images](https://github.com/united-security-providers/coraza-envoy-go-filter/pull/109) on [united-security-providers/coraza-envoy-go-filter](https://github.com/united-security-providers/coraza-envoy-go-filter) (4 weeks ago)
@@ -55,8 +55,8 @@ and more...
 ## ⭐ Recent Stars
 
 
-- [sinelaw/fresh](https://github.com/sinelaw/fresh) - Terminal based IDE &amp; text editor: easy, powerful and fast (3 days ago)
-- [lovromazgon/grafana-tui](https://github.com/lovromazgon/grafana-tui) - Grafana dashboards in your terminal (4 days ago)
+- [sinelaw/fresh](https://github.com/sinelaw/fresh) - Terminal based IDE &amp; text editor: easy, powerful and fast (4 days ago)
+- [lovromazgon/grafana-tui](https://github.com/lovromazgon/grafana-tui) - Grafana dashboards in your terminal (5 days ago)
 - [scryer-media/scryer](https://github.com/scryer-media/scryer) - Media manager (1 week ago)
 - [PelagicaApp/pelagica](https://github.com/PelagicaApp/pelagica) - An alternative, modern and configurable web frontend for Jellyfin (1 week ago)
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design. (2 weeks ago)
