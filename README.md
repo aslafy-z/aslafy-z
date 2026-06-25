@@ -28,6 +28,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
+- [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) -  (today)
 - [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (1 day ago)
 - [aslafy-z/ctxdump](https://github.com/aslafy-z/ctxdump) -  (1 day ago)
 - [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (1 week ago)
@@ -37,20 +38,21 @@ and more...
 - [peak-scale/capsule-argo-addon](https://github.com/peak-scale/capsule-argo-addon) - Addon for Capsule to integrate with Argo Projects (1 month ago)
 - [zalando/postgres-operator](https://github.com/zalando/postgres-operator) - Postgres operator creates and manages PostgreSQL clusters running in Kubernetes (2 months ago)
 - [daveshanley/vacuum](https://github.com/daveshanley/vacuum) - vacuum is the worlds fastest and most versatile OpenAPI, AsyncAPI &amp; JSON Schema linter, docs generator and toolkit. It tears through API specs at light speed. 100% compatible with Spectral rulesets, and OpenAPI 3.0, 3.1 and 3.2 (2 months ago)
-- [deliveryhero/helm-charts](https://github.com/deliveryhero/helm-charts) - Helm Charts ⛵ @ Delivery Hero ⭐ (2 months ago)
 
 
 
 ## 🔨 Recent Pull Requests
 
 
-- [fix(charts/kserve-localmodel-resources): remove duplicated nodeSelector](https://github.com/kserve/kserve/pull/5680) on [kserve/kserve](https://github.com/kserve/kserve) (1 week ago)
-- [chore(deps): use maintained version of helm-gh-pages action](https://github.com/stakater/application/pull/560) on [stakater/application](https://github.com/stakater/application) (1 week ago)
-- [Feat/arm64 images](https://github.com/aslafy-z/coraza-envoy-go-filter/pull/2) on [aslafy-z/coraza-envoy-go-filter](https://github.com/aslafy-z/coraza-envoy-go-filter) (2 weeks ago)
-- [feat(block): add DiskHealthStatus resource with SMART monitoring](https://github.com/aslafy-z/talos/pull/2) on [aslafy-z/talos](https://github.com/aslafy-z/talos) (4 weeks ago)
-- [feat(docker): Add ARM64 support to Docker images](https://github.com/united-security-providers/coraza-envoy-go-filter/pull/109) on [united-security-providers/coraza-envoy-go-filter](https://github.com/united-security-providers/coraza-envoy-go-filter) (1 month ago)
-- [feat(schema): use comma-separated helm-docs type hints](https://github.com/stakater/application/pull/539) on [stakater/application](https://github.com/stakater/application) (1 month ago)
-- [fix(schema): accept IntOrString and null for targetPort and pdb fields](https://github.com/stakater/application/pull/536) on [stakater/application](https://github.com/stakater/application) (1 month ago)
+- [Use loopback IP and improve auth companion startup/healthchecks](https://github.com/aslafy-z/coder-template-hapi/pull/11) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (today)
+- [Add Agent Auth Companion, make mise config global, and include GitHub CLI in harnesses](https://github.com/aslafy-z/coder-template-hapi/pull/10) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (today)
+- [Allow configuring HAPI token](https://github.com/aslafy-z/coder-template-hapi/pull/9) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (today)
+- [Fix HAPI process detection](https://github.com/aslafy-z/coder-template-hapi/pull/8) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (today)
+- [Install gnupg for mise-managed tool installs](https://github.com/aslafy-z/coder-template-hapi/pull/7) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (today)
+- [Fix GitHub CLI token for release workflow](https://github.com/aslafy-z/coder-template-hapi/pull/6) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (today)
+- [Align Kubernetes template with Coder registry baseline and add pre-built image release workflow](https://github.com/aslafy-z/coder-template-hapi/pull/4) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (today)
+- [Use Envbuilder dev container workflow](https://github.com/aslafy-z/coder-template-hapi/pull/3) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (today)
+- [Add automated image release workflow (version bump &#43; GHCR publish)](https://github.com/aslafy-z/coder-template-hapi/pull/2) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (today)
 
 ## ⭐ Recent Stars
 
