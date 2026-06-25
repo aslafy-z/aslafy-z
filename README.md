@@ -44,16 +44,16 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [Improve agent auth browser URL handling](https://github.com/aslafy-z/coder-template-hapi/pull/22) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (today)
+- [Enhance Agent Auth: project clone/delete UI &#43; improved login/session flows](https://github.com/aslafy-z/coder-template-hapi/pull/21) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (today)
+- [Revert &#34;Set default workspace namespace&#34;](https://github.com/aslafy-z/coder-template-hapi/pull/20) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (today)
+- [Set default workspace namespace](https://github.com/aslafy-z/coder-template-hapi/pull/19) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (today)
+- [Fix auth companion login flows](https://github.com/aslafy-z/coder-template-hapi/pull/18) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (today)
+- [Fix auth companion page script escaping](https://github.com/aslafy-z/coder-template-hapi/pull/17) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (today)
 - [Improve Agent Auth Companion terminal UX](https://github.com/aslafy-z/coder-template-hapi/pull/16) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (today)
 - [Strip ANSI and improve session handling; add cancel endpoint and xterm UI](https://github.com/aslafy-z/coder-template-hapi/pull/15) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (today)
 - [Fix HAPI startup self-termination and use 127.0.0.1 for healthchecks](https://github.com/aslafy-z/coder-template-hapi/pull/14) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (today)
 - [Clean up HAPI Coder template](https://github.com/aslafy-z/coder-template-hapi/pull/13) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (today)
-- [ci: publish release source archive](https://github.com/aslafy-z/coder-template-hapi/pull/12) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (today)
-- [Use loopback IP and improve auth companion startup/healthchecks](https://github.com/aslafy-z/coder-template-hapi/pull/11) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (today)
-- [Add Agent Auth Companion, make mise config global, and include GitHub CLI in harnesses](https://github.com/aslafy-z/coder-template-hapi/pull/10) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (today)
-- [Allow configuring HAPI token](https://github.com/aslafy-z/coder-template-hapi/pull/9) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (today)
-- [Fix HAPI process detection](https://github.com/aslafy-z/coder-template-hapi/pull/8) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (today)
-- [Install gnupg for mise-managed tool installs](https://github.com/aslafy-z/coder-template-hapi/pull/7) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (today)
 
 ## ⭐ Recent Stars
 
