@@ -44,15 +44,16 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [Improve Agent Auth Companion terminal UX](https://github.com/aslafy-z/coder-template-hapi/pull/16) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (today)
+- [Strip ANSI and improve session handling; add cancel endpoint and xterm UI](https://github.com/aslafy-z/coder-template-hapi/pull/15) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (today)
+- [Fix HAPI startup self-termination and use 127.0.0.1 for healthchecks](https://github.com/aslafy-z/coder-template-hapi/pull/14) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (today)
+- [Clean up HAPI Coder template](https://github.com/aslafy-z/coder-template-hapi/pull/13) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (today)
+- [ci: publish release source archive](https://github.com/aslafy-z/coder-template-hapi/pull/12) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (today)
 - [Use loopback IP and improve auth companion startup/healthchecks](https://github.com/aslafy-z/coder-template-hapi/pull/11) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (today)
 - [Add Agent Auth Companion, make mise config global, and include GitHub CLI in harnesses](https://github.com/aslafy-z/coder-template-hapi/pull/10) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (today)
 - [Allow configuring HAPI token](https://github.com/aslafy-z/coder-template-hapi/pull/9) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (today)
 - [Fix HAPI process detection](https://github.com/aslafy-z/coder-template-hapi/pull/8) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (today)
 - [Install gnupg for mise-managed tool installs](https://github.com/aslafy-z/coder-template-hapi/pull/7) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (today)
-- [Fix GitHub CLI token for release workflow](https://github.com/aslafy-z/coder-template-hapi/pull/6) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (today)
-- [Align Kubernetes template with Coder registry baseline and add pre-built image release workflow](https://github.com/aslafy-z/coder-template-hapi/pull/4) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (today)
-- [Use Envbuilder dev container workflow](https://github.com/aslafy-z/coder-template-hapi/pull/3) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (today)
-- [Add automated image release workflow (version bump &#43; GHCR publish)](https://github.com/aslafy-z/coder-template-hapi/pull/2) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (today)
 
 ## ⭐ Recent Stars
 
