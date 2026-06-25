@@ -28,8 +28,8 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (today)
-- [aslafy-z/ctxdump](https://github.com/aslafy-z/ctxdump) -  (today)
+- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (1 day ago)
+- [aslafy-z/ctxdump](https://github.com/aslafy-z/ctxdump) -  (1 day ago)
 - [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (1 week ago)
 - [united-security-providers/coraza-envoy-go-filter](https://github.com/united-security-providers/coraza-envoy-go-filter) - Coraza WAF implementation as golang filter for Envoy proxy (2 weeks ago)
 - [rustfs/docs.rustfs.com](https://github.com/rustfs/docs.rustfs.com) - Let object storage help the world reduce storage costs and improve data security. (1 month ago)
@@ -47,7 +47,7 @@ and more...
 - [fix(charts/kserve-localmodel-resources): remove duplicated nodeSelector](https://github.com/kserve/kserve/pull/5680) on [kserve/kserve](https://github.com/kserve/kserve) (1 week ago)
 - [chore(deps): use maintained version of helm-gh-pages action](https://github.com/stakater/application/pull/560) on [stakater/application](https://github.com/stakater/application) (1 week ago)
 - [Feat/arm64 images](https://github.com/aslafy-z/coraza-envoy-go-filter/pull/2) on [aslafy-z/coraza-envoy-go-filter](https://github.com/aslafy-z/coraza-envoy-go-filter) (2 weeks ago)
-- [feat(block): add DiskHealthStatus resource with SMART monitoring](https://github.com/aslafy-z/talos/pull/2) on [aslafy-z/talos](https://github.com/aslafy-z/talos) (3 weeks ago)
+- [feat(block): add DiskHealthStatus resource with SMART monitoring](https://github.com/aslafy-z/talos/pull/2) on [aslafy-z/talos](https://github.com/aslafy-z/talos) (4 weeks ago)
 - [feat(docker): Add ARM64 support to Docker images](https://github.com/united-security-providers/coraza-envoy-go-filter/pull/109) on [united-security-providers/coraza-envoy-go-filter](https://github.com/united-security-providers/coraza-envoy-go-filter) (1 month ago)
 - [feat(schema): use comma-separated helm-docs type hints](https://github.com/stakater/application/pull/539) on [stakater/application](https://github.com/stakater/application) (1 month ago)
 - [fix(schema): accept IntOrString and null for targetPort and pdb fields](https://github.com/stakater/application/pull/536) on [stakater/application](https://github.com/stakater/application) (1 month ago)
@@ -55,8 +55,9 @@ and more...
 ## ⭐ Recent Stars
 
 
-- [sinelaw/fresh](https://github.com/sinelaw/fresh) - Terminal based IDE &amp; text editor: easy, powerful and fast (5 days ago)
-- [lovromazgon/grafana-tui](https://github.com/lovromazgon/grafana-tui) - Grafana dashboards in your terminal (6 days ago)
+- [modelplaneai/modelplane](https://github.com/modelplaneai/modelplane) - The open source control plane for AI inference (today)
+- [sinelaw/fresh](https://github.com/sinelaw/fresh) - Terminal based IDE &amp; text editor: easy, powerful and fast (6 days ago)
+- [lovromazgon/grafana-tui](https://github.com/lovromazgon/grafana-tui) - Grafana dashboards in your terminal (1 week ago)
 - [scryer-media/scryer](https://github.com/scryer-media/scryer) - Media manager (1 week ago)
 - [PelagicaApp/pelagica](https://github.com/PelagicaApp/pelagica) - An alternative, modern and configurable web frontend for Jellyfin (1 week ago)
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design. (3 weeks ago)
@@ -64,7 +65,6 @@ and more...
 - [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) - Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now. (3 weeks ago)
 - [kdlbs/kandev](https://github.com/kdlbs/kandev) - AI Kanban &amp; Development Environment. Orchestrate multiple agents, review changes, open PRs. Multi-provider, self-hostable, no telemetry. (1 month ago)
 - [united-security-providers/coraza-envoy-go-filter](https://github.com/united-security-providers/coraza-envoy-go-filter) - Coraza WAF implementation as golang filter for Envoy proxy (1 month ago)
-- [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration (1 month ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
