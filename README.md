@@ -28,16 +28,16 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
+- [aslafy-z/yolo-object-detection-samples](https://github.com/aslafy-z/yolo-object-detection-samples) -  (today)
+- [aslafy-z/docker-envoy-https-proxy](https://github.com/aslafy-z/docker-envoy-https-proxy) - Docker image for a basic HTTPS proxy with Envoy configurable with environment variables (today)
+- [aslafy-z/github-actions](https://github.com/aslafy-z/github-actions) -  (today)
+- [aslafy-z/docker-echo-headers](https://github.com/aslafy-z/docker-echo-headers) - A simple docker image that echoes request headers. (today)
+- [aslafy-z/k8s-dashboard-impersonation-proxy](https://github.com/aslafy-z/k8s-dashboard-impersonation-proxy) - Plug your SSO in front of Kubernetes Dashboard by injecting impersonation and authorization headers.  (today)
+- [aslafy-z/docker-envoy-tcp-proxy](https://github.com/aslafy-z/docker-envoy-tcp-proxy) - Docker image for a basic TCP proxy with Envoy configurable with environment variables (today)
+- [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) -  (today)
 - [aslafy-z/ctxdump](https://github.com/aslafy-z/ctxdump) -  (3 days ago)
 - [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) -  (4 days ago)
 - [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (5 days ago)
-- [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (1 week ago)
-- [united-security-providers/coraza-envoy-go-filter](https://github.com/united-security-providers/coraza-envoy-go-filter) - Coraza WAF implementation as golang filter for Envoy proxy (3 weeks ago)
-- [rustfs/docs.rustfs.com](https://github.com/rustfs/docs.rustfs.com) - Let object storage help the world reduce storage costs and improve data security. (1 month ago)
-- [dadav/helm-schema](https://github.com/dadav/helm-schema) - Generate jsonschemas from helm charts. (1 month ago)
-- [peak-scale/capsule-argo-addon](https://github.com/peak-scale/capsule-argo-addon) - Addon for Capsule to integrate with Argo Projects (1 month ago)
-- [zalando/postgres-operator](https://github.com/zalando/postgres-operator) - Postgres operator creates and manages PostgreSQL clusters running in Kubernetes (2 months ago)
-- [daveshanley/vacuum](https://github.com/daveshanley/vacuum) - vacuum is the worlds fastest and most versatile OpenAPI, AsyncAPI &amp; JSON Schema linter, docs generator and toolkit. It tears through API specs at light speed. 100% compatible with Spectral rulesets, and OpenAPI 3.0, 3.1 and 3.2 (2 months ago)
 
 
 
