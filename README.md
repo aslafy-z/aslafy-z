@@ -28,39 +28,39 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [aslafy-z/yolo-object-detection-samples](https://github.com/aslafy-z/yolo-object-detection-samples) -  (today)
-- [aslafy-z/docker-envoy-https-proxy](https://github.com/aslafy-z/docker-envoy-https-proxy) - Docker image for a basic HTTPS proxy with Envoy configurable with environment variables (today)
-- [aslafy-z/github-actions](https://github.com/aslafy-z/github-actions) -  (today)
-- [aslafy-z/docker-echo-headers](https://github.com/aslafy-z/docker-echo-headers) - A simple docker image that echoes request headers. (today)
-- [aslafy-z/k8s-dashboard-impersonation-proxy](https://github.com/aslafy-z/k8s-dashboard-impersonation-proxy) - Plug your SSO in front of Kubernetes Dashboard by injecting impersonation and authorization headers.  (today)
-- [aslafy-z/docker-envoy-tcp-proxy](https://github.com/aslafy-z/docker-envoy-tcp-proxy) - Docker image for a basic TCP proxy with Envoy configurable with environment variables (today)
-- [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) -  (today)
-- [aslafy-z/ctxdump](https://github.com/aslafy-z/ctxdump) -  (3 days ago)
-- [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) -  (4 days ago)
-- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (5 days ago)
+- [aslafy-z/yolo-object-detection-samples](https://github.com/aslafy-z/yolo-object-detection-samples) -  (1 day ago)
+- [aslafy-z/docker-envoy-https-proxy](https://github.com/aslafy-z/docker-envoy-https-proxy) - Docker image for a basic HTTPS proxy with Envoy configurable with environment variables (1 day ago)
+- [aslafy-z/github-actions](https://github.com/aslafy-z/github-actions) -  (1 day ago)
+- [aslafy-z/docker-echo-headers](https://github.com/aslafy-z/docker-echo-headers) - A simple docker image that echoes request headers. (1 day ago)
+- [aslafy-z/k8s-dashboard-impersonation-proxy](https://github.com/aslafy-z/k8s-dashboard-impersonation-proxy) - Plug your SSO in front of Kubernetes Dashboard by injecting impersonation and authorization headers.  (1 day ago)
+- [aslafy-z/docker-envoy-tcp-proxy](https://github.com/aslafy-z/docker-envoy-tcp-proxy) - Docker image for a basic TCP proxy with Envoy configurable with environment variables (1 day ago)
+- [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) -  (1 day ago)
+- [aslafy-z/ctxdump](https://github.com/aslafy-z/ctxdump) -  (4 days ago)
+- [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) -  (5 days ago)
+- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (6 days ago)
 
 
 
 ## 🔨 Recent Pull Requests
 
 
-- [Improve agent auth browser URL handling](https://github.com/aslafy-z/coder-template-hapi/pull/22) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (4 days ago)
-- [Enhance Agent Auth: project clone/delete UI &#43; improved login/session flows](https://github.com/aslafy-z/coder-template-hapi/pull/21) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (4 days ago)
-- [Revert &#34;Set default workspace namespace&#34;](https://github.com/aslafy-z/coder-template-hapi/pull/20) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (4 days ago)
-- [Set default workspace namespace](https://github.com/aslafy-z/coder-template-hapi/pull/19) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (4 days ago)
-- [Fix auth companion login flows](https://github.com/aslafy-z/coder-template-hapi/pull/18) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (4 days ago)
-- [Fix auth companion page script escaping](https://github.com/aslafy-z/coder-template-hapi/pull/17) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (4 days ago)
-- [Improve Agent Auth Companion terminal UX](https://github.com/aslafy-z/coder-template-hapi/pull/16) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (4 days ago)
-- [Strip ANSI and improve session handling; add cancel endpoint and xterm UI](https://github.com/aslafy-z/coder-template-hapi/pull/15) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (4 days ago)
-- [Fix HAPI startup self-termination and use 127.0.0.1 for healthchecks](https://github.com/aslafy-z/coder-template-hapi/pull/14) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (4 days ago)
-- [Clean up HAPI Coder template](https://github.com/aslafy-z/coder-template-hapi/pull/13) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (4 days ago)
+- [Improve agent auth browser URL handling](https://github.com/aslafy-z/coder-template-hapi/pull/22) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (5 days ago)
+- [Enhance Agent Auth: project clone/delete UI &#43; improved login/session flows](https://github.com/aslafy-z/coder-template-hapi/pull/21) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (5 days ago)
+- [Revert &#34;Set default workspace namespace&#34;](https://github.com/aslafy-z/coder-template-hapi/pull/20) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (5 days ago)
+- [Set default workspace namespace](https://github.com/aslafy-z/coder-template-hapi/pull/19) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (5 days ago)
+- [Fix auth companion login flows](https://github.com/aslafy-z/coder-template-hapi/pull/18) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (5 days ago)
+- [Fix auth companion page script escaping](https://github.com/aslafy-z/coder-template-hapi/pull/17) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (5 days ago)
+- [Improve Agent Auth Companion terminal UX](https://github.com/aslafy-z/coder-template-hapi/pull/16) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (5 days ago)
+- [Strip ANSI and improve session handling; add cancel endpoint and xterm UI](https://github.com/aslafy-z/coder-template-hapi/pull/15) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (5 days ago)
+- [Fix HAPI startup self-termination and use 127.0.0.1 for healthchecks](https://github.com/aslafy-z/coder-template-hapi/pull/14) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (5 days ago)
+- [Clean up HAPI Coder template](https://github.com/aslafy-z/coder-template-hapi/pull/13) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (5 days ago)
 
 ## ⭐ Recent Stars
 
 
-- [Ar9av/obsidian-wiki](https://github.com/Ar9av/obsidian-wiki) - Framework for AI agents to build and maintain a digital brain through Obsidian wiki using Karpathy&#39;s LLM Wiki pattern (2 days ago)
-- [DataHearth/streamline](https://github.com/DataHearth/streamline) - Unified media management platform — single-binary *arr stack &#43; Overseerr replacement (Go/chi/ent/SQLite/htmx) (4 days ago)
-- [modelplaneai/modelplane](https://github.com/modelplaneai/modelplane) - The open source control plane for AI inference (4 days ago)
+- [Ar9av/obsidian-wiki](https://github.com/Ar9av/obsidian-wiki) - Framework for AI agents to build and maintain a digital brain through Obsidian wiki using Karpathy&#39;s LLM Wiki pattern (3 days ago)
+- [DataHearth/streamline](https://github.com/DataHearth/streamline) - Unified media management platform — single-binary *arr stack &#43; Overseerr replacement (Go/chi/ent/SQLite/htmx) (5 days ago)
+- [modelplaneai/modelplane](https://github.com/modelplaneai/modelplane) - The open source control plane for AI inference (5 days ago)
 - [sinelaw/fresh](https://github.com/sinelaw/fresh) - Terminal based IDE &amp; text editor: easy, powerful and fast (1 week ago)
 - [lovromazgon/grafana-tui](https://github.com/lovromazgon/grafana-tui) - Grafana dashboards in your terminal (1 week ago)
 - [scryer-media/scryer](https://github.com/scryer-media/scryer) - Media manager (2 weeks ago)
