@@ -58,6 +58,7 @@ and more...
 ## ⭐ Recent Stars
 
 
+- [perplexityai/bumblebee](https://github.com/perplexityai/bumblebee) - Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises. (today)
 - [germondai/trawl](https://github.com/germondai/trawl) - Self-hosted scraping engine — bypasses any JS challenge &amp; captcha: Cloudflare, Turnstile, reCAPTCHA, hCaptcha, GeeTest. FlareSolverr &amp; Byparr alternative and drop-in replacement for your *arr stack. (1 day ago)
 - [Ar9av/obsidian-wiki](https://github.com/Ar9av/obsidian-wiki) - Framework for AI agents to build and maintain a digital brain through Obsidian wiki using Karpathy&#39;s LLM Wiki pattern (4 days ago)
 - [DataHearth/streamline](https://github.com/DataHearth/streamline) - Unified media management platform — single-binary *arr stack &#43; Overseerr replacement (Go/chi/ent/SQLite/htmx) (6 days ago)
@@ -67,7 +68,6 @@ and more...
 - [scryer-media/scryer](https://github.com/scryer-media/scryer) - Media manager (2 weeks ago)
 - [PelagicaApp/pelagica](https://github.com/PelagicaApp/pelagica) - An alternative, modern and configurable web frontend for Jellyfin (2 weeks ago)
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design. (4 weeks ago)
-- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. (1 month ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
