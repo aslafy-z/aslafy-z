@@ -80,6 +80,7 @@ and more...
 
 * 🌐 [zadkiel.fr](https://zadkiel.fr)
 * :octocat: [GitHub](https://go.zadkiel.fr/github)
+* 🦊 [GitLab](https://go.zadkiel.fr/gitlab)
 * 💬 hello at zadkiel.fr
 * 🤝 [LinkedIn](https://go.zadkiel.fr/linkedin)
 * 💼 [CV / Resume](https://go.zadkiel.fr/resume)
