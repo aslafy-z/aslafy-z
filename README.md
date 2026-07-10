@@ -58,6 +58,7 @@ and more...
 ## ⭐ Recent Stars
 
 
+- [KiefStudioMA/ks-aur-scanner](https://github.com/KiefStudioMA/ks-aur-scanner) - A comprehensive security scanner for Arch Linux AUR packages that analyzes PKGBUILDs and install scripts for malicious patterns, suspicious behavior, and security vulnerabilities. Written in Rust for performance and safety. (today)
 - [perplexityai/bumblebee](https://github.com/perplexityai/bumblebee) - Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises. (1 week ago)
 - [germondai/trawl](https://github.com/germondai/trawl) - Self-hosted scraping engine — bypasses any JS challenge &amp; captcha: Cloudflare, Turnstile, reCAPTCHA, hCaptcha, GeeTest. FlareSolverr &amp; Byparr alternative and drop-in replacement for your *arr stack. (1 week ago)
 - [Ar9av/obsidian-wiki](https://github.com/Ar9av/obsidian-wiki) - Framework for AI agents to build and maintain a digital brain through Obsidian wiki using Karpathy&#39;s LLM Wiki pattern (1 week ago)
@@ -67,7 +68,6 @@ and more...
 - [lovromazgon/grafana-tui](https://github.com/lovromazgon/grafana-tui) - Grafana dashboards in your terminal (3 weeks ago)
 - [scryer-media/scryer](https://github.com/scryer-media/scryer) - Media manager (3 weeks ago)
 - [PelagicaApp/pelagica](https://github.com/PelagicaApp/pelagica) - An alternative, modern and configurable web frontend for Jellyfin (3 weeks ago)
-- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design. (1 month ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
