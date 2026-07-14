@@ -44,6 +44,7 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [Zone plus fluide : cercle collé au centre, zoom = rayon](https://github.com/aslafy-z/plein/pull/3) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 - [Align providers with real history formats and fix CLI bugs](https://github.com/aslafy-z/ctxdump/pull/1) on [aslafy-z/ctxdump](https://github.com/aslafy-z/ctxdump) (1 week ago)
 - [Improve agent auth browser URL handling](https://github.com/aslafy-z/coder-template-hapi/pull/22) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (2 weeks ago)
 - [Enhance Agent Auth: project clone/delete UI &#43; improved login/session flows](https://github.com/aslafy-z/coder-template-hapi/pull/21) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (2 weeks ago)
@@ -53,7 +54,6 @@ and more...
 - [Fix auth companion page script escaping](https://github.com/aslafy-z/coder-template-hapi/pull/17) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (2 weeks ago)
 - [Improve Agent Auth Companion terminal UX](https://github.com/aslafy-z/coder-template-hapi/pull/16) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (2 weeks ago)
 - [Strip ANSI and improve session handling; add cancel endpoint and xterm UI](https://github.com/aslafy-z/coder-template-hapi/pull/15) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (2 weeks ago)
-- [Fix HAPI startup self-termination and use 127.0.0.1 for healthchecks](https://github.com/aslafy-z/coder-template-hapi/pull/14) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (2 weeks ago)
 
 ## ⭐ Recent Stars
 
