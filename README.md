@@ -44,20 +44,20 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [Stations: skip the refetch when the zone stays inside a fresh cached area](https://github.com/aslafy-z/plein/pull/11) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Map tiles: prefetch a low-priority ring around the view &#43; lazy SW cache](https://github.com/aslafy-z/plein/pull/10) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Bottom-sheet carte : gestes fluides — glisser n&#39;importe où, pichenette, tap carte pour fermer](https://github.com/aslafy-z/plein/pull/9) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Recreate PR preview comment instead of editing it in place](https://github.com/aslafy-z/plein/pull/8) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Toulouse partout : position par défaut, suggestions et jeu de démo](https://github.com/aslafy-z/plein/pull/7) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Rewrite e2e as a Playwright Test suite, run in CI on PRs and main](https://github.com/aslafy-z/plein/pull/6) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 - [Default position and suggestions: Toulouse, la ville rose](https://github.com/aslafy-z/plein/pull/5) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Carte &#43; liste fusionnées : tirette du bottom-sheet → liste de la zone, sélection liste ↔ carte](https://github.com/aslafy-z/plein/pull/4) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Carte &#43; liste fusionnées (tirette → liste de zone) · Favoris remplace l&#39;onglet Liste](https://github.com/aslafy-z/plein/pull/4) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 - [Align providers with real history formats and fix CLI bugs](https://github.com/aslafy-z/ctxdump/pull/1) on [aslafy-z/ctxdump](https://github.com/aslafy-z/ctxdump) (1 week ago)
-- [Improve agent auth browser URL handling](https://github.com/aslafy-z/coder-template-hapi/pull/22) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (2 weeks ago)
-- [Enhance Agent Auth: project clone/delete UI &#43; improved login/session flows](https://github.com/aslafy-z/coder-template-hapi/pull/21) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (2 weeks ago)
-- [Revert &#34;Set default workspace namespace&#34;](https://github.com/aslafy-z/coder-template-hapi/pull/20) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (2 weeks ago)
-- [Set default workspace namespace](https://github.com/aslafy-z/coder-template-hapi/pull/19) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (2 weeks ago)
-- [Fix auth companion login flows](https://github.com/aslafy-z/coder-template-hapi/pull/18) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (2 weeks ago)
-- [Fix auth companion page script escaping](https://github.com/aslafy-z/coder-template-hapi/pull/17) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (2 weeks ago)
 
 ## ⭐ Recent Stars
 
 
-- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - An easy-to-use OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys. (3 days ago)
+- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys. (3 days ago)
 - [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) - git push no-mistakes (3 days ago)
 - [Pouzor/homelable](https://github.com/Pouzor/homelable) - Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring (4 days ago)
 - [KiefStudioMA/ks-aur-scanner](https://github.com/KiefStudioMA/ks-aur-scanner) - A comprehensive security scanner for Arch Linux AUR packages that analyzes PKGBUILDs and install scripts for malicious patterns, suspicious behavior, and security vulnerabilities. Written in Rust for performance and safety. (5 days ago)
