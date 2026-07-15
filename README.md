@@ -44,6 +44,7 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [Station brands: static OSM index, favicons on avatars, favorite-brand filter](https://github.com/aslafy-z/plein/pull/12) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 - [Stations: skip the refetch when the zone stays inside a fresh cached area](https://github.com/aslafy-z/plein/pull/11) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 - [Map tiles: prefetch a low-priority ring around the view &#43; lazy SW cache](https://github.com/aslafy-z/plein/pull/10) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 - [Bottom-sheet carte : gestes fluides — glisser n&#39;importe où, pichenette, tap carte pour fermer](https://github.com/aslafy-z/plein/pull/9) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
@@ -52,7 +53,6 @@ and more...
 - [Rewrite e2e as a Playwright Test suite, run in CI on PRs and main](https://github.com/aslafy-z/plein/pull/6) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 - [Default position and suggestions: Toulouse, la ville rose](https://github.com/aslafy-z/plein/pull/5) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 - [Carte &#43; liste fusionnées (tirette → liste de zone) · Favoris remplace l&#39;onglet Liste](https://github.com/aslafy-z/plein/pull/4) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Align providers with real history formats and fix CLI bugs](https://github.com/aslafy-z/ctxdump/pull/1) on [aslafy-z/ctxdump](https://github.com/aslafy-z/ctxdump) (1 week ago)
 
 ## ⭐ Recent Stars
 
