@@ -44,7 +44,8 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [Zone plus fluide : cercle collé au centre, zoom = rayon](https://github.com/aslafy-z/plein/pull/3) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
+- [Default position and suggestions: Toulouse, la ville rose](https://github.com/aslafy-z/plein/pull/5) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Carte &#43; liste fusionnées : tirette du bottom-sheet → liste de la zone, sélection liste ↔ carte](https://github.com/aslafy-z/plein/pull/4) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 - [Align providers with real history formats and fix CLI bugs](https://github.com/aslafy-z/ctxdump/pull/1) on [aslafy-z/ctxdump](https://github.com/aslafy-z/ctxdump) (1 week ago)
 - [Improve agent auth browser URL handling](https://github.com/aslafy-z/coder-template-hapi/pull/22) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (2 weeks ago)
 - [Enhance Agent Auth: project clone/delete UI &#43; improved login/session flows](https://github.com/aslafy-z/coder-template-hapi/pull/21) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (2 weeks ago)
@@ -52,8 +53,6 @@ and more...
 - [Set default workspace namespace](https://github.com/aslafy-z/coder-template-hapi/pull/19) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (2 weeks ago)
 - [Fix auth companion login flows](https://github.com/aslafy-z/coder-template-hapi/pull/18) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (2 weeks ago)
 - [Fix auth companion page script escaping](https://github.com/aslafy-z/coder-template-hapi/pull/17) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (2 weeks ago)
-- [Improve Agent Auth Companion terminal UX](https://github.com/aslafy-z/coder-template-hapi/pull/16) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (2 weeks ago)
-- [Strip ANSI and improve session handling; add cancel endpoint and xterm UI](https://github.com/aslafy-z/coder-template-hapi/pull/15) on [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) (2 weeks ago)
 
 ## ⭐ Recent Stars
 
