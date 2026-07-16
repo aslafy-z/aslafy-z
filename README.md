@@ -28,7 +28,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [aslafy-z/plein](https://github.com/aslafy-z/plein) -  (2 days ago)
+- [aslafy-z/plein](https://github.com/aslafy-z/plein) -  (3 days ago)
 - [aslafy-z/docker-envoy-https-proxy](https://github.com/aslafy-z/docker-envoy-https-proxy) - Docker image for a basic HTTPS proxy with Envoy configurable with environment variables (2 weeks ago)
 - [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) -  (2 weeks ago)
 - [aslafy-z/docker-echo-headers](https://github.com/aslafy-z/docker-echo-headers) - A simple docker image that echoes request headers. (2 weeks ago)
@@ -37,35 +37,35 @@ and more...
 - [aslafy-z/github-actions](https://github.com/aslafy-z/github-actions) -  (2 weeks ago)
 - [aslafy-z/docker-envoy-tcp-proxy](https://github.com/aslafy-z/docker-envoy-tcp-proxy) - Docker image for a basic TCP proxy with Envoy configurable with environment variables (2 weeks ago)
 - [aslafy-z/ctxdump](https://github.com/aslafy-z/ctxdump) -  (2 weeks ago)
-- [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) -  (2 weeks ago)
+- [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) -  (3 weeks ago)
 
 
 
 ## 🔨 Recent Pull Requests
 
 
-- [Station brands: static OSM index, favicons on avatars, favorite-brand filter](https://github.com/aslafy-z/plein/pull/12) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Stations: skip the refetch when the zone stays inside a fresh cached area](https://github.com/aslafy-z/plein/pull/11) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Map tiles: prefetch a low-priority ring around the view &#43; lazy SW cache](https://github.com/aslafy-z/plein/pull/10) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Bottom-sheet carte : gestes fluides — glisser n&#39;importe où, pichenette, tap carte pour fermer](https://github.com/aslafy-z/plein/pull/9) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Recreate PR preview comment instead of editing it in place](https://github.com/aslafy-z/plein/pull/8) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Toulouse partout : position par défaut, suggestions et jeu de démo](https://github.com/aslafy-z/plein/pull/7) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Rewrite e2e as a Playwright Test suite, run in CI on PRs and main](https://github.com/aslafy-z/plein/pull/6) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Default position and suggestions: Toulouse, la ville rose](https://github.com/aslafy-z/plein/pull/5) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Carte &#43; liste fusionnées (tirette → liste de zone) · Favoris remplace l&#39;onglet Liste](https://github.com/aslafy-z/plein/pull/4) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Station brands: static OSM index, favicons on avatars, favorite-brand filter](https://github.com/aslafy-z/plein/pull/12) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
+- [Stations: skip the refetch when the zone stays inside a fresh cached area](https://github.com/aslafy-z/plein/pull/11) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
+- [Map tiles: prefetch a low-priority ring around the view &#43; lazy SW cache](https://github.com/aslafy-z/plein/pull/10) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
+- [Bottom-sheet carte : gestes fluides — glisser n&#39;importe où, pichenette, tap carte pour fermer](https://github.com/aslafy-z/plein/pull/9) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
+- [Recreate PR preview comment instead of editing it in place](https://github.com/aslafy-z/plein/pull/8) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
+- [Toulouse partout : position par défaut, suggestions et jeu de démo](https://github.com/aslafy-z/plein/pull/7) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
+- [Rewrite e2e as a Playwright Test suite, run in CI on PRs and main](https://github.com/aslafy-z/plein/pull/6) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
+- [Default position and suggestions: Toulouse, la ville rose](https://github.com/aslafy-z/plein/pull/5) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
+- [Carte &#43; liste fusionnées (tirette → liste de zone) · Favoris remplace l&#39;onglet Liste](https://github.com/aslafy-z/plein/pull/4) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
 
 ## ⭐ Recent Stars
 
 
-- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys. (3 days ago)
-- [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) - git push no-mistakes (3 days ago)
-- [Pouzor/homelable](https://github.com/Pouzor/homelable) - Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring (4 days ago)
-- [KiefStudioMA/ks-aur-scanner](https://github.com/KiefStudioMA/ks-aur-scanner) - A comprehensive security scanner for Arch Linux AUR packages that analyzes PKGBUILDs and install scripts for malicious patterns, suspicious behavior, and security vulnerabilities. Written in Rust for performance and safety. (5 days ago)
+- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys. (4 days ago)
+- [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) - git push no-mistakes (4 days ago)
+- [Pouzor/homelable](https://github.com/Pouzor/homelable) - Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring (5 days ago)
+- [KiefStudioMA/ks-aur-scanner](https://github.com/KiefStudioMA/ks-aur-scanner) - A comprehensive security scanner for Arch Linux AUR packages that analyzes PKGBUILDs and install scripts for malicious patterns, suspicious behavior, and security vulnerabilities. Written in Rust for performance and safety. (6 days ago)
 - [perplexityai/bumblebee](https://github.com/perplexityai/bumblebee) - Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises. (2 weeks ago)
 - [germondai/trawl](https://github.com/germondai/trawl) - Self-hosted scraping engine — bypasses any JS challenge &amp; captcha: Cloudflare, Turnstile, reCAPTCHA, hCaptcha, GeeTest. FlareSolverr &amp; Byparr alternative and drop-in replacement for your *arr stack. (2 weeks ago)
 - [Ar9av/obsidian-wiki](https://github.com/Ar9av/obsidian-wiki) - Framework for AI agents to build and maintain a digital brain through Obsidian wiki using Karpathy&#39;s LLM Wiki pattern (2 weeks ago)
-- [DataHearth/streamline](https://github.com/DataHearth/streamline) - Unified media management platform — single-binary *arr stack &#43; Overseerr replacement (Go/chi/ent/SQLite/htmx) (2 weeks ago)
-- [modelplaneai/modelplane](https://github.com/modelplaneai/modelplane) - The open source control plane for AI inference (2 weeks ago)
+- [DataHearth/streamline](https://github.com/DataHearth/streamline) - Unified media management platform — single-binary *arr stack &#43; Overseerr replacement (Go/chi/ent/SQLite/htmx) (3 weeks ago)
+- [modelplaneai/modelplane](https://github.com/modelplaneai/modelplane) - The open source control plane for AI inference (3 weeks ago)
 - [sinelaw/fresh](https://github.com/sinelaw/fresh) - Terminal based IDE &amp; text editor: easy, powerful and fast (3 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
