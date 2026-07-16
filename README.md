@@ -44,6 +44,9 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [French map labels: OSM France basemap instead of CARTO dark](https://github.com/aslafy-z/plein/pull/15) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Compact brand filter: accordion, canonical groups, out-of-zone picks](https://github.com/aslafy-z/plein/pull/14) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Dev proxy: decode gzip responses forced by egress proxies](https://github.com/aslafy-z/plein/pull/13) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 - [Station brands: static OSM index, favicons on avatars, favorite-brand filter](https://github.com/aslafy-z/plein/pull/12) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
 - [Stations: skip the refetch when the zone stays inside a fresh cached area](https://github.com/aslafy-z/plein/pull/11) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
 - [Map tiles: prefetch a low-priority ring around the view &#43; lazy SW cache](https://github.com/aslafy-z/plein/pull/10) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
@@ -51,8 +54,6 @@ and more...
 - [Recreate PR preview comment instead of editing it in place](https://github.com/aslafy-z/plein/pull/8) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
 - [Toulouse partout : position par défaut, suggestions et jeu de démo](https://github.com/aslafy-z/plein/pull/7) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
 - [Rewrite e2e as a Playwright Test suite, run in CI on PRs and main](https://github.com/aslafy-z/plein/pull/6) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
-- [Default position and suggestions: Toulouse, la ville rose](https://github.com/aslafy-z/plein/pull/5) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
-- [Carte &#43; liste fusionnées (tirette → liste de zone) · Favoris remplace l&#39;onglet Liste](https://github.com/aslafy-z/plein/pull/4) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
 
 ## ⭐ Recent Stars
 
