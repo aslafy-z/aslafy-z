@@ -44,6 +44,8 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [Carte : zones denses plafonnées aux 15 pins les moins chers](https://github.com/aslafy-z/plein/pull/17) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [UX round: moto→E10, geo settings, readable durations, Distributeurs](https://github.com/aslafy-z/plein/pull/16) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 - [French map labels: OSM France basemap instead of CARTO dark](https://github.com/aslafy-z/plein/pull/15) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
 - [Compact brand filter: accordion, canonical groups, out-of-zone picks](https://github.com/aslafy-z/plein/pull/14) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
 - [Dev proxy: decode gzip responses forced by egress proxies](https://github.com/aslafy-z/plein/pull/13) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
@@ -52,8 +54,6 @@ and more...
 - [Map tiles: prefetch a low-priority ring around the view &#43; lazy SW cache](https://github.com/aslafy-z/plein/pull/10) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
 - [Bottom-sheet carte : gestes fluides — glisser n&#39;importe où, pichenette, tap carte pour fermer](https://github.com/aslafy-z/plein/pull/9) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
 - [Recreate PR preview comment instead of editing it in place](https://github.com/aslafy-z/plein/pull/8) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
-- [Toulouse partout : position par défaut, suggestions et jeu de démo](https://github.com/aslafy-z/plein/pull/7) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
-- [Rewrite e2e as a Playwright Test suite, run in CI on PRs and main](https://github.com/aslafy-z/plein/pull/6) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
 
 ## ⭐ Recent Stars
 
