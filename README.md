@@ -28,7 +28,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [aslafy-z/plein](https://github.com/aslafy-z/plein) -  (4 days ago)
+- [aslafy-z/plein](https://github.com/aslafy-z/plein) -  (5 days ago)
 - [aslafy-z/docker-envoy-https-proxy](https://github.com/aslafy-z/docker-envoy-https-proxy) - Docker image for a basic HTTPS proxy with Envoy configurable with environment variables (2 weeks ago)
 - [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) -  (2 weeks ago)
 - [aslafy-z/docker-echo-headers](https://github.com/aslafy-z/docker-echo-headers) - A simple docker image that echoes request headers. (2 weeks ago)
@@ -44,27 +44,27 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [Carte : zones denses plafonnées aux 15 pins les moins chers](https://github.com/aslafy-z/plein/pull/17) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [UX round: moto→E10, geo settings, readable durations, Distributeurs](https://github.com/aslafy-z/plein/pull/16) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [French map labels: OSM France basemap instead of CARTO dark](https://github.com/aslafy-z/plein/pull/15) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
-- [Compact brand filter: accordion, canonical groups, out-of-zone picks](https://github.com/aslafy-z/plein/pull/14) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
-- [Dev proxy: decode gzip responses forced by egress proxies](https://github.com/aslafy-z/plein/pull/13) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
-- [Station brands: static OSM index, favicons on avatars, favorite-brand filter](https://github.com/aslafy-z/plein/pull/12) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
-- [Stations: skip the refetch when the zone stays inside a fresh cached area](https://github.com/aslafy-z/plein/pull/11) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
-- [Map tiles: prefetch a low-priority ring around the view &#43; lazy SW cache](https://github.com/aslafy-z/plein/pull/10) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
-- [Bottom-sheet carte : gestes fluides — glisser n&#39;importe où, pichenette, tap carte pour fermer](https://github.com/aslafy-z/plein/pull/9) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
-- [Recreate PR preview comment instead of editing it in place](https://github.com/aslafy-z/plein/pull/8) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
+- [Carte : zones denses plafonnées aux 15 pins les moins chers](https://github.com/aslafy-z/plein/pull/17) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
+- [UX round: moto→E10, geo settings, readable durations, Distributeurs](https://github.com/aslafy-z/plein/pull/16) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
+- [French map labels: OSM France basemap instead of CARTO dark](https://github.com/aslafy-z/plein/pull/15) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
+- [Compact brand filter: accordion, canonical groups, out-of-zone picks](https://github.com/aslafy-z/plein/pull/14) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
+- [Dev proxy: decode gzip responses forced by egress proxies](https://github.com/aslafy-z/plein/pull/13) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
+- [Station brands: static OSM index, favicons on avatars, favorite-brand filter](https://github.com/aslafy-z/plein/pull/12) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (3 days ago)
+- [Stations: skip the refetch when the zone stays inside a fresh cached area](https://github.com/aslafy-z/plein/pull/11) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (3 days ago)
+- [Map tiles: prefetch a low-priority ring around the view &#43; lazy SW cache](https://github.com/aslafy-z/plein/pull/10) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (3 days ago)
+- [Bottom-sheet carte : gestes fluides — glisser n&#39;importe où, pichenette, tap carte pour fermer](https://github.com/aslafy-z/plein/pull/9) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (3 days ago)
+- [Recreate PR preview comment instead of editing it in place](https://github.com/aslafy-z/plein/pull/8) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (3 days ago)
 
 ## ⭐ Recent Stars
 
 
-- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys. (5 days ago)
-- [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) - git push no-mistakes (5 days ago)
-- [Pouzor/homelable](https://github.com/Pouzor/homelable) - Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring (6 days ago)
+- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys. (6 days ago)
+- [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) - git push no-mistakes (6 days ago)
+- [Pouzor/homelable](https://github.com/Pouzor/homelable) - Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring (1 week ago)
 - [KiefStudioMA/ks-aur-scanner](https://github.com/KiefStudioMA/ks-aur-scanner) - A comprehensive security scanner for Arch Linux AUR packages that analyzes PKGBUILDs and install scripts for malicious patterns, suspicious behavior, and security vulnerabilities. Written in Rust for performance and safety. (1 week ago)
 - [perplexityai/bumblebee](https://github.com/perplexityai/bumblebee) - Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises. (2 weeks ago)
 - [germondai/trawl](https://github.com/germondai/trawl) - Self-hosted scraping engine — bypasses any JS challenge &amp; captcha: Cloudflare, Turnstile, reCAPTCHA, hCaptcha, GeeTest. FlareSolverr &amp; Byparr alternative and drop-in replacement for your *arr stack. (2 weeks ago)
-- [Ar9av/obsidian-wiki](https://github.com/Ar9av/obsidian-wiki) - Framework for AI agents to build and maintain a digital brain through Obsidian wiki using Karpathy&#39;s LLM Wiki pattern (2 weeks ago)
+- [Ar9av/obsidian-wiki](https://github.com/Ar9av/obsidian-wiki) - Framework for AI agents to build and maintain a digital brain through Obsidian wiki using Karpathy&#39;s LLM Wiki pattern (3 weeks ago)
 - [DataHearth/streamline](https://github.com/DataHearth/streamline) - Unified media management platform — single-binary *arr stack &#43; Overseerr replacement (Go/chi/ent/SQLite/htmx) (3 weeks ago)
 - [modelplaneai/modelplane](https://github.com/modelplaneai/modelplane) - The open source control plane for AI inference (3 weeks ago)
 - [sinelaw/fresh](https://github.com/sinelaw/fresh) - Terminal based IDE &amp; text editor: easy, powerful and fast (4 weeks ago)
