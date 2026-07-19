@@ -44,6 +44,8 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [E2E : fixe les tests flaky de la carte](https://github.com/aslafy-z/plein/pull/25) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Résultats en direct pendant le drag du cercle, sans secousse de la carte](https://github.com/aslafy-z/plein/pull/24) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 - [Add the Andorran fuel-price source (sig.govern.ad)](https://github.com/aslafy-z/plein/pull/23) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 - [Price tiers: green « bons plans » and orange tint on pins, dots and list](https://github.com/aslafy-z/plein/pull/22) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 - [Mode recharge électrique : bornes IRVE avec prix au kWh (France)](https://github.com/aslafy-z/plein/pull/21) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
@@ -52,8 +54,6 @@ and more...
 - [Snap stations to OSM positions: fixes off-target pins and navigation](https://github.com/aslafy-z/plein/pull/18) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 - [Carte : zones denses plafonnées aux 15 pins les moins chers](https://github.com/aslafy-z/plein/pull/17) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
 - [UX round: moto→E10, geo settings, readable durations, Distributeurs](https://github.com/aslafy-z/plein/pull/16) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
-- [French map labels: OSM France basemap instead of CARTO dark](https://github.com/aslafy-z/plein/pull/15) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (3 days ago)
-- [Compact brand filter: accordion, canonical groups, out-of-zone picks](https://github.com/aslafy-z/plein/pull/14) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (3 days ago)
 
 ## ⭐ Recent Stars
 
