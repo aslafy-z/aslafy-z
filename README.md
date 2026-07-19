@@ -44,16 +44,16 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [Add the Andorran fuel-price source (sig.govern.ad)](https://github.com/aslafy-z/plein/pull/23) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Price tiers: green « bons plans » and orange tint on pins, dots and list](https://github.com/aslafy-z/plein/pull/22) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Mode recharge électrique : bornes IRVE avec prix au kWh (France)](https://github.com/aslafy-z/plein/pull/21) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Disclaimer doux sur les prix dans Réglages › Données](https://github.com/aslafy-z/plein/pull/20) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Add the Spanish fuel-price source (geoportalgasolineras.es)](https://github.com/aslafy-z/plein/pull/19) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 - [Snap stations to OSM positions: fixes off-target pins and navigation](https://github.com/aslafy-z/plein/pull/18) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 - [Carte : zones denses plafonnées aux 15 pins les moins chers](https://github.com/aslafy-z/plein/pull/17) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
 - [UX round: moto→E10, geo settings, readable durations, Distributeurs](https://github.com/aslafy-z/plein/pull/16) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
 - [French map labels: OSM France basemap instead of CARTO dark](https://github.com/aslafy-z/plein/pull/15) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (3 days ago)
 - [Compact brand filter: accordion, canonical groups, out-of-zone picks](https://github.com/aslafy-z/plein/pull/14) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (3 days ago)
-- [Dev proxy: decode gzip responses forced by egress proxies](https://github.com/aslafy-z/plein/pull/13) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (3 days ago)
-- [Station brands: static OSM index, favicons on avatars, favorite-brand filter](https://github.com/aslafy-z/plein/pull/12) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (4 days ago)
-- [Stations: skip the refetch when the zone stays inside a fresh cached area](https://github.com/aslafy-z/plein/pull/11) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (4 days ago)
-- [Map tiles: prefetch a low-priority ring around the view &#43; lazy SW cache](https://github.com/aslafy-z/plein/pull/10) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (4 days ago)
-- [Bottom-sheet carte : gestes fluides — glisser n&#39;importe où, pichenette, tap carte pour fermer](https://github.com/aslafy-z/plein/pull/9) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (4 days ago)
 
 ## ⭐ Recent Stars
 
