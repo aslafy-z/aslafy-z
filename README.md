@@ -44,6 +44,7 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [Mentionner l&#39;Espagne et l&#39;Andorre dans les descriptions utilisateur](https://github.com/aslafy-z/plein/pull/32) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 - [La carte garde le zoom utilisateur au retour d&#39;une fiche station](https://github.com/aslafy-z/plein/pull/31) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
 - [README : l&#39;app couvre désormais la France et l&#39;Espagne](https://github.com/aslafy-z/plein/pull/30) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
 - [Premier pan après chargement : le cercle rattrape le centre en douceur](https://github.com/aslafy-z/plein/pull/29) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
@@ -53,7 +54,6 @@ and more...
 - [E2E : fixe les tests flaky de la carte](https://github.com/aslafy-z/plein/pull/25) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
 - [Résultats en direct pendant le drag du cercle, sans secousse de la carte](https://github.com/aslafy-z/plein/pull/24) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
 - [Add the Andorran fuel-price source (sig.govern.ad)](https://github.com/aslafy-z/plein/pull/23) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
-- [Price tiers: green « bons plans » and orange tint on pins, dots and list](https://github.com/aslafy-z/plein/pull/22) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
 
 ## ⭐ Recent Stars
 
