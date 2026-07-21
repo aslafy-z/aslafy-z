@@ -44,6 +44,7 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [Tests unitaires Vitest &#43; e2e recentrés sur le câblage UI](https://github.com/aslafy-z/plein/pull/35) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 - [Distances et temps de conduite réels via une matrice OSRM](https://github.com/aslafy-z/plein/pull/34) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 - [La carte recommande le meilleur choix réel, détour compté](https://github.com/aslafy-z/plein/pull/33) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
 - [Mentionner l&#39;Espagne et l&#39;Andorre dans les descriptions utilisateur](https://github.com/aslafy-z/plein/pull/32) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
@@ -53,7 +54,6 @@ and more...
 - [Sheet : le tap bascule au pointerup, vélocité de fling sur horodatages](https://github.com/aslafy-z/plein/pull/28) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
 - [Les tiers de prix se calculent sur toute la zone chargée, plus sur le cercle](https://github.com/aslafy-z/plein/pull/27) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
 - [Photon en 3e géocodeur de la source Automatique — l&#39;Europe entière](https://github.com/aslafy-z/plein/pull/26) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
-- [E2E : fixe les tests flaky de la carte](https://github.com/aslafy-z/plein/pull/25) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
 
 ## ⭐ Recent Stars
 
