@@ -58,6 +58,7 @@ and more...
 ## ⭐ Recent Stars
 
 
+- [block/buzz](https://github.com/block/buzz) - A hive mind communication platform (today)
 - [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal. (4 days ago)
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys. (1 week ago)
 - [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) - git push no-mistakes (1 week ago)
@@ -67,7 +68,6 @@ and more...
 - [germondai/trawl](https://github.com/germondai/trawl) - Self-hosted scraping engine — bypasses any JS challenge &amp; captcha: Cloudflare, Turnstile, reCAPTCHA, hCaptcha, GeeTest. FlareSolverr &amp; Byparr alternative and drop-in replacement for your *arr stack. (3 weeks ago)
 - [Ar9av/obsidian-wiki](https://github.com/Ar9av/obsidian-wiki) - Framework for AI agents to build and maintain a digital brain through Obsidian wiki using Karpathy&#39;s LLM Wiki pattern (3 weeks ago)
 - [DataHearth/streamline](https://github.com/DataHearth/streamline) - Unified media management platform — single-binary *arr stack &#43; Overseerr replacement (Go/chi/ent/SQLite/htmx) (3 weeks ago)
-- [modelplaneai/modelplane](https://github.com/modelplaneai/modelplane) - The open source control plane for AI inference (3 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
