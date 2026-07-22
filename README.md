@@ -44,26 +44,26 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [Tests unitaires Vitest &#43; e2e recentrés sur le câblage UI](https://github.com/aslafy-z/plein/pull/35) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Distances et temps de conduite réels via une matrice OSRM](https://github.com/aslafy-z/plein/pull/34) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [La carte recommande le meilleur choix réel, détour compté](https://github.com/aslafy-z/plein/pull/33) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
-- [Mentionner l&#39;Espagne et l&#39;Andorre dans les descriptions utilisateur](https://github.com/aslafy-z/plein/pull/32) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
-- [La carte garde le zoom utilisateur au retour d&#39;une fiche station](https://github.com/aslafy-z/plein/pull/31) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
-- [README : l&#39;app couvre désormais la France et l&#39;Espagne](https://github.com/aslafy-z/plein/pull/30) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
-- [Premier pan après chargement : le cercle rattrape le centre en douceur](https://github.com/aslafy-z/plein/pull/29) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
-- [Sheet : le tap bascule au pointerup, vélocité de fling sur horodatages](https://github.com/aslafy-z/plein/pull/28) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
-- [Les tiers de prix se calculent sur toute la zone chargée, plus sur le cercle](https://github.com/aslafy-z/plein/pull/27) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
-- [Photon en 3e géocodeur de la source Automatique — l&#39;Europe entière](https://github.com/aslafy-z/plein/pull/26) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
+- [La recherche n&#39;attend plus le géocodeur le plus lent](https://github.com/aslafy-z/plein/pull/36) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
+- [Tests unitaires Vitest &#43; e2e recentrés sur le câblage UI](https://github.com/aslafy-z/plein/pull/35) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
+- [Distances et temps de conduite réels via une matrice OSRM](https://github.com/aslafy-z/plein/pull/34) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
+- [La carte recommande le meilleur choix réel, détour compté](https://github.com/aslafy-z/plein/pull/33) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
+- [Mentionner l&#39;Espagne et l&#39;Andorre dans les descriptions utilisateur](https://github.com/aslafy-z/plein/pull/32) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
+- [La carte garde le zoom utilisateur au retour d&#39;une fiche station](https://github.com/aslafy-z/plein/pull/31) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (3 days ago)
+- [README : l&#39;app couvre désormais la France et l&#39;Espagne](https://github.com/aslafy-z/plein/pull/30) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (3 days ago)
+- [Premier pan après chargement : le cercle rattrape le centre en douceur](https://github.com/aslafy-z/plein/pull/29) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (3 days ago)
+- [Sheet : le tap bascule au pointerup, vélocité de fling sur horodatages](https://github.com/aslafy-z/plein/pull/28) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (3 days ago)
+- [Les tiers de prix se calculent sur toute la zone chargée, plus sur le cercle](https://github.com/aslafy-z/plein/pull/27) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (3 days ago)
 
 ## ⭐ Recent Stars
 
 
-- [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal. (3 days ago)
+- [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal. (4 days ago)
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys. (1 week ago)
 - [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) - git push no-mistakes (1 week ago)
 - [Pouzor/homelable](https://github.com/Pouzor/homelable) - Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring (1 week ago)
 - [KiefStudioMA/ks-aur-scanner](https://github.com/KiefStudioMA/ks-aur-scanner) - A comprehensive security scanner for Arch Linux AUR packages that analyzes PKGBUILDs and install scripts for malicious patterns, suspicious behavior, and security vulnerabilities. Written in Rust for performance and safety. (1 week ago)
-- [perplexityai/bumblebee](https://github.com/perplexityai/bumblebee) - Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises. (2 weeks ago)
+- [perplexityai/bumblebee](https://github.com/perplexityai/bumblebee) - Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises. (3 weeks ago)
 - [germondai/trawl](https://github.com/germondai/trawl) - Self-hosted scraping engine — bypasses any JS challenge &amp; captcha: Cloudflare, Turnstile, reCAPTCHA, hCaptcha, GeeTest. FlareSolverr &amp; Byparr alternative and drop-in replacement for your *arr stack. (3 weeks ago)
 - [Ar9av/obsidian-wiki](https://github.com/Ar9av/obsidian-wiki) - Framework for AI agents to build and maintain a digital brain through Obsidian wiki using Karpathy&#39;s LLM Wiki pattern (3 weeks ago)
 - [DataHearth/streamline](https://github.com/DataHearth/streamline) - Unified media management platform — single-binary *arr stack &#43; Overseerr replacement (Go/chi/ent/SQLite/htmx) (3 weeks ago)
