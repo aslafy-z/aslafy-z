@@ -28,22 +28,24 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
+- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (today)
 - [aslafy-z/plein](https://github.com/aslafy-z/plein) -  (1 week ago)
 - [aslafy-z/docker-envoy-https-proxy](https://github.com/aslafy-z/docker-envoy-https-proxy) - Docker image for a basic HTTPS proxy with Envoy configurable with environment variables (3 weeks ago)
 - [aslafy-z/k8s-dashboard-impersonation-proxy](https://github.com/aslafy-z/k8s-dashboard-impersonation-proxy) - Plug your SSO in front of Kubernetes Dashboard by injecting impersonation and authorization headers.  (3 weeks ago)
-- [aslafy-z/yolo-object-detection-samples](https://github.com/aslafy-z/yolo-object-detection-samples) -  (3 weeks ago)
 - [aslafy-z/docker-envoy-tcp-proxy](https://github.com/aslafy-z/docker-envoy-tcp-proxy) - Docker image for a basic TCP proxy with Envoy configurable with environment variables (3 weeks ago)
 - [aslafy-z/docker-echo-headers](https://github.com/aslafy-z/docker-echo-headers) - A simple docker image that echoes request headers. (3 weeks ago)
 - [aslafy-z/github-actions](https://github.com/aslafy-z/github-actions) -  (3 weeks ago)
 - [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) -  (3 weeks ago)
+- [aslafy-z/yolo-object-detection-samples](https://github.com/aslafy-z/yolo-object-detection-samples) -  (3 weeks ago)
 - [aslafy-z/ctxdump](https://github.com/aslafy-z/ctxdump) -  (4 weeks ago)
-- [aslafy-z/coder-template-hapi](https://github.com/aslafy-z/coder-template-hapi) -  (4 weeks ago)
 
 
 
 ## 🔨 Recent Pull Requests
 
 
+- [fix(ci): diff release notes against the pre-push manifest](https://github.com/aslafy-z/coreruleset-plugins-image/pull/5) on [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) (today)
+- [feat(build): publish linux/arm64 alongside linux/amd64](https://github.com/aslafy-z/coreruleset-plugins-image/pull/4) on [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) (today)
 - [La recherche n&#39;attend plus le géocodeur le plus lent](https://github.com/aslafy-z/plein/pull/36) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (3 days ago)
 - [Tests unitaires Vitest &#43; e2e recentrés sur le câblage UI](https://github.com/aslafy-z/plein/pull/35) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (3 days ago)
 - [Distances et temps de conduite réels via une matrice OSRM](https://github.com/aslafy-z/plein/pull/34) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (3 days ago)
@@ -52,8 +54,6 @@ and more...
 - [La carte garde le zoom utilisateur au retour d&#39;une fiche station](https://github.com/aslafy-z/plein/pull/31) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (5 days ago)
 - [README : l&#39;app couvre désormais la France et l&#39;Espagne](https://github.com/aslafy-z/plein/pull/30) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (5 days ago)
 - [Premier pan après chargement : le cercle rattrape le centre en douceur](https://github.com/aslafy-z/plein/pull/29) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (5 days ago)
-- [Sheet : le tap bascule au pointerup, vélocité de fling sur horodatages](https://github.com/aslafy-z/plein/pull/28) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (5 days ago)
-- [Les tiers de prix se calculent sur toute la zone chargée, plus sur le cercle](https://github.com/aslafy-z/plein/pull/27) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (5 days ago)
 
 ## ⭐ Recent Stars
 
