@@ -28,15 +28,15 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [aslafy-z/plein](https://github.com/aslafy-z/plein) - Le plein au juste prix — PWA qui trouve les stations-service les moins chères autour de vous et sur vos trajets (France · Espagne · Andorre) (today)
+- [aslafy-z/plein](https://github.com/aslafy-z/plein) - Le plein au juste prix — PWA qui trouve les stations-service les moins chères autour de vous et sur vos trajets (France · Espagne · Andorre · Portugal) (today)
 - [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (1 day ago)
-- [aslafy-z/docker-envoy-https-proxy](https://github.com/aslafy-z/docker-envoy-https-proxy) - Docker image for a basic HTTPS proxy with Envoy configurable with environment variables (3 weeks ago)
-- [aslafy-z/k8s-dashboard-impersonation-proxy](https://github.com/aslafy-z/k8s-dashboard-impersonation-proxy) - Plug your SSO in front of Kubernetes Dashboard by injecting impersonation and authorization headers.  (3 weeks ago)
-- [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) -  (3 weeks ago)
 - [aslafy-z/github-actions](https://github.com/aslafy-z/github-actions) -  (3 weeks ago)
 - [aslafy-z/docker-echo-headers](https://github.com/aslafy-z/docker-echo-headers) - A simple docker image that echoes request headers. (3 weeks ago)
 - [aslafy-z/docker-envoy-tcp-proxy](https://github.com/aslafy-z/docker-envoy-tcp-proxy) - Docker image for a basic TCP proxy with Envoy configurable with environment variables (3 weeks ago)
+- [aslafy-z/docker-envoy-https-proxy](https://github.com/aslafy-z/docker-envoy-https-proxy) - Docker image for a basic HTTPS proxy with Envoy configurable with environment variables (3 weeks ago)
+- [aslafy-z/k8s-dashboard-impersonation-proxy](https://github.com/aslafy-z/k8s-dashboard-impersonation-proxy) - Plug your SSO in front of Kubernetes Dashboard by injecting impersonation and authorization headers.  (3 weeks ago)
 - [aslafy-z/yolo-object-detection-samples](https://github.com/aslafy-z/yolo-object-detection-samples) -  (3 weeks ago)
+- [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) -  (3 weeks ago)
 - [aslafy-z/ctxdump](https://github.com/aslafy-z/ctxdump) -  (4 weeks ago)
 
 
@@ -44,16 +44,16 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [Immersive desktop layout: edge-to-edge map, floating glass panels](https://github.com/aslafy-z/plein/pull/110) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Give desktop a real layout instead of a phone frame](https://github.com/aslafy-z/plein/pull/109) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Stream geocoder results as they land instead of waiting for all](https://github.com/aslafy-z/plein/pull/108) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Portugal: DGEG prices, Photon search, and a Portuguese locale](https://github.com/aslafy-z/plein/pull/107) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 - [Rank geocode results by place kind and make suggestion lists scrollable](https://github.com/aslafy-z/plein/pull/106) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 - [Add Catalan localization support](https://github.com/aslafy-z/plein/pull/105) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 - [i18n: Paraglide JS, English identifiers, French in the catalog only](https://github.com/aslafy-z/plein/pull/104) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 - [map: smooth keyboard pan and zoom](https://github.com/aslafy-z/plein/pull/103) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 - [e2e: cover URL routing and refresh persistence](https://github.com/aslafy-z/plein/pull/102) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 - [fonts: self-host Archivo and Spline Sans Mono](https://github.com/aslafy-z/plein/pull/101) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Cover the provider parsing layer with unit tests](https://github.com/aslafy-z/plein/pull/100) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Remove dead code: Station.cat, duplicated helpers, unused CSS and theme tokens](https://github.com/aslafy-z/plein/pull/99) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [screenshots: shoot the fiche on a well-equipped station](https://github.com/aslafy-z/plein/pull/98) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Extract CTA and sticky bar styles into reusable theme functions](https://github.com/aslafy-z/plein/pull/97) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 
 ## ⭐ Recent Stars
 
