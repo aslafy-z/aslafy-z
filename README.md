@@ -28,14 +28,14 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (today)
-- [aslafy-z/plein](https://github.com/aslafy-z/plein) -  (1 week ago)
+- [aslafy-z/plein](https://github.com/aslafy-z/plein) - Le plein au juste prix — PWA qui trouve les stations-service les moins chères autour de vous et sur vos trajets (France · Espagne · Andorre) (today)
+- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (1 day ago)
 - [aslafy-z/docker-envoy-https-proxy](https://github.com/aslafy-z/docker-envoy-https-proxy) - Docker image for a basic HTTPS proxy with Envoy configurable with environment variables (3 weeks ago)
 - [aslafy-z/k8s-dashboard-impersonation-proxy](https://github.com/aslafy-z/k8s-dashboard-impersonation-proxy) - Plug your SSO in front of Kubernetes Dashboard by injecting impersonation and authorization headers.  (3 weeks ago)
-- [aslafy-z/docker-envoy-tcp-proxy](https://github.com/aslafy-z/docker-envoy-tcp-proxy) - Docker image for a basic TCP proxy with Envoy configurable with environment variables (3 weeks ago)
-- [aslafy-z/docker-echo-headers](https://github.com/aslafy-z/docker-echo-headers) - A simple docker image that echoes request headers. (3 weeks ago)
-- [aslafy-z/github-actions](https://github.com/aslafy-z/github-actions) -  (3 weeks ago)
 - [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) -  (3 weeks ago)
+- [aslafy-z/github-actions](https://github.com/aslafy-z/github-actions) -  (3 weeks ago)
+- [aslafy-z/docker-echo-headers](https://github.com/aslafy-z/docker-echo-headers) - A simple docker image that echoes request headers. (3 weeks ago)
+- [aslafy-z/docker-envoy-tcp-proxy](https://github.com/aslafy-z/docker-envoy-tcp-proxy) - Docker image for a basic TCP proxy with Envoy configurable with environment variables (3 weeks ago)
 - [aslafy-z/yolo-object-detection-samples](https://github.com/aslafy-z/yolo-object-detection-samples) -  (3 weeks ago)
 - [aslafy-z/ctxdump](https://github.com/aslafy-z/ctxdump) -  (4 weeks ago)
 
@@ -44,30 +44,30 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [fix(ci): diff release notes against the pre-push manifest](https://github.com/aslafy-z/coreruleset-plugins-image/pull/5) on [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) (today)
-- [feat(build): publish linux/arm64 alongside linux/amd64](https://github.com/aslafy-z/coreruleset-plugins-image/pull/4) on [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) (today)
-- [La recherche n&#39;attend plus le géocodeur le plus lent](https://github.com/aslafy-z/plein/pull/36) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (3 days ago)
-- [Tests unitaires Vitest &#43; e2e recentrés sur le câblage UI](https://github.com/aslafy-z/plein/pull/35) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (3 days ago)
-- [Distances et temps de conduite réels via une matrice OSRM](https://github.com/aslafy-z/plein/pull/34) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (3 days ago)
-- [La carte recommande le meilleur choix réel, détour compté](https://github.com/aslafy-z/plein/pull/33) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (4 days ago)
-- [Mentionner l&#39;Espagne et l&#39;Andorre dans les descriptions utilisateur](https://github.com/aslafy-z/plein/pull/32) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (4 days ago)
-- [La carte garde le zoom utilisateur au retour d&#39;une fiche station](https://github.com/aslafy-z/plein/pull/31) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (5 days ago)
-- [README : l&#39;app couvre désormais la France et l&#39;Espagne](https://github.com/aslafy-z/plein/pull/30) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (5 days ago)
-- [Premier pan après chargement : le cercle rattrape le centre en douceur](https://github.com/aslafy-z/plein/pull/29) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (5 days ago)
+- [Rank geocode results by place kind and make suggestion lists scrollable](https://github.com/aslafy-z/plein/pull/106) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Add Catalan localization support](https://github.com/aslafy-z/plein/pull/105) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [i18n: Paraglide JS, English identifiers, French in the catalog only](https://github.com/aslafy-z/plein/pull/104) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [map: smooth keyboard pan and zoom](https://github.com/aslafy-z/plein/pull/103) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [e2e: cover URL routing and refresh persistence](https://github.com/aslafy-z/plein/pull/102) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [fonts: self-host Archivo and Spline Sans Mono](https://github.com/aslafy-z/plein/pull/101) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Cover the provider parsing layer with unit tests](https://github.com/aslafy-z/plein/pull/100) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Remove dead code: Station.cat, duplicated helpers, unused CSS and theme tokens](https://github.com/aslafy-z/plein/pull/99) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [screenshots: shoot the fiche on a well-equipped station](https://github.com/aslafy-z/plein/pull/98) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Extract CTA and sticky bar styles into reusable theme functions](https://github.com/aslafy-z/plein/pull/97) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 
 ## ⭐ Recent Stars
 
 
-- [block/buzz](https://github.com/block/buzz) - A hive mind communication platform (2 days ago)
-- [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal. (6 days ago)
+- [block/buzz](https://github.com/block/buzz) - A hive mind communication platform (3 days ago)
+- [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal. (1 week ago)
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys. (1 week ago)
 - [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) - git push no-mistakes (1 week ago)
-- [Pouzor/homelable](https://github.com/Pouzor/homelable) - Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring (1 week ago)
+- [Pouzor/homelable](https://github.com/Pouzor/homelable) - Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring (2 weeks ago)
 - [KiefStudioMA/ks-aur-scanner](https://github.com/KiefStudioMA/ks-aur-scanner) - A comprehensive security scanner for Arch Linux AUR packages that analyzes PKGBUILDs and install scripts for malicious patterns, suspicious behavior, and security vulnerabilities. Written in Rust for performance and safety. (2 weeks ago)
 - [perplexityai/bumblebee](https://github.com/perplexityai/bumblebee) - Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises. (3 weeks ago)
 - [germondai/trawl](https://github.com/germondai/trawl) - Self-hosted scraping engine — bypasses any JS challenge &amp; captcha: Cloudflare, Turnstile, reCAPTCHA, hCaptcha, GeeTest. FlareSolverr &amp; Byparr alternative and drop-in replacement for your *arr stack. (3 weeks ago)
-- [Ar9av/obsidian-wiki](https://github.com/Ar9av/obsidian-wiki) - Framework for AI agents to build and maintain a digital brain through Obsidian wiki using Karpathy&#39;s LLM Wiki pattern (3 weeks ago)
-- [DataHearth/streamline](https://github.com/DataHearth/streamline) - Unified media management platform — single-binary *arr stack &#43; Overseerr replacement (Go/chi/ent/SQLite/htmx) (4 weeks ago)
+- [Ar9av/obsidian-wiki](https://github.com/Ar9av/obsidian-wiki) - Framework for AI agents to build and maintain a digital brain through Obsidian wiki using Karpathy&#39;s LLM Wiki pattern (4 weeks ago)
+- [DataHearth/streamline](https://github.com/DataHearth/streamline) - Unified media management platform — single-binary *arr stack &#43; Overseerr replacement (Go/chi/ent/SQLite/htmx) (1 month ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
