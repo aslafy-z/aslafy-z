@@ -44,6 +44,8 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [fix(route): address the fuel-stop optimizer review](https://github.com/aslafy-z/plein/pull/112) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [feat(route): replace the stop heuristic with a fuel-stop optimizer](https://github.com/aslafy-z/plein/pull/111) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 - [Immersive desktop layout: edge-to-edge map, floating glass panels](https://github.com/aslafy-z/plein/pull/110) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 - [Give desktop a real layout instead of a phone frame](https://github.com/aslafy-z/plein/pull/109) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 - [Stream geocoder results as they land instead of waiting for all](https://github.com/aslafy-z/plein/pull/108) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
@@ -52,8 +54,6 @@ and more...
 - [Add Catalan localization support](https://github.com/aslafy-z/plein/pull/105) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 - [i18n: Paraglide JS, English identifiers, French in the catalog only](https://github.com/aslafy-z/plein/pull/104) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 - [map: smooth keyboard pan and zoom](https://github.com/aslafy-z/plein/pull/103) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [e2e: cover URL routing and refresh persistence](https://github.com/aslafy-z/plein/pull/102) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [fonts: self-host Archivo and Spline Sans Mono](https://github.com/aslafy-z/plein/pull/101) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 
 ## ⭐ Recent Stars
 
