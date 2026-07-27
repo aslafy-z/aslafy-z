@@ -1,46 +1,50 @@
 # Hi there, I am Zadkiel 👋
 
-Linux lover, cloud native builder and open source maintainer from Toulouse, France. I design and operate scalable Kubernetes platforms at **CCL Consulting** and hack on side projects after hours.
+Linux lover, cloud native builder and open source maintainer from Toulouse, France. I work on developer platforms, mostly making Kubernetes, GitOps and delivery a bit less painful for the teams using them. Currently Cloud Specialist at **Airbus Aircraft** and DevOps consultant at **CCL Consulting**.
 
 ## About me
 
-* 💼 Full-stack developer turned platform engineer  
-* ☁️ Specialized in Kubernetes, GitOps, and multi-cloud automation  
-* 💡 Active open-source maintainer and community advocate  
-* 🏢 Previously at Airbus and Carrefour  
+* 💼 Full-stack developer turned platform engineer
+* ☁️ Kubernetes across public and sovereign clouds, on-prem and the edge
+* 🧰 Specialized in developer experience, GitOps, and multi-cloud automation
+* 💡 Active open-source maintainer and community advocate
+* 📜 Certified Kubernetes Administrator (CKA) and Kubernetes Security Specialist (CKS)
+* 🤖 Exploring how agentic AI reshapes platform engineering
+* 🏢 10 years across aerospace, retail, and consulting
 * 🎓 MSc in Cybersecurity (University of Kent) and Engineering degree (EPITECH)
+* 🌍 Toulouse, France, open to full remote
 
-## Project I maintain
+## Projects I maintain
 
 - [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts straight from Git repositories
+- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications
 - [aslafy-z/plein](https://github.com/aslafy-z/plein) - Multi-country PWA that finds the cheapest fuel stations around you and along your route
 - [ccl-consulting/fleeting-plugin-scaleway](https://gitlab.com/ccl-consulting/fleeting-plugin-scaleway) - GitLab Runner auto-scaling plugin for Scaleway cloud provider
-- [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes
-- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications
 - [swapagarwal/swag-for-dev](https://github.com/swapagarwal/swag-for-dev) - 😎 swag opportunities for developers
 - [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - Collection of Arch Linux AUR packages
+- [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes, as core contributor
 
 ## 👷 What I'm currently working on
 
-* Edge-native Kubernetes platforms for aircraft systems at **Airbus**  
-* **ROS2 Dashcam**: a Jetson-powered computer vision system for edge video processing  
-* **Homelab**: a multi-zone Talos Linux Kubernetes cluster, fully GitOps-driven with Argo CD, Cilium, Rook-Ceph storage, Keycloak SSO, and self-hosted services  
-* Enhancing Kubernetes compliance, automation, and GitOps workflows at **CCL Consulting**  
-* Maintaining open-source tools and Helm plugins for the Cloud Native ecosystem  
+* Cloud-native and edge platforms for next-generation onboard aircraft systems at **Airbus**
+* **ROS2 Dashcam**: a Jetson-powered computer vision system for edge video processing
+* **Homelab**: a multi-zone Talos Linux Kubernetes cluster, fully GitOps-driven with Argo CD, Cilium, Rook-Ceph storage, Keycloak SSO, and self-hosted services
+* Kubernetes compliance, self-service platform tooling, and GitOps workflows at **CCL Consulting**
+* Maintaining open-source tools and Helm plugins for the Cloud Native ecosystem
 
 and more...
 
 
+- [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (today)
 - [aslafy-z/cv](https://github.com/aslafy-z/cv) -  (today)
 - [aslafy-z/aslafy-z.github.io](https://github.com/aslafy-z/aslafy-z.github.io) -  (today)
-- [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (today)
 - [aslafy-z/plein](https://github.com/aslafy-z/plein) - Le plein au juste prix — PWA qui trouve les stations-service les moins chères autour de vous et sur vos trajets (France · Espagne · Andorre · Portugal) (2 days ago)
 - [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (3 days ago)
+- [aslafy-z/docker-envoy-tcp-proxy](https://github.com/aslafy-z/docker-envoy-tcp-proxy) - Docker image for a basic TCP proxy with Envoy configurable with environment variables (4 weeks ago)
 - [aslafy-z/k8s-dashboard-impersonation-proxy](https://github.com/aslafy-z/k8s-dashboard-impersonation-proxy) - Plug your SSO in front of Kubernetes Dashboard by injecting impersonation and authorization headers.  (4 weeks ago)
 - [aslafy-z/docker-echo-headers](https://github.com/aslafy-z/docker-echo-headers) - A simple docker image that echoes request headers. (4 weeks ago)
-- [aslafy-z/github-actions](https://github.com/aslafy-z/github-actions) -  (4 weeks ago)
-- [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) -  (4 weeks ago)
 - [aslafy-z/docker-envoy-https-proxy](https://github.com/aslafy-z/docker-envoy-https-proxy) - Docker image for a basic HTTPS proxy with Envoy configurable with environment variables (4 weeks ago)
+- [aslafy-z/yolo-object-detection-samples](https://github.com/aslafy-z/yolo-object-detection-samples) -  (4 weeks ago)
 
 
 
@@ -55,8 +59,8 @@ and more...
 - [Give desktop a real layout instead of a phone frame](https://github.com/aslafy-z/plein/pull/109) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
 - [Stream geocoder results as they land instead of waiting for all](https://github.com/aslafy-z/plein/pull/108) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
 - [Portugal: DGEG prices, Photon search, and a Portuguese locale](https://github.com/aslafy-z/plein/pull/107) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
-- [Rank geocode results by place kind and make suggestion lists scrollable](https://github.com/aslafy-z/plein/pull/106) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
-- [Add Catalan localization support](https://github.com/aslafy-z/plein/pull/105) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
+
+[View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
 ## ⭐ Recent Stars
 
@@ -76,14 +80,19 @@ and more...
 
 ## 📈 Stats
 
-<p align="center"><img height=200 align="center" src="./stats.svg" alt="GitHub stats" /></p>
-<p align="center"><img height=200 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=aslafy-z&theme=calm-pink" alt="GitHub streak" /></p>
+<p align="center">
+  <img height=200 src="./stats.svg" alt="GitHub stats" />
+  <img height=200 src="https://github-readme-streak-stats-eight.vercel.app/?user=aslafy-z&theme=calm-pink" alt="GitHub streak" />
+</p>
 
-## Reach me
+## 📫 Reach me
 
-* 🌐 [zadkiel.fr](https://zadkiel.fr)
-* :octocat: [GitHub](https://go.zadkiel.fr/github)
-* 🦊 [GitLab](https://go.zadkiel.fr/gitlab)
-* 💬 hello at zadkiel.fr
-* 🤝 [LinkedIn](https://go.zadkiel.fr/linkedin)
-* 💼 [CV / Resume](https://go.zadkiel.fr/resume)
+<p align="center">
+  <a href="https://www.google.com/maps/place/Toulouse,+France"><img alt="Toulouse, France" src="https://img.shields.io/badge/Toulouse%2C%20France-34A853?style=for-the-badge&logo=googlemaps&logoColor=white" /></a>
+  <a href="https://go.zadkiel.fr/github"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://go.zadkiel.fr/gitlab"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" /></a>
+  <a href="https://go.zadkiel.fr/linkedin"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0ZGRkZGRiI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPgo%3D" /></a>
+  <a href="https://go.zadkiel.fr/discord"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://go.zadkiel.fr/resume"><img alt="CV / Resume" src="https://img.shields.io/badge/CV%20%2F%20Resume-4B5563?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
+  <a href="mailto:hello@zadkiel.fr"><img alt="Email: hello@zadkiel.fr" src="https://img.shields.io/badge/hello%40zadkiel.fr-EA4335?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
+</p>
