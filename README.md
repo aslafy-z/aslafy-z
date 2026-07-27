@@ -28,15 +28,15 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [aslafy-z/plein](https://github.com/aslafy-z/plein) - Le plein au juste prix — PWA qui trouve les stations-service les moins chères autour de vous et sur vos trajets (France · Espagne · Andorre · Portugal) (1 day ago)
-- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (2 days ago)
-- [aslafy-z/k8s-dashboard-impersonation-proxy](https://github.com/aslafy-z/k8s-dashboard-impersonation-proxy) - Plug your SSO in front of Kubernetes Dashboard by injecting impersonation and authorization headers.  (3 weeks ago)
-- [aslafy-z/docker-echo-headers](https://github.com/aslafy-z/docker-echo-headers) - A simple docker image that echoes request headers. (3 weeks ago)
-- [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) -  (3 weeks ago)
-- [aslafy-z/yolo-object-detection-samples](https://github.com/aslafy-z/yolo-object-detection-samples) -  (3 weeks ago)
-- [aslafy-z/docker-envoy-https-proxy](https://github.com/aslafy-z/docker-envoy-https-proxy) - Docker image for a basic HTTPS proxy with Envoy configurable with environment variables (3 weeks ago)
-- [aslafy-z/github-actions](https://github.com/aslafy-z/github-actions) -  (3 weeks ago)
-- [aslafy-z/docker-envoy-tcp-proxy](https://github.com/aslafy-z/docker-envoy-tcp-proxy) - Docker image for a basic TCP proxy with Envoy configurable with environment variables (3 weeks ago)
+- [aslafy-z/plein](https://github.com/aslafy-z/plein) - Le plein au juste prix — PWA qui trouve les stations-service les moins chères autour de vous et sur vos trajets (France · Espagne · Andorre · Portugal) (2 days ago)
+- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (3 days ago)
+- [aslafy-z/k8s-dashboard-impersonation-proxy](https://github.com/aslafy-z/k8s-dashboard-impersonation-proxy) - Plug your SSO in front of Kubernetes Dashboard by injecting impersonation and authorization headers.  (4 weeks ago)
+- [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) -  (4 weeks ago)
+- [aslafy-z/docker-echo-headers](https://github.com/aslafy-z/docker-echo-headers) - A simple docker image that echoes request headers. (4 weeks ago)
+- [aslafy-z/yolo-object-detection-samples](https://github.com/aslafy-z/yolo-object-detection-samples) -  (4 weeks ago)
+- [aslafy-z/docker-envoy-tcp-proxy](https://github.com/aslafy-z/docker-envoy-tcp-proxy) - Docker image for a basic TCP proxy with Envoy configurable with environment variables (4 weeks ago)
+- [aslafy-z/github-actions](https://github.com/aslafy-z/github-actions) -  (4 weeks ago)
+- [aslafy-z/docker-envoy-https-proxy](https://github.com/aslafy-z/docker-envoy-https-proxy) - Docker image for a basic HTTPS proxy with Envoy configurable with environment variables (4 weeks ago)
 - [aslafy-z/ctxdump](https://github.com/aslafy-z/ctxdump) -  (1 month ago)
 
 
@@ -44,22 +44,22 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [fix(route): address the fuel-stop optimizer review](https://github.com/aslafy-z/plein/pull/112) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
-- [feat(route): replace the stop heuristic with a fuel-stop optimizer](https://github.com/aslafy-z/plein/pull/111) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
-- [Immersive desktop layout: edge-to-edge map, floating glass panels](https://github.com/aslafy-z/plein/pull/110) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
-- [Give desktop a real layout instead of a phone frame](https://github.com/aslafy-z/plein/pull/109) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
-- [Stream geocoder results as they land instead of waiting for all](https://github.com/aslafy-z/plein/pull/108) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
-- [Portugal: DGEG prices, Photon search, and a Portuguese locale](https://github.com/aslafy-z/plein/pull/107) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
-- [Rank geocode results by place kind and make suggestion lists scrollable](https://github.com/aslafy-z/plein/pull/106) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
-- [Add Catalan localization support](https://github.com/aslafy-z/plein/pull/105) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
-- [i18n: Paraglide JS, English identifiers, French in the catalog only](https://github.com/aslafy-z/plein/pull/104) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
-- [map: smooth keyboard pan and zoom](https://github.com/aslafy-z/plein/pull/103) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
+- [fix(route): address the fuel-stop optimizer review](https://github.com/aslafy-z/plein/pull/112) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
+- [feat(route): replace the stop heuristic with a fuel-stop optimizer](https://github.com/aslafy-z/plein/pull/111) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
+- [Immersive desktop layout: edge-to-edge map, floating glass panels](https://github.com/aslafy-z/plein/pull/110) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
+- [Give desktop a real layout instead of a phone frame](https://github.com/aslafy-z/plein/pull/109) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
+- [Stream geocoder results as they land instead of waiting for all](https://github.com/aslafy-z/plein/pull/108) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
+- [Portugal: DGEG prices, Photon search, and a Portuguese locale](https://github.com/aslafy-z/plein/pull/107) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
+- [Rank geocode results by place kind and make suggestion lists scrollable](https://github.com/aslafy-z/plein/pull/106) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
+- [Add Catalan localization support](https://github.com/aslafy-z/plein/pull/105) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
+- [i18n: Paraglide JS, English identifiers, French in the catalog only](https://github.com/aslafy-z/plein/pull/104) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
+- [map: smooth keyboard pan and zoom](https://github.com/aslafy-z/plein/pull/103) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
 
 ## ⭐ Recent Stars
 
 
-- [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) - Build your own AI SRE agents. The open source toolkit for the AI era. (1 day ago)
-- [block/buzz](https://github.com/block/buzz) - A hive mind communication platform (4 days ago)
+- [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) - Build your own AI SRE agents. The open source toolkit for the AI era. (2 days ago)
+- [block/buzz](https://github.com/block/buzz) - A hive mind communication platform (5 days ago)
 - [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal. (1 week ago)
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys. (2 weeks ago)
 - [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) - git push no-mistakes (2 weeks ago)
@@ -67,7 +67,7 @@ and more...
 - [KiefStudioMA/ks-aur-scanner](https://github.com/KiefStudioMA/ks-aur-scanner) - A comprehensive security scanner for Arch Linux AUR packages that analyzes PKGBUILDs and install scripts for malicious patterns, suspicious behavior, and security vulnerabilities. Written in Rust for performance and safety. (2 weeks ago)
 - [perplexityai/bumblebee](https://github.com/perplexityai/bumblebee) - Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises. (3 weeks ago)
 - [germondai/trawl](https://github.com/germondai/trawl) - Self-hosted scraping engine — bypasses any JS challenge &amp; captcha: Cloudflare, Turnstile, reCAPTCHA, hCaptcha, GeeTest. FlareSolverr &amp; Byparr alternative and drop-in replacement for your *arr stack. (3 weeks ago)
-- [Ar9av/obsidian-wiki](https://github.com/Ar9av/obsidian-wiki) - Framework for AI agents to build and maintain a digital brain through Obsidian wiki using Karpathy&#39;s LLM Wiki pattern (4 weeks ago)
+- [Ar9av/obsidian-wiki](https://github.com/Ar9av/obsidian-wiki) - Framework for AI agents to build and maintain a digital brain through Obsidian wiki using Karpathy&#39;s LLM Wiki pattern (1 month ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
