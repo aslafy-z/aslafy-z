@@ -18,11 +18,13 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 - [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes
 - [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications
 - [swapagarwal/swag-for-dev](https://github.com/swapagarwal/swag-for-dev) - 😎 swag opportunities for developers
+- [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - Collection of Arch Linux AUR packages
 
 ## 👷 What I'm currently working on
 
 * Edge-native Kubernetes platforms for aircraft systems at **Airbus**  
 * **ROS2 Dashcam**: a Jetson-powered computer vision system for edge video processing  
+* **Homelab**: a multi-zone Talos Linux Kubernetes cluster, fully GitOps-driven with Argo CD, Cilium, Rook-Ceph storage, Keycloak SSO, and self-hosted services  
 * Enhancing Kubernetes compliance, automation, and GitOps workflows at **CCL Consulting**  
 * Maintaining open-source tools and Helm plugins for the Cloud Native ecosystem  
 
