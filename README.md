@@ -51,6 +51,7 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [ci(build): build only the packages a change touches](https://github.com/aslafy-z/aur-packages/pull/4) on [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) (today)
 - [feat(kprompt): add kprompt-bin, kprompt-git and kprompt-dash-git](https://github.com/aslafy-z/aur-packages/pull/3) on [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) (today)
 - [librefang-git: refresh local inference patches for current upstream](https://github.com/wuxxin/aur-packages/pull/36) on [wuxxin/aur-packages](https://github.com/wuxxin/aur-packages) (today)
 - [fix(helm): bind strategy configuration to deployment](https://github.com/thomiceli/opengist/pull/777) on [thomiceli/opengist](https://github.com/thomiceli/opengist) (1 day ago)
@@ -60,7 +61,6 @@ and more...
 - [Immersive desktop layout: edge-to-edge map, floating glass panels](https://github.com/aslafy-z/plein/pull/110) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (3 days ago)
 - [Give desktop a real layout instead of a phone frame](https://github.com/aslafy-z/plein/pull/109) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (3 days ago)
 - [Stream geocoder results as they land instead of waiting for all](https://github.com/aslafy-z/plein/pull/108) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (3 days ago)
-- [Portugal: DGEG prices, Photon search, and a Portuguese locale](https://github.com/aslafy-z/plein/pull/107) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (3 days ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
