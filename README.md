@@ -35,9 +35,9 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
+- [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (today)
 - [aslafy-z/cv](https://github.com/aslafy-z/cv) -  (1 day ago)
 - [aslafy-z/aslafy-z.github.io](https://github.com/aslafy-z/aslafy-z.github.io) -  (1 day ago)
-- [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (1 day ago)
 - [aslafy-z/plein](https://github.com/aslafy-z/plein) - Le plein au juste prix — PWA qui trouve les stations-service les moins chères autour de vous et sur vos trajets (France · Espagne · Andorre · Portugal) (3 days ago)
 - [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (4 days ago)
 - [aslafy-z/github-actions](https://github.com/aslafy-z/github-actions) -  (4 weeks ago)
@@ -51,6 +51,8 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [feat(kprompt): add kprompt-bin, kprompt-git and kprompt-dash-git](https://github.com/aslafy-z/aur-packages/pull/3) on [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) (today)
+- [librefang-git: refresh local inference patches for current upstream](https://github.com/wuxxin/aur-packages/pull/36) on [wuxxin/aur-packages](https://github.com/wuxxin/aur-packages) (today)
 - [fix(helm): bind strategy configuration to deployment](https://github.com/thomiceli/opengist/pull/777) on [thomiceli/opengist](https://github.com/thomiceli/opengist) (1 day ago)
 - [fix(theme): match print output to PDF and force PDF download](https://github.com/aslafy-z/cv/pull/2) on [aslafy-z/cv](https://github.com/aslafy-z/cv) (2 days ago)
 - [fix(route): address the fuel-stop optimizer review](https://github.com/aslafy-z/plein/pull/112) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (3 days ago)
@@ -59,8 +61,6 @@ and more...
 - [Give desktop a real layout instead of a phone frame](https://github.com/aslafy-z/plein/pull/109) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (3 days ago)
 - [Stream geocoder results as they land instead of waiting for all](https://github.com/aslafy-z/plein/pull/108) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (3 days ago)
 - [Portugal: DGEG prices, Photon search, and a Portuguese locale](https://github.com/aslafy-z/plein/pull/107) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (3 days ago)
-- [Rank geocode results by place kind and make suggestion lists scrollable](https://github.com/aslafy-z/plein/pull/106) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (3 days ago)
-- [Add Catalan localization support](https://github.com/aslafy-z/plein/pull/105) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (3 days ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
