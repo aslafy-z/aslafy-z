@@ -35,7 +35,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (1 day ago)
+- [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (today)
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist. (1 day ago)
 - [wuxxin/aur-packages](https://github.com/wuxxin/aur-packages) - archlinux AUR packages i maintain (1 day ago)
 - [aslafy-z/cv](https://github.com/aslafy-z/cv) -  (2 days ago)
@@ -51,6 +51,8 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [fix(codex-desktop-git): conflict with openai-codex-desktop](https://github.com/aslafy-z/aur-packages/pull/7) on [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) (today)
+- [feat(codex-desktop-git): add package](https://github.com/aslafy-z/aur-packages/pull/6) on [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) (today)
 - [ci(build): build only the packages a change touches](https://github.com/aslafy-z/aur-packages/pull/4) on [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) (1 day ago)
 - [feat(kprompt): add kprompt-bin, kprompt-git and kprompt-dash-git](https://github.com/aslafy-z/aur-packages/pull/3) on [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) (1 day ago)
 - [librefang-git: refresh local inference patches for current upstream](https://github.com/wuxxin/aur-packages/pull/36) on [wuxxin/aur-packages](https://github.com/wuxxin/aur-packages) (1 day ago)
@@ -58,8 +60,6 @@ and more...
 - [fix(theme): match print output to PDF and force PDF download](https://github.com/aslafy-z/cv/pull/2) on [aslafy-z/cv](https://github.com/aslafy-z/cv) (3 days ago)
 - [fix(route): address the fuel-stop optimizer review](https://github.com/aslafy-z/plein/pull/112) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (4 days ago)
 - [feat(route): replace the stop heuristic with a fuel-stop optimizer](https://github.com/aslafy-z/plein/pull/111) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (4 days ago)
-- [Immersive desktop layout: edge-to-edge map, floating glass panels](https://github.com/aslafy-z/plein/pull/110) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (4 days ago)
-- [Give desktop a real layout instead of a phone frame](https://github.com/aslafy-z/plein/pull/109) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (4 days ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
