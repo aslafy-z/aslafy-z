@@ -51,15 +51,16 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [feat(route): load itinerary results progressively](https://github.com/aslafy-z/plein/pull/129) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [feat(cache): durable station store, offline brands and cache controls](https://github.com/aslafy-z/plein/pull/128) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [fix(nav): swap the fiche history entry instead of stacking one](https://github.com/aslafy-z/plein/pull/127) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [feat(filters): add an AdBlue availability filter](https://github.com/aslafy-z/plein/pull/125) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [fix(zone): let the empty state own the panel it is given](https://github.com/aslafy-z/plein/pull/124) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [feat(search): remember picked places and rank them first](https://github.com/aslafy-z/plein/pull/123) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 - [fix(search): Escape and outside click close, box-wide focus ring, no autofill](https://github.com/aslafy-z/plein/pull/121) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 - [chore(chart): use example-registry placeholder in tests and CI](https://github.com/stakater/application/pull/596) on [stakater/application](https://github.com/stakater/application) (today)
 - [fix(offline): keep real data on failures instead of demo fallback](https://github.com/aslafy-z/plein/pull/119) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 - [fix(codex-desktop-git): conflict with openai-codex-desktop](https://github.com/aslafy-z/aur-packages/pull/7) on [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) (1 day ago)
-- [feat(codex-desktop-git): add package](https://github.com/aslafy-z/aur-packages/pull/6) on [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) (1 day ago)
-- [ci(build): build only the packages a change touches](https://github.com/aslafy-z/aur-packages/pull/4) on [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) (2 days ago)
-- [feat(kprompt): add kprompt-bin, kprompt-git and kprompt-dash-git](https://github.com/aslafy-z/aur-packages/pull/3) on [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) (2 days ago)
-- [librefang-git: refresh local inference patches for current upstream](https://github.com/wuxxin/aur-packages/pull/36) on [wuxxin/aur-packages](https://github.com/wuxxin/aur-packages) (2 days ago)
-- [fix(helm): bind strategy configuration to deployment](https://github.com/thomiceli/opengist/pull/777) on [thomiceli/opengist](https://github.com/thomiceli/opengist) (3 days ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
