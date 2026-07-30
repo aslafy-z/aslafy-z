@@ -35,15 +35,15 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
+- [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (today)
 - [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (1 day ago)
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist. (2 days ago)
 - [wuxxin/aur-packages](https://github.com/wuxxin/aur-packages) - archlinux AUR packages i maintain (2 days ago)
-- [aslafy-z/cv](https://github.com/aslafy-z/cv) -  (3 days ago)
 - [aslafy-z/aslafy-z.github.io](https://github.com/aslafy-z/aslafy-z.github.io) -  (3 days ago)
+- [aslafy-z/cv](https://github.com/aslafy-z/cv) -  (3 days ago)
 - [aslafy-z/plein](https://github.com/aslafy-z/plein) - Le plein au juste prix — PWA qui trouve les stations-service les moins chères autour de vous et sur vos trajets (France · Espagne · Andorre · Portugal) (5 days ago)
 - [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (6 days ago)
 - [aslafy-z/docker-envoy-https-proxy](https://github.com/aslafy-z/docker-envoy-https-proxy) - Docker image for a basic HTTPS proxy with Envoy configurable with environment variables (1 month ago)
-- [aslafy-z/k8s-dashboard-impersonation-proxy](https://github.com/aslafy-z/k8s-dashboard-impersonation-proxy) - Plug your SSO in front of Kubernetes Dashboard by injecting impersonation and authorization headers.  (1 month ago)
 - [aslafy-z/docker-echo-headers](https://github.com/aslafy-z/docker-echo-headers) - A simple docker image that echoes request headers. (1 month ago)
 
 
@@ -51,6 +51,8 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [fix(search): Escape and outside click close, box-wide focus ring, no autofill](https://github.com/aslafy-z/plein/pull/121) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [chore(chart): use example-registry placeholder in tests and CI](https://github.com/stakater/application/pull/596) on [stakater/application](https://github.com/stakater/application) (today)
 - [fix(offline): keep real data on failures instead of demo fallback](https://github.com/aslafy-z/plein/pull/119) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 - [fix(codex-desktop-git): conflict with openai-codex-desktop](https://github.com/aslafy-z/aur-packages/pull/7) on [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) (1 day ago)
 - [feat(codex-desktop-git): add package](https://github.com/aslafy-z/aur-packages/pull/6) on [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) (1 day ago)
@@ -58,8 +60,6 @@ and more...
 - [feat(kprompt): add kprompt-bin, kprompt-git and kprompt-dash-git](https://github.com/aslafy-z/aur-packages/pull/3) on [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) (2 days ago)
 - [librefang-git: refresh local inference patches for current upstream](https://github.com/wuxxin/aur-packages/pull/36) on [wuxxin/aur-packages](https://github.com/wuxxin/aur-packages) (2 days ago)
 - [fix(helm): bind strategy configuration to deployment](https://github.com/thomiceli/opengist/pull/777) on [thomiceli/opengist](https://github.com/thomiceli/opengist) (3 days ago)
-- [fix(theme): match print output to PDF and force PDF download](https://github.com/aslafy-z/cv/pull/2) on [aslafy-z/cv](https://github.com/aslafy-z/cv) (4 days ago)
-- [fix(route): address the fuel-stop optimizer review](https://github.com/aslafy-z/plein/pull/112) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (5 days ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
@@ -68,7 +68,7 @@ and more...
 
 - [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) - Build your own AI SRE agents. The open source toolkit for the AI era. (5 days ago)
 - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform (1 week ago)
-- [herdrdev/herdr](https://github.com/herdrdev/herdr) - agent multiplexer that lives in your terminal. (1 week ago)
+- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on (1 week ago)
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys. (2 weeks ago)
 - [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) - git push no-mistakes (2 weeks ago)
 - [Pouzor/homelable](https://github.com/Pouzor/homelable) - Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring (2 weeks ago)
