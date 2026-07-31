@@ -67,6 +67,7 @@ and more...
 ## ⭐ Recent Stars
 
 
+- [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline shell autosuggestions for zsh - Go daemon, no TUI, no sync (today)
 - [quadseven/grug](https://github.com/quadseven/grug) - One grumpy caveman. Whole software lifecycle. Grug crush bug, block evil CVE, gate weak code, run project smooth like rock. Grug know SDLC. Grug live in GitHub, post Check Runs, never spam comments. You ship. Grug guard. (today)
 - [stephrobert/feint](https://github.com/stephrobert/feint) - Local emulator for European cloud APIs — Scaleway, Outscale, Exoscale. One binary, one port, no account. (1 day ago)
 - [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) - Build your own AI SRE agents. The open source toolkit for the AI era. (6 days ago)
@@ -76,7 +77,6 @@ and more...
 - [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) - git push no-mistakes (2 weeks ago)
 - [Pouzor/homelable](https://github.com/Pouzor/homelable) - Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring (2 weeks ago)
 - [KiefStudioMA/ks-aur-scanner](https://github.com/KiefStudioMA/ks-aur-scanner) - A comprehensive security scanner for Arch Linux AUR packages that analyzes PKGBUILDs and install scripts for malicious patterns, suspicious behavior, and security vulnerabilities. Written in Rust for performance and safety. (3 weeks ago)
-- [perplexityai/bumblebee](https://github.com/perplexityai/bumblebee) - Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises. (1 month ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
