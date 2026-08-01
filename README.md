@@ -36,6 +36,7 @@ and more...
 
 
 - [aslafy-z/plein](https://github.com/aslafy-z/plein) - Le plein au juste prix — PWA qui trouve les stations-service les moins chères autour de vous et sur vos trajets (France · Espagne · Andorre · Portugal) (today)
+- [martabal/qbittorrent-exporter](https://github.com/martabal/qbittorrent-exporter) - A fast and lightweight prometheus exporter for qBittorrent (today)
 - [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (2 days ago)
 - [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (3 days ago)
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist. (4 days ago)
@@ -43,7 +44,6 @@ and more...
 - [aslafy-z/aslafy-z.github.io](https://github.com/aslafy-z/aslafy-z.github.io) -  (5 days ago)
 - [aslafy-z/cv](https://github.com/aslafy-z/cv) -  (5 days ago)
 - [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (1 week ago)
-- [aslafy-z/docker-envoy-https-proxy](https://github.com/aslafy-z/docker-envoy-https-proxy) - Docker image for a basic HTTPS proxy with Envoy configurable with environment variables (1 month ago)
 - [aslafy-z/docker-envoy-tcp-proxy](https://github.com/aslafy-z/docker-envoy-tcp-proxy) - Docker image for a basic TCP proxy with Envoy configurable with environment variables (1 month ago)
 
 
@@ -51,15 +51,16 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [fix(map): bail live-pan on background refreshes, not only cold loads](https://github.com/aslafy-z/plein/pull/147) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [feat(route): fuel-stop optimizer, reworked onto the staged route pipeline](https://github.com/aslafy-z/plein/pull/146) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [fix(i18n): move the map&#39;s two hardcoded pills into the message catalog](https://github.com/aslafy-z/plein/pull/145) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [feat(route): mirror the trip into a shareable URL, like the map&#39;s](https://github.com/aslafy-z/plein/pull/140) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [feat(map): add « Recommandé » sort to the zone list, and make it the default](https://github.com/aslafy-z/plein/pull/139) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 - [feat(settings): brand header with logo lockup and tagline](https://github.com/aslafy-z/plein/pull/138) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 - [feat(route): load itinerary results progressively, stage by stage](https://github.com/aslafy-z/plein/pull/137) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 - [fix(reco): burn the detour out of the tank you buy, not on top of it](https://github.com/aslafy-z/plein/pull/136) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 - [feat(favorites): keep favorites priced across areas and countries](https://github.com/aslafy-z/plein/pull/135) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 - [feat(route): one map-first shell, one search field, one place history (#131)](https://github.com/aslafy-z/plein/pull/134) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [feat: add healthz endpoint for probes without metrics collection](https://github.com/martabal/qbittorrent-exporter/pull/268) on [martabal/qbittorrent-exporter](https://github.com/martabal/qbittorrent-exporter) (today)
-- [feat(search): give the phone search the whole screen](https://github.com/aslafy-z/plein/pull/132) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
-- [feat(cache): durable station store, offline brands and cache controls](https://github.com/aslafy-z/plein/pull/128) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
-- [fix(nav): swap the fiche history entry instead of stacking one](https://github.com/aslafy-z/plein/pull/127) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
