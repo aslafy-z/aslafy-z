@@ -35,13 +35,13 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [aslafy-z/plein](https://github.com/aslafy-z/plein) - Le plein au juste prix — PWA qui trouve les stations-service les moins chères autour de vous et sur vos trajets (France · Espagne · Andorre · Portugal) (1 day ago)
-- [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (1 day ago)
-- [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (2 days ago)
-- [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist. (3 days ago)
-- [wuxxin/aur-packages](https://github.com/wuxxin/aur-packages) - archlinux AUR packages i maintain (3 days ago)
-- [aslafy-z/aslafy-z.github.io](https://github.com/aslafy-z/aslafy-z.github.io) -  (4 days ago)
-- [aslafy-z/cv](https://github.com/aslafy-z/cv) -  (4 days ago)
+- [aslafy-z/plein](https://github.com/aslafy-z/plein) - Le plein au juste prix — PWA qui trouve les stations-service les moins chères autour de vous et sur vos trajets (France · Espagne · Andorre · Portugal) (2 days ago)
+- [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (2 days ago)
+- [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (3 days ago)
+- [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist. (4 days ago)
+- [wuxxin/aur-packages](https://github.com/wuxxin/aur-packages) - archlinux AUR packages i maintain (4 days ago)
+- [aslafy-z/aslafy-z.github.io](https://github.com/aslafy-z/aslafy-z.github.io) -  (5 days ago)
+- [aslafy-z/cv](https://github.com/aslafy-z/cv) -  (5 days ago)
 - [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (1 week ago)
 - [aslafy-z/docker-envoy-https-proxy](https://github.com/aslafy-z/docker-envoy-https-proxy) - Docker image for a basic HTTPS proxy with Envoy configurable with environment variables (1 month ago)
 - [aslafy-z/docker-envoy-tcp-proxy](https://github.com/aslafy-z/docker-envoy-tcp-proxy) - Docker image for a basic TCP proxy with Envoy configurable with environment variables (1 month ago)
@@ -51,31 +51,31 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [feat(search): give the phone search the whole screen](https://github.com/aslafy-z/plein/pull/132) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
-- [feat(route): load itinerary results progressively](https://github.com/aslafy-z/plein/pull/129) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
-- [feat(cache): durable station store, offline brands and cache controls](https://github.com/aslafy-z/plein/pull/128) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
-- [fix(nav): swap the fiche history entry instead of stacking one](https://github.com/aslafy-z/plein/pull/127) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
-- [feat(filters): add an AdBlue availability filter](https://github.com/aslafy-z/plein/pull/125) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
-- [fix(zone): let the empty state own the panel it is given](https://github.com/aslafy-z/plein/pull/124) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
-- [feat(search): remember picked places and rank them first](https://github.com/aslafy-z/plein/pull/123) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
-- [fix(search): Escape and outside click close, box-wide focus ring, no autofill](https://github.com/aslafy-z/plein/pull/121) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
-- [chore(chart): use example-registry placeholder in tests and CI](https://github.com/stakater/application/pull/596) on [stakater/application](https://github.com/stakater/application) (1 day ago)
-- [fix(offline): keep real data on failures instead of demo fallback](https://github.com/aslafy-z/plein/pull/119) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
+- [feat: add healthz endpoint for probes without metrics collection](https://github.com/martabal/qbittorrent-exporter/pull/268) on [martabal/qbittorrent-exporter](https://github.com/martabal/qbittorrent-exporter) (today)
+- [feat(search): give the phone search the whole screen](https://github.com/aslafy-z/plein/pull/132) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
+- [feat(route): load itinerary results progressively](https://github.com/aslafy-z/plein/pull/129) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
+- [feat(cache): durable station store, offline brands and cache controls](https://github.com/aslafy-z/plein/pull/128) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
+- [fix(nav): swap the fiche history entry instead of stacking one](https://github.com/aslafy-z/plein/pull/127) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
+- [feat(filters): add an AdBlue availability filter](https://github.com/aslafy-z/plein/pull/125) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
+- [fix(zone): let the empty state own the panel it is given](https://github.com/aslafy-z/plein/pull/124) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
+- [feat(search): remember picked places and rank them first](https://github.com/aslafy-z/plein/pull/123) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
+- [fix(search): Escape and outside click close, box-wide focus ring, no autofill](https://github.com/aslafy-z/plein/pull/121) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
+- [chore(chart): use example-registry placeholder in tests and CI](https://github.com/stakater/application/pull/596) on [stakater/application](https://github.com/stakater/application) (2 days ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
 ## ⭐ Recent Stars
 
 
-- [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline shell autosuggestions for zsh - Go daemon, no TUI, no sync (today)
-- [quadseven/grug](https://github.com/quadseven/grug) - One grumpy caveman. Whole software lifecycle. Grug crush bug, block evil CVE, gate weak code, run project smooth like rock. Grug know SDLC. Grug live in GitHub, post Check Runs, never spam comments. You ship. Grug guard. (today)
-- [stephrobert/feint](https://github.com/stephrobert/feint) - Local emulator for European cloud APIs — Scaleway, Outscale, Exoscale. One binary, one port, no account. (1 day ago)
-- [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) - Build your own AI SRE agents. The open source toolkit for the AI era. (6 days ago)
+- [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline shell autosuggestions for zsh - Go daemon, no TUI, no sync (1 day ago)
+- [quadseven/grug](https://github.com/quadseven/grug) - One grumpy caveman. Whole software lifecycle. Grug crush bug, block evil CVE, gate weak code, run project smooth like rock. Grug know SDLC. Grug live in GitHub, post Check Runs, never spam comments. You ship. Grug guard. (1 day ago)
+- [stephrobert/feint](https://github.com/stephrobert/feint) - Local emulator for European cloud APIs — Scaleway, Outscale, Exoscale. One binary, one port, no account. (2 days ago)
+- [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) - Build your own AI SRE agents. The open source toolkit for the AI era. (1 week ago)
 - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform (1 week ago)
-- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on (1 week ago)
+- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on (2 weeks ago)
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys. (2 weeks ago)
 - [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) - git push no-mistakes (2 weeks ago)
-- [Pouzor/homelable](https://github.com/Pouzor/homelable) - Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring (2 weeks ago)
+- [Pouzor/homelable](https://github.com/Pouzor/homelable) - Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring (3 weeks ago)
 - [KiefStudioMA/ks-aur-scanner](https://github.com/KiefStudioMA/ks-aur-scanner) - A comprehensive security scanner for Arch Linux AUR packages that analyzes PKGBUILDs and install scripts for malicious patterns, suspicious behavior, and security vulnerabilities. Written in Rust for performance and safety. (3 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
