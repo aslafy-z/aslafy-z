@@ -58,7 +58,6 @@ and more...
 - [feat(route): one map-first shell, one search field, one place history (#131)](https://github.com/aslafy-z/plein/pull/134) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 - [feat: add healthz endpoint for probes without metrics collection](https://github.com/martabal/qbittorrent-exporter/pull/268) on [martabal/qbittorrent-exporter](https://github.com/martabal/qbittorrent-exporter) (today)
 - [feat(search): give the phone search the whole screen](https://github.com/aslafy-z/plein/pull/132) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
-- [feat(route): load itinerary results progressively](https://github.com/aslafy-z/plein/pull/129) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
 - [feat(cache): durable station store, offline brands and cache controls](https://github.com/aslafy-z/plein/pull/128) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
 - [fix(nav): swap the fiche history entry instead of stacking one](https://github.com/aslafy-z/plein/pull/127) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
 
