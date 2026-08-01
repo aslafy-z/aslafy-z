@@ -35,7 +35,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [aslafy-z/plein](https://github.com/aslafy-z/plein) - Le plein au juste prix — PWA qui trouve les stations-service les moins chères autour de vous et sur vos trajets (France · Espagne · Andorre · Portugal) (2 days ago)
+- [aslafy-z/plein](https://github.com/aslafy-z/plein) - Le plein au juste prix — PWA qui trouve les stations-service les moins chères autour de vous et sur vos trajets (France · Espagne · Andorre · Portugal) (today)
 - [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (2 days ago)
 - [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (3 days ago)
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist. (4 days ago)
@@ -51,16 +51,16 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [feat(settings): brand header with logo lockup and tagline](https://github.com/aslafy-z/plein/pull/138) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [feat(route): load itinerary results progressively, stage by stage](https://github.com/aslafy-z/plein/pull/137) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [fix(reco): burn the detour out of the tank you buy, not on top of it](https://github.com/aslafy-z/plein/pull/136) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [feat(favorites): keep favorites priced across areas and countries](https://github.com/aslafy-z/plein/pull/135) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [feat(route): one map-first shell, one search field, one place history (#131)](https://github.com/aslafy-z/plein/pull/134) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 - [feat: add healthz endpoint for probes without metrics collection](https://github.com/martabal/qbittorrent-exporter/pull/268) on [martabal/qbittorrent-exporter](https://github.com/martabal/qbittorrent-exporter) (today)
 - [feat(search): give the phone search the whole screen](https://github.com/aslafy-z/plein/pull/132) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
 - [feat(route): load itinerary results progressively](https://github.com/aslafy-z/plein/pull/129) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
 - [feat(cache): durable station store, offline brands and cache controls](https://github.com/aslafy-z/plein/pull/128) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
 - [fix(nav): swap the fiche history entry instead of stacking one](https://github.com/aslafy-z/plein/pull/127) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
-- [feat(filters): add an AdBlue availability filter](https://github.com/aslafy-z/plein/pull/125) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
-- [fix(zone): let the empty state own the panel it is given](https://github.com/aslafy-z/plein/pull/124) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
-- [feat(search): remember picked places and rank them first](https://github.com/aslafy-z/plein/pull/123) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
-- [fix(search): Escape and outside click close, box-wide focus ring, no autofill](https://github.com/aslafy-z/plein/pull/121) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
-- [chore(chart): use example-registry placeholder in tests and CI](https://github.com/stakater/application/pull/596) on [stakater/application](https://github.com/stakater/application) (2 days ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
