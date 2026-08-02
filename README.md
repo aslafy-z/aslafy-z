@@ -36,7 +36,7 @@ and more...
 
 
 - [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (today)
-- [aslafy-z/plein](https://github.com/aslafy-z/plein) - Le plein au juste prix — PWA qui trouve les stations-service les moins chères autour de vous et sur vos trajets (France · Espagne · Andorre · Portugal) (1 day ago)
+- [aslafy-z/plein](https://github.com/aslafy-z/plein) - Le plein au juste prix — PWA qui trouve les stations-service les moins chères autour de vous et sur vos trajets (France · Espagne · Andorre · Portugal) (today)
 - [martabal/qbittorrent-exporter](https://github.com/martabal/qbittorrent-exporter) - A fast and lightweight prometheus exporter for qBittorrent (1 day ago)
 - [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (3 days ago)
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist. (5 days ago)
@@ -51,6 +51,7 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [fix(pwa): precache the shell at install so a fresh PWA boots offline](https://github.com/aslafy-z/plein/pull/148) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 - [fix(renovate): scope postUpgradeTasks to PKGBUILD updates](https://github.com/aslafy-z/aur-packages/pull/10) on [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) (today)
 - [fix(map): bail live-pan on background refreshes, not only cold loads](https://github.com/aslafy-z/plein/pull/147) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
 - [feat(route): fuel-stop optimizer, reworked onto the staged route pipeline](https://github.com/aslafy-z/plein/pull/146) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
@@ -60,7 +61,6 @@ and more...
 - [feat(settings): brand header with logo lockup and tagline](https://github.com/aslafy-z/plein/pull/138) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
 - [feat(route): load itinerary results progressively, stage by stage](https://github.com/aslafy-z/plein/pull/137) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
 - [fix(reco): burn the detour out of the tank you buy, not on top of it](https://github.com/aslafy-z/plein/pull/136) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
-- [feat(favorites): keep favorites priced across areas and countries](https://github.com/aslafy-z/plein/pull/135) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
