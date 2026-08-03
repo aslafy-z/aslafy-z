@@ -35,41 +35,41 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (today)
-- [aslafy-z/plein](https://github.com/aslafy-z/plein) - Le plein au juste prix — PWA qui trouve les stations-service les moins chères autour de vous et sur vos trajets (France · Espagne · Andorre · Portugal) (today)
-- [martabal/qbittorrent-exporter](https://github.com/martabal/qbittorrent-exporter) - A fast and lightweight prometheus exporter for qBittorrent (1 day ago)
-- [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (3 days ago)
-- [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist. (5 days ago)
-- [wuxxin/aur-packages](https://github.com/wuxxin/aur-packages) - archlinux AUR packages i maintain (5 days ago)
-- [aslafy-z/aslafy-z.github.io](https://github.com/aslafy-z/aslafy-z.github.io) -  (6 days ago)
-- [aslafy-z/cv](https://github.com/aslafy-z/cv) -  (6 days ago)
+- [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (1 day ago)
+- [aslafy-z/plein](https://github.com/aslafy-z/plein) - Le plein au juste prix — PWA qui trouve les stations-service les moins chères autour de vous et sur vos trajets (France · Espagne · Andorre · Portugal) (1 day ago)
+- [martabal/qbittorrent-exporter](https://github.com/martabal/qbittorrent-exporter) - A fast and lightweight prometheus exporter for qBittorrent (2 days ago)
+- [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (4 days ago)
+- [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist. (6 days ago)
+- [wuxxin/aur-packages](https://github.com/wuxxin/aur-packages) - archlinux AUR packages i maintain (6 days ago)
+- [aslafy-z/cv](https://github.com/aslafy-z/cv) -  (1 week ago)
+- [aslafy-z/aslafy-z.github.io](https://github.com/aslafy-z/aslafy-z.github.io) -  (1 week ago)
 - [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (1 week ago)
-- [aslafy-z/docker-envoy-tcp-proxy](https://github.com/aslafy-z/docker-envoy-tcp-proxy) - Docker image for a basic TCP proxy with Envoy configurable with environment variables (1 month ago)
+- [aslafy-z/docker-echo-headers](https://github.com/aslafy-z/docker-echo-headers) - A simple docker image that echoes request headers. (1 month ago)
 
 
 
 ## 🔨 Recent Pull Requests
 
 
-- [fix(pwa): precache the shell at install so a fresh PWA boots offline](https://github.com/aslafy-z/plein/pull/148) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [fix(renovate): scope postUpgradeTasks to PKGBUILD updates](https://github.com/aslafy-z/aur-packages/pull/10) on [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) (today)
-- [fix(map): bail live-pan on background refreshes, not only cold loads](https://github.com/aslafy-z/plein/pull/147) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
-- [feat(route): fuel-stop optimizer, reworked onto the staged route pipeline](https://github.com/aslafy-z/plein/pull/146) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
-- [fix(i18n): move the map&#39;s two hardcoded pills into the message catalog](https://github.com/aslafy-z/plein/pull/145) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
-- [feat(route): mirror the trip into a shareable URL, like the map&#39;s](https://github.com/aslafy-z/plein/pull/140) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
-- [feat(map): add « Recommandé » sort to the zone list, and make it the default](https://github.com/aslafy-z/plein/pull/139) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
-- [feat(settings): brand header with logo lockup and tagline](https://github.com/aslafy-z/plein/pull/138) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
-- [feat(route): load itinerary results progressively, stage by stage](https://github.com/aslafy-z/plein/pull/137) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
-- [fix(reco): burn the detour out of the tank you buy, not on top of it](https://github.com/aslafy-z/plein/pull/136) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
+- [fix(pwa): precache the shell at install so a fresh PWA boots offline](https://github.com/aslafy-z/plein/pull/148) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
+- [fix(renovate): scope postUpgradeTasks to PKGBUILD updates](https://github.com/aslafy-z/aur-packages/pull/10) on [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) (1 day ago)
+- [fix(map): bail live-pan on background refreshes, not only cold loads](https://github.com/aslafy-z/plein/pull/147) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
+- [feat(route): fuel-stop optimizer, reworked onto the staged route pipeline](https://github.com/aslafy-z/plein/pull/146) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
+- [fix(i18n): move the map&#39;s two hardcoded pills into the message catalog](https://github.com/aslafy-z/plein/pull/145) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
+- [feat(route): mirror the trip into a shareable URL, like the map&#39;s](https://github.com/aslafy-z/plein/pull/140) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
+- [feat(map): add « Recommandé » sort to the zone list, and make it the default](https://github.com/aslafy-z/plein/pull/139) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
+- [feat(settings): brand header with logo lockup and tagline](https://github.com/aslafy-z/plein/pull/138) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
+- [feat(route): load itinerary results progressively, stage by stage](https://github.com/aslafy-z/plein/pull/137) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
+- [fix(reco): burn the detour out of the tank you buy, not on top of it](https://github.com/aslafy-z/plein/pull/136) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
 ## ⭐ Recent Stars
 
 
-- [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline shell autosuggestions for zsh - Go daemon, no TUI, no sync (2 days ago)
-- [quadseven/grug](https://github.com/quadseven/grug) - One grumpy caveman. Whole software lifecycle. Grug crush bug, block evil CVE, gate weak code, run project smooth like rock. Grug know SDLC. Grug live in GitHub, post Check Runs, never spam comments. You ship. Grug guard. (2 days ago)
-- [stephrobert/feint](https://github.com/stephrobert/feint) - Local emulator for European cloud APIs — Scaleway, Outscale, Exoscale. One binary, one port, no account. (3 days ago)
+- [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline shell autosuggestions for zsh - Go daemon, no TUI, no sync (3 days ago)
+- [quadseven/grug](https://github.com/quadseven/grug) - One grumpy caveman. Whole software lifecycle. Grug crush bug, block evil CVE, gate weak code, run project smooth like rock. Grug know SDLC. Grug live in GitHub, post Check Runs, never spam comments. You ship. Grug guard. (3 days ago)
+- [stephrobert/feint](https://github.com/stephrobert/feint) - Local emulator for European cloud APIs — Scaleway, Outscale, Exoscale. One binary, one port, no account. (4 days ago)
 - [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) - Build your own AI SRE agents. The open source toolkit for the AI era. (1 week ago)
 - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform (1 week ago)
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on (2 weeks ago)
