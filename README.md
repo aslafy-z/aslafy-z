@@ -51,23 +51,22 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [fix: model connection admission as gate, demand and capacity](https://github.com/aslafy-z/anacrolix-torrent/pull/4) on [aslafy-z/anacrolix-torrent](https://github.com/aslafy-z/anacrolix-torrent) (today)
+- [fix: accept incoming connections while initial verification is unsettled](https://github.com/aslafy-z/anacrolix-torrent/pull/3) on [aslafy-z/anacrolix-torrent](https://github.com/aslafy-z/anacrolix-torrent) (today)
+- [test: reproduce peer loss when rejected during initial verification (#1)](https://github.com/aslafy-z/anacrolix-torrent/pull/2) on [aslafy-z/anacrolix-torrent](https://github.com/aslafy-z/anacrolix-torrent) (today)
 - [fix(pwa): precache the shell at install so a fresh PWA boots offline](https://github.com/aslafy-z/plein/pull/148) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
 - [fix(renovate): scope postUpgradeTasks to PKGBUILD updates](https://github.com/aslafy-z/aur-packages/pull/10) on [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) (1 day ago)
 - [fix(map): bail live-pan on background refreshes, not only cold loads](https://github.com/aslafy-z/plein/pull/147) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
 - [feat(route): fuel-stop optimizer, reworked onto the staged route pipeline](https://github.com/aslafy-z/plein/pull/146) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
 - [fix(i18n): move the map&#39;s two hardcoded pills into the message catalog](https://github.com/aslafy-z/plein/pull/145) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
 - [feat(route): mirror the trip into a shareable URL, like the map&#39;s](https://github.com/aslafy-z/plein/pull/140) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
-- [feat(map): add « Recommandé » sort to the zone list, and make it the default](https://github.com/aslafy-z/plein/pull/139) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
-- [feat(settings): brand header with logo lockup and tagline](https://github.com/aslafy-z/plein/pull/138) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
-- [feat(route): load itinerary results progressively, stage by stage](https://github.com/aslafy-z/plein/pull/137) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
-- [fix(reco): burn the detour out of the tank you buy, not on top of it](https://github.com/aslafy-z/plein/pull/136) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
 ## ⭐ Recent Stars
 
 
-- [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline shell autosuggestions for zsh - Go daemon, no TUI, no sync (3 days ago)
+- [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline shell autosuggestions for zsh. Go daemon, no TUI, no sync (3 days ago)
 - [quadseven/grug](https://github.com/quadseven/grug) - One grumpy caveman. Whole software lifecycle. Grug crush bug, block evil CVE, gate weak code, run project smooth like rock. Grug know SDLC. Grug live in GitHub, post Check Runs, never spam comments. You ship. Grug guard. (3 days ago)
 - [stephrobert/feint](https://github.com/stephrobert/feint) - Local emulator for European cloud APIs — Scaleway, Outscale, Exoscale. One binary, one port, no account. (4 days ago)
 - [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) - Build your own AI SRE agents. The open source toolkit for the AI era. (1 week ago)
