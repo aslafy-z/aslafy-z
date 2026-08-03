@@ -35,8 +35,8 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [aslafy-z/plein](https://github.com/aslafy-z/plein) - Le plein au juste prix — PWA qui trouve les stations-service les moins chères autour de vous et sur vos trajets (France · Espagne · Andorre · Portugal) (1 day ago)
 - [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (1 day ago)
+- [aslafy-z/plein](https://github.com/aslafy-z/plein) - Le plein au juste prix — PWA qui trouve les stations-service les moins chères autour de vous et sur vos trajets (France · Espagne · Andorre · Portugal) (1 day ago)
 - [martabal/qbittorrent-exporter](https://github.com/martabal/qbittorrent-exporter) - A fast and lightweight prometheus exporter for qBittorrent (2 days ago)
 - [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (4 days ago)
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist. (6 days ago)
@@ -51,15 +51,15 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [fix(torrent): don&#39;t lose msg writer wakeups during buffer fill](https://github.com/anacrolix/torrent/pull/1071) on [anacrolix/torrent](https://github.com/anacrolix/torrent) (today)
+- [chore(deps): validate torrent wakeup fix without the keepalive workaround](https://github.com/DataHearth/streamline/pull/4) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [fix: don&#39;t lose msg writer wakeups during buffer fill](https://github.com/aslafy-z/anacrolix-torrent/pull/7) on [aslafy-z/anacrolix-torrent](https://github.com/aslafy-z/anacrolix-torrent) (today)
 - [fix: model connection admission as gate, demand and capacity](https://github.com/aslafy-z/anacrolix-torrent/pull/4) on [aslafy-z/anacrolix-torrent](https://github.com/aslafy-z/anacrolix-torrent) (today)
 - [fix: accept incoming connections while initial verification is unsettled](https://github.com/aslafy-z/anacrolix-torrent/pull/3) on [aslafy-z/anacrolix-torrent](https://github.com/aslafy-z/anacrolix-torrent) (today)
 - [test: reproduce peer loss when rejected during initial verification (#1)](https://github.com/aslafy-z/anacrolix-torrent/pull/2) on [aslafy-z/anacrolix-torrent](https://github.com/aslafy-z/anacrolix-torrent) (today)
 - [fix(pwa): precache the shell at install so a fresh PWA boots offline](https://github.com/aslafy-z/plein/pull/148) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
 - [fix(renovate): scope postUpgradeTasks to PKGBUILD updates](https://github.com/aslafy-z/aur-packages/pull/10) on [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) (1 day ago)
 - [fix(map): bail live-pan on background refreshes, not only cold loads](https://github.com/aslafy-z/plein/pull/147) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
-- [feat(route): fuel-stop optimizer, reworked onto the staged route pipeline](https://github.com/aslafy-z/plein/pull/146) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
-- [fix(i18n): move the map&#39;s two hardcoded pills into the message catalog](https://github.com/aslafy-z/plein/pull/145) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
-- [feat(route): mirror the trip into a shareable URL, like the map&#39;s](https://github.com/aslafy-z/plein/pull/140) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
