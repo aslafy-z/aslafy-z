@@ -35,12 +35,12 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (1 day ago)
-- [aslafy-z/plein](https://github.com/aslafy-z/plein) - Le plein au juste prix — PWA qui trouve les stations-service les moins chères autour de vous et sur vos trajets (France · Espagne · Andorre · Portugal) (1 day ago)
-- [martabal/qbittorrent-exporter](https://github.com/martabal/qbittorrent-exporter) - A fast and lightweight prometheus exporter for qBittorrent (2 days ago)
-- [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (4 days ago)
-- [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist. (6 days ago)
-- [wuxxin/aur-packages](https://github.com/wuxxin/aur-packages) - archlinux AUR packages i maintain (6 days ago)
+- [aslafy-z/plein](https://github.com/aslafy-z/plein) - Le plein au juste prix — PWA qui trouve les stations-service les moins chères autour de vous et sur vos trajets (France · Espagne · Andorre · Portugal) (today)
+- [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (2 days ago)
+- [martabal/qbittorrent-exporter](https://github.com/martabal/qbittorrent-exporter) - A fast and lightweight prometheus exporter for qBittorrent (3 days ago)
+- [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (5 days ago)
+- [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist. (1 week ago)
+- [wuxxin/aur-packages](https://github.com/wuxxin/aur-packages) - archlinux AUR packages i maintain (1 week ago)
 - [aslafy-z/cv](https://github.com/aslafy-z/cv) -  (1 week ago)
 - [aslafy-z/aslafy-z.github.io](https://github.com/aslafy-z/aslafy-z.github.io) -  (1 week ago)
 - [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (1 week ago)
@@ -51,31 +51,32 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [fix(torrent): don&#39;t lose msg writer wakeups during buffer fill](https://github.com/anacrolix/torrent/pull/1071) on [anacrolix/torrent](https://github.com/anacrolix/torrent) (today)
-- [chore(deps): validate torrent wakeup fix without the keepalive workaround](https://github.com/DataHearth/streamline/pull/4) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
-- [fix: don&#39;t lose msg writer wakeups during buffer fill](https://github.com/aslafy-z/anacrolix-torrent/pull/7) on [aslafy-z/anacrolix-torrent](https://github.com/aslafy-z/anacrolix-torrent) (today)
-- [fix: model connection admission as gate, demand and capacity](https://github.com/aslafy-z/anacrolix-torrent/pull/4) on [aslafy-z/anacrolix-torrent](https://github.com/aslafy-z/anacrolix-torrent) (today)
-- [fix: accept incoming connections while initial verification is unsettled](https://github.com/aslafy-z/anacrolix-torrent/pull/3) on [aslafy-z/anacrolix-torrent](https://github.com/aslafy-z/anacrolix-torrent) (today)
-- [test: reproduce peer loss when rejected during initial verification (#1)](https://github.com/aslafy-z/anacrolix-torrent/pull/2) on [aslafy-z/anacrolix-torrent](https://github.com/aslafy-z/anacrolix-torrent) (today)
-- [fix(pwa): precache the shell at install so a fresh PWA boots offline](https://github.com/aslafy-z/plein/pull/148) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
-- [fix(renovate): scope postUpgradeTasks to PKGBUILD updates](https://github.com/aslafy-z/aur-packages/pull/10) on [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) (1 day ago)
-- [fix(map): bail live-pan on background refreshes, not only cold loads](https://github.com/aslafy-z/plein/pull/147) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
+- [Lead every data-source row with its country](https://github.com/aslafy-z/plein/pull/170) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Keep the recenter control lit while the origin link is drawn](https://github.com/aslafy-z/plein/pull/169) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Make English the reference for UI names; e2e suite asserts the English UI](https://github.com/aslafy-z/plein/pull/168) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Make the whole zone-list row clickable](https://github.com/aslafy-z/plein/pull/167) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [feat(theme): light mode — browser default, switchable in Réglages](https://github.com/aslafy-z/plein/pull/166) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [fix(map): keep resize pans programmatic so a shared link&#39;s area stays put](https://github.com/aslafy-z/plein/pull/165) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [feat(map): offline zoom-out tile pyramid &#43; CARTO recovery after a network blip](https://github.com/aslafy-z/plein/pull/164) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Measure the trip to a station from the search center when the area is out of reach](https://github.com/aslafy-z/plein/pull/163) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [test(map): measure the far circle off a pin, not its clipped path](https://github.com/aslafy-z/plein/pull/162) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [fix(map): sweep the circle back on drag after pin-hopping away](https://github.com/aslafy-z/plein/pull/158) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
 ## ⭐ Recent Stars
 
 
-- [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline shell autosuggestions for zsh. Go daemon, no TUI, no sync (3 days ago)
-- [quadseven/grug](https://github.com/quadseven/grug) - One grumpy caveman. Whole software lifecycle. Grug crush bug, block evil CVE, gate weak code, run project smooth like rock. Grug know SDLC. Grug live in GitHub, post Check Runs, never spam comments. You ship. Grug guard. (3 days ago)
-- [stephrobert/feint](https://github.com/stephrobert/feint) - Local emulator for European cloud APIs — Scaleway, Outscale, Exoscale. One binary, one port, no account. (4 days ago)
+- [edaywalid/undo](https://github.com/edaywalid/undo) - Undo what the last shell command did to the filesystem (today)
+- [wie-project/kakehashi](https://github.com/wie-project/kakehashi) - Userspace macOS translation layer for Linux ARM64 (today)
+- [bjarneo/ku](https://github.com/bjarneo/ku) - A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods.  (today)
+- [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline shell autosuggestions for zsh. Go daemon, no TUI, no sync (4 days ago)
+- [quadseven/grug](https://github.com/quadseven/grug) - One grumpy caveman. Whole software lifecycle. Grug crush bug, block evil CVE, gate weak code, run project smooth like rock. Grug know SDLC. Grug live in GitHub, post Check Runs, never spam comments. You ship. Grug guard. (4 days ago)
+- [stephrobert/feint](https://github.com/stephrobert/feint) - Local emulator for European cloud APIs — Scaleway, Outscale, Exoscale. One binary, one port, no account. (5 days ago)
 - [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) - Build your own AI SRE agents. The open source toolkit for the AI era. (1 week ago)
 - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform (1 week ago)
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on (2 weeks ago)
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys. (3 weeks ago)
-- [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) - git push no-mistakes (3 weeks ago)
-- [Pouzor/homelable](https://github.com/Pouzor/homelable) - Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring (3 weeks ago)
-- [KiefStudioMA/ks-aur-scanner](https://github.com/KiefStudioMA/ks-aur-scanner) - A comprehensive security scanner for Arch Linux AUR packages that analyzes PKGBUILDs and install scripts for malicious patterns, suspicious behavior, and security vulnerabilities. Written in Rust for performance and safety. (3 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
