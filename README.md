@@ -35,7 +35,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [aslafy-z/plein](https://github.com/aslafy-z/plein) - Le plein au juste prix — PWA qui trouve les stations-service les moins chères autour de vous et sur vos trajets (France · Espagne · Andorre · Portugal) (today)
+- [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (today)
 - [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (2 days ago)
 - [martabal/qbittorrent-exporter](https://github.com/martabal/qbittorrent-exporter) - A fast and lightweight prometheus exporter for qBittorrent (3 days ago)
 - [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (5 days ago)
@@ -44,23 +44,23 @@ and more...
 - [aslafy-z/cv](https://github.com/aslafy-z/cv) -  (1 week ago)
 - [aslafy-z/aslafy-z.github.io](https://github.com/aslafy-z/aslafy-z.github.io) -  (1 week ago)
 - [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (1 week ago)
-- [aslafy-z/docker-echo-headers](https://github.com/aslafy-z/docker-echo-headers) - A simple docker image that echoes request headers. (1 month ago)
+- [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) -  (1 month ago)
 
 
 
 ## 🔨 Recent Pull Requests
 
 
-- [Lead every data-source row with its country](https://github.com/aslafy-z/plein/pull/170) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Keep the recenter control lit while the origin link is drawn](https://github.com/aslafy-z/plein/pull/169) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Make English the reference for UI names; e2e suite asserts the English UI](https://github.com/aslafy-z/plein/pull/168) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Make the whole zone-list row clickable](https://github.com/aslafy-z/plein/pull/167) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [feat(theme): light mode — browser default, switchable in Réglages](https://github.com/aslafy-z/plein/pull/166) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [fix(map): keep resize pans programmatic so a shared link&#39;s area stays put](https://github.com/aslafy-z/plein/pull/165) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [feat(map): offline zoom-out tile pyramid &#43; CARTO recovery after a network blip](https://github.com/aslafy-z/plein/pull/164) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Measure the trip to a station from the search center when the area is out of reach](https://github.com/aslafy-z/plein/pull/163) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [test(map): measure the far circle off a pin, not its clipped path](https://github.com/aslafy-z/plein/pull/162) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [fix(map): sweep the circle back on drag after pin-hopping away](https://github.com/aslafy-z/plein/pull/158) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Give the onboarding skip-location link a full-size tap target](https://github.com/aslafy-z/plein/pull/180) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Make the sheet draggable with a mouse: track non-touch drags on the window](https://github.com/aslafy-z/plein/pull/179) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [docs(claude): ask agents to commit and open a PR as soon as changes are testable](https://github.com/aslafy-z/plein/pull/178) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Surface the route avoid chips over the map on the phone during setup](https://github.com/aslafy-z/plein/pull/177) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Replace 3-letter country codes with ISO 3166-1 alpha-2 codes](https://github.com/aslafy-z/plein/pull/176) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [docs(readme): make English the source, add FR/ES/CA/PT mirrors with a language switcher](https://github.com/aslafy-z/plein/pull/175) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Rename messages script to build:messages](https://github.com/aslafy-z/plein/pull/174) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Stabilize the circle-return spec: settle the map before measuring, tap pins by element](https://github.com/aslafy-z/plein/pull/173) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Add a togglable debug overlay, Settings cache diagnostics, and a cached-areas map layer](https://github.com/aslafy-z/plein/pull/172) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Cross-fade the theme switch through the View Transitions API](https://github.com/aslafy-z/plein/pull/171) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
