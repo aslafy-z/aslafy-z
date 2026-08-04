@@ -51,16 +51,16 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [Give the onboarding skip-location link a full-size tap target](https://github.com/aslafy-z/plein/pull/180) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Make the sheet draggable with a mouse: track non-touch drags on the window](https://github.com/aslafy-z/plein/pull/179) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [docs(claude): ask agents to commit and open a PR as soon as changes are testable](https://github.com/aslafy-z/plein/pull/178) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Surface the route avoid chips over the map on the phone during setup](https://github.com/aslafy-z/plein/pull/177) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Replace 3-letter country codes with ISO 3166-1 alpha-2 codes](https://github.com/aslafy-z/plein/pull/176) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [docs(readme): make English the source, add FR/ES/CA/PT mirrors with a language switcher](https://github.com/aslafy-z/plein/pull/175) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Rename messages script to build:messages](https://github.com/aslafy-z/plein/pull/174) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Stabilize the circle-return spec: settle the map before measuring, tap pins by element](https://github.com/aslafy-z/plein/pull/173) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Add a togglable debug overlay, Settings cache diagnostics, and a cached-areas map layer](https://github.com/aslafy-z/plein/pull/172) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Cross-fade the theme switch through the View Transitions API](https://github.com/aslafy-z/plein/pull/171) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Split user position from map center: lastFix vs lastPos](https://github.com/aslafy-z/plein/pull/194) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Turn the crosshair itself while the position fix is out](https://github.com/aslafy-z/plein/pull/193) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Show that a position fix is under way instead of a dead tap](https://github.com/aslafy-z/plein/pull/192) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Show the user&#39;s position on the route map](https://github.com/aslafy-z/plein/pull/191) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Keep the debug tile grid on screen across a tab round trip](https://github.com/aslafy-z/plein/pull/190) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Name the Appearance default « Browser theme » rather than « Browser setting »](https://github.com/aslafy-z/plein/pull/189) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Add issue forms, a PR template and a contributing guide, and route the app&#39;s report flow into them](https://github.com/aslafy-z/plein/pull/188) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Draw only the visible part of the search-zone circle](https://github.com/aslafy-z/plein/pull/187) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Add a Force offline mode switch to Settings › Offline data](https://github.com/aslafy-z/plein/pull/186) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Refactor Settings layout to split scroll container from content](https://github.com/aslafy-z/plein/pull/185) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
