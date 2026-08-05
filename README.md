@@ -36,45 +36,45 @@ and more...
 
 
 - [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (today)
-- [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (2 days ago)
-- [martabal/qbittorrent-exporter](https://github.com/martabal/qbittorrent-exporter) - A fast and lightweight prometheus exporter for qBittorrent (3 days ago)
-- [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (5 days ago)
+- [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (3 days ago)
+- [martabal/qbittorrent-exporter](https://github.com/martabal/qbittorrent-exporter) - A fast and lightweight prometheus exporter for qBittorrent (4 days ago)
+- [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (6 days ago)
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist. (1 week ago)
 - [wuxxin/aur-packages](https://github.com/wuxxin/aur-packages) - archlinux AUR packages i maintain (1 week ago)
 - [aslafy-z/cv](https://github.com/aslafy-z/cv) -  (1 week ago)
 - [aslafy-z/aslafy-z.github.io](https://github.com/aslafy-z/aslafy-z.github.io) -  (1 week ago)
 - [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (1 week ago)
-- [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) -  (1 month ago)
+- [aslafy-z/docker-echo-headers](https://github.com/aslafy-z/docker-echo-headers) - A simple docker image that echoes request headers. (1 month ago)
 
 
 
 ## 🔨 Recent Pull Requests
 
 
-- [Split user position from map center: lastFix vs lastPos](https://github.com/aslafy-z/plein/pull/194) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Turn the crosshair itself while the position fix is out](https://github.com/aslafy-z/plein/pull/193) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Show that a position fix is under way instead of a dead tap](https://github.com/aslafy-z/plein/pull/192) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Show the user&#39;s position on the route map](https://github.com/aslafy-z/plein/pull/191) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Keep the debug tile grid on screen across a tab round trip](https://github.com/aslafy-z/plein/pull/190) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Name the Appearance default « Browser theme » rather than « Browser setting »](https://github.com/aslafy-z/plein/pull/189) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Add issue forms, a PR template and a contributing guide, and route the app&#39;s report flow into them](https://github.com/aslafy-z/plein/pull/188) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Draw only the visible part of the search-zone circle](https://github.com/aslafy-z/plein/pull/187) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Add a Force offline mode switch to Settings › Offline data](https://github.com/aslafy-z/plein/pull/186) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Refactor Settings layout to split scroll container from content](https://github.com/aslafy-z/plein/pull/185) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Catch a gliding sheet wherever the grab lands](https://github.com/aslafy-z/plein/pull/199) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Eliminate Firefox jank in the bottom sheet: lite-effects mode on Gecko, touchmove-fed drags, composited reveal](https://github.com/aslafy-z/plein/pull/198) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
+- [Put the route&#39;s departure and destination on one line on the phone](https://github.com/aslafy-z/plein/pull/197) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
+- [Light theme: redistribute the contrast instead of adding more](https://github.com/aslafy-z/plein/pull/196) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
+- [Stop the route freezing the app while its corridor lands](https://github.com/aslafy-z/plein/pull/195) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
+- [Split user position from map center: lastFix vs lastPos](https://github.com/aslafy-z/plein/pull/194) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
+- [Turn the crosshair itself while the position fix is out](https://github.com/aslafy-z/plein/pull/193) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
+- [Show that a position fix is under way instead of a dead tap](https://github.com/aslafy-z/plein/pull/192) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
+- [Show the user&#39;s position on the route map](https://github.com/aslafy-z/plein/pull/191) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
+- [Keep the debug tile grid on screen across a tab round trip](https://github.com/aslafy-z/plein/pull/190) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
 ## ⭐ Recent Stars
 
 
-- [edaywalid/undo](https://github.com/edaywalid/undo) - Undo what the last shell command did to the filesystem (today)
-- [wie-project/kakehashi](https://github.com/wie-project/kakehashi) - Userspace macOS translation layer for Linux ARM64 (today)
-- [bjarneo/ku](https://github.com/bjarneo/ku) - A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods.  (today)
-- [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline shell autosuggestions for zsh. Go daemon, no TUI, no sync (4 days ago)
-- [quadseven/grug](https://github.com/quadseven/grug) - One grumpy caveman. Whole software lifecycle. Grug crush bug, block evil CVE, gate weak code, run project smooth like rock. Grug know SDLC. Grug live in GitHub, post Check Runs, never spam comments. You ship. Grug guard. (4 days ago)
-- [stephrobert/feint](https://github.com/stephrobert/feint) - Local emulator for European cloud APIs — Scaleway, Outscale, Exoscale. One binary, one port, no account. (5 days ago)
+- [edaywalid/undo](https://github.com/edaywalid/undo) - Undo what the last shell command did to the filesystem (1 day ago)
+- [wie-project/kakehashi](https://github.com/wie-project/kakehashi) - Userspace macOS translation layer for Linux ARM64 (1 day ago)
+- [bjarneo/ku](https://github.com/bjarneo/ku) - A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods.  (1 day ago)
+- [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline shell autosuggestions for zsh. Go daemon, no TUI, no sync (5 days ago)
+- [quadseven/grug](https://github.com/quadseven/grug) - One grumpy caveman. Whole software lifecycle. Grug crush bug, block evil CVE, gate weak code, run project smooth like rock. Grug know SDLC. Grug live in GitHub, post Check Runs, never spam comments. You ship. Grug guard. (5 days ago)
+- [stephrobert/feint](https://github.com/stephrobert/feint) - Local emulator for European cloud APIs — Scaleway, Outscale, Exoscale. One binary, one port, no account. (6 days ago)
 - [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) - Build your own AI SRE agents. The open source toolkit for the AI era. (1 week ago)
-- [block/buzz](https://github.com/block/buzz) - A hive mind communication platform (1 week ago)
+- [block/buzz](https://github.com/block/buzz) - A hive mind communication platform (2 weeks ago)
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on (2 weeks ago)
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys. (3 weeks ago)
 
