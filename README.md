@@ -51,6 +51,8 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [Split the route&#39;s endpoint line on desktop too](https://github.com/aslafy-z/plein/pull/201) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Let users pick their current position as a route destination](https://github.com/aslafy-z/plein/pull/200) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 - [Catch a gliding sheet wherever the grab lands](https://github.com/aslafy-z/plein/pull/199) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 - [Eliminate Firefox jank in the bottom sheet: lite-effects mode on Gecko, touchmove-fed drags, composited reveal](https://github.com/aslafy-z/plein/pull/198) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
 - [Put the route&#39;s departure and destination on one line on the phone](https://github.com/aslafy-z/plein/pull/197) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
@@ -59,14 +61,13 @@ and more...
 - [Split user position from map center: lastFix vs lastPos](https://github.com/aslafy-z/plein/pull/194) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
 - [Turn the crosshair itself while the position fix is out](https://github.com/aslafy-z/plein/pull/193) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
 - [Show that a position fix is under way instead of a dead tap](https://github.com/aslafy-z/plein/pull/192) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
-- [Show the user&#39;s position on the route map](https://github.com/aslafy-z/plein/pull/191) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
-- [Keep the debug tile grid on screen across a tab round trip](https://github.com/aslafy-z/plein/pull/190) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
 ## ⭐ Recent Stars
 
 
+- [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent (today)
 - [edaywalid/undo](https://github.com/edaywalid/undo) - Undo what the last shell command did to the filesystem (1 day ago)
 - [wie-project/kakehashi](https://github.com/wie-project/kakehashi) - Userspace macOS translation layer for Linux ARM64 (1 day ago)
 - [bjarneo/ku](https://github.com/bjarneo/ku) - A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods.  (1 day ago)
@@ -76,7 +77,6 @@ and more...
 - [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) - Build your own AI SRE agents. The open source toolkit for the AI era. (1 week ago)
 - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform (2 weeks ago)
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on (2 weeks ago)
-- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys. (3 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
