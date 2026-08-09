@@ -35,8 +35,8 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (3 days ago)
-- [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (6 days ago)
+- [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (4 days ago)
+- [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (1 week ago)
 - [martabal/qbittorrent-exporter](https://github.com/martabal/qbittorrent-exporter) - A fast and lightweight prometheus exporter for qBittorrent (1 week ago)
 - [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (1 week ago)
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist. (1 week ago)
@@ -51,32 +51,32 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [Split the route&#39;s endpoint line on desktop too](https://github.com/aslafy-z/plein/pull/201) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (3 days ago)
-- [Let users pick their current position as a route destination](https://github.com/aslafy-z/plein/pull/200) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (3 days ago)
-- [Catch a gliding sheet wherever the grab lands](https://github.com/aslafy-z/plein/pull/199) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (3 days ago)
-- [Eliminate Firefox jank in the bottom sheet: lite-effects mode on Gecko, touchmove-fed drags, composited reveal](https://github.com/aslafy-z/plein/pull/198) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (4 days ago)
-- [Put the route&#39;s departure and destination on one line on the phone](https://github.com/aslafy-z/plein/pull/197) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (4 days ago)
-- [Light theme: redistribute the contrast instead of adding more](https://github.com/aslafy-z/plein/pull/196) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (4 days ago)
-- [Stop the route freezing the app while its corridor lands](https://github.com/aslafy-z/plein/pull/195) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (4 days ago)
-- [Split user position from map center: lastFix vs lastPos](https://github.com/aslafy-z/plein/pull/194) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (4 days ago)
-- [Turn the crosshair itself while the position fix is out](https://github.com/aslafy-z/plein/pull/193) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (4 days ago)
-- [Show that a position fix is under way instead of a dead tap](https://github.com/aslafy-z/plein/pull/192) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (4 days ago)
+- [Split the route&#39;s endpoint line on desktop too](https://github.com/aslafy-z/plein/pull/201) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (4 days ago)
+- [Let users pick their current position as a route destination](https://github.com/aslafy-z/plein/pull/200) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (4 days ago)
+- [Catch a gliding sheet wherever the grab lands](https://github.com/aslafy-z/plein/pull/199) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (4 days ago)
+- [Eliminate Firefox jank in the bottom sheet: lite-effects mode on Gecko, touchmove-fed drags, composited reveal](https://github.com/aslafy-z/plein/pull/198) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (5 days ago)
+- [Put the route&#39;s departure and destination on one line on the phone](https://github.com/aslafy-z/plein/pull/197) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (5 days ago)
+- [Light theme: redistribute the contrast instead of adding more](https://github.com/aslafy-z/plein/pull/196) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (5 days ago)
+- [Stop the route freezing the app while its corridor lands](https://github.com/aslafy-z/plein/pull/195) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (5 days ago)
+- [Split user position from map center: lastFix vs lastPos](https://github.com/aslafy-z/plein/pull/194) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (5 days ago)
+- [Turn the crosshair itself while the position fix is out](https://github.com/aslafy-z/plein/pull/193) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (5 days ago)
+- [Show that a position fix is under way instead of a dead tap](https://github.com/aslafy-z/plein/pull/192) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (5 days ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
 ## ⭐ Recent Stars
 
 
-- [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent (3 days ago)
-- [edaywalid/undo](https://github.com/edaywalid/undo) - Undo what the last shell command did to the filesystem (4 days ago)
-- [wie-project/kakehashi](https://github.com/wie-project/kakehashi) - Userspace macOS translation layer for Linux ARM64 (4 days ago)
-- [bjarneo/ku](https://github.com/bjarneo/ku) - A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods.  (4 days ago)
+- [nicobailon/surf-cli](https://github.com/nicobailon/surf-cli) - The CLI for AI agents to control Chrome. Zero config, agent-agnostic, battle-tested. (today)
+- [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent (4 days ago)
+- [edaywalid/undo](https://github.com/edaywalid/undo) - Undo what the last shell command did to the filesystem (5 days ago)
+- [wie-project/kakehashi](https://github.com/wie-project/kakehashi) - Userspace macOS translation layer for Linux ARM64 (5 days ago)
+- [bjarneo/ku](https://github.com/bjarneo/ku) - A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods.  (5 days ago)
 - [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline shell autosuggestions for zsh. Go daemon, no TUI, no sync (1 week ago)
 - [quadseven/grug](https://github.com/quadseven/grug) - One grumpy caveman. Whole software lifecycle. Grug crush bug, block evil CVE, gate weak code, run project smooth like rock. Grug know SDLC. Grug live in GitHub, post Check Runs, never spam comments. You ship. Grug guard. (1 week ago)
 - [stephrobert/feint](https://github.com/stephrobert/feint) - Local emulator for European cloud APIs — Scaleway, Outscale, Exoscale. One binary, one port, no account. (1 week ago)
 - [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) - Build your own AI SRE agents. The open source toolkit for the AI era. (2 weeks ago)
 - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform (2 weeks ago)
-- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on (3 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
