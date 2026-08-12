@@ -35,7 +35,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (6 days ago)
+- [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (1 week ago)
 - [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (1 week ago)
 - [martabal/qbittorrent-exporter](https://github.com/martabal/qbittorrent-exporter) - A fast and lightweight prometheus exporter for qBittorrent (1 week ago)
 - [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (1 week ago)
@@ -51,9 +51,9 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [Split the route&#39;s endpoint line on desktop too](https://github.com/aslafy-z/plein/pull/201) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (6 days ago)
-- [Let users pick their current position as a route destination](https://github.com/aslafy-z/plein/pull/200) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (6 days ago)
-- [Catch a gliding sheet wherever the grab lands](https://github.com/aslafy-z/plein/pull/199) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (6 days ago)
+- [Split the route&#39;s endpoint line on desktop too](https://github.com/aslafy-z/plein/pull/201) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 week ago)
+- [Let users pick their current position as a route destination](https://github.com/aslafy-z/plein/pull/200) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 week ago)
+- [Catch a gliding sheet wherever the grab lands](https://github.com/aslafy-z/plein/pull/199) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 week ago)
 - [Eliminate Firefox jank in the bottom sheet: lite-effects mode on Gecko, touchmove-fed drags, composited reveal](https://github.com/aslafy-z/plein/pull/198) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 week ago)
 - [Put the route&#39;s departure and destination on one line on the phone](https://github.com/aslafy-z/plein/pull/197) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 week ago)
 - [Light theme: redistribute the contrast instead of adding more](https://github.com/aslafy-z/plein/pull/196) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 week ago)
@@ -67,11 +67,11 @@ and more...
 ## ⭐ Recent Stars
 
 
-- [kenn-io/msgvault](https://github.com/kenn-io/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by SQLite and DuckDB (today)
-- [kylan11/understudy](https://github.com/kylan11/understudy) - Best-effort high availability for single-replica Kubernetes workloads: no downtime from announced node disruptions (drains, upgrades, consolidation, spot reclaims) without a standing second replica. (2 days ago)
-- [bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer) -  (2 days ago)
-- [nicobailon/surf-cli](https://github.com/nicobailon/surf-cli) - The CLI for AI agents to control Chrome. Zero config, agent-agnostic, battle-tested. (2 days ago)
-- [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent (6 days ago)
+- [kenn-io/msgvault](https://github.com/kenn-io/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by SQLite and DuckDB (1 day ago)
+- [kylan11/understudy](https://github.com/kylan11/understudy) - Best-effort high availability for single-replica Kubernetes workloads: no downtime from announced node disruptions (drains, upgrades, consolidation, spot reclaims) without a standing second replica. (3 days ago)
+- [bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer) -  (3 days ago)
+- [nicobailon/surf-cli](https://github.com/nicobailon/surf-cli) - The CLI for AI agents to control Chrome. Zero config, agent-agnostic, battle-tested. (3 days ago)
+- [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent (1 week ago)
 - [edaywalid/undo](https://github.com/edaywalid/undo) - Undo what the last shell command did to the filesystem (1 week ago)
 - [wie-project/kakehashi](https://github.com/wie-project/kakehashi) - Userspace macOS translation layer for Linux ARM64 (1 week ago)
 - [bjarneo/ku](https://github.com/bjarneo/ku) - A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods.  (1 week ago)
