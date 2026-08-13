@@ -38,7 +38,7 @@ and more...
 - [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (1 week ago)
 - [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (1 week ago)
 - [martabal/qbittorrent-exporter](https://github.com/martabal/qbittorrent-exporter) - A fast and lightweight prometheus exporter for qBittorrent (1 week ago)
-- [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (1 week ago)
+- [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (2 weeks ago)
 - [wuxxin/aur-packages](https://github.com/wuxxin/aur-packages) - archlinux AUR packages i maintain (2 weeks ago)
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist. (2 weeks ago)
 - [aslafy-z/cv](https://github.com/aslafy-z/cv) -  (2 weeks ago)
@@ -67,11 +67,11 @@ and more...
 ## ⭐ Recent Stars
 
 
-- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work (today)
-- [kenn-io/msgvault](https://github.com/kenn-io/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by SQLite and DuckDB (1 day ago)
-- [kylan11/understudy](https://github.com/kylan11/understudy) - Best-effort high availability for single-replica Kubernetes workloads: no downtime from announced node disruptions (drains, upgrades, consolidation, spot reclaims) without a standing second replica. (3 days ago)
-- [bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer) -  (3 days ago)
-- [nicobailon/surf-cli](https://github.com/nicobailon/surf-cli) - The CLI for AI agents to control Chrome. Zero config, agent-agnostic, battle-tested. (3 days ago)
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work (1 day ago)
+- [kenn-io/msgvault](https://github.com/kenn-io/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by SQLite and DuckDB (2 days ago)
+- [kylan11/understudy](https://github.com/kylan11/understudy) - Best-effort high availability for single-replica Kubernetes workloads: no downtime from announced node disruptions (drains, upgrades, consolidation, spot reclaims) without a standing second replica. (4 days ago)
+- [bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer) -  (4 days ago)
+- [nicobailon/surf-cli](https://github.com/nicobailon/surf-cli) - The CLI for AI agents to control Chrome. Zero config, agent-agnostic, battle-tested. (4 days ago)
 - [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent (1 week ago)
 - [edaywalid/undo](https://github.com/edaywalid/undo) - Undo what the last shell command did to the filesystem (1 week ago)
 - [wie-project/kakehashi](https://github.com/wie-project/kakehashi) - Userspace macOS translation layer for Linux ARM64 (1 week ago)
