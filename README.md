@@ -35,32 +35,31 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
+- [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies and TV. Replaces Radarr, Sonarr and Seerr with a single Go binary — web UI, REST API, built-in requests, SSO. Music and books planned. (today)
 - [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (1 week ago)
 - [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (1 week ago)
 - [martabal/qbittorrent-exporter](https://github.com/martabal/qbittorrent-exporter) - A fast and lightweight prometheus exporter for qBittorrent (1 week ago)
 - [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (2 weeks ago)
-- [wuxxin/aur-packages](https://github.com/wuxxin/aur-packages) - archlinux AUR packages i maintain (2 weeks ago)
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist. (2 weeks ago)
+- [wuxxin/aur-packages](https://github.com/wuxxin/aur-packages) - archlinux AUR packages i maintain (2 weeks ago)
 - [aslafy-z/cv](https://github.com/aslafy-z/cv) -  (2 weeks ago)
 - [aslafy-z/aslafy-z.github.io](https://github.com/aslafy-z/aslafy-z.github.io) -  (2 weeks ago)
 - [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (3 weeks ago)
-- [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) -  (1 month ago)
 
 
 
 ## 🔨 Recent Pull Requests
 
 
-- [Split the route&#39;s endpoint line on desktop too](https://github.com/aslafy-z/plein/pull/201) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 week ago)
-- [Let users pick their current position as a route destination](https://github.com/aslafy-z/plein/pull/200) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 week ago)
-- [Catch a gliding sheet wherever the grab lands](https://github.com/aslafy-z/plein/pull/199) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 week ago)
-- [Eliminate Firefox jank in the bottom sheet: lite-effects mode on Gecko, touchmove-fed drags, composited reveal](https://github.com/aslafy-z/plein/pull/198) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 week ago)
-- [Put the route&#39;s departure and destination on one line on the phone](https://github.com/aslafy-z/plein/pull/197) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 week ago)
-- [Light theme: redistribute the contrast instead of adding more](https://github.com/aslafy-z/plein/pull/196) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 week ago)
-- [Stop the route freezing the app while its corridor lands](https://github.com/aslafy-z/plein/pull/195) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 week ago)
-- [Split user position from map center: lastFix vs lastPos](https://github.com/aslafy-z/plein/pull/194) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 week ago)
-- [Turn the crosshair itself while the position fix is out](https://github.com/aslafy-z/plein/pull/193) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 week ago)
-- [Show that a position fix is under way instead of a dead tap](https://github.com/aslafy-z/plein/pull/192) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 week ago)
+- [feat(cli): add user administration to the auth command group](https://github.com/DataHearth/streamline/pull/22) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [ci: scan dependencies for known vulnerabilities with govulncheck](https://github.com/DataHearth/streamline/pull/21) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [fix(auth): keep the last admin during OIDC role sync](https://github.com/DataHearth/streamline/pull/20) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [fix(server): cap request body size on web auth and API JSON decoders](https://github.com/DataHearth/streamline/pull/19) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [fix(auth): revoke API keys on password change and admin reset](https://github.com/DataHearth/streamline/pull/18) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [fix(bittorrent): disable WebTorrent to drop the WebRTC attack surface](https://github.com/DataHearth/streamline/pull/17) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [fix(auth): revoke sessions when an admin changes a user&#39;s role](https://github.com/DataHearth/streamline/pull/16) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [fix(mediaserver): restrict Plex PIN flow to the starting admin](https://github.com/DataHearth/streamline/pull/15) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [fix(server): set HTTP server timeouts to stop Slowloris](https://github.com/DataHearth/streamline/pull/14) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
