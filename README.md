@@ -43,7 +43,7 @@ and more...
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist. (2 weeks ago)
 - [aslafy-z/cv](https://github.com/aslafy-z/cv) -  (2 weeks ago)
 - [aslafy-z/aslafy-z.github.io](https://github.com/aslafy-z/aslafy-z.github.io) -  (2 weeks ago)
-- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (2 weeks ago)
+- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (3 weeks ago)
 - [aslafy-z/yolo-object-detection-cli](https://github.com/aslafy-z/yolo-object-detection-cli) -  (1 month ago)
 
 
@@ -67,16 +67,16 @@ and more...
 ## ⭐ Recent Stars
 
 
-- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work (1 day ago)
-- [kenn-io/msgvault](https://github.com/kenn-io/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by SQLite and DuckDB (2 days ago)
-- [kylan11/understudy](https://github.com/kylan11/understudy) - Best-effort high availability for single-replica Kubernetes workloads: no downtime from announced node disruptions (drains, upgrades, consolidation, spot reclaims) without a standing second replica. (4 days ago)
-- [bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer) -  (4 days ago)
-- [nicobailon/surf-cli](https://github.com/nicobailon/surf-cli) - The CLI for AI agents to control Chrome. Zero config, agent-agnostic, battle-tested. (4 days ago)
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work (2 days ago)
+- [kenn-io/msgvault](https://github.com/kenn-io/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by SQLite and DuckDB (3 days ago)
+- [kylan11/understudy](https://github.com/kylan11/understudy) - Best-effort high availability for single-replica Kubernetes workloads: no downtime from announced node disruptions (drains, upgrades, consolidation, spot reclaims) without a standing second replica. (5 days ago)
+- [bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer) -  (5 days ago)
+- [nicobailon/surf-cli](https://github.com/nicobailon/surf-cli) - The CLI for AI agents to control Chrome. Zero config, agent-agnostic, battle-tested. (5 days ago)
 - [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent (1 week ago)
 - [edaywalid/undo](https://github.com/edaywalid/undo) - Undo what the last shell command did to the filesystem (1 week ago)
 - [wie-project/kakehashi](https://github.com/wie-project/kakehashi) - Userspace macOS translation layer for Linux ARM64 (1 week ago)
 - [bjarneo/ku](https://github.com/bjarneo/ku) - A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods.  (1 week ago)
-- [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline shell autosuggestions for zsh. Go daemon, no TUI, no sync (1 week ago)
+- [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline shell autosuggestions for zsh. Go daemon, no TUI, no sync (2 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
