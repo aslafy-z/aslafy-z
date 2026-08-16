@@ -51,6 +51,7 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [fix(intl): update French translation for clear_failed_count](https://github.com/immich-app/immich/pull/30795) on [immich-app/immich](https://github.com/immich-app/immich) (today)
 - [feat(cli): add user administration to the auth command group](https://github.com/DataHearth/streamline/pull/22) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 days ago)
 - [ci: scan dependencies for known vulnerabilities with govulncheck](https://github.com/DataHearth/streamline/pull/21) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 days ago)
 - [fix(auth): keep the last admin during OIDC role sync](https://github.com/DataHearth/streamline/pull/20) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 days ago)
@@ -59,13 +60,13 @@ and more...
 - [fix(bittorrent): disable WebTorrent to drop the WebRTC attack surface](https://github.com/DataHearth/streamline/pull/17) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 days ago)
 - [fix(auth): revoke sessions when an admin changes a user&#39;s role](https://github.com/DataHearth/streamline/pull/16) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 days ago)
 - [fix(mediaserver): restrict Plex PIN flow to the starting admin](https://github.com/DataHearth/streamline/pull/15) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 days ago)
-- [fix(server): set HTTP server timeouts to stop Slowloris](https://github.com/DataHearth/streamline/pull/14) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 days ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
 ## ⭐ Recent Stars
 
 
+- [securo-finance/securo](https://github.com/securo-finance/securo) - Open-source personal finance manager. Self-hosted, privacy-first. (today)
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work (4 days ago)
 - [kenn-io/msgvault](https://github.com/kenn-io/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by SQLite and DuckDB (5 days ago)
 - [kylan11/understudy](https://github.com/kylan11/understudy) - Best-effort high availability for single-replica Kubernetes workloads: no downtime from announced node disruptions (drains, upgrades, consolidation, spot reclaims) without a standing second replica. (1 week ago)
@@ -75,7 +76,6 @@ and more...
 - [edaywalid/undo](https://github.com/edaywalid/undo) - Undo what the last shell command did to the filesystem (1 week ago)
 - [wie-project/kakehashi](https://github.com/wie-project/kakehashi) - Userspace macOS translation layer for Linux ARM64 (1 week ago)
 - [bjarneo/ku](https://github.com/bjarneo/ku) - A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods.  (1 week ago)
-- [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline shell autosuggestions for zsh. Go daemon, no TUI, no sync (2 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
