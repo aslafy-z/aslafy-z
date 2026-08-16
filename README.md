@@ -35,9 +35,9 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies and TV. Replaces Radarr, Sonarr and Seerr with a single Go binary — web UI, REST API, built-in requests, SSO. Music and books planned. (1 day ago)
+- [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies and TV. Replaces Radarr, Sonarr and Seerr with a single Go binary — web UI, REST API, built-in requests, SSO. Music and books planned. (today)
 - [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (1 week ago)
-- [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (1 week ago)
+- [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (2 weeks ago)
 - [martabal/qbittorrent-exporter](https://github.com/martabal/qbittorrent-exporter) - A fast and lightweight prometheus exporter for qBittorrent (2 weeks ago)
 - [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (2 weeks ago)
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist. (2 weeks ago)
@@ -51,26 +51,26 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [feat(cli): add user administration to the auth command group](https://github.com/DataHearth/streamline/pull/22) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
-- [ci: scan dependencies for known vulnerabilities with govulncheck](https://github.com/DataHearth/streamline/pull/21) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
-- [fix(auth): keep the last admin during OIDC role sync](https://github.com/DataHearth/streamline/pull/20) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
-- [fix(server): cap request body size on web auth and API JSON decoders](https://github.com/DataHearth/streamline/pull/19) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
-- [fix(auth): revoke API keys on password change and admin reset](https://github.com/DataHearth/streamline/pull/18) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
-- [fix(bittorrent): disable WebTorrent to drop the WebRTC attack surface](https://github.com/DataHearth/streamline/pull/17) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
-- [fix(auth): revoke sessions when an admin changes a user&#39;s role](https://github.com/DataHearth/streamline/pull/16) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
-- [fix(mediaserver): restrict Plex PIN flow to the starting admin](https://github.com/DataHearth/streamline/pull/15) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
-- [fix(server): set HTTP server timeouts to stop Slowloris](https://github.com/DataHearth/streamline/pull/14) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
+- [feat(cli): add user administration to the auth command group](https://github.com/DataHearth/streamline/pull/22) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 days ago)
+- [ci: scan dependencies for known vulnerabilities with govulncheck](https://github.com/DataHearth/streamline/pull/21) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 days ago)
+- [fix(auth): keep the last admin during OIDC role sync](https://github.com/DataHearth/streamline/pull/20) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 days ago)
+- [fix(server): cap request body size on web auth and API JSON decoders](https://github.com/DataHearth/streamline/pull/19) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 days ago)
+- [fix(auth): revoke API keys on password change and admin reset](https://github.com/DataHearth/streamline/pull/18) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 days ago)
+- [fix(bittorrent): disable WebTorrent to drop the WebRTC attack surface](https://github.com/DataHearth/streamline/pull/17) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 days ago)
+- [fix(auth): revoke sessions when an admin changes a user&#39;s role](https://github.com/DataHearth/streamline/pull/16) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 days ago)
+- [fix(mediaserver): restrict Plex PIN flow to the starting admin](https://github.com/DataHearth/streamline/pull/15) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 days ago)
+- [fix(server): set HTTP server timeouts to stop Slowloris](https://github.com/DataHearth/streamline/pull/14) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 days ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
 ## ⭐ Recent Stars
 
 
-- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work (3 days ago)
-- [kenn-io/msgvault](https://github.com/kenn-io/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by SQLite and DuckDB (4 days ago)
-- [kylan11/understudy](https://github.com/kylan11/understudy) - Best-effort high availability for single-replica Kubernetes workloads: no downtime from announced node disruptions (drains, upgrades, consolidation, spot reclaims) without a standing second replica. (6 days ago)
-- [bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer) -  (6 days ago)
-- [nicobailon/surf-cli](https://github.com/nicobailon/surf-cli) - The CLI for AI agents to control Chrome. Zero config, agent-agnostic, battle-tested. (6 days ago)
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work (4 days ago)
+- [kenn-io/msgvault](https://github.com/kenn-io/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by SQLite and DuckDB (5 days ago)
+- [kylan11/understudy](https://github.com/kylan11/understudy) - Best-effort high availability for single-replica Kubernetes workloads: no downtime from announced node disruptions (drains, upgrades, consolidation, spot reclaims) without a standing second replica. (1 week ago)
+- [bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer) -  (1 week ago)
+- [nicobailon/surf-cli](https://github.com/nicobailon/surf-cli) - The CLI for AI agents to control Chrome. Zero config, agent-agnostic, battle-tested. (1 week ago)
 - [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent (1 week ago)
 - [edaywalid/undo](https://github.com/edaywalid/undo) - Undo what the last shell command did to the filesystem (1 week ago)
 - [wie-project/kakehashi](https://github.com/wie-project/kakehashi) - Userspace macOS translation layer for Linux ARM64 (1 week ago)
