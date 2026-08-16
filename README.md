@@ -51,7 +51,6 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [fix(intl): update French translation for clear_failed_count](https://github.com/immich-app/immich/pull/30795) on [immich-app/immich](https://github.com/immich-app/immich) (today)
 - [feat(cli): add user administration to the auth command group](https://github.com/DataHearth/streamline/pull/22) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 days ago)
 - [ci: scan dependencies for known vulnerabilities with govulncheck](https://github.com/DataHearth/streamline/pull/21) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 days ago)
 - [fix(auth): keep the last admin during OIDC role sync](https://github.com/DataHearth/streamline/pull/20) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 days ago)
