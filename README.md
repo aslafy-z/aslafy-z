@@ -35,11 +35,11 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
+- [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (today)
 - [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies and TV. Replaces Radarr, Sonarr and Seerr with a single Go binary — web UI, REST API, built-in requests, SSO. Music and books planned. (1 day ago)
 - [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (1 day ago)
 - [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (2 weeks ago)
 - [martabal/qbittorrent-exporter](https://github.com/martabal/qbittorrent-exporter) - A fast and lightweight prometheus exporter for qBittorrent (2 weeks ago)
-- [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (2 weeks ago)
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist. (3 weeks ago)
 - [wuxxin/aur-packages](https://github.com/wuxxin/aur-packages) - archlinux AUR packages i maintain (3 weeks ago)
 - [aslafy-z/cv](https://github.com/aslafy-z/cv) -  (3 weeks ago)
@@ -51,14 +51,14 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [fix(deployment): switch oauth proxy default image to quay.io](https://github.com/stakater/application/pull/617) on [stakater/application](https://github.com/stakater/application) (today)
+- [feat(security): enforce restricted security context defaults for all workloads](https://github.com/stakater/application/pull/616) on [stakater/application](https://github.com/stakater/application) (today)
+- [fix(helpers): render zero weight and backendRef filters in HTTPRoute](https://github.com/stakater/application/pull/615) on [stakater/application](https://github.com/stakater/application) (today)
 - [codex-desktop-git: switch to official Linux deb, update to 26.814.41407](https://github.com/aslafy-z/aur-packages/pull/20) on [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) (1 day ago)
 - [ci: enable gosec repo-wide and fix the findings it surfaces](https://github.com/DataHearth/streamline/pull/42) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 days ago)
 - [feat(cli): add user administration to the auth command group](https://github.com/DataHearth/streamline/pull/22) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (5 days ago)
 - [ci: scan dependencies for known vulnerabilities with govulncheck](https://github.com/DataHearth/streamline/pull/21) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (5 days ago)
 - [fix(auth): keep the last admin during OIDC role sync](https://github.com/DataHearth/streamline/pull/20) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (5 days ago)
-- [fix(server): cap request body size on web auth and API JSON decoders](https://github.com/DataHearth/streamline/pull/19) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (5 days ago)
-- [fix(auth): revoke API keys on password change and admin reset](https://github.com/DataHearth/streamline/pull/18) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (5 days ago)
-- [fix(bittorrent): disable WebTorrent to drop the WebRTC attack surface](https://github.com/DataHearth/streamline/pull/17) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (5 days ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
