@@ -35,9 +35,9 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (today)
-- [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies and TV. Replaces Radarr, Sonarr and Seerr with a single Go binary — web UI, REST API, built-in requests, SSO. Music and books planned. (1 day ago)
-- [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (1 day ago)
+- [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (1 day ago)
+- [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies and TV. Replaces Radarr, Sonarr and Seerr with a single Go binary — web UI, REST API, built-in requests, SSO. Music and books planned. (2 days ago)
+- [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (2 days ago)
 - [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (2 weeks ago)
 - [martabal/qbittorrent-exporter](https://github.com/martabal/qbittorrent-exporter) - A fast and lightweight prometheus exporter for qBittorrent (2 weeks ago)
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist. (3 weeks ago)
@@ -51,25 +51,25 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [fix(deployment): switch oauth proxy default image to quay.io](https://github.com/stakater/application/pull/617) on [stakater/application](https://github.com/stakater/application) (today)
-- [feat(security): enforce restricted security context defaults for all workloads](https://github.com/stakater/application/pull/616) on [stakater/application](https://github.com/stakater/application) (today)
-- [fix(helpers): render zero weight and backendRef filters in HTTPRoute](https://github.com/stakater/application/pull/615) on [stakater/application](https://github.com/stakater/application) (today)
-- [codex-desktop-git: switch to official Linux deb, update to 26.814.41407](https://github.com/aslafy-z/aur-packages/pull/20) on [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) (1 day ago)
-- [ci: enable gosec repo-wide and fix the findings it surfaces](https://github.com/DataHearth/streamline/pull/42) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 days ago)
-- [feat(cli): add user administration to the auth command group](https://github.com/DataHearth/streamline/pull/22) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (5 days ago)
-- [ci: scan dependencies for known vulnerabilities with govulncheck](https://github.com/DataHearth/streamline/pull/21) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (5 days ago)
-- [fix(auth): keep the last admin during OIDC role sync](https://github.com/DataHearth/streamline/pull/20) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (5 days ago)
+- [fix(deployment): switch oauth proxy default image to quay.io](https://github.com/stakater/application/pull/617) on [stakater/application](https://github.com/stakater/application) (1 day ago)
+- [feat(security): enforce restricted security context defaults for all workloads](https://github.com/stakater/application/pull/616) on [stakater/application](https://github.com/stakater/application) (1 day ago)
+- [fix(helpers): render zero weight and backendRef filters in HTTPRoute](https://github.com/stakater/application/pull/615) on [stakater/application](https://github.com/stakater/application) (1 day ago)
+- [codex-desktop-git: switch to official Linux deb, update to 26.814.41407](https://github.com/aslafy-z/aur-packages/pull/20) on [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) (2 days ago)
+- [ci: enable gosec repo-wide and fix the findings it surfaces](https://github.com/DataHearth/streamline/pull/42) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (3 days ago)
+- [feat(cli): add user administration to the auth command group](https://github.com/DataHearth/streamline/pull/22) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (6 days ago)
+- [ci: scan dependencies for known vulnerabilities with govulncheck](https://github.com/DataHearth/streamline/pull/21) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (6 days ago)
+- [fix(auth): keep the last admin during OIDC role sync](https://github.com/DataHearth/streamline/pull/20) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (6 days ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
 ## ⭐ Recent Stars
 
 
-- [home-operations/kopiur](https://github.com/home-operations/kopiur) - A Kopia-native Kubernetes backup operator written in Rust (today)
-- [openai/fence](https://github.com/openai/fence) - A fence keeps things out, but also in. This project is still in early, and active development. (today)
-- [tsouza/cerberus](https://github.com/tsouza/cerberus) - Drop-in Prometheus / Loki / Tempo HTTP gateway for ClickHouse. Translate PromQL, LogQL, and TraceQL into optimized CH SQL — keep Grafana, swap the backend. (today)
-- [inevolin/k8s-cpu-limits-analyzed](https://github.com/inevolin/k8s-cpu-limits-analyzed) - Kubernetes CPU limits make your apps (very) slow and costly. CPU throttling analyzed, with proof. (today)
-- [securo-finance/securo](https://github.com/securo-finance/securo) - Open-source personal finance manager. Self-hosted, privacy-first. (3 days ago)
+- [home-operations/kopiur](https://github.com/home-operations/kopiur) - A Kopia-native Kubernetes backup operator written in Rust (1 day ago)
+- [openai/fence](https://github.com/openai/fence) - A fence keeps things out, but also in. This project is still in early, and active development. (1 day ago)
+- [tsouza/cerberus](https://github.com/tsouza/cerberus) - Drop-in Prometheus / Loki / Tempo HTTP gateway for ClickHouse. Translate PromQL, LogQL, and TraceQL into optimized CH SQL — keep Grafana, swap the backend. (1 day ago)
+- [inevolin/k8s-cpu-limits-analyzed](https://github.com/inevolin/k8s-cpu-limits-analyzed) - Kubernetes CPU limits make your apps (very) slow and costly. CPU throttling analyzed, with proof. (1 day ago)
+- [securo-finance/securo](https://github.com/securo-finance/securo) - Open-source personal finance manager. Self-hosted, privacy-first. (4 days ago)
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work (1 week ago)
 - [kenn-io/msgvault](https://github.com/kenn-io/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by SQLite and DuckDB (1 week ago)
 - [kylan11/understudy](https://github.com/kylan11/understudy) - Best-effort high availability for single-replica Kubernetes workloads: no downtime from announced node disruptions (drains, upgrades, consolidation, spot reclaims) without a standing second replica. (1 week ago)
