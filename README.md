@@ -65,6 +65,7 @@ and more...
 ## ⭐ Recent Stars
 
 
+- [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) - Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors (today)
 - [home-operations/kopiur](https://github.com/home-operations/kopiur) - A Kopia-native Kubernetes backup operator written in Rust (5 days ago)
 - [openai/fence](https://github.com/openai/fence) - A fence keeps things out, but also in. This project is still in early, and active development. (5 days ago)
 - [tsouza/cerberus](https://github.com/tsouza/cerberus) - Drop-in Prometheus / Loki / Tempo HTTP gateway for ClickHouse. Translate PromQL, LogQL, and TraceQL into optimized CH SQL — keep Grafana, swap the backend. (5 days ago)
@@ -74,7 +75,6 @@ and more...
 - [kenn-io/msgvault](https://github.com/kenn-io/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by SQLite and DuckDB (1 week ago)
 - [kylan11/understudy](https://github.com/kylan11/understudy) - Best-effort high availability for single-replica Kubernetes workloads: no downtime from announced node disruptions (drains, upgrades, consolidation, spot reclaims) without a standing second replica. (2 weeks ago)
 - [bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer) -  (2 weeks ago)
-- [nicobailon/surf-cli](https://github.com/nicobailon/surf-cli) - The CLI for AI agents to control Chrome. Zero config, agent-agnostic, battle-tested. (2 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
