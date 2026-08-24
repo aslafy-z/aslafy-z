@@ -35,40 +35,40 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [anacrolix/torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities (today)
-- [aslafy-z/hauth](https://github.com/aslafy-z/hauth) - Harness auth broker for cloud workspaces: browser-free logins for AI coding CLIs, a loopback kiosk UI, and a per-user credential store (1 day ago)
-- [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (4 days ago)
-- [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (5 days ago)
-- [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies and TV. Replaces Radarr, Sonarr and Seerr with a single Go binary — web UI, REST API, built-in requests, SSO. Music and books planned. (5 days ago)
-- [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (2 weeks ago)
+- [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (today)
+- [anacrolix/torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities (1 day ago)
+- [aslafy-z/hauth](https://github.com/aslafy-z/hauth) - Harness auth broker for cloud workspaces: browser-free logins for AI coding CLIs, a loopback kiosk UI, and a per-user credential store (2 days ago)
+- [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (5 days ago)
+- [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (6 days ago)
+- [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies and TV. Replaces Radarr, Sonarr and Seerr with a single Go binary — web UI, REST API, built-in requests, SSO. Music and books planned. (6 days ago)
 - [martabal/qbittorrent-exporter](https://github.com/martabal/qbittorrent-exporter) - A fast and lightweight prometheus exporter for qBittorrent (3 weeks ago)
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist. (3 weeks ago)
 - [wuxxin/aur-packages](https://github.com/wuxxin/aur-packages) - archlinux AUR packages i maintain (3 weeks ago)
-- [aslafy-z/aslafy-z.github.io](https://github.com/aslafy-z/aslafy-z.github.io) -  (3 weeks ago)
+- [aslafy-z/cv](https://github.com/aslafy-z/cv) -  (4 weeks ago)
 
 
 
 ## 🔨 Recent Pull Requests
 
 
-- [fix(sso): persist a random password for SSO-created users](https://github.com/aslafy-z/jellyfin-plugin-sso/pull/1) on [aslafy-z/jellyfin-plugin-sso](https://github.com/aslafy-z/jellyfin-plugin-sso) (today)
-- [fix(deployment): switch oauth proxy default image to quay.io](https://github.com/stakater/application/pull/617) on [stakater/application](https://github.com/stakater/application) (4 days ago)
-- [feat(security): enforce restricted security context defaults for all workloads](https://github.com/stakater/application/pull/616) on [stakater/application](https://github.com/stakater/application) (4 days ago)
-- [fix(helpers): render zero weight and backendRef filters in HTTPRoute](https://github.com/stakater/application/pull/615) on [stakater/application](https://github.com/stakater/application) (4 days ago)
-- [codex-desktop-git: switch to official Linux deb, update to 26.814.41407](https://github.com/aslafy-z/aur-packages/pull/20) on [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) (5 days ago)
-- [ci: enable gosec repo-wide and fix the findings it surfaces](https://github.com/DataHearth/streamline/pull/42) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (6 days ago)
-- [feat(cli): add user administration to the auth command group](https://github.com/DataHearth/streamline/pull/22) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 week ago)
-- [ci: scan dependencies for known vulnerabilities with govulncheck](https://github.com/DataHearth/streamline/pull/21) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 week ago)
+- [Redesign pass: one display type language, unified pill and chip skins, grain atmosphere, mount motion](https://github.com/aslafy-z/plein/pull/203) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Redesign the interaction layer: one easing vocabulary, press physics, glass depth and entry choreography](https://github.com/aslafy-z/plein/pull/202) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
+- [fix(sso): persist a random password for SSO-created users](https://github.com/aslafy-z/jellyfin-plugin-sso/pull/1) on [aslafy-z/jellyfin-plugin-sso](https://github.com/aslafy-z/jellyfin-plugin-sso) (1 day ago)
+- [fix(deployment): switch oauth proxy default image to quay.io](https://github.com/stakater/application/pull/617) on [stakater/application](https://github.com/stakater/application) (5 days ago)
+- [feat(security): enforce restricted security context defaults for all workloads](https://github.com/stakater/application/pull/616) on [stakater/application](https://github.com/stakater/application) (5 days ago)
+- [fix(helpers): render zero weight and backendRef filters in HTTPRoute](https://github.com/stakater/application/pull/615) on [stakater/application](https://github.com/stakater/application) (5 days ago)
+- [codex-desktop-git: switch to official Linux deb, update to 26.814.41407](https://github.com/aslafy-z/aur-packages/pull/20) on [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) (6 days ago)
+- [ci: enable gosec repo-wide and fix the findings it surfaces](https://github.com/DataHearth/streamline/pull/42) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 week ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
 ## ⭐ Recent Stars
 
 
-- [home-operations/kopiur](https://github.com/home-operations/kopiur) - A Kopia-native Kubernetes backup operator written in Rust (4 days ago)
-- [openai/fence](https://github.com/openai/fence) - A fence keeps things out, but also in. This project is still in early, and active development. (4 days ago)
-- [tsouza/cerberus](https://github.com/tsouza/cerberus) - Drop-in Prometheus / Loki / Tempo HTTP gateway for ClickHouse. Translate PromQL, LogQL, and TraceQL into optimized CH SQL — keep Grafana, swap the backend. (4 days ago)
-- [inevolin/k8s-cpu-limits-analyzed](https://github.com/inevolin/k8s-cpu-limits-analyzed) - Kubernetes CPU limits make your apps (very) slow and costly. CPU throttling analyzed, with proof. (4 days ago)
+- [home-operations/kopiur](https://github.com/home-operations/kopiur) - A Kopia-native Kubernetes backup operator written in Rust (5 days ago)
+- [openai/fence](https://github.com/openai/fence) - A fence keeps things out, but also in. This project is still in early, and active development. (5 days ago)
+- [tsouza/cerberus](https://github.com/tsouza/cerberus) - Drop-in Prometheus / Loki / Tempo HTTP gateway for ClickHouse. Translate PromQL, LogQL, and TraceQL into optimized CH SQL — keep Grafana, swap the backend. (5 days ago)
+- [inevolin/k8s-cpu-limits-analyzed](https://github.com/inevolin/k8s-cpu-limits-analyzed) - Kubernetes CPU limits make your apps (very) slow and costly. CPU throttling analyzed, with proof. (5 days ago)
 - [securo-finance/securo](https://github.com/securo-finance/securo) - Open-source personal finance manager. Self-hosted, privacy-first. (1 week ago)
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work (1 week ago)
 - [kenn-io/msgvault](https://github.com/kenn-io/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by SQLite and DuckDB (1 week ago)
