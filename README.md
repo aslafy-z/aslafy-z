@@ -35,15 +35,15 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (today)
-- [anacrolix/torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities (1 day ago)
-- [aslafy-z/hauth](https://github.com/aslafy-z/hauth) - Harness auth broker for cloud workspaces: browser-free logins for AI coding CLIs, a loopback kiosk UI, and a per-user credential store (2 days ago)
-- [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (5 days ago)
-- [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (6 days ago)
-- [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies and TV. Replaces Radarr, Sonarr and Seerr with a single Go binary — web UI, REST API, built-in requests, SSO. Music and books planned. (6 days ago)
+- [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (1 day ago)
+- [anacrolix/torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities (2 days ago)
+- [aslafy-z/hauth](https://github.com/aslafy-z/hauth) - Harness auth broker for cloud workspaces: browser-free logins for AI coding CLIs, a loopback kiosk UI, and a per-user credential store (3 days ago)
+- [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (6 days ago)
+- [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (1 week ago)
+- [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies and TV. Replaces Radarr, Sonarr and Seerr with a single Go binary — web UI, REST API, built-in requests, SSO. Music and books planned. (1 week ago)
 - [martabal/qbittorrent-exporter](https://github.com/martabal/qbittorrent-exporter) - A fast and lightweight prometheus exporter for qBittorrent (3 weeks ago)
-- [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist. (3 weeks ago)
-- [wuxxin/aur-packages](https://github.com/wuxxin/aur-packages) - archlinux AUR packages i maintain (3 weeks ago)
+- [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist. (4 weeks ago)
+- [wuxxin/aur-packages](https://github.com/wuxxin/aur-packages) - archlinux AUR packages i maintain (4 weeks ago)
 - [aslafy-z/cv](https://github.com/aslafy-z/cv) -  (4 weeks ago)
 
 
@@ -51,13 +51,13 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [Redesign pass: one display type language, unified pill and chip skins, grain atmosphere, mount motion](https://github.com/aslafy-z/plein/pull/203) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Redesign the interaction layer: one easing vocabulary, press physics, glass depth and entry choreography](https://github.com/aslafy-z/plein/pull/202) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
-- [fix(sso): persist a random password for SSO-created users](https://github.com/aslafy-z/jellyfin-plugin-sso/pull/1) on [aslafy-z/jellyfin-plugin-sso](https://github.com/aslafy-z/jellyfin-plugin-sso) (1 day ago)
-- [fix(deployment): switch oauth proxy default image to quay.io](https://github.com/stakater/application/pull/617) on [stakater/application](https://github.com/stakater/application) (5 days ago)
-- [feat(security): enforce restricted security context defaults for all workloads](https://github.com/stakater/application/pull/616) on [stakater/application](https://github.com/stakater/application) (5 days ago)
-- [fix(helpers): render zero weight and backendRef filters in HTTPRoute](https://github.com/stakater/application/pull/615) on [stakater/application](https://github.com/stakater/application) (5 days ago)
-- [codex-desktop-git: switch to official Linux deb, update to 26.814.41407](https://github.com/aslafy-z/aur-packages/pull/20) on [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) (6 days ago)
+- [Redesign pass: one display type language, unified pill and chip skins, grain atmosphere, mount motion](https://github.com/aslafy-z/plein/pull/203) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
+- [Redesign the interaction layer: one easing vocabulary, press physics, glass depth and entry choreography](https://github.com/aslafy-z/plein/pull/202) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
+- [fix(sso): persist a random password for SSO-created users](https://github.com/aslafy-z/jellyfin-plugin-sso/pull/1) on [aslafy-z/jellyfin-plugin-sso](https://github.com/aslafy-z/jellyfin-plugin-sso) (2 days ago)
+- [fix(deployment): switch oauth proxy default image to quay.io](https://github.com/stakater/application/pull/617) on [stakater/application](https://github.com/stakater/application) (6 days ago)
+- [feat(security): enforce restricted security context defaults for all workloads](https://github.com/stakater/application/pull/616) on [stakater/application](https://github.com/stakater/application) (6 days ago)
+- [fix(helpers): render zero weight and backendRef filters in HTTPRoute](https://github.com/stakater/application/pull/615) on [stakater/application](https://github.com/stakater/application) (6 days ago)
+- [codex-desktop-git: switch to official Linux deb, update to 26.814.41407](https://github.com/aslafy-z/aur-packages/pull/20) on [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) (1 week ago)
 - [ci: enable gosec repo-wide and fix the findings it surfaces](https://github.com/DataHearth/streamline/pull/42) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 week ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
@@ -65,15 +65,15 @@ and more...
 ## ⭐ Recent Stars
 
 
-- [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) - Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors (today)
-- [home-operations/kopiur](https://github.com/home-operations/kopiur) - A Kopia-native Kubernetes backup operator written in Rust (5 days ago)
-- [openai/fence](https://github.com/openai/fence) - A fence keeps things out, but also in. This project is still in early, and active development. (5 days ago)
-- [tsouza/cerberus](https://github.com/tsouza/cerberus) - Drop-in Prometheus / Loki / Tempo HTTP gateway for ClickHouse. Translate PromQL, LogQL, and TraceQL into optimized CH SQL — keep Grafana, swap the backend. (5 days ago)
-- [inevolin/k8s-cpu-limits-analyzed](https://github.com/inevolin/k8s-cpu-limits-analyzed) - Kubernetes CPU limits make your apps (very) slow and costly. CPU throttling analyzed, with proof. (5 days ago)
+- [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) - Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors (1 day ago)
+- [home-operations/kopiur](https://github.com/home-operations/kopiur) - A Kopia-native Kubernetes backup operator written in Rust (6 days ago)
+- [openai/fence](https://github.com/openai/fence) - A fence keeps things out, but also in. This project is still in early, and active development. (6 days ago)
+- [tsouza/cerberus](https://github.com/tsouza/cerberus) - Drop-in Prometheus / Loki / Tempo HTTP gateway for ClickHouse. Translate PromQL, LogQL, and TraceQL into optimized CH SQL — keep Grafana, swap the backend. (6 days ago)
+- [inevolin/k8s-cpu-limits-analyzed](https://github.com/inevolin/k8s-cpu-limits-analyzed) - Kubernetes CPU limits make your apps (very) slow and costly. CPU throttling analyzed, with proof. (6 days ago)
 - [securo-finance/securo](https://github.com/securo-finance/securo) - Open-source personal finance manager. Self-hosted, privacy-first. (1 week ago)
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work (1 week ago)
-- [kenn-io/msgvault](https://github.com/kenn-io/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by SQLite and DuckDB (1 week ago)
-- [kylan11/understudy](https://github.com/kylan11/understudy) - Best-effort high availability for single-replica Kubernetes workloads: no downtime from announced node disruptions (drains, upgrades, consolidation, spot reclaims) without a standing second replica. (2 weeks ago)
+- [kenn-io/msgvault](https://github.com/kenn-io/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by SQLite and DuckDB (2 weeks ago)
+- [mitis-cloud/understudy](https://github.com/mitis-cloud/understudy) - Best-effort high availability for single-replica Kubernetes workloads: no downtime from announced node disruptions (drains, upgrades, consolidation, spot reclaims) without a standing second replica. (2 weeks ago)
 - [bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer) -  (2 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
