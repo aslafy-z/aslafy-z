@@ -35,16 +35,16 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
+- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (today)
 - [aslafy-z/hauth](https://github.com/aslafy-z/hauth) - Harness auth broker for cloud workspaces: browser-free logins for AI coding CLIs, a loopback kiosk UI, and a per-user credential store (2 days ago)
 - [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (5 days ago)
-- [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies and TV. Replaces Radarr, Sonarr and Seerr with a single Go binary — web UI, REST API, built-in requests, SSO. Music and books planned. (6 days ago)
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (6 days ago)
+- [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies and TV. Replaces Radarr, Sonarr and Seerr with a single Go binary — web UI, REST API, built-in requests, SSO. Music and books planned. (6 days ago)
 - [anacrolix/torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities (1 week ago)
 - [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (2 weeks ago)
 - [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (2 weeks ago)
 - [martabal/qbittorrent-exporter](https://github.com/martabal/qbittorrent-exporter) - A fast and lightweight prometheus exporter for qBittorrent (1 month ago)
 - [wuxxin/aur-packages](https://github.com/wuxxin/aur-packages) - archlinux AUR packages i maintain (1 month ago)
-- [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist. (1 month ago)
 
 
 
