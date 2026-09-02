@@ -35,12 +35,12 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [aslafy-z/hauth](https://github.com/aslafy-z/hauth) - Harness auth broker for cloud workspaces: browser-free logins for AI coding CLIs, a loopback kiosk UI, and a per-user credential store (1 day ago)
-- [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (4 days ago)
-- [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies and TV. Replaces Radarr, Sonarr and Seerr with a single Go binary — web UI, REST API, built-in requests, SSO. Music and books planned. (5 days ago)
-- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (5 days ago)
+- [aslafy-z/hauth](https://github.com/aslafy-z/hauth) - Harness auth broker for cloud workspaces: browser-free logins for AI coding CLIs, a loopback kiosk UI, and a per-user credential store (2 days ago)
+- [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (5 days ago)
+- [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies and TV. Replaces Radarr, Sonarr and Seerr with a single Go binary — web UI, REST API, built-in requests, SSO. Music and books planned. (6 days ago)
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (6 days ago)
 - [anacrolix/torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities (1 week ago)
-- [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (1 week ago)
+- [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (2 weeks ago)
 - [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (2 weeks ago)
 - [martabal/qbittorrent-exporter](https://github.com/martabal/qbittorrent-exporter) - A fast and lightweight prometheus exporter for qBittorrent (1 month ago)
 - [wuxxin/aur-packages](https://github.com/wuxxin/aur-packages) - archlinux AUR packages i maintain (1 month ago)
@@ -51,32 +51,32 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [feat(instance): add tags filter to image data source](https://github.com/aslafy-z/terraform-provider-scaleway/pull/1) on [aslafy-z/terraform-provider-scaleway](https://github.com/aslafy-z/terraform-provider-scaleway) (4 days ago)
-- [feat(filters): drag the phone sheet handle to dismiss](https://github.com/aslafy-z/plein/pull/207) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (4 days ago)
-- [Notice a fresh deploy on the first open, not the second](https://github.com/aslafy-z/plein/pull/206) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (4 days ago)
-- [Count basemap tiles in the offline data readout, sweep them on clear, and retire the keyless tile generation](https://github.com/aslafy-z/plein/pull/205) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (4 days ago)
-- [Send the CARTO account key with every basemap tile](https://github.com/aslafy-z/plein/pull/204) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (4 days ago)
+- [feat(instance): add tags filter to image data source](https://github.com/aslafy-z/terraform-provider-scaleway/pull/1) on [aslafy-z/terraform-provider-scaleway](https://github.com/aslafy-z/terraform-provider-scaleway) (5 days ago)
+- [feat(filters): drag the phone sheet handle to dismiss](https://github.com/aslafy-z/plein/pull/207) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (5 days ago)
+- [Notice a fresh deploy on the first open, not the second](https://github.com/aslafy-z/plein/pull/206) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (5 days ago)
+- [Count basemap tiles in the offline data readout, sweep them on clear, and retire the keyless tile generation](https://github.com/aslafy-z/plein/pull/205) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (5 days ago)
+- [Send the CARTO account key with every basemap tile](https://github.com/aslafy-z/plein/pull/204) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (5 days ago)
 - [Redesign pass: one display type language, unified pill and chip skins, grain atmosphere, mount motion](https://github.com/aslafy-z/plein/pull/203) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 week ago)
 - [Redesign the interaction layer: one easing vocabulary, press physics, glass depth and entry choreography](https://github.com/aslafy-z/plein/pull/202) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 week ago)
 - [fix(sso): persist a random password for SSO-created users](https://github.com/aslafy-z/jellyfin-plugin-sso/pull/1) on [aslafy-z/jellyfin-plugin-sso](https://github.com/aslafy-z/jellyfin-plugin-sso) (1 week ago)
-- [fix(deployment): switch oauth proxy default image to quay.io](https://github.com/stakater/application/pull/617) on [stakater/application](https://github.com/stakater/application) (1 week ago)
-- [feat(security): enforce restricted security context defaults for all workloads](https://github.com/stakater/application/pull/616) on [stakater/application](https://github.com/stakater/application) (1 week ago)
+- [fix(deployment): switch oauth proxy default image to quay.io](https://github.com/stakater/application/pull/617) on [stakater/application](https://github.com/stakater/application) (2 weeks ago)
+- [feat(security): enforce restricted security context defaults for all workloads](https://github.com/stakater/application/pull/616) on [stakater/application](https://github.com/stakater/application) (2 weeks ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
 ## ⭐ Recent Stars
 
 
-- [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale&#39;s data plane, without Tailscale&#39;s control plane (4 days ago)
+- [luynrs/justray](https://github.com/luynrs/justray) - A modern VPN client that lives in your terminal (today)
+- [Jorji49/streamtop](https://github.com/Jorji49/streamtop) - Terminal HLS, DASH, and IPTV stream monitor. Wire probes, TR 101 290, SCTE-35, Prometheus metrics. Rust CLI/TUI. (today)
+- [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale&#39;s data plane, without Tailscale&#39;s control plane (5 days ago)
 - [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) - Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors (1 week ago)
-- [home-operations/kopiur](https://github.com/home-operations/kopiur) - A Kopia-native Kubernetes backup operator written in Rust (1 week ago)
-- [openai/fence](https://github.com/openai/fence) - A fence keeps things out, but also in. This project is still in early, and active development. (1 week ago)
-- [tsouza/cerberus](https://github.com/tsouza/cerberus) - Drop-in Prometheus / Loki / Tempo HTTP gateway for ClickHouse. Translate PromQL, LogQL, and TraceQL into optimized CH SQL — keep Grafana, swap the backend. (1 week ago)
-- [inevolin/k8s-cpu-limits-analyzed](https://github.com/inevolin/k8s-cpu-limits-analyzed) - Kubernetes CPU limits make your apps (very) slow and costly. CPU throttling analyzed, with proof. (1 week ago)
+- [home-operations/kopiur](https://github.com/home-operations/kopiur) - A Kopia-native Kubernetes backup operator written in Rust (2 weeks ago)
+- [openai/fence](https://github.com/openai/fence) - A fence keeps things out, but also in. This project is still in early, and active development. (2 weeks ago)
+- [tsouza/cerberus](https://github.com/tsouza/cerberus) - Drop-in Prometheus / Loki / Tempo HTTP gateway for ClickHouse. Translate PromQL, LogQL, and TraceQL into optimized CH SQL — keep Grafana, swap the backend. (2 weeks ago)
+- [inevolin/k8s-cpu-limits-analyzed](https://github.com/inevolin/k8s-cpu-limits-analyzed) - Kubernetes CPU limits make your apps (very) slow and costly. CPU throttling analyzed, with proof. (2 weeks ago)
 - [securo-finance/securo](https://github.com/securo-finance/securo) - Open-source personal finance manager. Self-hosted, privacy-first. (2 weeks ago)
-- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work (2 weeks ago)
-- [kenn-io/msgvault](https://github.com/kenn-io/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by SQLite and DuckDB (3 weeks ago)
-- [mitis-cloud/understudy](https://github.com/mitis-cloud/understudy) - Best-effort high availability for single-replica Kubernetes workloads: no downtime from announced node disruptions (drains, upgrades, consolidation, spot reclaims) without a standing second replica. (3 weeks ago)
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work (3 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
