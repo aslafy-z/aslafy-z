@@ -58,7 +58,6 @@ and more...
 - [Send the CARTO account key with every basemap tile](https://github.com/aslafy-z/plein/pull/204) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 week ago)
 - [Redesign pass: one display type language, unified pill and chip skins, grain atmosphere, mount motion](https://github.com/aslafy-z/plein/pull/203) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 weeks ago)
 - [Redesign the interaction layer: one easing vocabulary, press physics, glass depth and entry choreography](https://github.com/aslafy-z/plein/pull/202) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 weeks ago)
-- [fix(sso): persist a random password for SSO-created users](https://github.com/aslafy-z/jellyfin-plugin-sso/pull/1) on [aslafy-z/jellyfin-plugin-sso](https://github.com/aslafy-z/jellyfin-plugin-sso) (2 weeks ago)
 - [fix(deployment): switch oauth proxy default image to quay.io](https://github.com/stakater/application/pull/617) on [stakater/application](https://github.com/stakater/application) (2 weeks ago)
 - [feat(security): enforce restricted security context defaults for all workloads](https://github.com/stakater/application/pull/616) on [stakater/application](https://github.com/stakater/application) (2 weeks ago)
 
