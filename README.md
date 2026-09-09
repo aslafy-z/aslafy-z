@@ -60,12 +60,14 @@ and more...
 - [Redesign the interaction layer: one easing vocabulary, press physics, glass depth and entry choreography](https://github.com/aslafy-z/plein/pull/202) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 weeks ago)
 - [fix(deployment): switch oauth proxy default image to quay.io](https://github.com/stakater/application/pull/617) on [stakater/application](https://github.com/stakater/application) (3 weeks ago)
 - [feat(security): enforce restricted security context defaults for all workloads](https://github.com/stakater/application/pull/616) on [stakater/application](https://github.com/stakater/application) (3 weeks ago)
+- [fix(helpers): render zero weight and backendRef filters in HTTPRoute](https://github.com/stakater/application/pull/615) on [stakater/application](https://github.com/stakater/application) (3 weeks ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
 ## ⭐ Recent Stars
 
 
+- [educates/educates-training-platform](https://github.com/educates/educates-training-platform) - A platform for hosting interactive workshop environments in Kubernetes, or on top of a local container runtime. (today)
 - [d2lang/d2](https://github.com/d2lang/d2) - D2 is a modern diagram scripting language that turns text to diagrams. (1 day ago)
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output. (1 day ago)
 - [nklmilojevic/sofka](https://github.com/nklmilojevic/sofka) - A Kubernetes TUI, reimagined in Rust - built on kube-rs and ratatui, async-first from the ground up. (4 days ago)
@@ -75,7 +77,6 @@ and more...
 - [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) - Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors (2 weeks ago)
 - [home-operations/kopiur](https://github.com/home-operations/kopiur) - A Kopia-native Kubernetes backup operator written in Rust (3 weeks ago)
 - [openai/fence](https://github.com/openai/fence) - A fence keeps things out, but also in. This project is still in early, and active development. (3 weeks ago)
-- [tsouza/cerberus](https://github.com/tsouza/cerberus) - Drop-in Prometheus / Loki / Tempo HTTP gateway for ClickHouse. Translate PromQL, LogQL, and TraceQL into optimized CH SQL — keep Grafana, swap the backend. (3 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
