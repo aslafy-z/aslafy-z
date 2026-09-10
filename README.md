@@ -67,16 +67,16 @@ and more...
 ## ⭐ Recent Stars
 
 
+- [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) - One memory shared by Claude Code, Codex, Cursor, Copilot CLI, OpenClaw and 20 more coding agents, built from the session history already on disk. A fix found in one agent comes back in any of them, including months of sessions from before you installed it. No LLM, no embeddings, one local Go binary. (today)
+- [yetidevworks/drydock](https://github.com/yetidevworks/drydock) - What&#39;s uncommitted, unpushed, and unreleased across every repo you own. A live TUI dashboard for a fleet of git repos. (today)
+- [artifact-keeper/artifact-keeper](https://github.com/artifact-keeper/artifact-keeper) - Open-source universal artifact registry. Drop-in Artifactory/Nexus alternative with 40&#43; package formats, security scanning, WASM plugins, and edge replication. (today)
+- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits. (today)
 - [educates/educates-training-platform](https://github.com/educates/educates-training-platform) - A platform for hosting interactive workshop environments in Kubernetes, or on top of a local container runtime. (1 day ago)
 - [d2lang/d2](https://github.com/d2lang/d2) - D2 is a modern diagram scripting language that turns text to diagrams. (2 days ago)
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output. (2 days ago)
 - [nklmilojevic/sofka](https://github.com/nklmilojevic/sofka) - A Kubernetes TUI, reimagined in Rust - built on kube-rs and ratatui, async-first from the ground up. (5 days ago)
 - [luynrs/justray](https://github.com/luynrs/justray) - A modern VPN client that lives in your terminal (1 week ago)
 - [Jorji49/streamtop](https://github.com/Jorji49/streamtop) - Terminal HLS, DASH, and IPTV stream monitor. Wire probes, TR 101 290, SCTE-35, Prometheus metrics. Rust CLI/TUI. (1 week ago)
-- [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale&#39;s data plane, without Tailscale&#39;s control plane (1 week ago)
-- [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) - Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors (2 weeks ago)
-- [home-operations/kopiur](https://github.com/home-operations/kopiur) - A Kopia-native Kubernetes backup operator written in Rust (3 weeks ago)
-- [openai/fence](https://github.com/openai/fence) - A fence keeps things out, but also in. This project is still in early, and active development. (3 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
