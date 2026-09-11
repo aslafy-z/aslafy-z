@@ -38,7 +38,7 @@ and more...
 - [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies and TV. Replaces Radarr, Sonarr and Seerr with a single Go binary — web UI, REST API, built-in requests, SSO. Music and books planned. (1 week ago)
 - [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (1 week ago)
 - [aslafy-z/hauth](https://github.com/aslafy-z/hauth) - Harness auth broker for cloud workspaces: browser-free logins for AI coding CLIs, a loopback kiosk UI, and a per-user credential store (1 week ago)
-- [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (1 week ago)
+- [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (2 weeks ago)
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (2 weeks ago)
 - [anacrolix/torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities (2 weeks ago)
 - [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (3 weeks ago)
@@ -51,11 +51,11 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [feat(instance): add tags filter to image data source](https://github.com/aslafy-z/terraform-provider-scaleway/pull/1) on [aslafy-z/terraform-provider-scaleway](https://github.com/aslafy-z/terraform-provider-scaleway) (1 week ago)
-- [feat(filters): drag the phone sheet handle to dismiss](https://github.com/aslafy-z/plein/pull/207) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 week ago)
-- [Notice a fresh deploy on the first open, not the second](https://github.com/aslafy-z/plein/pull/206) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 week ago)
-- [Count basemap tiles in the offline data readout, sweep them on clear, and retire the keyless tile generation](https://github.com/aslafy-z/plein/pull/205) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 week ago)
-- [Send the CARTO account key with every basemap tile](https://github.com/aslafy-z/plein/pull/204) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 week ago)
+- [feat(instance): add tags filter to image data source](https://github.com/aslafy-z/terraform-provider-scaleway/pull/1) on [aslafy-z/terraform-provider-scaleway](https://github.com/aslafy-z/terraform-provider-scaleway) (2 weeks ago)
+- [feat(filters): drag the phone sheet handle to dismiss](https://github.com/aslafy-z/plein/pull/207) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 weeks ago)
+- [Notice a fresh deploy on the first open, not the second](https://github.com/aslafy-z/plein/pull/206) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 weeks ago)
+- [Count basemap tiles in the offline data readout, sweep them on clear, and retire the keyless tile generation](https://github.com/aslafy-z/plein/pull/205) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 weeks ago)
+- [Send the CARTO account key with every basemap tile](https://github.com/aslafy-z/plein/pull/204) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 weeks ago)
 - [Redesign pass: one display type language, unified pill and chip skins, grain atmosphere, mount motion](https://github.com/aslafy-z/plein/pull/203) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 weeks ago)
 - [Redesign the interaction layer: one easing vocabulary, press physics, glass depth and entry choreography](https://github.com/aslafy-z/plein/pull/202) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 weeks ago)
 - [fix(deployment): switch oauth proxy default image to quay.io](https://github.com/stakater/application/pull/617) on [stakater/application](https://github.com/stakater/application) (3 weeks ago)
@@ -67,14 +67,14 @@ and more...
 ## ⭐ Recent Stars
 
 
-- [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) - One memory shared by Claude Code, Codex, Cursor, Copilot CLI, OpenClaw and 20 more coding agents, built from the session history already on disk. A fix found in one agent comes back in any of them, including months of sessions from before you installed it. No LLM, no embeddings, one local Go binary. (today)
-- [yetidevworks/drydock](https://github.com/yetidevworks/drydock) - What&#39;s uncommitted, unpushed, and unreleased across every repo you own. A live TUI dashboard for a fleet of git repos. (today)
-- [artifact-keeper/artifact-keeper](https://github.com/artifact-keeper/artifact-keeper) - Open-source universal artifact registry. Drop-in Artifactory/Nexus alternative with 40&#43; package formats, security scanning, WASM plugins, and edge replication. (today)
-- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits. (today)
-- [educates/educates-training-platform](https://github.com/educates/educates-training-platform) - A platform for hosting interactive workshop environments in Kubernetes, or on top of a local container runtime. (1 day ago)
-- [d2lang/d2](https://github.com/d2lang/d2) - D2 is a modern diagram scripting language that turns text to diagrams. (2 days ago)
-- [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output. (2 days ago)
-- [nklmilojevic/sofka](https://github.com/nklmilojevic/sofka) - A Kubernetes TUI, reimagined in Rust - built on kube-rs and ratatui, async-first from the ground up. (5 days ago)
+- [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) - One memory shared by Claude Code, Codex, Cursor, Copilot CLI, OpenClaw and 20 more coding agents, built from the session history already on disk. A fix found in one agent comes back in any of them, including months of sessions from before you installed it. No LLM, no embeddings, one local Go binary. (1 day ago)
+- [yetidevworks/drydock](https://github.com/yetidevworks/drydock) - What&#39;s uncommitted, unpushed, and unreleased across every repo you own. A live TUI dashboard for a fleet of git repos. (1 day ago)
+- [artifact-keeper/artifact-keeper](https://github.com/artifact-keeper/artifact-keeper) - Open-source universal artifact registry. Drop-in Artifactory/Nexus alternative with 40&#43; package formats, security scanning, WASM plugins, and edge replication. (1 day ago)
+- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits. (1 day ago)
+- [educates/educates-training-platform](https://github.com/educates/educates-training-platform) - A platform for hosting interactive workshop environments in Kubernetes, or on top of a local container runtime. (2 days ago)
+- [d2lang/d2](https://github.com/d2lang/d2) - D2 is a modern diagram scripting language that turns text to diagrams. (3 days ago)
+- [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output. (3 days ago)
+- [nklmilojevic/sofka](https://github.com/nklmilojevic/sofka) - A Kubernetes TUI, reimagined in Rust - built on kube-rs and ratatui, async-first from the ground up. (6 days ago)
 - [luynrs/justray](https://github.com/luynrs/justray) - A modern VPN client that lives in your terminal (1 week ago)
 - [Jorji49/streamtop](https://github.com/Jorji49/streamtop) - Terminal HLS, DASH, and IPTV stream monitor. Wire probes, TR 101 290, SCTE-35, Prometheus metrics. Rust CLI/TUI. (1 week ago)
 
