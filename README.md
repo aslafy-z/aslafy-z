@@ -35,15 +35,15 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (today)
-- [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes (2 days ago)
+- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (1 day ago)
+- [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes (3 days ago)
 - [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies and TV. Replaces Radarr, Sonarr and Seerr with a single Go binary — web UI, REST API, built-in requests, SSO. Music and books planned. (1 week ago)
 - [aslafy-z/hauth](https://github.com/aslafy-z/hauth) - Harness auth broker for cloud workspaces: browser-free logins for AI coding CLIs, a loopback kiosk UI, and a per-user credential store (2 weeks ago)
 - [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (2 weeks ago)
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (2 weeks ago)
 - [anacrolix/torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities (3 weeks ago)
 - [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (3 weeks ago)
-- [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (3 weeks ago)
+- [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (4 weeks ago)
 - [martabal/qbittorrent-exporter](https://github.com/martabal/qbittorrent-exporter) - A fast and lightweight prometheus exporter for qBittorrent (1 month ago)
 
 
@@ -51,8 +51,8 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [feat(manifest): embed registry vetting metadata per plugin](https://github.com/aslafy-z/coreruleset-plugins-image/pull/10) on [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) (2 days ago)
-- [feat(sync): read the CRS plugin registry from registry.json](https://github.com/aslafy-z/coreruleset-plugins-image/pull/8) on [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) (2 days ago)
+- [feat(manifest): embed registry vetting metadata per plugin](https://github.com/aslafy-z/coreruleset-plugins-image/pull/10) on [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) (3 days ago)
+- [feat(sync): read the CRS plugin registry from registry.json](https://github.com/aslafy-z/coreruleset-plugins-image/pull/8) on [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) (3 days ago)
 - [feat(instance): add tags filter to image data source](https://github.com/aslafy-z/terraform-provider-scaleway/pull/1) on [aslafy-z/terraform-provider-scaleway](https://github.com/aslafy-z/terraform-provider-scaleway) (2 weeks ago)
 - [feat(filters): drag the phone sheet handle to dismiss](https://github.com/aslafy-z/plein/pull/207) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 weeks ago)
 - [Notice a fresh deploy on the first open, not the second](https://github.com/aslafy-z/plein/pull/206) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 weeks ago)
@@ -66,14 +66,14 @@ and more...
 ## ⭐ Recent Stars
 
 
-- [pehlicd/crd-wizard](https://github.com/pehlicd/crd-wizard) - CR(D) Wizard is a web and tui based dashboard designed to provide a clear and intuitive interface for visualizing and exploring Kubernetes Custom Resource Definitions (CRDs) and their corresponding Custom Resources (CRs). It helps k8s users to quickly understand the state of their custom controllers and the resources they manage. (1 day ago)
-- [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) - One memory shared by Claude Code, Codex, Cursor, Copilot CLI, OpenClaw and 20 more coding agents, built from the session history already on disk. A fix found in one agent comes back in any of them, including months of sessions from before you installed it. No LLM, no embeddings, one local Go binary. (4 days ago)
-- [yetidevworks/drydock](https://github.com/yetidevworks/drydock) - What&#39;s uncommitted, unpushed, and unreleased across every repo you own. A live TUI dashboard for a fleet of git repos. (4 days ago)
-- [artifact-keeper/artifact-keeper](https://github.com/artifact-keeper/artifact-keeper) - Open-source universal artifact registry. Drop-in Artifactory/Nexus alternative with 40&#43; package formats, security scanning, WASM plugins, and edge replication. (4 days ago)
-- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits. (4 days ago)
-- [educates/educates-training-platform](https://github.com/educates/educates-training-platform) - A platform for hosting interactive workshop environments in Kubernetes, or on top of a local container runtime. (5 days ago)
-- [d2lang/d2](https://github.com/d2lang/d2) - D2 is a modern diagram scripting language that turns text to diagrams. (6 days ago)
-- [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output. (6 days ago)
+- [pehlicd/crd-wizard](https://github.com/pehlicd/crd-wizard) - CR(D) Wizard is a web and tui based dashboard designed to provide a clear and intuitive interface for visualizing and exploring Kubernetes Custom Resource Definitions (CRDs) and their corresponding Custom Resources (CRs). It helps k8s users to quickly understand the state of their custom controllers and the resources they manage. (2 days ago)
+- [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) - One memory shared by Claude Code, Codex, Cursor, Copilot CLI, OpenClaw and 20 more coding agents, built from the session history already on disk. A fix found in one agent comes back in any of them, including months of sessions from before you installed it. No LLM, no embeddings, one local Go binary. (5 days ago)
+- [yetidevworks/drydock](https://github.com/yetidevworks/drydock) - What&#39;s uncommitted, unpushed, and unreleased across every repo you own. A live TUI dashboard for a fleet of git repos. (5 days ago)
+- [artifact-keeper/artifact-keeper](https://github.com/artifact-keeper/artifact-keeper) - Open-source universal artifact registry. Drop-in Artifactory/Nexus alternative with 40&#43; package formats, security scanning, WASM plugins, and edge replication. (5 days ago)
+- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits. (5 days ago)
+- [educates/educates-training-platform](https://github.com/educates/educates-training-platform) - A platform for hosting interactive workshop environments in Kubernetes, or on top of a local container runtime. (6 days ago)
+- [d2lang/d2](https://github.com/d2lang/d2) - D2 is a modern diagram scripting language that turns text to diagrams. (1 week ago)
+- [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output. (1 week ago)
 - [nklmilojevic/sofka](https://github.com/nklmilojevic/sofka) - A Kubernetes TUI, reimagined in Rust - built on kube-rs and ratatui, async-first from the ground up. (1 week ago)
 - [luynrs/justray](https://github.com/luynrs/justray) - A modern VPN client that lives in your terminal (1 week ago)
 
