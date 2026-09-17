@@ -66,6 +66,8 @@ and more...
 ## ⭐ Recent Stars
 
 
+- [cozystack/blockstor](https://github.com/cozystack/blockstor) - Free Software-Defined Storage System based on Kubernetes (today)
+- [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings (today)
 - [BraveOPotato/FckSignups](https://github.com/BraveOPotato/FckSignups) - A list of tools that are open-source, in-browser, and require no-signups! (1 day ago)
 - [pehlicd/crd-wizard](https://github.com/pehlicd/crd-wizard) - CR(D) Wizard is a web and tui based dashboard designed to provide a clear and intuitive interface for visualizing and exploring Kubernetes Custom Resource Definitions (CRDs) and their corresponding Custom Resources (CRs). It helps k8s users to quickly understand the state of their custom controllers and the resources they manage. (4 days ago)
 - [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) - One memory shared by Claude Code, Codex, Cursor, Copilot CLI, OpenClaw and 20 more coding agents, built from the session history already on disk. A fix found in one agent comes back in any of them, including months of sessions from before you installed it. No LLM, no embeddings, one local Go binary. (1 week ago)
@@ -74,8 +76,6 @@ and more...
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits. (1 week ago)
 - [educates/educates-training-platform](https://github.com/educates/educates-training-platform) - A platform for hosting interactive workshop environments in Kubernetes, or on top of a local container runtime. (1 week ago)
 - [d2lang/d2](https://github.com/d2lang/d2) - D2 is a modern diagram scripting language that turns text to diagrams. (1 week ago)
-- [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output. (1 week ago)
-- [nklmilojevic/sofka](https://github.com/nklmilojevic/sofka) - A Kubernetes TUI, reimagined in Rust - built on kube-rs and ratatui, async-first from the ground up. (1 week ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
