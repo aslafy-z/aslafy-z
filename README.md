@@ -51,6 +51,7 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [feat(lpc): add fan control for Fintek F71889ED and fix manual mode on F71889AD](https://github.com/aslafy-z/LibreHardwareMonitor/pull/1) on [aslafy-z/LibreHardwareMonitor](https://github.com/aslafy-z/LibreHardwareMonitor) (today)
 - [fix(web): translate the nav count lines instead of hard-coding English](https://github.com/DataHearth/streamline/pull/61) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (4 days ago)
 - [feat(manifest): embed registry vetting metadata per plugin](https://github.com/aslafy-z/coreruleset-plugins-image/pull/10) on [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) (1 week ago)
 - [feat(sync): read the CRS plugin registry from registry.json](https://github.com/aslafy-z/coreruleset-plugins-image/pull/8) on [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) (1 week ago)
@@ -59,7 +60,6 @@ and more...
 - [Count basemap tiles in the offline data readout, sweep them on clear, and retire the keyless tile generation](https://github.com/aslafy-z/plein/pull/205) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (3 weeks ago)
 - [Send the CARTO account key with every basemap tile](https://github.com/aslafy-z/plein/pull/204) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (3 weeks ago)
 - [Redesign pass: one display type language, unified pill and chip skins, grain atmosphere, mount motion](https://github.com/aslafy-z/plein/pull/203) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (4 weeks ago)
-- [Redesign the interaction layer: one easing vocabulary, press physics, glass depth and entry choreography](https://github.com/aslafy-z/plein/pull/202) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (4 weeks ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
