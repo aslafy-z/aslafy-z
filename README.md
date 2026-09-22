@@ -35,7 +35,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (1 day ago)
+- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (today)
 - [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies and TV. Replaces Radarr, Sonarr and Seerr with a single Go binary — web UI, REST API, built-in requests, SSO. Music and books planned. (3 days ago)
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes (1 week ago)
 - [aslafy-z/hauth](https://github.com/aslafy-z/hauth) - Harness auth broker for cloud workspaces: browser-free logins for AI coding CLIs, a loopback kiosk UI, and a per-user credential store (3 weeks ago)
@@ -51,7 +51,7 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [feat(lpc): add fan control for Fintek F71889ED and fix manual mode on F71889AD](https://github.com/aslafy-z/LibreHardwareMonitor/pull/1) on [aslafy-z/LibreHardwareMonitor](https://github.com/aslafy-z/LibreHardwareMonitor) (1 day ago)
+- [feat(lpc): add fan control for Fintek F71889ED and fix manual mode on F71889AD/F71878AD](https://github.com/aslafy-z/LibreHardwareMonitor/pull/1) on [aslafy-z/LibreHardwareMonitor](https://github.com/aslafy-z/LibreHardwareMonitor) (1 day ago)
 - [fix(web): translate the nav count lines instead of hard-coding English](https://github.com/DataHearth/streamline/pull/61) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (5 days ago)
 - [feat(manifest): embed registry vetting metadata per plugin](https://github.com/aslafy-z/coreruleset-plugins-image/pull/10) on [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) (1 week ago)
 - [feat(sync): read the CRS plugin registry from registry.json](https://github.com/aslafy-z/coreruleset-plugins-image/pull/8) on [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) (1 week ago)
@@ -66,16 +66,16 @@ and more...
 ## ⭐ Recent Stars
 
 
+- [cynative/cynative](https://github.com/cynative/cynative) - Open-source security agents for cloud, code and runtime. 45 built-in agents audit AWS, GCP, Azure, Kubernetes, GitHub and GitLab for privilege escalation, public exposure, supply chain and more, or build your own in one markdown file. Live, read-only access to your infrastructure. (today)
+- [attune-io/attune](https://github.com/attune-io/attune) - Safe, in-place Kubernetes pod resource right-sizing. VPA done right. (today)
+- [jzills/kx](https://github.com/jzills/kx) - kx is a kubectl wrapper that adds index-based resource selection. Run kx get &lt;resource&gt; once, then reference any result by number instead of typing full resource names. (today)
+- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, Kubernetes, database and RDP/VNC bastion/PAM that doesn&#39;t need additional client-side software (today)
+- [yyjeqhc/webcodex](https://github.com/yyjeqhc/webcodex) - Give cloud AI agents a real development environment on your own machines. (today)
+- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants. (today)
 - [cozystack/blockstor](https://github.com/cozystack/blockstor) - Free Software-Defined Storage System based on Kubernetes (5 days ago)
 - [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings (5 days ago)
 - [BraveOPotato/FckSignups](https://github.com/BraveOPotato/FckSignups) - A list of tools that are open-source, in-browser, and require no-signups! (6 days ago)
 - [pehlicd/crd-wizard](https://github.com/pehlicd/crd-wizard) - CR(D) Wizard is a web and tui based dashboard designed to provide a clear and intuitive interface for visualizing and exploring Kubernetes Custom Resource Definitions (CRDs) and their corresponding Custom Resources (CRs). It helps k8s users to quickly understand the state of their custom controllers and the resources they manage. (1 week ago)
-- [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) - One memory shared by Claude Code, Codex, Cursor, Copilot CLI, OpenClaw and 28 more coding agents, built from the session history already on disk. A fix found in one agent comes back in any of them, including months of sessions from before you installed it. No LLM, no embeddings, one local Go binary. (1 week ago)
-- [yetidevworks/drydock](https://github.com/yetidevworks/drydock) - What&#39;s uncommitted, unpushed, and unreleased across every repo you own. A live TUI dashboard for a fleet of git repos. (1 week ago)
-- [artifact-keeper/artifact-keeper](https://github.com/artifact-keeper/artifact-keeper) - Open-source universal artifact registry. Drop-in Artifactory/Nexus alternative with 40&#43; package formats, security scanning, WASM plugins, and edge replication. (1 week ago)
-- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits. (1 week ago)
-- [educates/educates-training-platform](https://github.com/educates/educates-training-platform) - A platform for hosting interactive workshop environments in Kubernetes, or on top of a local container runtime. (1 week ago)
-- [d2lang/d2](https://github.com/d2lang/d2) - D2 is a modern diagram scripting language that turns text to diagrams. (2 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
