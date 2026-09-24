@@ -35,6 +35,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
+- [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (today)
 - [aslafy-z/deja-web](https://github.com/aslafy-z/deja-web) -  (1 day ago)
 - [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (2 days ago)
 - [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies and TV. Replaces Radarr, Sonarr and Seerr with a single Go binary — web UI, REST API, built-in requests, SSO. Music and books planned. (5 days ago)
@@ -43,7 +44,6 @@ and more...
 - [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (3 weeks ago)
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (4 weeks ago)
 - [anacrolix/torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities (1 month ago)
-- [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (1 month ago)
 - [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (1 month ago)
 
 
@@ -51,21 +51,23 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [ci(kind): validate CRD profile against installed CRDs](https://github.com/stakater/application/pull/639) on [stakater/application](https://github.com/stakater/application) (today)
+- [test(deployment): decouple oauth proxy tests from image digest](https://github.com/stakater/application/pull/638) on [stakater/application](https://github.com/stakater/application) (today)
+- [chore(deps): update origin-oauth-proxy digest to 7207e00](https://github.com/stakater/application/pull/637) on [stakater/application](https://github.com/stakater/application) (today)
 - [feat(lpc): add fan control for Fintek F71889ED and fix manual mode on F71889AD/F71878AD](https://github.com/aslafy-z/LibreHardwareMonitor/pull/1) on [aslafy-z/LibreHardwareMonitor](https://github.com/aslafy-z/LibreHardwareMonitor) (3 days ago)
 - [fix(web): translate the nav count lines instead of hard-coding English](https://github.com/DataHearth/streamline/pull/61) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 week ago)
 - [feat(manifest): embed registry vetting metadata per plugin](https://github.com/aslafy-z/coreruleset-plugins-image/pull/10) on [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) (1 week ago)
 - [feat(sync): read the CRS plugin registry from registry.json](https://github.com/aslafy-z/coreruleset-plugins-image/pull/8) on [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) (1 week ago)
 - [feat(filters): drag the phone sheet handle to dismiss](https://github.com/aslafy-z/plein/pull/207) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (3 weeks ago)
 - [Notice a fresh deploy on the first open, not the second](https://github.com/aslafy-z/plein/pull/206) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (3 weeks ago)
-- [Count basemap tiles in the offline data readout, sweep them on clear, and retire the keyless tile generation](https://github.com/aslafy-z/plein/pull/205) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (3 weeks ago)
-- [Send the CARTO account key with every basemap tile](https://github.com/aslafy-z/plein/pull/204) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (3 weeks ago)
-- [Redesign pass: one display type language, unified pill and chip skins, grain atmosphere, mount motion](https://github.com/aslafy-z/plein/pull/203) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 month ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
 ## ⭐ Recent Stars
 
 
+- [theagentrouter/agent-router](https://github.com/theagentrouter/agent-router) - Manages Unified Access to Generative AI Services built on Envoy Gateway (today)
+- [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) - Find leaked secrets everywhere. (today)
 - [rezigned/upmd](https://github.com/rezigned/upmd) - upmd - Run tasks and workflows from Markdown. (2 days ago)
 - [cynative/cynative](https://github.com/cynative/cynative) - Open-source security agents for cloud, code and runtime. 45 built-in agents audit AWS, GCP, Azure, Kubernetes, GitHub and GitLab for privilege escalation, public exposure, supply chain and more, or build your own in one markdown file. Live, read-only access to your infrastructure. (2 days ago)
 - [attune-io/attune](https://github.com/attune-io/attune) - Safe, in-place Kubernetes pod resource right-sizing. VPA done right. (2 days ago)
@@ -74,8 +76,6 @@ and more...
 - [yyjeqhc/webcodex](https://github.com/yyjeqhc/webcodex) - Give cloud AI agents a real development environment on your own machines. (2 days ago)
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants. (2 days ago)
 - [cozystack/blockstor](https://github.com/cozystack/blockstor) - Free Software-Defined Storage System based on Kubernetes (1 week ago)
-- [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings (1 week ago)
-- [BraveOPotato/FckSignups](https://github.com/BraveOPotato/FckSignups) - A list of tools that are open-source, in-browser, and require no-signups! (1 week ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
