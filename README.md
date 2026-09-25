@@ -51,6 +51,7 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [feat(instance): add support for filtering image by tags](https://github.com/scaleway/terraform-provider-scaleway/pull/4397) on [scaleway/terraform-provider-scaleway](https://github.com/scaleway/terraform-provider-scaleway) (today)
 - [ci(kind): validate CRD profile against installed CRDs](https://github.com/stakater/application/pull/639) on [stakater/application](https://github.com/stakater/application) (1 day ago)
 - [test(deployment): decouple oauth proxy tests from image digest](https://github.com/stakater/application/pull/638) on [stakater/application](https://github.com/stakater/application) (1 day ago)
 - [chore(deps): update origin-oauth-proxy digest to 7207e00](https://github.com/stakater/application/pull/637) on [stakater/application](https://github.com/stakater/application) (1 day ago)
@@ -59,7 +60,6 @@ and more...
 - [feat(manifest): embed registry vetting metadata per plugin](https://github.com/aslafy-z/coreruleset-plugins-image/pull/10) on [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) (1 week ago)
 - [feat(sync): read the CRS plugin registry from registry.json](https://github.com/aslafy-z/coreruleset-plugins-image/pull/8) on [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) (1 week ago)
 - [feat(filters): drag the phone sheet handle to dismiss](https://github.com/aslafy-z/plein/pull/207) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (4 weeks ago)
-- [Notice a fresh deploy on the first open, not the second](https://github.com/aslafy-z/plein/pull/206) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (4 weeks ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
