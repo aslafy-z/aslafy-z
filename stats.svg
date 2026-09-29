@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Zadkiel AHARONIAN&#39;s GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 524, Total Commits  (last year) : 2003, Total PRs: 1169, Total Issues: 615, Contributed to (last year): 74</desc>
+        <desc id="descId">Total Stars Earned: 524, Total Commits  (last year) : 2004, Total PRs: 1169, Total Issues: 620, Contributed to (last year): 74</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 8.486491088353697;
+        stroke-dashoffset: 8.486041698914539;
       }
     }
   
@@ -203,7 +203,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >615</text>
+      >620</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
