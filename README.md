@@ -35,26 +35,26 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (5 days ago)
-- [aslafy-z/deja-web](https://github.com/aslafy-z/deja-web) -  (6 days ago)
+- [aslafy-z/renovate-reproduction-stale-cache](https://github.com/aslafy-z/renovate-reproduction-stale-cache) -  (today)
+- [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (6 days ago)
+- [aslafy-z/deja-web](https://github.com/aslafy-z/deja-web) -  (1 week ago)
 - [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (1 week ago)
 - [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies and TV. Replaces Radarr, Sonarr and Seerr with a single Go binary — web UI, REST API, built-in requests, SSO. Music and books planned. (1 week ago)
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes (2 weeks ago)
-- [aslafy-z/hauth](https://github.com/aslafy-z/hauth) - Harness auth broker for cloud workspaces: browser-free logins for AI coding CLIs, a loopback kiosk UI, and a per-user credential store (4 weeks ago)
+- [aslafy-z/hauth](https://github.com/aslafy-z/hauth) - Harness auth broker for cloud workspaces: browser-free logins for AI coding CLIs, a loopback kiosk UI, and a per-user credential store (1 month ago)
 - [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (1 month ago)
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (1 month ago)
 - [anacrolix/torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities (1 month ago)
-- [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (1 month ago)
 
 
 
 ## 🔨 Recent Pull Requests
 
 
-- [feat(instance): add support for filtering image by tags](https://github.com/scaleway/terraform-provider-scaleway/pull/4397) on [scaleway/terraform-provider-scaleway](https://github.com/scaleway/terraform-provider-scaleway) (4 days ago)
-- [ci(kind): validate CRD profile against installed CRDs](https://github.com/stakater/application/pull/639) on [stakater/application](https://github.com/stakater/application) (5 days ago)
-- [test(deployment): decouple oauth proxy tests from image digest](https://github.com/stakater/application/pull/638) on [stakater/application](https://github.com/stakater/application) (5 days ago)
-- [chore(deps): update origin-oauth-proxy digest to 7207e00](https://github.com/stakater/application/pull/637) on [stakater/application](https://github.com/stakater/application) (5 days ago)
+- [feat(instance): add support for filtering image by tags](https://github.com/scaleway/terraform-provider-scaleway/pull/4397) on [scaleway/terraform-provider-scaleway](https://github.com/scaleway/terraform-provider-scaleway) (5 days ago)
+- [ci(kind): validate CRD profile against installed CRDs](https://github.com/stakater/application/pull/639) on [stakater/application](https://github.com/stakater/application) (6 days ago)
+- [test(deployment): decouple oauth proxy tests from image digest](https://github.com/stakater/application/pull/638) on [stakater/application](https://github.com/stakater/application) (6 days ago)
+- [chore(deps): update origin-oauth-proxy digest to 7207e00](https://github.com/stakater/application/pull/637) on [stakater/application](https://github.com/stakater/application) (6 days ago)
 - [feat(lpc): add fan control for Fintek F71889ED and fix manual mode on F71889AD/F71878AD](https://github.com/aslafy-z/LibreHardwareMonitor/pull/1) on [aslafy-z/LibreHardwareMonitor](https://github.com/aslafy-z/LibreHardwareMonitor) (1 week ago)
 - [fix(web): translate the nav count lines instead of hard-coding English](https://github.com/DataHearth/streamline/pull/61) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 week ago)
 - [feat(manifest): embed registry vetting metadata per plugin](https://github.com/aslafy-z/coreruleset-plugins-image/pull/10) on [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) (2 weeks ago)
@@ -66,8 +66,8 @@ and more...
 ## ⭐ Recent Stars
 
 
-- [theagentrouter/agent-router](https://github.com/theagentrouter/agent-router) - Manages Unified Access to Generative AI Services built on Envoy Gateway (5 days ago)
-- [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) - Find leaked secrets everywhere. (5 days ago)
+- [theagentrouter/agent-router](https://github.com/theagentrouter/agent-router) - Manages Unified Access to Generative AI Services built on Envoy Gateway (6 days ago)
+- [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) - Find leaked secrets everywhere. (6 days ago)
 - [rezigned/upmd](https://github.com/rezigned/upmd) - upmd - Run tasks and workflows from Markdown. (1 week ago)
 - [cynative/cynative](https://github.com/cynative/cynative) - Open-source security agents for cloud, code and runtime. 45 built-in agents audit AWS, GCP, Azure, Kubernetes, GitHub and GitLab for privilege escalation, public exposure, supply chain and more, or build your own in one markdown file. Live, read-only access to your infrastructure. (1 week ago)
 - [attune-io/attune](https://github.com/attune-io/attune) - Safe, in-place Kubernetes pod resource right-sizing. VPA done right. (1 week ago)
