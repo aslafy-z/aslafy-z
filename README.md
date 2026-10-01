@@ -67,7 +67,7 @@ and more...
 - [theagentrouter/agent-router](https://github.com/theagentrouter/agent-router) - Manages Unified Access to Generative AI Services built on Envoy Gateway (1 week ago)
 - [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) - Find leaked secrets everywhere. (1 week ago)
 - [rezigned/upmd](https://github.com/rezigned/upmd) - upmd - Run tasks and workflows from Markdown. (1 week ago)
-- [cynative/cynative](https://github.com/cynative/cynative) - Open-source security agents for cloud, code and runtime. 45 built-in agents audit AWS, GCP, Azure, Kubernetes, GitHub and GitLab for privilege escalation, public exposure, supply chain and more, or build your own in one markdown file. Live, read-only access to your infrastructure. (1 week ago)
+- [cynative/cynative](https://github.com/cynative/cynative) - Build your own cybersecurity AI agents. The open source security engineering toolkit for the AI era. (1 week ago)
 - [attune-io/attune](https://github.com/attune-io/attune) - Safe, in-place Kubernetes pod resource right-sizing. VPA done right. (1 week ago)
 - [jzills/kx](https://github.com/jzills/kx) - kx is a kubectl wrapper that adds index-based resource selection. Run kx get &lt;resource&gt; once, then reference any result by number instead of typing full resource names. (1 week ago)
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, Kubernetes, database and RDP/VNC bastion/PAM that doesn&#39;t need additional client-side software (1 week ago)
