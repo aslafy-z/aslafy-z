@@ -35,7 +35,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (1 day ago)
+- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (today)
 - [aslafy-z/renovate-reproduction-stale-cache](https://github.com/aslafy-z/renovate-reproduction-stale-cache) -  (2 days ago)
 - [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (1 week ago)
 - [aslafy-z/deja-web](https://github.com/aslafy-z/deja-web) -  (1 week ago)
@@ -51,13 +51,13 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [Change webhook container port to targetPort in helm chart](https://github.com/netbirdio/kubernetes-operator/pull/438) on [netbirdio/kubernetes-operator](https://github.com/netbirdio/kubernetes-operator) (today)
 - [feat(node): add mode option to CreateNode](https://github.com/bndr/gojenkins/pull/372) on [bndr/gojenkins](https://github.com/bndr/gojenkins) (1 day ago)
 - [feat(instance): add support for filtering image by tags](https://github.com/scaleway/terraform-provider-scaleway/pull/4397) on [scaleway/terraform-provider-scaleway](https://github.com/scaleway/terraform-provider-scaleway) (1 week ago)
 - [ci(kind): validate CRD profile against installed CRDs](https://github.com/stakater/application/pull/639) on [stakater/application](https://github.com/stakater/application) (1 week ago)
 - [test(deployment): decouple oauth proxy tests from image digest](https://github.com/stakater/application/pull/638) on [stakater/application](https://github.com/stakater/application) (1 week ago)
 - [chore(deps): update origin-oauth-proxy digest to 7207e00](https://github.com/stakater/application/pull/637) on [stakater/application](https://github.com/stakater/application) (1 week ago)
 - [feat(lpc): add fan control for Fintek F71889ED and fix manual mode on F71889AD/F71878AD](https://github.com/aslafy-z/LibreHardwareMonitor/pull/1) on [aslafy-z/LibreHardwareMonitor](https://github.com/aslafy-z/LibreHardwareMonitor) (1 week ago)
-- [fix(web): translate the nav count lines instead of hard-coding English](https://github.com/DataHearth/streamline/pull/61) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 weeks ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
@@ -67,7 +67,7 @@ and more...
 - [theagentrouter/agent-router](https://github.com/theagentrouter/agent-router) - Manages Unified Access to Generative AI Services built on Envoy Gateway (1 week ago)
 - [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) - Find leaked secrets everywhere. (1 week ago)
 - [rezigned/upmd](https://github.com/rezigned/upmd) - upmd - Run tasks and workflows from Markdown. (1 week ago)
-- [cynative/cynative](https://github.com/cynative/cynative) - Build your own cybersecurity AI agents. The open source security engineering toolkit for the AI era. (1 week ago)
+- [cynative/cynative](https://github.com/cynative/cynative) - Open-source AI agent framework for cloud security across AWS, Azure, GCP and Kubernetes: AI-powered cloud detection and response, and cloud security posture management findings triage. (1 week ago)
 - [attune-io/attune](https://github.com/attune-io/attune) - Safe, in-place Kubernetes pod resource right-sizing. VPA done right. (1 week ago)
 - [jzills/kx](https://github.com/jzills/kx) - kx is a kubectl wrapper that adds index-based resource selection. Run kx get &lt;resource&gt; once, then reference any result by number instead of typing full resource names. (1 week ago)
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, Kubernetes, database and RDP/VNC bastion/PAM that doesn&#39;t need additional client-side software (1 week ago)
