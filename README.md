@@ -35,8 +35,9 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (1 day ago)
-- [aslafy-z/renovate-reproduction-stale-cache](https://github.com/aslafy-z/renovate-reproduction-stale-cache) -  (3 days ago)
+- [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (today)
+- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (2 days ago)
+- [aslafy-z/renovate-reproduction-stale-cache](https://github.com/aslafy-z/renovate-reproduction-stale-cache) -  (4 days ago)
 - [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (1 week ago)
 - [aslafy-z/deja-web](https://github.com/aslafy-z/deja-web) -  (1 week ago)
 - [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies and TV. Replaces Radarr, Sonarr and Seerr with a single Go binary — web UI, REST API, built-in requests, SSO. Music and books planned. (2 weeks ago)
@@ -44,20 +45,19 @@ and more...
 - [aslafy-z/hauth](https://github.com/aslafy-z/hauth) - Harness auth broker for cloud workspaces: browser-free logins for AI coding CLIs, a loopback kiosk UI, and a per-user credential store (1 month ago)
 - [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (1 month ago)
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (1 month ago)
-- [anacrolix/torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities (1 month ago)
 
 
 
 ## 🔨 Recent Pull Requests
 
 
-- [Change webhook container port to targetPort in helm chart](https://github.com/netbirdio/kubernetes-operator/pull/438) on [netbirdio/kubernetes-operator](https://github.com/netbirdio/kubernetes-operator) (1 day ago)
-- [feat(node): add mode option to CreateNode](https://github.com/bndr/gojenkins/pull/372) on [bndr/gojenkins](https://github.com/bndr/gojenkins) (2 days ago)
+- [fix(codex-desktop-git): use packaged asar for the ASAR patch](https://github.com/aslafy-z/aur-packages/pull/46) on [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) (1 day ago)
+- [Change webhook container port to targetPort in helm chart](https://github.com/netbirdio/kubernetes-operator/pull/438) on [netbirdio/kubernetes-operator](https://github.com/netbirdio/kubernetes-operator) (2 days ago)
+- [feat(node): add mode option to CreateNode](https://github.com/bndr/gojenkins/pull/372) on [bndr/gojenkins](https://github.com/bndr/gojenkins) (3 days ago)
 - [feat(instance): add support for filtering image by tags](https://github.com/scaleway/terraform-provider-scaleway/pull/4397) on [scaleway/terraform-provider-scaleway](https://github.com/scaleway/terraform-provider-scaleway) (1 week ago)
 - [ci(kind): validate CRD profile against installed CRDs](https://github.com/stakater/application/pull/639) on [stakater/application](https://github.com/stakater/application) (1 week ago)
 - [test(deployment): decouple oauth proxy tests from image digest](https://github.com/stakater/application/pull/638) on [stakater/application](https://github.com/stakater/application) (1 week ago)
 - [chore(deps): update origin-oauth-proxy digest to 7207e00](https://github.com/stakater/application/pull/637) on [stakater/application](https://github.com/stakater/application) (1 week ago)
-- [feat(lpc): add fan control for Fintek F71889ED and fix manual mode on F71889AD/F71878AD](https://github.com/aslafy-z/LibreHardwareMonitor/pull/1) on [aslafy-z/LibreHardwareMonitor](https://github.com/aslafy-z/LibreHardwareMonitor) (1 week ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
