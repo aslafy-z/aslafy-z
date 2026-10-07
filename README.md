@@ -37,6 +37,7 @@ and more...
 
 - [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (3 days ago)
 - [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (3 days ago)
+- [bndr/gojenkins](https://github.com/bndr/gojenkins) - Jenkins API Client in Go. Looking for maintainers to move this project forward. (6 days ago)
 - [aslafy-z/renovate-reproduction-stale-cache](https://github.com/aslafy-z/renovate-reproduction-stale-cache) -  (1 week ago)
 - [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (1 week ago)
 - [aslafy-z/deja-web](https://github.com/aslafy-z/deja-web) -  (2 weeks ago)
@@ -44,26 +45,26 @@ and more...
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes (3 weeks ago)
 - [aslafy-z/hauth](https://github.com/aslafy-z/hauth) - Harness auth broker for cloud workspaces: browser-free logins for AI coding CLIs, a loopback kiosk UI, and a per-user credential store (1 month ago)
 - [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (1 month ago)
-- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (1 month ago)
 
 
 
 ## 🔨 Recent Pull Requests
 
 
+- [feat(node): add mode attribute to jenkins_node](https://github.com/namecheap/terraform-provider-jenkins/pull/238) on [namecheap/terraform-provider-jenkins](https://github.com/namecheap/terraform-provider-jenkins) (today)
 - [fix(codex-desktop-git): use packaged asar for the ASAR patch](https://github.com/aslafy-z/aur-packages/pull/46) on [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) (4 days ago)
 - [Change webhook container port to targetPort in helm chart](https://github.com/netbirdio/kubernetes-operator/pull/438) on [netbirdio/kubernetes-operator](https://github.com/netbirdio/kubernetes-operator) (5 days ago)
 - [feat(node): add mode option to CreateNode](https://github.com/bndr/gojenkins/pull/372) on [bndr/gojenkins](https://github.com/bndr/gojenkins) (6 days ago)
 - [feat(instance): add support for filtering image by tags](https://github.com/scaleway/terraform-provider-scaleway/pull/4397) on [scaleway/terraform-provider-scaleway](https://github.com/scaleway/terraform-provider-scaleway) (1 week ago)
 - [ci(kind): validate CRD profile against installed CRDs](https://github.com/stakater/application/pull/639) on [stakater/application](https://github.com/stakater/application) (1 week ago)
 - [test(deployment): decouple oauth proxy tests from image digest](https://github.com/stakater/application/pull/638) on [stakater/application](https://github.com/stakater/application) (1 week ago)
-- [chore(deps): update origin-oauth-proxy digest to 7207e00](https://github.com/stakater/application/pull/637) on [stakater/application](https://github.com/stakater/application) (1 week ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
 ## ⭐ Recent Stars
 
 
+- [mvschwarz/openrig](https://github.com/mvschwarz/openrig) - Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work. (today)
 - [theagentrouter/agent-router](https://github.com/theagentrouter/agent-router) - Manages Unified Access to Generative AI Services built on Envoy Gateway (1 week ago)
 - [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) - Find leaked secrets everywhere. (1 week ago)
 - [rezigned/upmd](https://github.com/rezigned/upmd) - upmd - Run tasks and workflows from Markdown. (2 weeks ago)
@@ -73,7 +74,6 @@ and more...
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, Kubernetes, database and RDP/VNC bastion/PAM that doesn&#39;t need additional client-side software (2 weeks ago)
 - [yyjeqhc/webcodex](https://github.com/yyjeqhc/webcodex) - Give cloud AI agents a real development environment on your own machines. (2 weeks ago)
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants. (2 weeks ago)
-- [cozystack/blockstor](https://github.com/cozystack/blockstor) - Free Software-Defined Storage System based on Kubernetes (2 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
