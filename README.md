@@ -64,6 +64,7 @@ and more...
 ## ⭐ Recent Stars
 
 
+- [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. (today)
 - [mvschwarz/openrig](https://github.com/mvschwarz/openrig) - Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work. (1 day ago)
 - [theagentrouter/agent-router](https://github.com/theagentrouter/agent-router) - Manages Unified Access to Generative AI Services built on Envoy Gateway (2 weeks ago)
 - [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) - Find leaked secrets everywhere. (2 weeks ago)
@@ -73,7 +74,6 @@ and more...
 - [jzills/kx](https://github.com/jzills/kx) - A kubectl wrapper that adds index-based resource selection. Run kx get &lt;resource&gt; once, then reference any result by number instead of typing full resource names. (2 weeks ago)
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, Kubernetes, database and RDP/VNC bastion/PAM that doesn&#39;t need additional client-side software (2 weeks ago)
 - [yyjeqhc/webcodex](https://github.com/yyjeqhc/webcodex) - Give cloud AI agents a real development environment on your own machines. (2 weeks ago)
-- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants. (2 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
