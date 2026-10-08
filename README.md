@@ -35,8 +35,8 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
+- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (today)
 - [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (4 days ago)
-- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (4 days ago)
 - [bndr/gojenkins](https://github.com/bndr/gojenkins) - Jenkins API Client in Go. Looking for maintainers to move this project forward. (1 week ago)
 - [aslafy-z/renovate-reproduction-stale-cache](https://github.com/aslafy-z/renovate-reproduction-stale-cache) -  (1 week ago)
 - [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (2 weeks ago)
@@ -64,6 +64,7 @@ and more...
 ## ⭐ Recent Stars
 
 
+- [florianspk/t9s](https://github.com/florianspk/t9s) -  (today)
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. (today)
 - [mvschwarz/openrig](https://github.com/mvschwarz/openrig) - Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work. (1 day ago)
 - [theagentrouter/agent-router](https://github.com/theagentrouter/agent-router) - Manages Unified Access to Generative AI Services built on Envoy Gateway (2 weeks ago)
@@ -73,7 +74,6 @@ and more...
 - [attune-io/attune](https://github.com/attune-io/attune) - Safe, in-place Kubernetes pod resource right-sizing. VPA done right. (2 weeks ago)
 - [jzills/kx](https://github.com/jzills/kx) - A kubectl wrapper that adds index-based resource selection. Run kx get &lt;resource&gt; once, then reference any result by number instead of typing full resource names. (2 weeks ago)
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, Kubernetes, database and RDP/VNC bastion/PAM that doesn&#39;t need additional client-side software (2 weeks ago)
-- [yyjeqhc/webcodex](https://github.com/yyjeqhc/webcodex) - Give cloud AI agents a real development environment on your own machines. (2 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
