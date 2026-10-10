@@ -35,14 +35,14 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (today)
-- [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (5 days ago)
+- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (1 day ago)
+- [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (6 days ago)
 - [bndr/gojenkins](https://github.com/bndr/gojenkins) - Jenkins API Client in Go. Looking for maintainers to move this project forward. (1 week ago)
 - [aslafy-z/renovate-reproduction-stale-cache](https://github.com/aslafy-z/renovate-reproduction-stale-cache) -  (1 week ago)
 - [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (2 weeks ago)
 - [aslafy-z/deja-web](https://github.com/aslafy-z/deja-web) -  (2 weeks ago)
-- [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies and TV. Replaces Radarr, Sonarr and Seerr with a single Go binary — web UI, REST API, built-in requests, SSO. Music and books planned. (2 weeks ago)
-- [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes (3 weeks ago)
+- [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies and TV. Replaces Radarr, Sonarr and Seerr with a single Go binary — web UI, REST API, built-in requests, SSO. Music and books planned. (3 weeks ago)
+- [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes (4 weeks ago)
 - [aslafy-z/hauth](https://github.com/aslafy-z/hauth) - Harness auth broker for cloud workspaces: browser-free logins for AI coding CLIs, a loopback kiosk UI, and a per-user credential store (1 month ago)
 - [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (1 month ago)
 
@@ -51,8 +51,8 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [feat(node): add mode attribute to jenkins_node](https://github.com/namecheap/terraform-provider-jenkins/pull/238) on [namecheap/terraform-provider-jenkins](https://github.com/namecheap/terraform-provider-jenkins) (2 days ago)
-- [fix(codex-desktop-git): use packaged asar for the ASAR patch](https://github.com/aslafy-z/aur-packages/pull/46) on [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) (6 days ago)
+- [feat(node): add mode attribute to jenkins_node](https://github.com/namecheap/terraform-provider-jenkins/pull/238) on [namecheap/terraform-provider-jenkins](https://github.com/namecheap/terraform-provider-jenkins) (3 days ago)
+- [fix(codex-desktop-git): use packaged asar for the ASAR patch](https://github.com/aslafy-z/aur-packages/pull/46) on [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) (1 week ago)
 - [Change webhook container port to targetPort in helm chart](https://github.com/netbirdio/kubernetes-operator/pull/438) on [netbirdio/kubernetes-operator](https://github.com/netbirdio/kubernetes-operator) (1 week ago)
 - [feat(node): add mode option to CreateNode](https://github.com/bndr/gojenkins/pull/372) on [bndr/gojenkins](https://github.com/bndr/gojenkins) (1 week ago)
 - [feat(instance): add support for filtering image by tags](https://github.com/scaleway/terraform-provider-scaleway/pull/4397) on [scaleway/terraform-provider-scaleway](https://github.com/scaleway/terraform-provider-scaleway) (2 weeks ago)
@@ -64,9 +64,9 @@ and more...
 ## ⭐ Recent Stars
 
 
-- [florianspk/t9s](https://github.com/florianspk/t9s) -  (1 day ago)
-- [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. (1 day ago)
-- [mvschwarz/openrig](https://github.com/mvschwarz/openrig) - Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work. (2 days ago)
+- [florianspk/t9s](https://github.com/florianspk/t9s) -  (2 days ago)
+- [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. (2 days ago)
+- [mvschwarz/openrig](https://github.com/mvschwarz/openrig) - Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work. (3 days ago)
 - [theagentrouter/agent-router](https://github.com/theagentrouter/agent-router) - Manages Unified Access to Generative AI Services built on Envoy Gateway (2 weeks ago)
 - [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) - Find leaked secrets everywhere. (2 weeks ago)
 - [rezigned/upmd](https://github.com/rezigned/upmd) - upmd - Run tasks and workflows from Markdown. (2 weeks ago)
