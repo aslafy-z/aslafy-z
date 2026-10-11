@@ -51,13 +51,14 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [style(web): rename the sidebar tagline to &#34;control room&#34;](https://github.com/DataHearth/streamline/pull/90) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [fix: make #main positioned to contain sr-only labels](https://github.com/DataHearth/streamline/pull/89) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [feat(metadata): support preferred book language in Hardcover editions](https://github.com/DataHearth/streamline/pull/88) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [feat(web): lead the login page with SSO, fold the password form](https://github.com/DataHearth/streamline/pull/87) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [fix: prevent stale search results in releases dialog](https://github.com/DataHearth/streamline/pull/86) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
 - [feat(node): add mode attribute to jenkins_node](https://github.com/namecheap/terraform-provider-jenkins/pull/238) on [namecheap/terraform-provider-jenkins](https://github.com/namecheap/terraform-provider-jenkins) (4 days ago)
 - [fix(codex-desktop-git): use packaged asar for the ASAR patch](https://github.com/aslafy-z/aur-packages/pull/46) on [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) (1 week ago)
 - [Change webhook container port to targetPort in helm chart](https://github.com/netbirdio/kubernetes-operator/pull/438) on [netbirdio/kubernetes-operator](https://github.com/netbirdio/kubernetes-operator) (1 week ago)
-- [feat(node): add mode option to CreateNode](https://github.com/bndr/gojenkins/pull/372) on [bndr/gojenkins](https://github.com/bndr/gojenkins) (1 week ago)
-- [feat(instance): add support for filtering image by tags](https://github.com/scaleway/terraform-provider-scaleway/pull/4397) on [scaleway/terraform-provider-scaleway](https://github.com/scaleway/terraform-provider-scaleway) (2 weeks ago)
-- [ci(kind): validate CRD profile against installed CRDs](https://github.com/stakater/application/pull/639) on [stakater/application](https://github.com/stakater/application) (2 weeks ago)
-- [test(deployment): decouple oauth proxy tests from image digest](https://github.com/stakater/application/pull/638) on [stakater/application](https://github.com/stakater/application) (2 weeks ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
