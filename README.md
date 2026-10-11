@@ -35,8 +35,8 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (1 day ago)
-- [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (6 days ago)
+- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (2 days ago)
+- [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (1 week ago)
 - [bndr/gojenkins](https://github.com/bndr/gojenkins) - Jenkins API Client in Go. Looking for maintainers to move this project forward. (1 week ago)
 - [aslafy-z/renovate-reproduction-stale-cache](https://github.com/aslafy-z/renovate-reproduction-stale-cache) -  (1 week ago)
 - [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (2 weeks ago)
@@ -51,7 +51,7 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [feat(node): add mode attribute to jenkins_node](https://github.com/namecheap/terraform-provider-jenkins/pull/238) on [namecheap/terraform-provider-jenkins](https://github.com/namecheap/terraform-provider-jenkins) (3 days ago)
+- [feat(node): add mode attribute to jenkins_node](https://github.com/namecheap/terraform-provider-jenkins/pull/238) on [namecheap/terraform-provider-jenkins](https://github.com/namecheap/terraform-provider-jenkins) (4 days ago)
 - [fix(codex-desktop-git): use packaged asar for the ASAR patch](https://github.com/aslafy-z/aur-packages/pull/46) on [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) (1 week ago)
 - [Change webhook container port to targetPort in helm chart](https://github.com/netbirdio/kubernetes-operator/pull/438) on [netbirdio/kubernetes-operator](https://github.com/netbirdio/kubernetes-operator) (1 week ago)
 - [feat(node): add mode option to CreateNode](https://github.com/bndr/gojenkins/pull/372) on [bndr/gojenkins](https://github.com/bndr/gojenkins) (1 week ago)
@@ -64,10 +64,10 @@ and more...
 ## ⭐ Recent Stars
 
 
-- [phenixblue/k8shark](https://github.com/phenixblue/k8shark) - Capture Kubernetes cluster state to a portable archive and replay it through a mock API server — use kubectl against a customer&#39;s environment without live cluster access. (today)
-- [florianspk/t9s](https://github.com/florianspk/t9s) -  (2 days ago)
-- [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. (2 days ago)
-- [mvschwarz/openrig](https://github.com/mvschwarz/openrig) - Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work. (3 days ago)
+- [phenixblue/k8shark](https://github.com/phenixblue/k8shark) - Capture Kubernetes cluster state to a portable archive and replay it through a mock API server — use kubectl against a customer&#39;s environment without live cluster access. (1 day ago)
+- [florianspk/t9s](https://github.com/florianspk/t9s) -  (3 days ago)
+- [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. (3 days ago)
+- [mvschwarz/openrig](https://github.com/mvschwarz/openrig) - Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work. (4 days ago)
 - [theagentrouter/agent-router](https://github.com/theagentrouter/agent-router) - Manages Unified Access to Generative AI Services built on Envoy Gateway (2 weeks ago)
 - [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) - Find leaked secrets everywhere. (2 weeks ago)
 - [rezigned/upmd](https://github.com/rezigned/upmd) - upmd - Run tasks and workflows from Markdown. (2 weeks ago)
