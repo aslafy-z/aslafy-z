@@ -51,6 +51,7 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [feat(node): add jenkins_node_secret data source](https://github.com/namecheap/terraform-provider-jenkins/pull/241) on [namecheap/terraform-provider-jenkins](https://github.com/namecheap/terraform-provider-jenkins) (today)
 - [style(web): rename the sidebar tagline to &#34;control room&#34;](https://github.com/DataHearth/streamline/pull/90) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
 - [fix: make #main positioned to contain sr-only labels](https://github.com/DataHearth/streamline/pull/89) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
 - [feat(metadata): support preferred book language in Hardcover editions](https://github.com/DataHearth/streamline/pull/88) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
@@ -65,6 +66,8 @@ and more...
 ## ⭐ Recent Stars
 
 
+- [AndrewGuenther/fck-nat](https://github.com/AndrewGuenther/fck-nat) - Feasible cost konfigurable NAT: An AWS NAT Instance AMI (today)
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (today)
 - [phenixblue/k8shark](https://github.com/phenixblue/k8shark) - Capture Kubernetes cluster state to a portable archive and replay it through a mock API server — use kubectl against a customer&#39;s environment without live cluster access. (2 days ago)
 - [florianspk/t9s](https://github.com/florianspk/t9s) -  (4 days ago)
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. (4 days ago)
@@ -73,8 +76,6 @@ and more...
 - [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) - Find leaked secrets everywhere. (2 weeks ago)
 - [rezigned/upmd](https://github.com/rezigned/upmd) - upmd - Run tasks and workflows from Markdown. (2 weeks ago)
 - [cynative/cynative](https://github.com/cynative/cynative) - Open-source AI agent framework for cloud security across AWS, Azure, GCP and Kubernetes: AI-powered cloud detection and response, and cloud security posture management findings triage. (2 weeks ago)
-- [attune-io/attune](https://github.com/attune-io/attune) - Safe, in-place Kubernetes pod resource right-sizing. VPA done right. (2 weeks ago)
-- [jzills/kx](https://github.com/jzills/kx) - A kubectl wrapper that adds index-based resource selection. Run kx get &lt;resource&gt; once, then reference any result by number instead of typing full resource names. (2 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
