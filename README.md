@@ -51,6 +51,8 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [feat(web): look up titles outside the library from global search](https://github.com/DataHearth/streamline/pull/95) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [Add fan control for Fintek F71889ED and fix manual mode on F71889AD/F71878AD](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/pull/2575) on [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) (today)
 - [feat(node): add jenkins_node_secret data source](https://github.com/namecheap/terraform-provider-jenkins/pull/241) on [namecheap/terraform-provider-jenkins](https://github.com/namecheap/terraform-provider-jenkins) (1 day ago)
 - [style(web): rename the sidebar tagline to &#34;control room&#34;](https://github.com/DataHearth/streamline/pull/90) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 days ago)
 - [fix: make #main positioned to contain sr-only labels](https://github.com/DataHearth/streamline/pull/89) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 days ago)
@@ -58,14 +60,15 @@ and more...
 - [feat(web): lead the login page with SSO, fold the password form](https://github.com/DataHearth/streamline/pull/87) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 days ago)
 - [fix: prevent stale search results in releases dialog](https://github.com/DataHearth/streamline/pull/86) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 days ago)
 - [feat(node): add mode attribute to jenkins_node](https://github.com/namecheap/terraform-provider-jenkins/pull/238) on [namecheap/terraform-provider-jenkins](https://github.com/namecheap/terraform-provider-jenkins) (6 days ago)
-- [fix(codex-desktop-git): use packaged asar for the ASAR patch](https://github.com/aslafy-z/aur-packages/pull/46) on [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) (1 week ago)
-- [Change webhook container port to targetPort in helm chart](https://github.com/netbirdio/kubernetes-operator/pull/438) on [netbirdio/kubernetes-operator](https://github.com/netbirdio/kubernetes-operator) (1 week ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
 ## ⭐ Recent Stars
 
 
+- [GrowlyX/tailmux](https://github.com/GrowlyX/tailmux) - Stay on multiple Tailscale tailnets at once! (today)
+- [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela) - Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data, with Google lookups by choice. Runs on degoogled phones and can avoid Flock cameras (today)
+- [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit) - BookOrbit: Your Reading Space (today)
 - [AndrewGuenther/fck-nat](https://github.com/AndrewGuenther/fck-nat) - Feasible cost konfigurable NAT: An AWS NAT Instance AMI (1 day ago)
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (1 day ago)
 - [phenixblue/k8shark](https://github.com/phenixblue/k8shark) - Capture Kubernetes cluster state to a portable archive and replay it through a mock API server — use kubectl against a customer&#39;s environment without live cluster access. (3 days ago)
@@ -73,9 +76,6 @@ and more...
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. (5 days ago)
 - [mvschwarz/openrig](https://github.com/mvschwarz/openrig) - Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work. (6 days ago)
 - [theagentrouter/agent-router](https://github.com/theagentrouter/agent-router) - Manages Unified Access to Generative AI Services built on Envoy Gateway (2 weeks ago)
-- [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) - Find leaked secrets everywhere. (2 weeks ago)
-- [rezigned/upmd](https://github.com/rezigned/upmd) - upmd - Run tasks and workflows from Markdown. (3 weeks ago)
-- [cynative/cynative](https://github.com/cynative/cynative) - Open-source AI agent framework for cloud security across AWS, Azure, GCP and Kubernetes: AI-powered cloud detection and response, and cloud security posture management findings triage. (3 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
