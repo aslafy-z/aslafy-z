@@ -35,7 +35,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies and TV. Replaces Radarr, Sonarr and Seerr with a single Go binary — web UI, REST API, built-in requests, SSO. Music and books planned. (2 days ago)
+- [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies and TV. Replaces Radarr, Sonarr and Seerr with a single Go binary — web UI, REST API, built-in requests, SSO. Music and books planned. (today)
 - [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (4 days ago)
 - [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (1 week ago)
 - [bndr/gojenkins](https://github.com/bndr/gojenkins) - Jenkins API Client in Go. Looking for maintainers to move this project forward. (1 week ago)
@@ -51,15 +51,16 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [fix(web): keep manual search state honest on failure and cancel/retry](https://github.com/DataHearth/streamline/pull/107) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [fix(web): show toasts at the top on mobile](https://github.com/DataHearth/streamline/pull/106) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [fix(web): show Ctrl K, not ⌘ K, off Apple platforms](https://github.com/DataHearth/streamline/pull/104) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [docs(readme): list music and books as shipped, not planned](https://github.com/DataHearth/streamline/pull/102) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [feat(web): full-screen search on phones and tablets, command palette on desktop](https://github.com/DataHearth/streamline/pull/101) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [fix(quality): classify 4:3 1080p files as 1080p, not 720p](https://github.com/DataHearth/streamline/pull/100) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [fix(cli): reject unknown commands instead of booting the server](https://github.com/DataHearth/streamline/pull/98) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
 - [feat(web): look up titles outside the library from global search](https://github.com/DataHearth/streamline/pull/95) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
 - [Add fan control for Fintek F71889ED and fix manual mode on F71889AD/F71878AD](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/pull/2575) on [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) (today)
 - [feat(node): add jenkins_node_secret data source](https://github.com/namecheap/terraform-provider-jenkins/pull/241) on [namecheap/terraform-provider-jenkins](https://github.com/namecheap/terraform-provider-jenkins) (1 day ago)
-- [style(web): rename the sidebar tagline to &#34;control room&#34;](https://github.com/DataHearth/streamline/pull/90) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 days ago)
-- [fix: make #main positioned to contain sr-only labels](https://github.com/DataHearth/streamline/pull/89) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 days ago)
-- [feat(metadata): support preferred book language in Hardcover editions](https://github.com/DataHearth/streamline/pull/88) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 days ago)
-- [feat(web): lead the login page with SSO, fold the password form](https://github.com/DataHearth/streamline/pull/87) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 days ago)
-- [fix: prevent stale search results in releases dialog](https://github.com/DataHearth/streamline/pull/86) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 days ago)
-- [feat(node): add mode attribute to jenkins_node](https://github.com/namecheap/terraform-provider-jenkins/pull/238) on [namecheap/terraform-provider-jenkins](https://github.com/namecheap/terraform-provider-jenkins) (6 days ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
