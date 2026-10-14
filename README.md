@@ -35,13 +35,13 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies and TV. Replaces Radarr, Sonarr and Seerr with a single Go binary — web UI, REST API, built-in requests, SSO. Music and books planned. (today)
-- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (4 days ago)
+- [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies and TV. Replaces Radarr, Sonarr and Seerr with a single Go binary — web UI, REST API, built-in requests, SSO. Music and books planned. (1 day ago)
+- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (5 days ago)
 - [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (1 week ago)
 - [bndr/gojenkins](https://github.com/bndr/gojenkins) - Jenkins API Client in Go. Looking for maintainers to move this project forward. (1 week ago)
-- [aslafy-z/renovate-reproduction-stale-cache](https://github.com/aslafy-z/renovate-reproduction-stale-cache) -  (1 week ago)
+- [aslafy-z/renovate-reproduction-stale-cache](https://github.com/aslafy-z/renovate-reproduction-stale-cache) -  (2 weeks ago)
 - [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (2 weeks ago)
-- [aslafy-z/deja-web](https://github.com/aslafy-z/deja-web) -  (2 weeks ago)
+- [aslafy-z/deja-web](https://github.com/aslafy-z/deja-web) -  (3 weeks ago)
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes (1 month ago)
 - [aslafy-z/hauth](https://github.com/aslafy-z/hauth) - Harness auth broker for cloud workspaces: browser-free logins for AI coding CLIs, a loopback kiosk UI, and a per-user credential store (1 month ago)
 - [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (1 month ago)
@@ -51,31 +51,31 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [fix(web): keep manual search state honest on failure and cancel/retry](https://github.com/DataHearth/streamline/pull/107) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
-- [fix(web): show toasts at the top on mobile](https://github.com/DataHearth/streamline/pull/106) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
-- [fix(web): show Ctrl K, not ⌘ K, off Apple platforms](https://github.com/DataHearth/streamline/pull/104) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
-- [docs(readme): list music and books as shipped, not planned](https://github.com/DataHearth/streamline/pull/102) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
-- [feat(web): full-screen search on phones and tablets, command palette on desktop](https://github.com/DataHearth/streamline/pull/101) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
-- [fix(quality): classify 4:3 1080p files as 1080p, not 720p](https://github.com/DataHearth/streamline/pull/100) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
-- [fix(cli): reject unknown commands instead of booting the server](https://github.com/DataHearth/streamline/pull/98) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
-- [feat(web): look up titles outside the library from global search](https://github.com/DataHearth/streamline/pull/95) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
-- [Add fan control for Fintek F71889ED and fix manual mode on F71889AD/F71878AD](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/pull/2575) on [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) (today)
-- [feat(node): add jenkins_node_secret data source](https://github.com/namecheap/terraform-provider-jenkins/pull/241) on [namecheap/terraform-provider-jenkins](https://github.com/namecheap/terraform-provider-jenkins) (1 day ago)
+- [fix(web): keep manual search state honest on failure and cancel/retry](https://github.com/DataHearth/streamline/pull/107) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
+- [fix(web): show toasts at the top on mobile](https://github.com/DataHearth/streamline/pull/106) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
+- [fix(web): show Ctrl K, not ⌘ K, off Apple platforms](https://github.com/DataHearth/streamline/pull/104) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
+- [docs(readme): list music and books as shipped, not planned](https://github.com/DataHearth/streamline/pull/102) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
+- [feat(web): full-screen search on phones and tablets, command palette on desktop](https://github.com/DataHearth/streamline/pull/101) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
+- [fix(quality): classify 4:3 1080p files as 1080p, not 720p](https://github.com/DataHearth/streamline/pull/100) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
+- [fix(cli): reject unknown commands instead of booting the server](https://github.com/DataHearth/streamline/pull/98) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
+- [feat(web): look up titles outside the library from global search](https://github.com/DataHearth/streamline/pull/95) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
+- [Add fan control for Fintek F71889ED and fix manual mode on F71889AD/F71878AD](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/pull/2575) on [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) (1 day ago)
+- [feat(node): add jenkins_node_secret data source](https://github.com/namecheap/terraform-provider-jenkins/pull/241) on [namecheap/terraform-provider-jenkins](https://github.com/namecheap/terraform-provider-jenkins) (2 days ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
 ## ⭐ Recent Stars
 
 
-- [GrowlyX/tailmux](https://github.com/GrowlyX/tailmux) - Stay on multiple Tailscale tailnets at once! (today)
-- [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela) - Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data, with Google lookups by choice. Runs on degoogled phones and can avoid Flock cameras (today)
-- [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit) - BookOrbit: Your Reading Space (today)
-- [AndrewGuenther/fck-nat](https://github.com/AndrewGuenther/fck-nat) - Feasible cost konfigurable NAT: An AWS NAT Instance AMI (1 day ago)
-- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (1 day ago)
-- [phenixblue/k8shark](https://github.com/phenixblue/k8shark) - Capture Kubernetes cluster state to a portable archive and replay it through a mock API server — use kubectl against a customer&#39;s environment without live cluster access. (3 days ago)
-- [florianspk/t9s](https://github.com/florianspk/t9s) -  (5 days ago)
-- [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. (5 days ago)
-- [mvschwarz/openrig](https://github.com/mvschwarz/openrig) - Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work. (6 days ago)
+- [GrowlyX/tailmux](https://github.com/GrowlyX/tailmux) - Stay on multiple Tailscale tailnets at once! (1 day ago)
+- [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela) - Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data, with Google lookups by choice. Runs on degoogled phones and can avoid Flock cameras (1 day ago)
+- [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit) - BookOrbit: Your Reading Space (1 day ago)
+- [AndrewGuenther/fck-nat](https://github.com/AndrewGuenther/fck-nat) - Feasible cost konfigurable NAT: An AWS NAT Instance AMI (2 days ago)
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (2 days ago)
+- [phenixblue/k8shark](https://github.com/phenixblue/k8shark) - Capture Kubernetes cluster state to a portable archive and replay it through a mock API server — use kubectl against a customer&#39;s environment without live cluster access. (4 days ago)
+- [florianspk/t9s](https://github.com/florianspk/t9s) -  (6 days ago)
+- [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. (6 days ago)
+- [mvschwarz/openrig](https://github.com/mvschwarz/openrig) - Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work. (1 week ago)
 - [theagentrouter/agent-router](https://github.com/theagentrouter/agent-router) - Manages Unified Access to Generative AI Services built on Envoy Gateway (2 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
