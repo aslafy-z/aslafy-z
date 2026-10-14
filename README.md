@@ -51,6 +51,7 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [feat(node): update in place, add job_restriction and web_socket](https://github.com/aslafy-z/terraform-provider-jenkins/pull/3) on [aslafy-z/terraform-provider-jenkins](https://github.com/aslafy-z/terraform-provider-jenkins) (today)
 - [fix(web): keep manual search state honest on failure and cancel/retry](https://github.com/DataHearth/streamline/pull/107) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
 - [fix(web): show toasts at the top on mobile](https://github.com/DataHearth/streamline/pull/106) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
 - [fix(web): show Ctrl K, not ⌘ K, off Apple platforms](https://github.com/DataHearth/streamline/pull/104) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
@@ -60,7 +61,6 @@ and more...
 - [fix(cli): reject unknown commands instead of booting the server](https://github.com/DataHearth/streamline/pull/98) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
 - [feat(web): look up titles outside the library from global search](https://github.com/DataHearth/streamline/pull/95) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
 - [Add fan control for Fintek F71889ED and fix manual mode on F71889AD/F71878AD](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/pull/2575) on [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) (1 day ago)
-- [feat(node): add jenkins_node_secret data source](https://github.com/namecheap/terraform-provider-jenkins/pull/241) on [namecheap/terraform-provider-jenkins](https://github.com/namecheap/terraform-provider-jenkins) (2 days ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
