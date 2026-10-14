@@ -51,15 +51,12 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [feat(role): add typed users and groups assignments](https://github.com/namecheap/terraform-provider-jenkins/pull/245) on [namecheap/terraform-provider-jenkins](https://github.com/namecheap/terraform-provider-jenkins) (today)
 - [feat(node): add jenkins_node_secret ephemeral resource](https://github.com/namecheap/terraform-provider-jenkins/pull/244) on [namecheap/terraform-provider-jenkins](https://github.com/namecheap/terraform-provider-jenkins) (today)
-- [feat(role): add typed users and groups assignments](https://github.com/aslafy-z/terraform-provider-jenkins/pull/6) on [aslafy-z/terraform-provider-jenkins](https://github.com/aslafy-z/terraform-provider-jenkins) (today)
-- [feat(node): add jenkins_node_secret ephemeral resource](https://github.com/aslafy-z/terraform-provider-jenkins/pull/5) on [aslafy-z/terraform-provider-jenkins](https://github.com/aslafy-z/terraform-provider-jenkins) (today)
 - [feat(node): update in place, add job_restriction and web_socket](https://github.com/namecheap/terraform-provider-jenkins/pull/243) on [namecheap/terraform-provider-jenkins](https://github.com/namecheap/terraform-provider-jenkins) (today)
-- [feat(casc): add secrets_wo and compare scalar lists unordered](https://github.com/aslafy-z/terraform-provider-jenkins/pull/4) on [aslafy-z/terraform-provider-jenkins](https://github.com/aslafy-z/terraform-provider-jenkins) (today)
 - [fix(web): keep manual search state honest on failure and cancel/retry](https://github.com/DataHearth/streamline/pull/107) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
 - [fix(web): show toasts at the top on mobile](https://github.com/DataHearth/streamline/pull/106) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
 - [fix(web): show Ctrl K, not ⌘ K, off Apple platforms](https://github.com/DataHearth/streamline/pull/104) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
-- [docs(readme): list music and books as shipped, not planned](https://github.com/DataHearth/streamline/pull/102) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
