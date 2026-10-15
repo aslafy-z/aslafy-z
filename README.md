@@ -35,12 +35,12 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies and TV. Replaces Radarr, Sonarr and Seerr with a single Go binary — web UI, REST API, built-in requests, SSO. Music and books planned. (1 day ago)
-- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (5 days ago)
+- [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies and TV. Replaces Radarr, Sonarr and Seerr with a single Go binary — web UI, REST API, built-in requests, SSO. Music and books planned. (2 days ago)
+- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (6 days ago)
 - [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (1 week ago)
-- [bndr/gojenkins](https://github.com/bndr/gojenkins) - Jenkins API Client in Go. Looking for maintainers to move this project forward. (1 week ago)
+- [bndr/gojenkins](https://github.com/bndr/gojenkins) - Jenkins API Client in Go. Looking for maintainers to move this project forward. (2 weeks ago)
 - [aslafy-z/renovate-reproduction-stale-cache](https://github.com/aslafy-z/renovate-reproduction-stale-cache) -  (2 weeks ago)
-- [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (2 weeks ago)
+- [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (3 weeks ago)
 - [aslafy-z/deja-web](https://github.com/aslafy-z/deja-web) -  (3 weeks ago)
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes (1 month ago)
 - [aslafy-z/hauth](https://github.com/aslafy-z/hauth) - Harness auth broker for cloud workspaces: browser-free logins for AI coding CLIs, a loopback kiosk UI, and a per-user credential store (1 month ago)
@@ -51,28 +51,28 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [feat(role): add typed users and groups assignments](https://github.com/namecheap/terraform-provider-jenkins/pull/245) on [namecheap/terraform-provider-jenkins](https://github.com/namecheap/terraform-provider-jenkins) (today)
-- [feat(node): add jenkins_node_secret ephemeral resource](https://github.com/namecheap/terraform-provider-jenkins/pull/244) on [namecheap/terraform-provider-jenkins](https://github.com/namecheap/terraform-provider-jenkins) (today)
-- [feat(node): update in place, add job_restriction and web_socket](https://github.com/namecheap/terraform-provider-jenkins/pull/243) on [namecheap/terraform-provider-jenkins](https://github.com/namecheap/terraform-provider-jenkins) (today)
-- [fix(web): keep manual search state honest on failure and cancel/retry](https://github.com/DataHearth/streamline/pull/107) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
-- [fix(web): show toasts at the top on mobile](https://github.com/DataHearth/streamline/pull/106) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
-- [fix(web): show Ctrl K, not ⌘ K, off Apple platforms](https://github.com/DataHearth/streamline/pull/104) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
+- [feat(role): add typed users and groups assignments](https://github.com/namecheap/terraform-provider-jenkins/pull/245) on [namecheap/terraform-provider-jenkins](https://github.com/namecheap/terraform-provider-jenkins) (1 day ago)
+- [feat(node): add jenkins_node_secret ephemeral resource](https://github.com/namecheap/terraform-provider-jenkins/pull/244) on [namecheap/terraform-provider-jenkins](https://github.com/namecheap/terraform-provider-jenkins) (1 day ago)
+- [feat(node): update in place, add job_restriction and web_socket](https://github.com/namecheap/terraform-provider-jenkins/pull/243) on [namecheap/terraform-provider-jenkins](https://github.com/namecheap/terraform-provider-jenkins) (1 day ago)
+- [fix(web): keep manual search state honest on failure and cancel/retry](https://github.com/DataHearth/streamline/pull/107) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 days ago)
+- [fix(web): show toasts at the top on mobile](https://github.com/DataHearth/streamline/pull/106) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 days ago)
+- [fix(web): show Ctrl K, not ⌘ K, off Apple platforms](https://github.com/DataHearth/streamline/pull/104) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 days ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
 ## ⭐ Recent Stars
 
 
-- [GrowlyX/tailmux](https://github.com/GrowlyX/tailmux) - Stay on multiple Tailscale tailnets at once! (1 day ago)
-- [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela) - Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data, with Google lookups by choice. Runs on degoogled phones and can avoid Flock cameras (1 day ago)
-- [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit) - BookOrbit: Your Reading Space (1 day ago)
-- [AndrewGuenther/fck-nat](https://github.com/AndrewGuenther/fck-nat) - Feasible cost konfigurable NAT: An AWS NAT Instance AMI (2 days ago)
-- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (2 days ago)
-- [phenixblue/k8shark](https://github.com/phenixblue/k8shark) - Capture Kubernetes cluster state to a portable archive and replay it through a mock API server — use kubectl against a customer&#39;s environment without live cluster access. (4 days ago)
-- [florianspk/t9s](https://github.com/florianspk/t9s) -  (6 days ago)
-- [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. (6 days ago)
+- [GrowlyX/tailmux](https://github.com/GrowlyX/tailmux) - Stay on multiple Tailscale tailnets at once! (2 days ago)
+- [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela) - Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data, with Google lookups by choice. Runs on degoogled phones and can avoid Flock cameras (2 days ago)
+- [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit) - BookOrbit: Your Reading Space (2 days ago)
+- [AndrewGuenther/fck-nat](https://github.com/AndrewGuenther/fck-nat) - Feasible cost konfigurable NAT: An AWS NAT Instance AMI (3 days ago)
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (3 days ago)
+- [phenixblue/k8shark](https://github.com/phenixblue/k8shark) - Capture Kubernetes cluster state to a portable archive and replay it through a mock API server — use kubectl against a customer&#39;s environment without live cluster access. (5 days ago)
+- [florianspk/t9s](https://github.com/florianspk/t9s) -  (1 week ago)
+- [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. (1 week ago)
 - [mvschwarz/openrig](https://github.com/mvschwarz/openrig) - Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work. (1 week ago)
-- [theagentrouter/agent-router](https://github.com/theagentrouter/agent-router) - Manages Unified Access to Generative AI Services built on Envoy Gateway (2 weeks ago)
+- [theagentrouter/agent-router](https://github.com/theagentrouter/agent-router) - Manages Unified Access to Generative AI Services built on Envoy Gateway (3 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
