@@ -35,10 +35,10 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor is free software that can monitor the temperature sensors, fan speeds, voltages, load and clock speeds of your computer. (2 days ago)
-- [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies and TV. Replaces Radarr, Sonarr and Seerr with a single Go binary — web UI, REST API, built-in requests, SSO. Music and books planned. (4 days ago)
+- [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor is free software that can monitor the temperature sensors, fan speeds, voltages, load and clock speeds of your computer. (3 days ago)
+- [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies and TV. Replaces Radarr, Sonarr and Seerr with a single Go binary — web UI, REST API, built-in requests, SSO. Music and books planned. (5 days ago)
 - [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (1 week ago)
-- [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (1 week ago)
+- [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (2 weeks ago)
 - [bndr/gojenkins](https://github.com/bndr/gojenkins) - Jenkins API Client in Go. Looking for maintainers to move this project forward. (2 weeks ago)
 - [aslafy-z/renovate-reproduction-stale-cache](https://github.com/aslafy-z/renovate-reproduction-stale-cache) -  (2 weeks ago)
 - [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (3 weeks ago)
@@ -51,22 +51,22 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [fix(builder): pass snapshot_id when creating block volumes](https://github.com/scaleway/packer-plugin-scaleway/pull/368) on [scaleway/packer-plugin-scaleway](https://github.com/scaleway/packer-plugin-scaleway) (2 days ago)
-- [fix(builder): clean up and report failed server starts](https://github.com/scaleway/packer-plugin-scaleway/pull/367) on [scaleway/packer-plugin-scaleway](https://github.com/scaleway/packer-plugin-scaleway) (2 days ago)
-- [feat(role): add typed users and groups assignments](https://github.com/namecheap/terraform-provider-jenkins/pull/245) on [namecheap/terraform-provider-jenkins](https://github.com/namecheap/terraform-provider-jenkins) (3 days ago)
-- [feat(node): add jenkins_node_secret ephemeral resource](https://github.com/namecheap/terraform-provider-jenkins/pull/244) on [namecheap/terraform-provider-jenkins](https://github.com/namecheap/terraform-provider-jenkins) (3 days ago)
-- [feat(node): update in place, add job_restriction and web_socket](https://github.com/namecheap/terraform-provider-jenkins/pull/243) on [namecheap/terraform-provider-jenkins](https://github.com/namecheap/terraform-provider-jenkins) (3 days ago)
+- [fix(builder): pass snapshot_id when creating block volumes](https://github.com/scaleway/packer-plugin-scaleway/pull/368) on [scaleway/packer-plugin-scaleway](https://github.com/scaleway/packer-plugin-scaleway) (3 days ago)
+- [fix(builder): clean up and report failed server starts](https://github.com/scaleway/packer-plugin-scaleway/pull/367) on [scaleway/packer-plugin-scaleway](https://github.com/scaleway/packer-plugin-scaleway) (3 days ago)
+- [feat(role): add typed users and groups assignments](https://github.com/namecheap/terraform-provider-jenkins/pull/245) on [namecheap/terraform-provider-jenkins](https://github.com/namecheap/terraform-provider-jenkins) (4 days ago)
+- [feat(node): add jenkins_node_secret ephemeral resource](https://github.com/namecheap/terraform-provider-jenkins/pull/244) on [namecheap/terraform-provider-jenkins](https://github.com/namecheap/terraform-provider-jenkins) (4 days ago)
+- [feat(node): update in place, add job_restriction and web_socket](https://github.com/namecheap/terraform-provider-jenkins/pull/243) on [namecheap/terraform-provider-jenkins](https://github.com/namecheap/terraform-provider-jenkins) (4 days ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
 ## ⭐ Recent Stars
 
 
-- [GrowlyX/tailmux](https://github.com/GrowlyX/tailmux) - Stay on multiple Tailscale tailnets at once! (4 days ago)
-- [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela) - Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data, with Google lookups by choice. Runs on degoogled phones and can avoid Flock cameras (4 days ago)
-- [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit) - BookOrbit: Your Reading Space (4 days ago)
-- [AndrewGuenther/fck-nat](https://github.com/AndrewGuenther/fck-nat) - Feasible cost konfigurable NAT: An AWS NAT Instance AMI (5 days ago)
-- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (5 days ago)
+- [GrowlyX/tailmux](https://github.com/GrowlyX/tailmux) - Stay on multiple Tailscale tailnets at once! (5 days ago)
+- [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela) - Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data, with Google lookups by choice. Runs on degoogled phones and can avoid Flock cameras (5 days ago)
+- [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit) - BookOrbit: Your Reading Space (5 days ago)
+- [AndrewGuenther/fck-nat](https://github.com/AndrewGuenther/fck-nat) - Feasible cost konfigurable NAT: An AWS NAT Instance AMI (6 days ago)
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (6 days ago)
 - [phenixblue/k8shark](https://github.com/phenixblue/k8shark) - Capture Kubernetes cluster state to a portable archive and replay it through a mock API server — use kubectl against a customer&#39;s environment without live cluster access. (1 week ago)
 - [florianspk/t9s](https://github.com/florianspk/t9s) -  (1 week ago)
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. (1 week ago)
