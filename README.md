@@ -35,10 +35,10 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
+- [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (today)
 - [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (today)
 - [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor is free software that can monitor the temperature sensors, fan speeds, voltages, load and clock speeds of your computer. (4 days ago)
 - [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies and TV. Replaces Radarr, Sonarr and Seerr with a single Go binary — web UI, REST API, built-in requests, SSO. Music and books planned. (6 days ago)
-- [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (2 weeks ago)
 - [bndr/gojenkins](https://github.com/bndr/gojenkins) - Jenkins API Client in Go. Looking for maintainers to move this project forward. (2 weeks ago)
 - [aslafy-z/renovate-reproduction-stale-cache](https://github.com/aslafy-z/renovate-reproduction-stale-cache) -  (2 weeks ago)
 - [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (3 weeks ago)
@@ -51,11 +51,10 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [fix(job): ignore runtime elements plugins save into config.xml](https://github.com/namecheap/terraform-provider-jenkins/pull/262) on [namecheap/terraform-provider-jenkins](https://github.com/namecheap/terraform-provider-jenkins) (today)
+- [fix(kftray-appimage): fix stale cached source and namcap findings](https://github.com/aslafy-z/aur-packages/pull/66) on [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) (today)
 - [fix(builder): pass snapshot_id when creating block volumes](https://github.com/scaleway/packer-plugin-scaleway/pull/368) on [scaleway/packer-plugin-scaleway](https://github.com/scaleway/packer-plugin-scaleway) (4 days ago)
 - [fix(builder): clean up and report failed server starts](https://github.com/scaleway/packer-plugin-scaleway/pull/367) on [scaleway/packer-plugin-scaleway](https://github.com/scaleway/packer-plugin-scaleway) (4 days ago)
-- [feat(role): add typed users and groups assignments](https://github.com/namecheap/terraform-provider-jenkins/pull/245) on [namecheap/terraform-provider-jenkins](https://github.com/namecheap/terraform-provider-jenkins) (5 days ago)
-- [feat(node): add jenkins_node_secret ephemeral resource](https://github.com/namecheap/terraform-provider-jenkins/pull/244) on [namecheap/terraform-provider-jenkins](https://github.com/namecheap/terraform-provider-jenkins) (5 days ago)
-- [feat(node): update in place, add job_restriction and web_socket](https://github.com/namecheap/terraform-provider-jenkins/pull/243) on [namecheap/terraform-provider-jenkins](https://github.com/namecheap/terraform-provider-jenkins) (5 days ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
