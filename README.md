@@ -35,10 +35,10 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (today)
-- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (today)
-- [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor is free software that can monitor the temperature sensors, fan speeds, voltages, load and clock speeds of your computer. (4 days ago)
-- [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies and TV. Replaces Radarr, Sonarr and Seerr with a single Go binary — web UI, REST API, built-in requests, SSO. Music and books planned. (6 days ago)
+- [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (1 day ago)
+- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (1 day ago)
+- [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor is free software that can monitor the temperature sensors, fan speeds, voltages, load and clock speeds of your computer. (5 days ago)
+- [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies and TV. Replaces Radarr, Sonarr and Seerr with a single Go binary — web UI, REST API, built-in requests, SSO. Music and books planned. (1 week ago)
 - [bndr/gojenkins](https://github.com/bndr/gojenkins) - Jenkins API Client in Go. Looking for maintainers to move this project forward. (2 weeks ago)
 - [aslafy-z/renovate-reproduction-stale-cache](https://github.com/aslafy-z/renovate-reproduction-stale-cache) -  (2 weeks ago)
 - [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (3 weeks ago)
@@ -51,19 +51,19 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [fix(job): ignore runtime elements plugins save into config.xml](https://github.com/namecheap/terraform-provider-jenkins/pull/262) on [namecheap/terraform-provider-jenkins](https://github.com/namecheap/terraform-provider-jenkins) (today)
-- [fix(kftray-appimage): fix stale cached source and namcap findings](https://github.com/aslafy-z/aur-packages/pull/66) on [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) (today)
-- [fix(builder): pass snapshot_id when creating block volumes](https://github.com/scaleway/packer-plugin-scaleway/pull/368) on [scaleway/packer-plugin-scaleway](https://github.com/scaleway/packer-plugin-scaleway) (4 days ago)
-- [fix(builder): clean up and report failed server starts](https://github.com/scaleway/packer-plugin-scaleway/pull/367) on [scaleway/packer-plugin-scaleway](https://github.com/scaleway/packer-plugin-scaleway) (4 days ago)
+- [fix(job): ignore runtime elements plugins save into config.xml](https://github.com/namecheap/terraform-provider-jenkins/pull/262) on [namecheap/terraform-provider-jenkins](https://github.com/namecheap/terraform-provider-jenkins) (1 day ago)
+- [fix(kftray-appimage): fix stale cached source and namcap findings](https://github.com/aslafy-z/aur-packages/pull/66) on [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) (1 day ago)
+- [fix(builder): pass snapshot_id when creating block volumes](https://github.com/scaleway/packer-plugin-scaleway/pull/368) on [scaleway/packer-plugin-scaleway](https://github.com/scaleway/packer-plugin-scaleway) (5 days ago)
+- [fix(builder): clean up and report failed server starts](https://github.com/scaleway/packer-plugin-scaleway/pull/367) on [scaleway/packer-plugin-scaleway](https://github.com/scaleway/packer-plugin-scaleway) (5 days ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
 ## ⭐ Recent Stars
 
 
-- [GrowlyX/tailmux](https://github.com/GrowlyX/tailmux) - Stay on multiple Tailscale tailnets at once! (6 days ago)
-- [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela) - Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data, with Google lookups by choice. Runs on degoogled phones and can avoid Flock cameras (6 days ago)
-- [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit) - BookOrbit: Your Reading Space (6 days ago)
+- [GrowlyX/tailmux](https://github.com/GrowlyX/tailmux) - Stay on multiple Tailscale tailnets at once! (1 week ago)
+- [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela) - Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data, with Google lookups by choice. Runs on degoogled phones and can avoid Flock cameras (1 week ago)
+- [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit) - BookOrbit: Your Reading Space (1 week ago)
 - [AndrewGuenther/fck-nat](https://github.com/AndrewGuenther/fck-nat) - Feasible cost konfigurable NAT: An AWS NAT Instance AMI (1 week ago)
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (1 week ago)
 - [phenixblue/k8shark](https://github.com/phenixblue/k8shark) - Capture Kubernetes cluster state to a portable archive and replay it through a mock API server — use kubectl against a customer&#39;s environment without live cluster access. (1 week ago)
