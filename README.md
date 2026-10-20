@@ -51,10 +51,10 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [fix(builder): ignore volumes already gone in post-image cleanup](https://github.com/scaleway/packer-plugin-scaleway/pull/370) on [scaleway/packer-plugin-scaleway](https://github.com/scaleway/packer-plugin-scaleway) (today)
 - [fix(job): ignore runtime elements plugins save into config.xml](https://github.com/namecheap/terraform-provider-jenkins/pull/262) on [namecheap/terraform-provider-jenkins](https://github.com/namecheap/terraform-provider-jenkins) (1 day ago)
 - [fix(kftray-appimage): fix stale cached source and namcap findings](https://github.com/aslafy-z/aur-packages/pull/66) on [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) (1 day ago)
 - [fix(builder): pass snapshot_id when creating block volumes](https://github.com/scaleway/packer-plugin-scaleway/pull/368) on [scaleway/packer-plugin-scaleway](https://github.com/scaleway/packer-plugin-scaleway) (5 days ago)
-- [fix(builder): clean up and report failed server starts](https://github.com/scaleway/packer-plugin-scaleway/pull/367) on [scaleway/packer-plugin-scaleway](https://github.com/scaleway/packer-plugin-scaleway) (5 days ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
