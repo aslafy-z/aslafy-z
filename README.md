@@ -35,7 +35,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) - Extensions pour CloudStream. (today)
+- [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) - Plugins for CloudStream. (today)
 - [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (3 days ago)
 - [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (3 days ago)
 - [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor is free software that can monitor the temperature sensors, fan speeds, voltages, load and clock speeds of your computer. (1 week ago)
@@ -51,6 +51,8 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [fix(tf1plus): add M6-style diagnostics for replay and Widevine failures](https://github.com/aslafy-z/cloudstream-plugins/pull/3) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (today)
+- [feat: add TF1&#43; CloudStream provider with account settings and Widevine playback](https://github.com/aslafy-z/cloudstream-plugins/pull/2) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (today)
 - [fix: resolve Chromecast episode index within selected season](https://github.com/recloudstream/cloudstream/pull/3275) on [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) (today)
 - [fix(builder): ignore volumes already gone in post-image cleanup](https://github.com/scaleway/packer-plugin-scaleway/pull/370) on [scaleway/packer-plugin-scaleway](https://github.com/scaleway/packer-plugin-scaleway) (2 days ago)
 - [fix(job): ignore runtime elements plugins save into config.xml](https://github.com/namecheap/terraform-provider-jenkins/pull/262) on [namecheap/terraform-provider-jenkins](https://github.com/namecheap/terraform-provider-jenkins) (3 days ago)
