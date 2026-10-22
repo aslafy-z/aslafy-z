@@ -35,8 +35,8 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) - CloudStream plugins for French replay TV. (today)
 - [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (today)
+- [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) - CloudStream plugins for French replay TV. (today)
 - [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (3 days ago)
 - [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor is free software that can monitor the temperature sensors, fan speeds, voltages, load and clock speeds of your computer. (1 week ago)
 - [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies and TV. Replaces Radarr, Sonarr and Seerr with a single Go binary — web UI, REST API, built-in requests, SSO. Music and books planned. (1 week ago)
@@ -51,6 +51,9 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [Add new repository URL to repos-db.json](https://github.com/recloudstream/cs-repos/pull/109) on [recloudstream/cs-repos](https://github.com/recloudstream/cs-repos) (today)
+- [feat(casc): add secrets_wo](https://github.com/namecheap/terraform-provider-jenkins/pull/279) on [namecheap/terraform-provider-jenkins](https://github.com/namecheap/terraform-provider-jenkins) (today)
+- [feat(casc): add unordered_paths](https://github.com/namecheap/terraform-provider-jenkins/pull/278) on [namecheap/terraform-provider-jenkins](https://github.com/namecheap/terraform-provider-jenkins) (today)
 - [fix(tf1plus): add M6-style diagnostics for replay and Widevine failures](https://github.com/aslafy-z/cloudstream-plugins/pull/3) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (today)
 - [feat: add TF1&#43; CloudStream provider with account settings and Widevine playback](https://github.com/aslafy-z/cloudstream-plugins/pull/2) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (today)
 - [fix: resolve Chromecast episode index within selected season](https://github.com/recloudstream/cloudstream/pull/3275) on [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) (today)
