@@ -35,41 +35,41 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (2 days ago)
-- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (2 days ago)
-- [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor is free software that can monitor the temperature sensors, fan speeds, voltages, load and clock speeds of your computer. (6 days ago)
+- [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) - Extensions pour CloudStream. (today)
+- [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (3 days ago)
+- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (3 days ago)
+- [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor is free software that can monitor the temperature sensors, fan speeds, voltages, load and clock speeds of your computer. (1 week ago)
 - [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies and TV. Replaces Radarr, Sonarr and Seerr with a single Go binary — web UI, REST API, built-in requests, SSO. Music and books planned. (1 week ago)
-- [bndr/gojenkins](https://github.com/bndr/gojenkins) - Jenkins API Client in Go. Looking for maintainers to move this project forward. (2 weeks ago)
+- [bndr/gojenkins](https://github.com/bndr/gojenkins) - Jenkins API Client in Go. Looking for maintainers to move this project forward. (3 weeks ago)
 - [aslafy-z/renovate-reproduction-stale-cache](https://github.com/aslafy-z/renovate-reproduction-stale-cache) -  (3 weeks ago)
-- [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (3 weeks ago)
+- [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (4 weeks ago)
 - [aslafy-z/deja-web](https://github.com/aslafy-z/deja-web) -  (4 weeks ago)
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes (1 month ago)
-- [aslafy-z/hauth](https://github.com/aslafy-z/hauth) - Harness auth broker for cloud workspaces: browser-free logins for AI coding CLIs, a loopback kiosk UI, and a per-user credential store (1 month ago)
 
 
 
 ## 🔨 Recent Pull Requests
 
 
-- [fix(builder): ignore volumes already gone in post-image cleanup](https://github.com/scaleway/packer-plugin-scaleway/pull/370) on [scaleway/packer-plugin-scaleway](https://github.com/scaleway/packer-plugin-scaleway) (1 day ago)
-- [fix(job): ignore runtime elements plugins save into config.xml](https://github.com/namecheap/terraform-provider-jenkins/pull/262) on [namecheap/terraform-provider-jenkins](https://github.com/namecheap/terraform-provider-jenkins) (2 days ago)
-- [fix(kftray-appimage): fix stale cached source and namcap findings](https://github.com/aslafy-z/aur-packages/pull/66) on [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) (2 days ago)
+- [fix: resolve Chromecast episode index within selected season](https://github.com/recloudstream/cloudstream/pull/3275) on [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) (today)
+- [fix(builder): ignore volumes already gone in post-image cleanup](https://github.com/scaleway/packer-plugin-scaleway/pull/370) on [scaleway/packer-plugin-scaleway](https://github.com/scaleway/packer-plugin-scaleway) (2 days ago)
+- [fix(job): ignore runtime elements plugins save into config.xml](https://github.com/namecheap/terraform-provider-jenkins/pull/262) on [namecheap/terraform-provider-jenkins](https://github.com/namecheap/terraform-provider-jenkins) (3 days ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
 ## ⭐ Recent Stars
 
 
-- [Fluepke/emudrahahahahaha](https://github.com/Fluepke/emudrahahahahaha) - Private Keys (today)
-- [argoproj-labs/argocd-agent](https://github.com/argoproj-labs/argocd-agent) - Redefining the multi cluster story of Argo CD (1 day ago)
-- [rayfish/rayfish](https://github.com/rayfish/rayfish) - Peer-to-peer mesh VPN over iroh. Connect computers, phones, and servers without an account or control server. (1 day ago)
+- [Fluepke/emudrahahahahaha](https://github.com/Fluepke/emudrahahahahaha) - Private Keys (1 day ago)
+- [argoproj-labs/argocd-agent](https://github.com/argoproj-labs/argocd-agent) - Redefining the multi cluster story of Argo CD (2 days ago)
+- [rayfish/rayfish](https://github.com/rayfish/rayfish) - Peer-to-peer mesh VPN over iroh. Connect computers, phones, and servers without an account or control server. (2 days ago)
 - [GrowlyX/tailmux](https://github.com/GrowlyX/tailmux) - Stay on multiple Tailscale tailnets at once! (1 week ago)
 - [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela) - Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data, with Google lookups by choice. Runs on degoogled phones and can avoid Flock cameras (1 week ago)
 - [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit) - BookOrbit: Your Reading Space (1 week ago)
 - [AndrewGuenther/fck-nat](https://github.com/AndrewGuenther/fck-nat) - Feasible cost konfigurable NAT: An AWS NAT Instance AMI (1 week ago)
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (1 week ago)
 - [phenixblue/k8shark](https://github.com/phenixblue/k8shark) - Capture Kubernetes cluster state to a portable archive and replay it through a mock API server — use kubectl against a customer&#39;s environment without live cluster access. (1 week ago)
-- [florianspk/t9s](https://github.com/florianspk/t9s) -  (1 week ago)
+- [florianspk/t9s](https://github.com/florianspk/t9s) -  (2 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
