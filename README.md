@@ -35,9 +35,9 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) - Plugins for CloudStream. (today)
+- [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) - CloudStream plugins for French replay TV. (today)
+- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (today)
 - [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (3 days ago)
-- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (3 days ago)
 - [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor is free software that can monitor the temperature sensors, fan speeds, voltages, load and clock speeds of your computer. (1 week ago)
 - [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies and TV. Replaces Radarr, Sonarr and Seerr with a single Go binary — web UI, REST API, built-in requests, SSO. Music and books planned. (1 week ago)
 - [bndr/gojenkins](https://github.com/bndr/gojenkins) - Jenkins API Client in Go. Looking for maintainers to move this project forward. (3 weeks ago)
