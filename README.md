@@ -36,7 +36,7 @@ and more...
 
 
 - [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (today)
-- [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) - CloudStream plugins for French replay TV. (1 day ago)
+- [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) - CloudStream plugins for French replay TV. (today)
 - [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (4 days ago)
 - [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor is free software that can monitor the temperature sensors, fan speeds, voltages, load and clock speeds of your computer. (1 week ago)
 - [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies and TV. Replaces Radarr, Sonarr and Seerr with a single Go binary — web UI, REST API, built-in requests, SSO. Music and books planned. (1 week ago)
@@ -51,15 +51,16 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [fix(releases): skip builds Dev already has when runs overlap](https://github.com/aslafy-z/cloudstream-plugins/pull/11) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (today)
+- [feat(t18): add direct Chromecast playback](https://github.com/aslafy-z/cloudstream-plugins/pull/10) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (today)
+- [feat(tv5mondeplus): add Chromecast relay playback](https://github.com/aslafy-z/cloudstream-plugins/pull/9) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (today)
+- [feat(novo19): add Chromecast relay playback](https://github.com/aslafy-z/cloudstream-plugins/pull/8) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (today)
+- [feat(francetv): add Chromecast relay playback](https://github.com/aslafy-z/cloudstream-plugins/pull/7) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (today)
+- [feat(rmcplus): add Chromecast relay playback](https://github.com/aslafy-z/cloudstream-plugins/pull/6) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (today)
+- [ci(build): plan pull requests against their head commit](https://github.com/aslafy-z/cloudstream-plugins/pull/5) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (today)
+- [fix(cast): drop cached links to evicted relay sessions](https://github.com/aslafy-z/cloudstream-plugins/pull/4) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (today)
 - [chore: icon audit assets for #138 (do not merge)](https://github.com/DataHearth/streamline/pull/139) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
 - [Add new repository URL to repos-db.json](https://github.com/recloudstream/cs-repos/pull/109) on [recloudstream/cs-repos](https://github.com/recloudstream/cs-repos) (1 day ago)
-- [feat(casc): add secrets_wo](https://github.com/namecheap/terraform-provider-jenkins/pull/279) on [namecheap/terraform-provider-jenkins](https://github.com/namecheap/terraform-provider-jenkins) (1 day ago)
-- [feat(casc): add unordered_paths](https://github.com/namecheap/terraform-provider-jenkins/pull/278) on [namecheap/terraform-provider-jenkins](https://github.com/namecheap/terraform-provider-jenkins) (1 day ago)
-- [fix(tf1plus): add M6-style diagnostics for replay and Widevine failures](https://github.com/aslafy-z/cloudstream-plugins/pull/3) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (1 day ago)
-- [feat: add TF1&#43; CloudStream provider with account settings and Widevine playback](https://github.com/aslafy-z/cloudstream-plugins/pull/2) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (1 day ago)
-- [fix: resolve Chromecast episode index within selected season](https://github.com/recloudstream/cloudstream/pull/3275) on [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) (1 day ago)
-- [fix(builder): ignore volumes already gone in post-image cleanup](https://github.com/scaleway/packer-plugin-scaleway/pull/370) on [scaleway/packer-plugin-scaleway](https://github.com/scaleway/packer-plugin-scaleway) (3 days ago)
-- [fix(job): ignore runtime elements plugins save into config.xml](https://github.com/namecheap/terraform-provider-jenkins/pull/262) on [namecheap/terraform-provider-jenkins](https://github.com/namecheap/terraform-provider-jenkins) (4 days ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
