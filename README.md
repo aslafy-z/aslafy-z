@@ -35,39 +35,39 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (4 days ago)
-- [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) - CloudStream plugins for French replay TV. (4 days ago)
+- [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media. (today)
+- [recloudstream/cs-repos](https://github.com/recloudstream/cs-repos) - Cloudstream plugin repositories (today)
+- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (5 days ago)
+- [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) - CloudStream plugins for French replay TV. (5 days ago)
 - [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (1 week ago)
 - [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor is free software that can monitor the temperature sensors, fan speeds, voltages, load and clock speeds of your computer. (1 week ago)
 - [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies and TV. Replaces Radarr, Sonarr and Seerr with a single Go binary — web UI, REST API, built-in requests, SSO. Music and books planned. (2 weeks ago)
 - [bndr/gojenkins](https://github.com/bndr/gojenkins) - Jenkins API Client in Go. Looking for maintainers to move this project forward. (3 weeks ago)
-- [aslafy-z/renovate-reproduction-stale-cache](https://github.com/aslafy-z/renovate-reproduction-stale-cache) -  (3 weeks ago)
+- [aslafy-z/renovate-reproduction-stale-cache](https://github.com/aslafy-z/renovate-reproduction-stale-cache) -  (4 weeks ago)
 - [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes (1 month ago)
-- [aslafy-z/deja-web](https://github.com/aslafy-z/deja-web) -  (1 month ago)
-- [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes (1 month ago)
 
 
 
 ## 🔨 Recent Pull Requests
 
 
-- [fix(releases): skip builds Dev already has when runs overlap](https://github.com/aslafy-z/cloudstream-plugins/pull/11) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (4 days ago)
-- [feat(t18): add direct Chromecast playback](https://github.com/aslafy-z/cloudstream-plugins/pull/10) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (4 days ago)
-- [feat(tv5mondeplus): add Chromecast relay playback](https://github.com/aslafy-z/cloudstream-plugins/pull/9) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (4 days ago)
-- [feat(novo19): add Chromecast relay playback](https://github.com/aslafy-z/cloudstream-plugins/pull/8) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (4 days ago)
-- [feat(francetv): add Chromecast relay playback](https://github.com/aslafy-z/cloudstream-plugins/pull/7) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (4 days ago)
-- [feat(rmcplus): add Chromecast relay playback](https://github.com/aslafy-z/cloudstream-plugins/pull/6) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (4 days ago)
-- [ci(build): plan pull requests against their head commit](https://github.com/aslafy-z/cloudstream-plugins/pull/5) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (4 days ago)
-- [fix(cast): drop cached links to evicted relay sessions](https://github.com/aslafy-z/cloudstream-plugins/pull/4) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (4 days ago)
-- [chore: icon audit assets for #138 (do not merge)](https://github.com/DataHearth/streamline/pull/139) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (4 days ago)
-- [Add new repository URL to repos-db.json](https://github.com/recloudstream/cs-repos/pull/109) on [recloudstream/cs-repos](https://github.com/recloudstream/cs-repos) (5 days ago)
+- [fix(releases): skip builds Dev already has when runs overlap](https://github.com/aslafy-z/cloudstream-plugins/pull/11) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (5 days ago)
+- [feat(t18): add direct Chromecast playback](https://github.com/aslafy-z/cloudstream-plugins/pull/10) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (5 days ago)
+- [feat(tv5mondeplus): add Chromecast relay playback](https://github.com/aslafy-z/cloudstream-plugins/pull/9) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (5 days ago)
+- [feat(novo19): add Chromecast relay playback](https://github.com/aslafy-z/cloudstream-plugins/pull/8) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (5 days ago)
+- [feat(francetv): add Chromecast relay playback](https://github.com/aslafy-z/cloudstream-plugins/pull/7) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (5 days ago)
+- [feat(rmcplus): add Chromecast relay playback](https://github.com/aslafy-z/cloudstream-plugins/pull/6) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (5 days ago)
+- [ci(build): plan pull requests against their head commit](https://github.com/aslafy-z/cloudstream-plugins/pull/5) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (5 days ago)
+- [fix(cast): drop cached links to evicted relay sessions](https://github.com/aslafy-z/cloudstream-plugins/pull/4) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (5 days ago)
+- [chore: icon audit assets for #138 (do not merge)](https://github.com/DataHearth/streamline/pull/139) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (5 days ago)
+- [Add new repository URL to repos-db.json](https://github.com/recloudstream/cs-repos/pull/109) on [recloudstream/cs-repos](https://github.com/recloudstream/cs-repos) (6 days ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
 ## ⭐ Recent Stars
 
 
-- [Fluepke/emudrahahahahaha](https://github.com/Fluepke/emudrahahahahaha) - Private Keys (6 days ago)
+- [Fluepke/emudrahahahahaha](https://github.com/Fluepke/emudrahahahahaha) - Private Keys (1 week ago)
 - [argoproj-labs/argocd-agent](https://github.com/argoproj-labs/argocd-agent) - Redefining the multi cluster story of Argo CD (1 week ago)
 - [rayfish/rayfish](https://github.com/rayfish/rayfish) - Peer-to-peer mesh VPN over iroh. Connect computers, phones, and servers without an account or control server. (1 week ago)
 - [GrowlyX/tailmux](https://github.com/GrowlyX/tailmux) - Stay on multiple Tailscale tailnets at once! (2 weeks ago)
