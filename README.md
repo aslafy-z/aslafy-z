@@ -51,6 +51,7 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [fix(helm): rename helm image &#39;repo&#39; key to &#39;repository&#39;](https://github.com/coder/coder/pull/31479) on [coder/coder](https://github.com/coder/coder) (today)
 - [fix(releases): skip builds Dev already has when runs overlap](https://github.com/aslafy-z/cloudstream-plugins/pull/11) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (6 days ago)
 - [feat(t18): add direct Chromecast playback](https://github.com/aslafy-z/cloudstream-plugins/pull/10) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (6 days ago)
 - [feat(tv5mondeplus): add Chromecast relay playback](https://github.com/aslafy-z/cloudstream-plugins/pull/9) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (6 days ago)
@@ -60,7 +61,6 @@ and more...
 - [ci(build): plan pull requests against their head commit](https://github.com/aslafy-z/cloudstream-plugins/pull/5) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (6 days ago)
 - [fix(cast): drop cached links to evicted relay sessions](https://github.com/aslafy-z/cloudstream-plugins/pull/4) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (6 days ago)
 - [chore: icon audit assets for #138 (do not merge)](https://github.com/DataHearth/streamline/pull/139) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (6 days ago)
-- [Add new repository URL to repos-db.json](https://github.com/recloudstream/cs-repos/pull/109) on [recloudstream/cs-repos](https://github.com/recloudstream/cs-repos) (1 week ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
