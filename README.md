@@ -35,15 +35,15 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (1 day ago)
-- [recloudstream/cs-repos](https://github.com/recloudstream/cs-repos) - Cloudstream plugin repositories (2 days ago)
-- [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) - CloudStream plugins for French replay TV. (2 days ago)
-- [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media. (2 days ago)
-- [scaleway/packer-plugin-scaleway](https://github.com/scaleway/packer-plugin-scaleway) - Packer plugin for Scaleway Builder (2 days ago)
+- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (2 days ago)
+- [recloudstream/cs-repos](https://github.com/recloudstream/cs-repos) - Cloudstream plugin repositories (3 days ago)
+- [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) - CloudStream plugins for French replay TV. (3 days ago)
+- [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media. (3 days ago)
+- [scaleway/packer-plugin-scaleway](https://github.com/scaleway/packer-plugin-scaleway) - Packer plugin for Scaleway Builder (3 days ago)
 - [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (1 week ago)
 - [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor is free software that can monitor the temperature sensors, fan speeds, voltages, load and clock speeds of your computer. (2 weeks ago)
 - [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies and TV. Replaces Radarr, Sonarr and Seerr with a single Go binary — web UI, REST API, built-in requests, SSO. Music and books planned. (2 weeks ago)
-- [bndr/gojenkins](https://github.com/bndr/gojenkins) - Jenkins API Client in Go. Looking for maintainers to move this project forward. (4 weeks ago)
+- [bndr/gojenkins](https://github.com/bndr/gojenkins) - Jenkins API Client in Go. Looking for maintainers to move this project forward. (1 month ago)
 - [aslafy-z/renovate-reproduction-stale-cache](https://github.com/aslafy-z/renovate-reproduction-stale-cache) -  (1 month ago)
 
 
@@ -51,7 +51,7 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [fix(helm): rename helm image &#39;repo&#39; key to &#39;repository&#39;](https://github.com/coder/coder/pull/31479) on [coder/coder](https://github.com/coder/coder) (1 day ago)
+- [fix(helm): rename helm image &#39;repo&#39; key to &#39;repository&#39;](https://github.com/coder/coder/pull/31479) on [coder/coder](https://github.com/coder/coder) (2 days ago)
 - [fix(releases): skip builds Dev already has when runs overlap](https://github.com/aslafy-z/cloudstream-plugins/pull/11) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (1 week ago)
 - [feat(t18): add direct Chromecast playback](https://github.com/aslafy-z/cloudstream-plugins/pull/10) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (1 week ago)
 - [feat(tv5mondeplus): add Chromecast relay playback](https://github.com/aslafy-z/cloudstream-plugins/pull/9) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (1 week ago)
@@ -67,7 +67,7 @@ and more...
 ## ⭐ Recent Stars
 
 
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. (today)
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. (1 day ago)
 - [Fluepke/emudrahahahahaha](https://github.com/Fluepke/emudrahahahahaha) - Private Keys (1 week ago)
 - [argoproj-labs/argocd-agent](https://github.com/argoproj-labs/argocd-agent) - Redefining the multi cluster story of Argo CD (1 week ago)
 - [rayfish/rayfish](https://github.com/rayfish/rayfish) - Peer-to-peer mesh VPN over iroh. Connect computers, phones, and servers without an account or control server. (1 week ago)
@@ -76,7 +76,7 @@ and more...
 - [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit) - BookOrbit: Your Reading Space (2 weeks ago)
 - [AndrewGuenther/fck-nat](https://github.com/AndrewGuenther/fck-nat) - Feasible cost konfigurable NAT: An AWS NAT Instance AMI (2 weeks ago)
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (2 weeks ago)
-- [phenixblue/k8shark](https://github.com/phenixblue/k8shark) - Capture Kubernetes cluster state to a portable archive and replay it through a mock API server — use kubectl against a customer&#39;s environment without live cluster access. (2 weeks ago)
+- [phenixblue/k8shark](https://github.com/phenixblue/k8shark) - Capture Kubernetes cluster state to a portable archive and replay it through a mock API server — use kubectl against a customer&#39;s environment without live cluster access. (3 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
