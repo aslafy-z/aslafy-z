@@ -67,6 +67,7 @@ and more...
 ## ⭐ Recent Stars
 
 
+- [lukashankeln/glint](https://github.com/lukashankeln/glint) - lint ArgoCD Applications, FluxCD HelmReleases and plain Resources using custom CEL Policies (today)
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. (5 days ago)
 - [Fluepke/emudrahahahahaha](https://github.com/Fluepke/emudrahahahahaha) - Private Keys (2 weeks ago)
 - [argoproj-labs/argocd-agent](https://github.com/argoproj-labs/argocd-agent) - Redefining the multi cluster story of Argo CD (2 weeks ago)
@@ -76,7 +77,6 @@ and more...
 - [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit) - BookOrbit: Your Reading Space (3 weeks ago)
 - [AndrewGuenther/fck-nat](https://github.com/AndrewGuenther/fck-nat) - Feasible cost konfigurable NAT: An AWS NAT Instance AMI (3 weeks ago)
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (3 weeks ago)
-- [phenixblue/k8shark](https://github.com/phenixblue/k8shark) - Capture Kubernetes cluster state to a portable archive and replay it through a mock API server — use kubectl against a customer&#39;s environment without live cluster access. (3 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
