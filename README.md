@@ -35,10 +35,10 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
+- [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) - CloudStream plugins for French replay TV. (today)
 - [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (1 week ago)
 - [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media. (1 week ago)
 - [scaleway/packer-plugin-scaleway](https://github.com/scaleway/packer-plugin-scaleway) - Packer plugin for Scaleway Builder (1 week ago)
-- [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) - CloudStream plugins for French replay TV. (1 week ago)
 - [recloudstream/cs-repos](https://github.com/recloudstream/cs-repos) - Cloudstream plugin repositories (1 week ago)
 - [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (2 weeks ago)
 - [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor is free software that can monitor the temperature sensors, fan speeds, voltages, load and clock speeds of your computer. (3 weeks ago)
@@ -51,6 +51,8 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [ci(build): retry Gradle configuration when JitPack is not ready](https://github.com/aslafy-z/cloudstream-plugins/pull/13) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (today)
+- [fix(settings): reliable TV remote navigation in sign-in forms](https://github.com/aslafy-z/cloudstream-plugins/pull/12) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (today)
 - [fix(helm): rename helm image &#39;repo&#39; key to &#39;repository&#39;](https://github.com/coder/coder/pull/31479) on [coder/coder](https://github.com/coder/coder) (1 week ago)
 - [fix(releases): skip builds Dev already has when runs overlap](https://github.com/aslafy-z/cloudstream-plugins/pull/11) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (1 week ago)
 - [feat(t18): add direct Chromecast playback](https://github.com/aslafy-z/cloudstream-plugins/pull/10) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (1 week ago)
@@ -59,8 +61,6 @@ and more...
 - [feat(francetv): add Chromecast relay playback](https://github.com/aslafy-z/cloudstream-plugins/pull/7) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (1 week ago)
 - [feat(rmcplus): add Chromecast relay playback](https://github.com/aslafy-z/cloudstream-plugins/pull/6) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (1 week ago)
 - [ci(build): plan pull requests against their head commit](https://github.com/aslafy-z/cloudstream-plugins/pull/5) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (1 week ago)
-- [fix(cast): drop cached links to evicted relay sessions](https://github.com/aslafy-z/cloudstream-plugins/pull/4) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (1 week ago)
-- [chore: icon audit assets for #138 (do not merge)](https://github.com/DataHearth/streamline/pull/139) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 week ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
