@@ -68,7 +68,7 @@ and more...
 
 
 - [lukashankeln/glint](https://github.com/lukashankeln/glint) - lint ArgoCD Applications, FluxCD HelmReleases and plain Resources using custom CEL Policies (1 day ago)
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the place for working with a fleet of coding agents (e.g. Claude Code, Codex). Run any agent with your own subscription. Available on desktop, mobile and remote runtime. (6 days ago)
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime. (6 days ago)
 - [Fluepke/emudrahahahahaha](https://github.com/Fluepke/emudrahahahahaha) - Private Keys (2 weeks ago)
 - [argoproj-labs/argocd-agent](https://github.com/argoproj-labs/argocd-agent) - Redefining the multi cluster story of Argo CD (2 weeks ago)
 - [rayfish/rayfish](https://github.com/rayfish/rayfish) - Peer-to-peer mesh VPN over iroh. Connect computers, phones, and servers without an account or control server. (2 weeks ago)
