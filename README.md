@@ -53,7 +53,7 @@ and more...
 
 - [ci(build): retry Gradle configuration when JitPack is not ready](https://github.com/aslafy-z/cloudstream-plugins/pull/13) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (1 day ago)
 - [fix(settings): reliable TV remote navigation in sign-in forms](https://github.com/aslafy-z/cloudstream-plugins/pull/12) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (1 day ago)
-- [fix(helm): rename helm image &#39;repo&#39; key to &#39;repository&#39;](https://github.com/coder/coder/pull/31479) on [coder/coder](https://github.com/coder/coder) (1 week ago)
+- [fix: rename helm image &#39;repo&#39; key to &#39;repository&#39;](https://github.com/coder/coder/pull/31479) on [coder/coder](https://github.com/coder/coder) (1 week ago)
 - [fix(releases): skip builds Dev already has when runs overlap](https://github.com/aslafy-z/cloudstream-plugins/pull/11) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (2 weeks ago)
 - [feat(t18): add direct Chromecast playback](https://github.com/aslafy-z/cloudstream-plugins/pull/10) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (2 weeks ago)
 - [feat(tv5mondeplus): add Chromecast relay playback](https://github.com/aslafy-z/cloudstream-plugins/pull/9) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (2 weeks ago)
