@@ -51,6 +51,7 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [feat(helm): add image digest value](https://github.com/coder/coder/pull/31840) on [coder/coder](https://github.com/coder/coder) (today)
 - [ci(build): retry Gradle configuration when JitPack is not ready](https://github.com/aslafy-z/cloudstream-plugins/pull/13) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (1 day ago)
 - [fix(settings): reliable TV remote navigation in sign-in forms](https://github.com/aslafy-z/cloudstream-plugins/pull/12) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (1 day ago)
 - [fix: rename helm image &#39;repo&#39; key to &#39;repository&#39;](https://github.com/coder/coder/pull/31479) on [coder/coder](https://github.com/coder/coder) (1 week ago)
@@ -60,7 +61,6 @@ and more...
 - [feat(novo19): add Chromecast relay playback](https://github.com/aslafy-z/cloudstream-plugins/pull/8) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (2 weeks ago)
 - [feat(francetv): add Chromecast relay playback](https://github.com/aslafy-z/cloudstream-plugins/pull/7) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (2 weeks ago)
 - [feat(rmcplus): add Chromecast relay playback](https://github.com/aslafy-z/cloudstream-plugins/pull/6) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (2 weeks ago)
-- [ci(build): plan pull requests against their head commit](https://github.com/aslafy-z/cloudstream-plugins/pull/5) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (2 weeks ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
