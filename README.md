@@ -35,7 +35,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) - CloudStream plugins for French replay TV. (1 day ago)
+- [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) - CloudStream plugins for French replay TV. (2 days ago)
 - [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (1 week ago)
 - [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media. (1 week ago)
 - [scaleway/packer-plugin-scaleway](https://github.com/scaleway/packer-plugin-scaleway) - Packer plugin for Scaleway Builder (1 week ago)
@@ -51,23 +51,22 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [feat(helm): add image digest value](https://github.com/coder/coder/pull/31840) on [coder/coder](https://github.com/coder/coder) (today)
-- [ci(build): retry Gradle configuration when JitPack is not ready](https://github.com/aslafy-z/cloudstream-plugins/pull/13) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (1 day ago)
-- [fix(settings): reliable TV remote navigation in sign-in forms](https://github.com/aslafy-z/cloudstream-plugins/pull/12) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (1 day ago)
-- [fix: rename helm image &#39;repo&#39; key to &#39;repository&#39;](https://github.com/coder/coder/pull/31479) on [coder/coder](https://github.com/coder/coder) (1 week ago)
-- [fix(releases): skip builds Dev already has when runs overlap](https://github.com/aslafy-z/cloudstream-plugins/pull/11) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (2 weeks ago)
-- [feat(t18): add direct Chromecast playback](https://github.com/aslafy-z/cloudstream-plugins/pull/10) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (2 weeks ago)
-- [feat(tv5mondeplus): add Chromecast relay playback](https://github.com/aslafy-z/cloudstream-plugins/pull/9) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (2 weeks ago)
-- [feat(novo19): add Chromecast relay playback](https://github.com/aslafy-z/cloudstream-plugins/pull/8) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (2 weeks ago)
-- [feat(francetv): add Chromecast relay playback](https://github.com/aslafy-z/cloudstream-plugins/pull/7) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (2 weeks ago)
-- [feat(rmcplus): add Chromecast relay playback](https://github.com/aslafy-z/cloudstream-plugins/pull/6) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (2 weeks ago)
+- [fix(bittorrent): re-add persisted torrents after the server is listening](https://github.com/DataHearth/streamline/pull/171) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [fix(web): make a released bottom sheet settle from the finger&#39;s final speed and slide off instead of fading](https://github.com/DataHearth/streamline/pull/170) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [fix(web): show a season&#39;s in-flight episodes as downloading, not wanted](https://github.com/DataHearth/streamline/pull/168) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [docs(claude): a comment describes the code as it is](https://github.com/DataHearth/streamline/pull/164) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [fix(web): mask-safe PWA icons, a monochrome icon and in-app contrast](https://github.com/DataHearth/streamline/pull/163) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [fix(web): offer every season in the series search scope](https://github.com/DataHearth/streamline/pull/159) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
+- [feat(helm): add image digest value](https://github.com/coder/coder/pull/31840) on [coder/coder](https://github.com/coder/coder) (1 day ago)
+- [ci(build): retry Gradle configuration when JitPack is not ready](https://github.com/aslafy-z/cloudstream-plugins/pull/13) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (2 days ago)
+- [fix(settings): reliable TV remote navigation in sign-in forms](https://github.com/aslafy-z/cloudstream-plugins/pull/12) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (2 days ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
 ## ⭐ Recent Stars
 
 
-- [lukashankeln/glint](https://github.com/lukashankeln/glint) - lint ArgoCD Applications, FluxCD HelmReleases and plain Resources using custom CEL Policies (2 days ago)
+- [lukashankeln/glint](https://github.com/lukashankeln/glint) - lint ArgoCD Applications, FluxCD HelmReleases and plain Resources using custom CEL Policies (3 days ago)
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime. (1 week ago)
 - [Fluepke/emudrahahahahaha](https://github.com/Fluepke/emudrahahahahaha) - Private Keys (2 weeks ago)
 - [argoproj-labs/argocd-agent](https://github.com/argoproj-labs/argocd-agent) - Redefining the multi cluster story of Argo CD (2 weeks ago)
