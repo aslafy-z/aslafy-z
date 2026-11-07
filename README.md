@@ -51,15 +51,15 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [fix(bittorrent): re-add persisted torrents after the server is listening](https://github.com/DataHearth/streamline/pull/171) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [test(restapi): set WriteTimeout before the spec&#39;s server starts](https://github.com/DataHearth/streamline/pull/175) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [feat(bittorrent): make the builtin engine&#39;s peer, piece and torrent limits configurable](https://github.com/DataHearth/streamline/pull/173) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [fix(bittorrent): bound the peer-request data a seeding connection buffers](https://github.com/DataHearth/streamline/pull/172) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [fix(server): start listening before the slow boot reads](https://github.com/DataHearth/streamline/pull/171) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
 - [fix(web): make a released bottom sheet settle from the finger&#39;s final speed and slide off instead of fading](https://github.com/DataHearth/streamline/pull/170) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
 - [fix(web): show a season&#39;s in-flight episodes as downloading, not wanted](https://github.com/DataHearth/streamline/pull/168) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
 - [docs(claude): a comment describes the code as it is](https://github.com/DataHearth/streamline/pull/164) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
 - [fix(web): mask-safe PWA icons, a monochrome icon and in-app contrast](https://github.com/DataHearth/streamline/pull/163) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
 - [fix(web): offer every season in the series search scope](https://github.com/DataHearth/streamline/pull/159) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
-- [feat(helm): add image digest value](https://github.com/coder/coder/pull/31840) on [coder/coder](https://github.com/coder/coder) (1 day ago)
-- [ci(build): retry Gradle configuration when JitPack is not ready](https://github.com/aslafy-z/cloudstream-plugins/pull/13) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (2 days ago)
-- [fix(settings): reliable TV remote navigation in sign-in forms](https://github.com/aslafy-z/cloudstream-plugins/pull/12) on [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) (2 days ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
