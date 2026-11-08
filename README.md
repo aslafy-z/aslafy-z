@@ -36,14 +36,14 @@ and more...
 
 
 - [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (today)
+- [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies, TV, music and books. One Go binary replaces Radarr, Sonarr, Lidarr, Readarr and Seerr: web UI, REST API, requests, SSO, a built-in BitTorrent client, a Subsonic server for music and an OPDS catalog for books. (today)
 - [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) - CloudStream plugins for French replay TV. (3 days ago)
 - [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (1 week ago)
-- [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media. (1 week ago)
 - [recloudstream/cs-repos](https://github.com/recloudstream/cs-repos) - Cloudstream plugin repositories (1 week ago)
 - [scaleway/packer-plugin-scaleway](https://github.com/scaleway/packer-plugin-scaleway) - Packer plugin for Scaleway Builder (1 week ago)
+- [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media. (1 week ago)
 - [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (2 weeks ago)
 - [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor is free software that can monitor the temperature sensors, fan speeds, voltages, load and clock speeds of your computer. (3 weeks ago)
-- [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies, TV, music and books. One Go binary replaces Radarr, Sonarr, Lidarr, Readarr and Seerr: web UI, REST API, requests, SSO, a built-in BitTorrent client, a Subsonic server for music and an OPDS catalog for books. (3 weeks ago)
 - [bndr/gojenkins](https://github.com/bndr/gojenkins) - Jenkins API Client in Go. Looking for maintainers to move this project forward. (1 month ago)
 
 
@@ -51,16 +51,12 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [Let the accent color be picked in Settings: green, turquoise, blue or violet](https://github.com/aslafy-z/plein/pull/219) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Show fuel outages from the French flux](https://github.com/aslafy-z/plein/pull/218) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Read French flux timestamps as Paris wall clock](https://github.com/aslafy-z/plein/pull/217) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Announce what changed to returning users with a hand-written What&#39;s new log](https://github.com/aslafy-z/plein/pull/216) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [feat(e2e): generate the README screenshots from a demo library](https://github.com/DataHearth/streamline/pull/183) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
-- [fix(web): move readable text from --fg-faint to --fg-subtle](https://github.com/DataHearth/streamline/pull/181) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
-- [fix(web): run under the iOS status bar in a home-screen app](https://github.com/DataHearth/streamline/pull/180) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
-- [feat(bittorrent): make the builtin engine&#39;s peer, piece and torrent limits configurable](https://github.com/DataHearth/streamline/pull/178) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
-- [fix(bittorrent): bound the peer-request data a seeding connection buffers](https://github.com/DataHearth/streamline/pull/177) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
-- [perf(server): read boot files into the page cache before opening](https://github.com/DataHearth/streamline/pull/176) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
+- [feat!: carry TMDB, TVDB and Hardcover ids as strings](https://github.com/DataHearth/streamline/pull/201) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [feat(series): rate series from TMDB, keep vote counts](https://github.com/DataHearth/streamline/pull/200) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [feat: cross-reference external ids and link titles to other sites](https://github.com/DataHearth/streamline/pull/199) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [fix(web): draw the lookup sheet&#39;s quality profile picker as one row](https://github.com/DataHearth/streamline/pull/197) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [feat(web): fold the series monitoring presets into the bookmark](https://github.com/DataHearth/streamline/pull/195) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [feat(activity): link titles, history and torrents to their downloads](https://github.com/DataHearth/streamline/pull/192) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
