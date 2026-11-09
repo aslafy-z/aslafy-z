@@ -35,14 +35,14 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies, TV, music and books. One Go binary replaces Radarr, Sonarr, Lidarr, Readarr and Seerr: web UI, REST API, requests, SSO, a built-in BitTorrent client, a Subsonic server for music and an OPDS catalog for books. (today)
-- [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (today)
-- [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) - CloudStream plugins for French replay TV. (3 days ago)
+- [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies, TV, music and books. One Go binary replaces Radarr, Sonarr, Lidarr, Readarr and Seerr: web UI, REST API, requests, SSO, a built-in BitTorrent client, a Subsonic server for music and an OPDS catalog for books. (1 day ago)
+- [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (1 day ago)
+- [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) - CloudStream plugins for French replay TV. (4 days ago)
 - [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (1 week ago)
-- [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media. (1 week ago)
-- [scaleway/packer-plugin-scaleway](https://github.com/scaleway/packer-plugin-scaleway) - Packer plugin for Scaleway Builder (1 week ago)
 - [recloudstream/cs-repos](https://github.com/recloudstream/cs-repos) - Cloudstream plugin repositories (1 week ago)
-- [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (2 weeks ago)
+- [scaleway/packer-plugin-scaleway](https://github.com/scaleway/packer-plugin-scaleway) - Packer plugin for Scaleway Builder (1 week ago)
+- [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media. (1 week ago)
+- [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (3 weeks ago)
 - [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor is free software that can monitor the temperature sensors, fan speeds, voltages, load and clock speeds of your computer. (3 weeks ago)
 - [bndr/gojenkins](https://github.com/bndr/gojenkins) - Jenkins API Client in Go. Looking for maintainers to move this project forward. (1 month ago)
 
@@ -51,20 +51,20 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [fix(web): keep a detail hero&#39;s backdrop still when the overview expands](https://github.com/DataHearth/streamline/pull/206) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
-- [ci: run each section only when its inputs change](https://github.com/DataHearth/streamline/pull/205) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
-- [fix(web): let a toast be swiped away to the left](https://github.com/DataHearth/streamline/pull/204) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
-- [docs: a comment describes the code as it is](https://github.com/DataHearth/streamline/pull/202) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
-- [feat(series): rate series from TMDB, keep vote counts](https://github.com/DataHearth/streamline/pull/200) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
-- [feat: cross-reference external ids and link titles to other sites](https://github.com/DataHearth/streamline/pull/199) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
-- [fix(web): draw the lookup sheet&#39;s quality profile picker as one row](https://github.com/DataHearth/streamline/pull/197) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [fix(web): keep a detail hero&#39;s backdrop still when the overview expands](https://github.com/DataHearth/streamline/pull/206) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
+- [ci: run each section only when its inputs change](https://github.com/DataHearth/streamline/pull/205) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
+- [fix(web): let a toast be swiped away to the left](https://github.com/DataHearth/streamline/pull/204) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
+- [docs: a comment describes the code as it is](https://github.com/DataHearth/streamline/pull/202) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
+- [feat(series): rate series from TMDB, keep vote counts](https://github.com/DataHearth/streamline/pull/200) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
+- [feat: cross-reference external ids and link titles to other sites](https://github.com/DataHearth/streamline/pull/199) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
+- [fix(web): draw the lookup sheet&#39;s quality profile picker as one row](https://github.com/DataHearth/streamline/pull/197) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
 ## ⭐ Recent Stars
 
 
-- [lukashankeln/glint](https://github.com/lukashankeln/glint) - lint ArgoCD Applications, FluxCD HelmReleases and plain Resources using custom CEL Policies (4 days ago)
+- [lukashankeln/glint](https://github.com/lukashankeln/glint) - lint ArgoCD Applications, FluxCD HelmReleases and plain Resources using custom CEL Policies (5 days ago)
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime. (1 week ago)
 - [Fluepke/emudrahahahahaha](https://github.com/Fluepke/emudrahahahahaha) - Private Keys (2 weeks ago)
 - [argoproj-labs/argocd-agent](https://github.com/argoproj-labs/argocd-agent) - Redefining the multi cluster story of Argo CD (2 weeks ago)
@@ -72,8 +72,8 @@ and more...
 - [GrowlyX/tailmux](https://github.com/GrowlyX/tailmux) - Stay on multiple Tailscale tailnets at once! (3 weeks ago)
 - [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela) - Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data, with Google lookups by choice. Runs on degoogled phones and can avoid Flock cameras (3 weeks ago)
 - [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit) - BookOrbit: Your Reading Space (3 weeks ago)
-- [AndrewGuenther/fck-nat](https://github.com/AndrewGuenther/fck-nat) - Feasible cost konfigurable NAT: An AWS NAT Instance AMI (3 weeks ago)
-- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (3 weeks ago)
+- [AndrewGuenther/fck-nat](https://github.com/AndrewGuenther/fck-nat) - Feasible cost konfigurable NAT: An AWS NAT Instance AMI (4 weeks ago)
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (4 weeks ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
