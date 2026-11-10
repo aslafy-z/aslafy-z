@@ -59,7 +59,6 @@ and more...
 - [Make station cache writes atomic, quota-aware and newest-first on read](https://github.com/aslafy-z/plein/pull/263) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 - [Stamp cached areas with the time the prices were actually fetched](https://github.com/aslafy-z/plein/pull/262) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 - [Use the English UI names in comments and move the Leaflet types to devDependencies](https://github.com/aslafy-z/plein/pull/261) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Let the installed app rotate into the wide arrangement](https://github.com/aslafy-z/plein/pull/260) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
