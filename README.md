@@ -51,14 +51,15 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [Build the slider aria-valuetext from the catalog unit messages](https://github.com/aslafy-z/plein/pull/268) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Guard decodeURIComponent on the /station/ path](https://github.com/aslafy-z/plein/pull/267) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Report the 300-station cut through onCapped in the Spanish and Portuguese sources](https://github.com/aslafy-z/plein/pull/266) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Scale the route range limit by the motorway consumption factor](https://github.com/aslafy-z/plein/pull/265) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Escape the station initials in the detail mini-map pin](https://github.com/aslafy-z/plein/pull/264) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Make station cache writes atomic, quota-aware and newest-first on read](https://github.com/aslafy-z/plein/pull/263) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Stamp cached areas with the time the prices were actually fetched](https://github.com/aslafy-z/plein/pull/262) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Use the English UI names in comments and move the Leaflet types to devDependencies](https://github.com/aslafy-z/plein/pull/261) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [feat(web): link a title&#39;s status to its download](https://github.com/DataHearth/streamline/pull/268) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [feat(activity): give a download an address and filter the queue on a title](https://github.com/DataHearth/streamline/pull/267) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [fix(bulkimport): guard a replace against the same file, a missing source and concurrent copies](https://github.com/DataHearth/streamline/pull/266) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [fix(bulkimport): import movies from a flat folder in rename mode](https://github.com/DataHearth/streamline/pull/265) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [fix(web): URL state on same-page links and in-app arrivals](https://github.com/DataHearth/streamline/pull/264) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [feat(api): link activity events, torrents and queue entries to their download](https://github.com/DataHearth/streamline/pull/263) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [fix(web): what the iOS status-bar fix left hard-coded to a 4rem top bar](https://github.com/DataHearth/streamline/pull/262) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [fix(web): text contrast the fg-faint sweep left behind](https://github.com/DataHearth/streamline/pull/261) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [fix(demoshots): fail fast on a dead instance, drop the keys on exit, check the calendar seed](https://github.com/DataHearth/streamline/pull/260) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
