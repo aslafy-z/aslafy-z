@@ -35,7 +35,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (1 day ago)
+- [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (today)
 - [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies, TV, music and books. One Go binary replaces Radarr, Sonarr, Lidarr, Readarr and Seerr: web UI, REST API, requests, SSO, a built-in BitTorrent client, a Subsonic server for music and an OPDS catalog for books. (3 days ago)
 - [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) - CloudStream plugins for French replay TV. (6 days ago)
 - [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (1 week ago)
@@ -51,6 +51,9 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [Rank place suggestions by how much of the query they answer](https://github.com/aslafy-z/plein/pull/272) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Move the French address geocoder to the Géoplateforme endpoint](https://github.com/aslafy-z/plein/pull/271) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Offer points of interest in the place search](https://github.com/aslafy-z/plein/pull/270) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 - [feat(web): link a title&#39;s status to its download](https://github.com/DataHearth/streamline/pull/268) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
 - [feat(activity): give a download an address and filter the queue on a title](https://github.com/DataHearth/streamline/pull/267) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
 - [fix(bulkimport): guard a replace against the same file, a missing source and concurrent copies](https://github.com/DataHearth/streamline/pull/266) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
@@ -58,8 +61,6 @@ and more...
 - [fix(web): URL state on same-page links and in-app arrivals](https://github.com/DataHearth/streamline/pull/264) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
 - [feat(api): link activity events, torrents and queue entries to their download](https://github.com/DataHearth/streamline/pull/263) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
 - [fix(web): what the iOS status-bar fix left hard-coded to a 4rem top bar](https://github.com/DataHearth/streamline/pull/262) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
-- [fix(web): text contrast the fg-faint sweep left behind](https://github.com/DataHearth/streamline/pull/261) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
-- [fix(demoshots): fail fast on a dead instance, drop the keys on exit, check the calendar seed](https://github.com/DataHearth/streamline/pull/260) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
