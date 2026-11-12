@@ -35,10 +35,10 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (1 day ago)
+- [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (today)
+- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (today)
 - [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies, TV, music and books. One Go binary replaces Radarr, Sonarr, Lidarr, Readarr and Seerr: web UI, REST API, requests, SSO, a built-in BitTorrent client, a Subsonic server for music and an OPDS catalog for books. (4 days ago)
 - [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) - CloudStream plugins for French replay TV. (1 week ago)
-- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (2 weeks ago)
 - [recloudstream/cs-repos](https://github.com/recloudstream/cs-repos) - Cloudstream plugin repositories (2 weeks ago)
 - [scaleway/packer-plugin-scaleway](https://github.com/scaleway/packer-plugin-scaleway) - Packer plugin for Scaleway Builder (2 weeks ago)
 - [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media. (2 weeks ago)
@@ -51,16 +51,16 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [Rank place suggestions by how much of the query they answer](https://github.com/aslafy-z/plein/pull/272) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
-- [Move the French address geocoder to the Géoplateforme endpoint](https://github.com/aslafy-z/plein/pull/271) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
-- [Offer points of interest in the place search](https://github.com/aslafy-z/plein/pull/270) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
-- [feat(web): link a title&#39;s status to its download](https://github.com/DataHearth/streamline/pull/268) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 days ago)
-- [feat(activity): give a download an address and filter the queue on a title](https://github.com/DataHearth/streamline/pull/267) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 days ago)
-- [fix(bulkimport): guard a replace against the same file, a missing source and concurrent copies](https://github.com/DataHearth/streamline/pull/266) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 days ago)
-- [fix(bulkimport): import movies from a flat folder in rename mode](https://github.com/DataHearth/streamline/pull/265) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 days ago)
-- [fix(web): URL state on same-page links and in-app arrivals](https://github.com/DataHearth/streamline/pull/264) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 days ago)
-- [feat(api): link activity events, torrents and queue entries to their download](https://github.com/DataHearth/streamline/pull/263) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 days ago)
-- [fix(web): what the iOS status-bar fix left hard-coded to a 4rem top bar](https://github.com/DataHearth/streamline/pull/262) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 days ago)
+- [Route map: show a loading pill while the route or its stations load](https://github.com/aslafy-z/plein/pull/296) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Name the sources a running place search is still waiting for](https://github.com/aslafy-z/plein/pull/295) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Re-frame a computed route when the phone sheet grows under it](https://github.com/aslafy-z/plein/pull/294) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Rebuild the README screenshots and add the route on the map](https://github.com/aslafy-z/plein/pull/293) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Route: « Start the trip » CTA on the bottom edge, stations on the line in km order](https://github.com/aslafy-z/plein/pull/292) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Use em dashes sparingly in the app&#39;s copy](https://github.com/aslafy-z/plein/pull/291) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Draw card and sheet header actions as one ActionPill](https://github.com/aslafy-z/plein/pull/290) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Make the route header&#39;s Share and Edit full touch targets](https://github.com/aslafy-z/plein/pull/289) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Add a « Tank on arrival » floor to the route plan](https://github.com/aslafy-z/plein/pull/288) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Back the OSRM route up with Valhalla](https://github.com/aslafy-z/plein/pull/287) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
