@@ -51,6 +51,7 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [Draw the basemap from VersaTiles vector tiles instead of CARTO](https://github.com/aslafy-z/plein/pull/297) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 - [Route map: show a loading pill while the route or its stations load](https://github.com/aslafy-z/plein/pull/296) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 - [Name the sources a running place search is still waiting for](https://github.com/aslafy-z/plein/pull/295) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 - [Re-frame a computed route when the phone sheet grows under it](https://github.com/aslafy-z/plein/pull/294) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
@@ -60,7 +61,6 @@ and more...
 - [Draw card and sheet header actions as one ActionPill](https://github.com/aslafy-z/plein/pull/290) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 - [Make the route header&#39;s Share and Edit full touch targets](https://github.com/aslafy-z/plein/pull/289) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 - [Add a « Tank on arrival » floor to the route plan](https://github.com/aslafy-z/plein/pull/288) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Back the OSRM route up with Valhalla](https://github.com/aslafy-z/plein/pull/287) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
