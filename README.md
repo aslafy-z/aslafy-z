@@ -35,9 +35,9 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (today)
-- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (today)
-- [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies, TV, music and books. One Go binary replaces Radarr, Sonarr, Lidarr, Readarr and Seerr: web UI, REST API, requests, SSO, a built-in BitTorrent client, a Subsonic server for music and an OPDS catalog for books. (4 days ago)
+- [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (1 day ago)
+- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (1 day ago)
+- [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies, TV, music and books. One Go binary replaces Radarr, Sonarr, Lidarr, Readarr and Seerr: web UI, REST API, requests, SSO, a built-in BitTorrent client, a Subsonic server for music and an OPDS catalog for books. (5 days ago)
 - [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) - CloudStream plugins for French replay TV. (1 week ago)
 - [recloudstream/cs-repos](https://github.com/recloudstream/cs-repos) - Cloudstream plugin repositories (2 weeks ago)
 - [scaleway/packer-plugin-scaleway](https://github.com/scaleway/packer-plugin-scaleway) - Packer plugin for Scaleway Builder (2 weeks ago)
@@ -51,16 +51,16 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [Draw the basemap from VersaTiles vector tiles instead of CARTO](https://github.com/aslafy-z/plein/pull/297) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Route map: show a loading pill while the route or its stations load](https://github.com/aslafy-z/plein/pull/296) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Name the sources a running place search is still waiting for](https://github.com/aslafy-z/plein/pull/295) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Re-frame a computed route when the phone sheet grows under it](https://github.com/aslafy-z/plein/pull/294) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Rebuild the README screenshots and add the route on the map](https://github.com/aslafy-z/plein/pull/293) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Route: « Start the trip » CTA on the bottom edge, stations on the line in km order](https://github.com/aslafy-z/plein/pull/292) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Use em dashes sparingly in the app&#39;s copy](https://github.com/aslafy-z/plein/pull/291) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Draw card and sheet header actions as one ActionPill](https://github.com/aslafy-z/plein/pull/290) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Make the route header&#39;s Share and Edit full touch targets](https://github.com/aslafy-z/plein/pull/289) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Add a « Tank on arrival » floor to the route plan](https://github.com/aslafy-z/plein/pull/288) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Draw the basemap from VersaTiles vector tiles instead of CARTO](https://github.com/aslafy-z/plein/pull/297) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
+- [Route map: show a loading pill while the route or its stations load](https://github.com/aslafy-z/plein/pull/296) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
+- [Name the sources a running place search is still waiting for](https://github.com/aslafy-z/plein/pull/295) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
+- [Re-frame a computed route when the phone sheet grows under it](https://github.com/aslafy-z/plein/pull/294) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
+- [Rebuild the README screenshots and add the route on the map](https://github.com/aslafy-z/plein/pull/293) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
+- [Route: « Start the trip » CTA on the bottom edge, stations on the line in km order](https://github.com/aslafy-z/plein/pull/292) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
+- [Use em dashes sparingly in the app&#39;s copy](https://github.com/aslafy-z/plein/pull/291) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
+- [Draw card and sheet header actions as one ActionPill](https://github.com/aslafy-z/plein/pull/290) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
+- [Make the route header&#39;s Share and Edit full touch targets](https://github.com/aslafy-z/plein/pull/289) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
+- [Add a « Tank on arrival » floor to the route plan](https://github.com/aslafy-z/plein/pull/288) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
@@ -68,7 +68,7 @@ and more...
 
 
 - [lukashankeln/glint](https://github.com/lukashankeln/glint) - lint ArgoCD Applications, FluxCD HelmReleases and plain Resources using custom CEL Policies (1 week ago)
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime. (1 week ago)
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime. (2 weeks ago)
 - [Fluepke/emudrahahahahaha](https://github.com/Fluepke/emudrahahahahaha) - Private Keys (3 weeks ago)
 - [argoproj-labs/argocd-agent](https://github.com/argoproj-labs/argocd-agent) - Redefining the multi cluster story of Argo CD (3 weeks ago)
 - [rayfish/rayfish](https://github.com/rayfish/rayfish) - Peer-to-peer mesh VPN over iroh. Connect computers, phones, and servers without an account or control server. (3 weeks ago)
