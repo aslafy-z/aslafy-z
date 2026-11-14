@@ -51,16 +51,16 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [fix(bittorrent): smooth speed and ETA like qBittorrent](https://github.com/DataHearth/streamline/pull/279) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [fix(tvdb): ask for a season&#39;s translated name only when TVDB lists one](https://github.com/DataHearth/streamline/pull/278) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [fix(bittorrent): close connections to seeders once every wanted file is held](https://github.com/DataHearth/streamline/pull/277) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [fix(bittorrent): keep private torrents off the DHT after a listen port move](https://github.com/DataHearth/streamline/pull/276) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [fix(web): stop closed detail sheets from swallowing the phone&#39;s Back](https://github.com/DataHearth/streamline/pull/275) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [refactor(web): share the day arithmetic through lib/dates](https://github.com/DataHearth/streamline/pull/274) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
 - [fix(web): air dates on wanted episodes and short dates without their year](https://github.com/DataHearth/streamline/pull/273) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
-- [fix(web): show each torrent file&#39;s progress on a phone](https://github.com/DataHearth/streamline/pull/272) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [fix(web): show each torrent file&#39;s progress on a phone, and 100% only when complete](https://github.com/DataHearth/streamline/pull/272) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
 - [Offer a route to the searched place from the zone card](https://github.com/aslafy-z/plein/pull/298) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 - [Draw the basemap from VersaTiles vector tiles instead of CARTO](https://github.com/aslafy-z/plein/pull/297) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
-- [Route map: show a loading pill while the route or its stations load](https://github.com/aslafy-z/plein/pull/296) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
-- [Name the sources a running place search is still waiting for](https://github.com/aslafy-z/plein/pull/295) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
-- [Re-frame a computed route when the phone sheet grows under it](https://github.com/aslafy-z/plein/pull/294) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
-- [Rebuild the README screenshots and add the route on the map](https://github.com/aslafy-z/plein/pull/293) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
-- [Route: « Start the trip » CTA on the bottom edge, stations on the line in km order](https://github.com/aslafy-z/plein/pull/292) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
-- [Use em dashes sparingly in the app&#39;s copy](https://github.com/aslafy-z/plein/pull/291) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
