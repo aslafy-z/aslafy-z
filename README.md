@@ -51,6 +51,9 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [fix(web): air dates on wanted episodes and short dates without their year](https://github.com/DataHearth/streamline/pull/273) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [fix(web): show each torrent file&#39;s progress on a phone](https://github.com/DataHearth/streamline/pull/272) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [Offer a route to the searched place from the zone card](https://github.com/aslafy-z/plein/pull/298) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
 - [Draw the basemap from VersaTiles vector tiles instead of CARTO](https://github.com/aslafy-z/plein/pull/297) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
 - [Route map: show a loading pill while the route or its stations load](https://github.com/aslafy-z/plein/pull/296) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
 - [Name the sources a running place search is still waiting for](https://github.com/aslafy-z/plein/pull/295) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
@@ -58,9 +61,6 @@ and more...
 - [Rebuild the README screenshots and add the route on the map](https://github.com/aslafy-z/plein/pull/293) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
 - [Route: « Start the trip » CTA on the bottom edge, stations on the line in km order](https://github.com/aslafy-z/plein/pull/292) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
 - [Use em dashes sparingly in the app&#39;s copy](https://github.com/aslafy-z/plein/pull/291) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
-- [Draw card and sheet header actions as one ActionPill](https://github.com/aslafy-z/plein/pull/290) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
-- [Make the route header&#39;s Share and Edit full touch targets](https://github.com/aslafy-z/plein/pull/289) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
-- [Add a « Tank on arrival » floor to the route plan](https://github.com/aslafy-z/plein/pull/288) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
