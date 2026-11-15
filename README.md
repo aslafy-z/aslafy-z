@@ -35,9 +35,9 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (2 days ago)
-- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (2 days ago)
-- [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies, TV, music and books. One Go binary replaces Radarr, Sonarr, Lidarr, Readarr and Seerr: web UI, REST API, requests, SSO, a built-in BitTorrent client, a Subsonic server for music and an OPDS catalog for books. (6 days ago)
+- [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (3 days ago)
+- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (3 days ago)
+- [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies, TV, music and books. One Go binary replaces Radarr, Sonarr, Lidarr, Readarr and Seerr: web UI, REST API, requests, SSO, a built-in BitTorrent client, a Subsonic server for music and an OPDS catalog for books. (1 week ago)
 - [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) - CloudStream plugins for French replay TV. (1 week ago)
 - [recloudstream/cs-repos](https://github.com/recloudstream/cs-repos) - Cloudstream plugin repositories (2 weeks ago)
 - [scaleway/packer-plugin-scaleway](https://github.com/scaleway/packer-plugin-scaleway) - Packer plugin for Scaleway Builder (2 weeks ago)
@@ -51,16 +51,16 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [fix(bittorrent): smooth speed and ETA like qBittorrent](https://github.com/DataHearth/streamline/pull/279) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
-- [fix(tvdb): ask for a season&#39;s translated name only when TVDB lists one](https://github.com/DataHearth/streamline/pull/278) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
-- [fix(bittorrent): close connections to seeders once every wanted file is held](https://github.com/DataHearth/streamline/pull/277) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
-- [fix(bittorrent): keep private torrents off the DHT after a listen port move](https://github.com/DataHearth/streamline/pull/276) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
-- [fix(web): stop closed detail sheets from swallowing the phone&#39;s Back](https://github.com/DataHearth/streamline/pull/275) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
-- [refactor(web): share the day arithmetic through lib/dates](https://github.com/DataHearth/streamline/pull/274) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
-- [fix(web): air dates on wanted episodes and short dates without their year](https://github.com/DataHearth/streamline/pull/273) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
-- [fix(web): show each torrent file&#39;s progress on a phone, and 100% only when complete](https://github.com/DataHearth/streamline/pull/272) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
-- [Offer a route to the searched place from the zone card](https://github.com/aslafy-z/plein/pull/298) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Draw the basemap from VersaTiles vector tiles instead of CARTO](https://github.com/aslafy-z/plein/pull/297) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
+- [fix(bittorrent): smooth speed and ETA like qBittorrent](https://github.com/DataHearth/streamline/pull/279) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
+- [fix(tvdb): ask for a season&#39;s translated name only when TVDB lists one](https://github.com/DataHearth/streamline/pull/278) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
+- [fix(bittorrent): close connections to seeders once every wanted file is held](https://github.com/DataHearth/streamline/pull/277) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
+- [fix(bittorrent): keep private torrents off the DHT after a listen port move](https://github.com/DataHearth/streamline/pull/276) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
+- [fix(web): stop closed detail sheets from swallowing the phone&#39;s Back](https://github.com/DataHearth/streamline/pull/275) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
+- [refactor(web): share the day arithmetic through lib/dates](https://github.com/DataHearth/streamline/pull/274) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
+- [fix(web): air dates on wanted episodes and short dates without their year](https://github.com/DataHearth/streamline/pull/273) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
+- [fix(web): show each torrent file&#39;s progress on a phone, and 100% only when complete](https://github.com/DataHearth/streamline/pull/272) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
+- [Offer a route to the searched place from the zone card](https://github.com/aslafy-z/plein/pull/298) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
+- [Draw the basemap from VersaTiles vector tiles instead of CARTO](https://github.com/aslafy-z/plein/pull/297) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (3 days ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
