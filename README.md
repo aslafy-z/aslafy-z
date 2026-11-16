@@ -35,14 +35,14 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies, TV, music and books. One Go binary replaces Radarr, Sonarr, Lidarr, Readarr and Seerr: web UI, REST API, requests, SSO, a built-in BitTorrent client, a Subsonic server for music and an OPDS catalog for books. (today)
-- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (3 days ago)
-- [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (3 days ago)
+- [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies, TV, music and books. One Go binary replaces Radarr, Sonarr, Lidarr, Readarr and Seerr: web UI, REST API, requests, SSO, a built-in BitTorrent client, a Subsonic server for music and an OPDS catalog for books. (1 day ago)
+- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (4 days ago)
+- [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (4 days ago)
 - [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) - CloudStream plugins for French replay TV. (1 week ago)
-- [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media. (2 weeks ago)
 - [recloudstream/cs-repos](https://github.com/recloudstream/cs-repos) - Cloudstream plugin repositories (2 weeks ago)
+- [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media. (2 weeks ago)
 - [scaleway/packer-plugin-scaleway](https://github.com/scaleway/packer-plugin-scaleway) - Packer plugin for Scaleway Builder (2 weeks ago)
-- [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (3 weeks ago)
+- [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (4 weeks ago)
 - [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor is free software that can monitor the temperature sensors, fan speeds, voltages, load and clock speeds of your computer. (1 month ago)
 - [bndr/gojenkins](https://github.com/bndr/gojenkins) - Jenkins API Client in Go. Looking for maintainers to move this project forward. (1 month ago)
 
@@ -51,16 +51,16 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [fix(bittorrent): smooth speed and ETA like qBittorrent](https://github.com/DataHearth/streamline/pull/279) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
-- [fix(tvdb): ask for a season&#39;s translated name only when TVDB lists one](https://github.com/DataHearth/streamline/pull/278) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
-- [fix(bittorrent): close connections to seeders once every wanted file is held](https://github.com/DataHearth/streamline/pull/277) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
-- [fix(bittorrent): keep private torrents off the DHT after a listen port move](https://github.com/DataHearth/streamline/pull/276) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
-- [fix(web): stop closed detail sheets from swallowing the phone&#39;s Back](https://github.com/DataHearth/streamline/pull/275) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
-- [refactor(web): share the day arithmetic through lib/dates](https://github.com/DataHearth/streamline/pull/274) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
-- [fix(web): air dates on wanted episodes and short dates without their year](https://github.com/DataHearth/streamline/pull/273) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
-- [fix(web): show each torrent file&#39;s progress on a phone, and 100% only when complete](https://github.com/DataHearth/streamline/pull/272) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
-- [Offer a route to the searched place from the zone card](https://github.com/aslafy-z/plein/pull/298) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
-- [Draw the basemap from VersaTiles vector tiles instead of CARTO](https://github.com/aslafy-z/plein/pull/297) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (3 days ago)
+- [fix(web): one edge on the in-app logo](https://github.com/DataHearth/streamline/pull/288) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [feat(web): centre the logo on its weight in every icon](https://github.com/DataHearth/streamline/pull/287) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [fix(indexer): never count a complete pack as covering a special](https://github.com/DataHearth/streamline/pull/286) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [fix(web): size the 404 card to the space below the top bar](https://github.com/DataHearth/streamline/pull/285) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [feat(web): generate every app icon from one logo SVG](https://github.com/DataHearth/streamline/pull/280) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [feat(bittorrent): smooth transfer speed and ETA](https://github.com/DataHearth/streamline/pull/279) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 days ago)
+- [fix(tvdb): ask for a season&#39;s translated name only when TVDB lists one](https://github.com/DataHearth/streamline/pull/278) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 days ago)
+- [fix(bittorrent): close connections to seeders once every wanted file is held](https://github.com/DataHearth/streamline/pull/277) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 days ago)
+- [fix(bittorrent): keep private torrents off the DHT after a listen port move](https://github.com/DataHearth/streamline/pull/276) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 days ago)
+- [fix(web): stop closed detail sheets from swallowing the phone&#39;s Back](https://github.com/DataHearth/streamline/pull/275) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 days ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
