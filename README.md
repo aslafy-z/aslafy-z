@@ -35,7 +35,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies, TV, music and books. One Go binary replaces Radarr, Sonarr, Lidarr, Readarr and Seerr: web UI, REST API, requests, SSO, a built-in BitTorrent client, a Subsonic server for music and an OPDS catalog for books. (1 day ago)
+- [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies, TV, music and books. One Go binary replaces Radarr, Sonarr, Lidarr, Readarr and Seerr: web UI, REST API, requests, SSO, a built-in BitTorrent client, a Subsonic server for music and an OPDS catalog for books. (today)
 - [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (4 days ago)
 - [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (4 days ago)
 - [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) - CloudStream plugins for French replay TV. (1 week ago)
@@ -51,16 +51,16 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [test(bittorrent): wait for verified pieces before the restart check](https://github.com/DataHearth/streamline/pull/301) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [feat(movies): show the TMDB title logo on the detail hero](https://github.com/DataHearth/streamline/pull/300) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [fix(web): keep the open season across Back on a series page](https://github.com/DataHearth/streamline/pull/298) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [feat(web): centre the logo on its weight in every icon](https://github.com/DataHearth/streamline/pull/297) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
 - [fix(web): one edge on the in-app logo](https://github.com/DataHearth/streamline/pull/288) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
 - [feat(web): centre the logo on its weight in every icon](https://github.com/DataHearth/streamline/pull/287) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
 - [fix(indexer): never count a complete pack as covering a special](https://github.com/DataHearth/streamline/pull/286) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
 - [fix(web): size the 404 card to the space below the top bar](https://github.com/DataHearth/streamline/pull/285) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
 - [feat(web): generate every app icon from one logo SVG](https://github.com/DataHearth/streamline/pull/280) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
 - [feat(bittorrent): smooth transfer speed and ETA](https://github.com/DataHearth/streamline/pull/279) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 days ago)
-- [fix(tvdb): ask for a season&#39;s translated name only when TVDB lists one](https://github.com/DataHearth/streamline/pull/278) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 days ago)
-- [fix(bittorrent): close connections to seeders once every wanted file is held](https://github.com/DataHearth/streamline/pull/277) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 days ago)
-- [fix(bittorrent): keep private torrents off the DHT after a listen port move](https://github.com/DataHearth/streamline/pull/276) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 days ago)
-- [fix(web): stop closed detail sheets from swallowing the phone&#39;s Back](https://github.com/DataHearth/streamline/pull/275) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 days ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
