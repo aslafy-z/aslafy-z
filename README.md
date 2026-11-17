@@ -35,9 +35,9 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies, TV, music and books. One Go binary replaces Radarr, Sonarr, Lidarr, Readarr and Seerr: web UI, REST API, requests, SSO, a built-in BitTorrent client, a Subsonic server for music and an OPDS catalog for books. (today)
-- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (4 days ago)
-- [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (4 days ago)
+- [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies, TV, music and books. One Go binary replaces Radarr, Sonarr, Lidarr, Readarr and Seerr: web UI, REST API, requests, SSO, a built-in BitTorrent client, and WebAssembly extensions for the Streamline Player, Subsonic and OPDS. (today)
+- [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (5 days ago)
+- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (5 days ago)
 - [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) - CloudStream plugins for French replay TV. (1 week ago)
 - [recloudstream/cs-repos](https://github.com/recloudstream/cs-repos) - Cloudstream plugin repositories (2 weeks ago)
 - [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media. (2 weeks ago)
@@ -51,16 +51,16 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [test(bittorrent): wait for verified pieces before the restart check](https://github.com/DataHearth/streamline/pull/301) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
-- [feat(movies): show the TMDB title logo on the detail hero](https://github.com/DataHearth/streamline/pull/300) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
-- [fix(web): keep the open season across Back on a series page](https://github.com/DataHearth/streamline/pull/298) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
-- [feat(web): centre the logo on its weight in every icon](https://github.com/DataHearth/streamline/pull/297) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
-- [fix(web): one edge on the in-app logo](https://github.com/DataHearth/streamline/pull/288) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
-- [feat(web): centre the logo on its weight in every icon](https://github.com/DataHearth/streamline/pull/287) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
-- [fix(indexer): never count a complete pack as covering a special](https://github.com/DataHearth/streamline/pull/286) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
-- [fix(web): size the 404 card to the space below the top bar](https://github.com/DataHearth/streamline/pull/285) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
-- [feat(web): generate every app icon from one logo SVG](https://github.com/DataHearth/streamline/pull/280) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
-- [feat(bittorrent): smooth transfer speed and ETA](https://github.com/DataHearth/streamline/pull/279) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 days ago)
+- [fix(web): reset the sort from the torrents and transcoding filter sheet](https://github.com/DataHearth/streamline/pull/307) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [fix(bittorrent): measure each peer&#39;s rates on demand](https://github.com/DataHearth/streamline/pull/306) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
+- [build(images): pull linuxserver images from ghcr.io](https://github.com/DataHearth/streamline/pull/304) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
+- [test(bittorrent): wait for verified pieces before the restart check](https://github.com/DataHearth/streamline/pull/301) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
+- [feat(movies): show the TMDB title logo on the detail hero](https://github.com/DataHearth/streamline/pull/300) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
+- [fix(web): keep the open season across Back on a series page](https://github.com/DataHearth/streamline/pull/298) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
+- [feat(web): centre the logo on its weight in every icon](https://github.com/DataHearth/streamline/pull/297) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
+- [fix(web): one edge on the in-app logo](https://github.com/DataHearth/streamline/pull/288) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
+- [feat(web): centre the logo on its weight in every icon](https://github.com/DataHearth/streamline/pull/287) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
+- [fix(indexer): never count a complete pack as covering a special](https://github.com/DataHearth/streamline/pull/286) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
@@ -70,8 +70,8 @@ and more...
 - [lukashankeln/glint](https://github.com/lukashankeln/glint) - lint ArgoCD Applications, FluxCD HelmReleases and plain Resources using custom CEL Policies (1 week ago)
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime. (2 weeks ago)
 - [Fluepke/emudrahahahahaha](https://github.com/Fluepke/emudrahahahahaha) - Private Keys (3 weeks ago)
-- [argoproj-labs/argocd-agent](https://github.com/argoproj-labs/argocd-agent) - Redefining the multi cluster story of Argo CD (3 weeks ago)
-- [rayfish/rayfish](https://github.com/rayfish/rayfish) - Peer-to-peer mesh VPN over iroh. Connect computers, phones, and servers without an account or control server. (3 weeks ago)
+- [argoproj-labs/argocd-agent](https://github.com/argoproj-labs/argocd-agent) - Redefining the multi cluster story of Argo CD (4 weeks ago)
+- [rayfish/rayfish](https://github.com/rayfish/rayfish) - Peer-to-peer mesh VPN over iroh. Connect computers, phones, and servers without an account or control server. (4 weeks ago)
 - [GrowlyX/tailmux](https://github.com/GrowlyX/tailmux) - Stay on multiple Tailscale tailnets at once! (1 month ago)
 - [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela) - Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data, with Google lookups by choice. Runs on degoogled phones and can avoid Flock cameras (1 month ago)
 - [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit) - BookOrbit: Your Reading Space (1 month ago)
