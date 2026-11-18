@@ -35,13 +35,13 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
+- [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (today)
 - [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies, TV, music and books. One Go binary replaces Radarr, Sonarr, Lidarr, Readarr and Seerr: web UI, REST API, requests, SSO, a built-in BitTorrent client, and WebAssembly extensions for the Streamline Player, Subsonic and OPDS. (today)
 - [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (6 days ago)
-- [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (6 days ago)
 - [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) - CloudStream plugins for French replay TV. (1 week ago)
-- [scaleway/packer-plugin-scaleway](https://github.com/scaleway/packer-plugin-scaleway) - Packer plugin for Scaleway Builder (3 weeks ago)
 - [recloudstream/cs-repos](https://github.com/recloudstream/cs-repos) - Cloudstream plugin repositories (3 weeks ago)
 - [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media. (3 weeks ago)
+- [scaleway/packer-plugin-scaleway](https://github.com/scaleway/packer-plugin-scaleway) - Packer plugin for Scaleway Builder (3 weeks ago)
 - [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (1 month ago)
 - [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor is free software that can monitor the temperature sensors, fan speeds, voltages, load and clock speeds of your computer. (1 month ago)
 - [bndr/gojenkins](https://github.com/bndr/gojenkins) - Jenkins API Client in Go. Looking for maintainers to move this project forward. (1 month ago)
@@ -51,16 +51,15 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [Draw the vector basemap from OpenFreeMap&#39;s Positron and Dark Matter styles (alternative to #297)](https://github.com/aslafy-z/plein/pull/303) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Make the URL the home of the debug flag](https://github.com/aslafy-z/plein/pull/302) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Start the trip: let the maps app locate the user when the departure is « My position »](https://github.com/aslafy-z/plein/pull/301) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Go there: route Google Maps to the point of a station sitting on its OSM forecourt](https://github.com/aslafy-z/plein/pull/300) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Link gouv stations to their OSM forecourt when the flux puts them too far off](https://github.com/aslafy-z/plein/pull/299) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
+- [Fix remote Pause key on LG and Samsung TVs](https://github.com/jellyfin/jellyfin-web/pull/8859) on [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web) (today)
+- [fix(books): land the jump to editions below the tab strip](https://github.com/DataHearth/streamline/pull/317) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
 - [fix(web): label upcoming rows by calendar day, and say &#34;tomorrow&#34;](https://github.com/DataHearth/streamline/pull/314) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
 - [feat(web): show a poster&#39;s full title on hover and focus](https://github.com/DataHearth/streamline/pull/313) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
-- [feat(web): show the full titles in More like this](https://github.com/DataHearth/streamline/pull/312) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
-- [fix(posters): serve each poster at about twice its slot&#39;s size](https://github.com/DataHearth/streamline/pull/311) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
-- [fix(web): draw the selected release&#39;s outline inside its row](https://github.com/DataHearth/streamline/pull/310) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
-- [fix(web): open the torrent drawer when clicking a torrent&#39;s name](https://github.com/DataHearth/streamline/pull/309) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
-- [fix(i18n): translate the extension permission lines for library data](https://github.com/DataHearth/streamline/pull/308) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
-- [fix(web): reset the sort from the torrents and transcoding filter sheet](https://github.com/DataHearth/streamline/pull/307) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
-- [fix(bittorrent): measure each peer&#39;s rates on demand](https://github.com/DataHearth/streamline/pull/306) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 days ago)
-- [build(images): pull linuxserver images from ghcr.io](https://github.com/DataHearth/streamline/pull/304) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 days ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
