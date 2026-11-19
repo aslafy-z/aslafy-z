@@ -51,6 +51,7 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [fix(engine): a transcode from the start writes no audio below zero](https://github.com/Streamline-HQ/streamline-player/pull/4) on [Streamline-HQ/streamline-player](https://github.com/Streamline-HQ/streamline-player) (today)
 - [docs(backend): study a cached-data backend with client fallback](https://github.com/aslafy-z/plein/pull/312) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
 - [test(e2e): deflake map-area-union by dragging to the next area in one jump](https://github.com/aslafy-z/plein/pull/310) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
 - [docs(readme): trim features, refresh screenshots](https://github.com/aslafy-z/plein/pull/309) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
@@ -59,13 +60,13 @@ and more...
 - [Go there: start the OpenStreetMap route from the fix of this visit](https://github.com/aslafy-z/plein/pull/305) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
 - [Draw the vector basemap from OpenFreeMap&#39;s Positron and Dark Matter styles (alternative to #297)](https://github.com/aslafy-z/plein/pull/303) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
 - [Make the URL the home of the debug flag](https://github.com/aslafy-z/plein/pull/302) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
-- [Start the trip: let the maps app locate the user when the departure is « My position »](https://github.com/aslafy-z/plein/pull/301) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
 ## ⭐ Recent Stars
 
 
+- [labstack/pitot](https://github.com/labstack/pitot) - Single-binary observability platform. Ingest OTLP, store as Parquet, query with DuckDB. (today)
 - [lukashankeln/glint](https://github.com/lukashankeln/glint) - lint ArgoCD Applications, FluxCD HelmReleases and plain Resources using custom CEL Policies (2 weeks ago)
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime. (2 weeks ago)
 - [Fluepke/emudrahahahahaha](https://github.com/Fluepke/emudrahahahahaha) - Private Keys (4 weeks ago)
@@ -75,7 +76,6 @@ and more...
 - [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela) - Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data, with Google lookups by choice. Runs on degoogled phones and can avoid Flock cameras (1 month ago)
 - [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit) - BookOrbit: Your Reading Space (1 month ago)
 - [AndrewGuenther/fck-nat](https://github.com/AndrewGuenther/fck-nat) - Feasible cost konfigurable NAT: An AWS NAT Instance AMI (1 month ago)
-- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (1 month ago)
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
