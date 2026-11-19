@@ -35,10 +35,10 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (today)
-- [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies, TV, music and books. One Go binary replaces Radarr, Sonarr, Lidarr, Readarr and Seerr: web UI, REST API, requests, SSO, a built-in BitTorrent client, and WebAssembly extensions for the Streamline Player, Subsonic and OPDS. (today)
-- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (6 days ago)
-- [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) - CloudStream plugins for French replay TV. (1 week ago)
+- [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (1 day ago)
+- [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies, TV, music and books. One Go binary replaces Radarr, Sonarr, Lidarr, Readarr and Seerr: web UI, REST API, requests, SSO, a built-in BitTorrent client, and WebAssembly extensions for the Streamline Player, Subsonic and OPDS. (1 day ago)
+- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (1 week ago)
+- [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) - CloudStream plugins for French replay TV. (2 weeks ago)
 - [recloudstream/cs-repos](https://github.com/recloudstream/cs-repos) - Cloudstream plugin repositories (3 weeks ago)
 - [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media. (3 weeks ago)
 - [scaleway/packer-plugin-scaleway](https://github.com/scaleway/packer-plugin-scaleway) - Packer plugin for Scaleway Builder (3 weeks ago)
@@ -51,15 +51,15 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [Draw the vector basemap from OpenFreeMap&#39;s Positron and Dark Matter styles (alternative to #297)](https://github.com/aslafy-z/plein/pull/303) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Make the URL the home of the debug flag](https://github.com/aslafy-z/plein/pull/302) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Start the trip: let the maps app locate the user when the departure is « My position »](https://github.com/aslafy-z/plein/pull/301) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Go there: route Google Maps to the point of a station sitting on its OSM forecourt](https://github.com/aslafy-z/plein/pull/300) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Link gouv stations to their OSM forecourt when the flux puts them too far off](https://github.com/aslafy-z/plein/pull/299) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (today)
-- [Fix remote Pause key on LG and Samsung TVs](https://github.com/jellyfin/jellyfin-web/pull/8859) on [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web) (today)
-- [fix(books): land the jump to editions below the tab strip](https://github.com/DataHearth/streamline/pull/317) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
-- [fix(web): label upcoming rows by calendar day, and say &#34;tomorrow&#34;](https://github.com/DataHearth/streamline/pull/314) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
-- [feat(web): show a poster&#39;s full title on hover and focus](https://github.com/DataHearth/streamline/pull/313) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
+- [docs(backend): study a cached-data backend with client fallback](https://github.com/aslafy-z/plein/pull/312) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
+- [test(e2e): deflake map-area-union by dragging to the next area in one jump](https://github.com/aslafy-z/plein/pull/310) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
+- [docs(readme): trim features, refresh screenshots](https://github.com/aslafy-z/plein/pull/309) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
+- [Keep the pins of the areas painted earlier when the next one lands](https://github.com/aslafy-z/plein/pull/308) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
+- [Bump maplibre-gl to 6.19, with its worker loaded from a bundled asset](https://github.com/aslafy-z/plein/pull/307) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
+- [Go there: start the OpenStreetMap route from the fix of this visit](https://github.com/aslafy-z/plein/pull/305) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
+- [Draw the vector basemap from OpenFreeMap&#39;s Positron and Dark Matter styles (alternative to #297)](https://github.com/aslafy-z/plein/pull/303) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
+- [Make the URL the home of the debug flag](https://github.com/aslafy-z/plein/pull/302) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
+- [Start the trip: let the maps app locate the user when the departure is « My position »](https://github.com/aslafy-z/plein/pull/301) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
@@ -69,8 +69,8 @@ and more...
 - [lukashankeln/glint](https://github.com/lukashankeln/glint) - lint ArgoCD Applications, FluxCD HelmReleases and plain Resources using custom CEL Policies (2 weeks ago)
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime. (2 weeks ago)
 - [Fluepke/emudrahahahahaha](https://github.com/Fluepke/emudrahahahahaha) - Private Keys (4 weeks ago)
-- [argoproj-labs/argocd-agent](https://github.com/argoproj-labs/argocd-agent) - Redefining the multi cluster story of Argo CD (4 weeks ago)
-- [rayfish/rayfish](https://github.com/rayfish/rayfish) - Peer-to-peer mesh VPN over iroh. Connect computers, phones, and servers without an account or control server. (4 weeks ago)
+- [argoproj-labs/argocd-agent](https://github.com/argoproj-labs/argocd-agent) - Redefining the multi cluster story of Argo CD (1 month ago)
+- [rayfish/rayfish](https://github.com/rayfish/rayfish) - Peer-to-peer mesh VPN over iroh. Connect computers, phones, and servers without an account or control server. (1 month ago)
 - [GrowlyX/tailmux](https://github.com/GrowlyX/tailmux) - Stay on multiple Tailscale tailnets at once! (1 month ago)
 - [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela) - Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data, with Google lookups by choice. Runs on degoogled phones and can avoid Flock cameras (1 month ago)
 - [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit) - BookOrbit: Your Reading Space (1 month ago)
