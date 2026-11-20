@@ -35,8 +35,8 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (1 day ago)
 - [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies, TV, music and books. One Go binary replaces Radarr, Sonarr, Lidarr, Readarr and Seerr: web UI, REST API, requests, SSO, a built-in BitTorrent client, and WebAssembly extensions for the Streamline Player, Subsonic and OPDS. (1 day ago)
+- [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (2 days ago)
 - [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (1 week ago)
 - [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) - CloudStream plugins for French replay TV. (2 weeks ago)
 - [recloudstream/cs-repos](https://github.com/recloudstream/cs-repos) - Cloudstream plugin repositories (3 weeks ago)
@@ -51,25 +51,24 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [fix(engine): a transcode from the start writes no audio below zero](https://github.com/Streamline-HQ/streamline-player/pull/4) on [Streamline-HQ/streamline-player](https://github.com/Streamline-HQ/streamline-player) (today)
-- [docs(backend): study a cached-data backend with client fallback](https://github.com/aslafy-z/plein/pull/312) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
-- [test(e2e): deflake map-area-union by dragging to the next area in one jump](https://github.com/aslafy-z/plein/pull/310) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
-- [docs(readme): trim features, refresh screenshots](https://github.com/aslafy-z/plein/pull/309) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
-- [Keep the pins of the areas painted earlier when the next one lands](https://github.com/aslafy-z/plein/pull/308) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
-- [Bump maplibre-gl to 6.19, with its worker loaded from a bundled asset](https://github.com/aslafy-z/plein/pull/307) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
-- [Go there: start the OpenStreetMap route from the fix of this visit](https://github.com/aslafy-z/plein/pull/305) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
-- [Draw the vector basemap from OpenFreeMap&#39;s Positron and Dark Matter styles (alternative to #297)](https://github.com/aslafy-z/plein/pull/303) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
-- [Make the URL the home of the debug flag](https://github.com/aslafy-z/plein/pull/302) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (1 day ago)
+- [build: add standard OCI labels and annotations to image](https://github.com/aslafy-z/kro/pull/1) on [aslafy-z/kro](https://github.com/aslafy-z/kro) (1 day ago)
+- [build(ci-container): add standard oci labels and annotations](https://github.com/aslafy-z/kube-router/pull/1) on [aslafy-z/kube-router](https://github.com/aslafy-z/kube-router) (1 day ago)
+- [docs(backend): study a cached-data backend with client fallback](https://github.com/aslafy-z/plein/pull/312) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
+- [test(e2e): deflake map-area-union by dragging to the next area in one jump](https://github.com/aslafy-z/plein/pull/310) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
+- [docs(readme): trim features, refresh screenshots](https://github.com/aslafy-z/plein/pull/309) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
+- [Keep the pins of the areas painted earlier when the next one lands](https://github.com/aslafy-z/plein/pull/308) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
+- [Bump maplibre-gl to 6.19, with its worker loaded from a bundled asset](https://github.com/aslafy-z/plein/pull/307) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
+- [Go there: start the OpenStreetMap route from the fix of this visit](https://github.com/aslafy-z/plein/pull/305) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
 ## ⭐ Recent Stars
 
 
-- [labstack/pitot](https://github.com/labstack/pitot) - Single-binary observability platform. Ingest OTLP, store as Parquet, query with DuckDB. (today)
+- [labstack/pitot](https://github.com/labstack/pitot) - Single-binary observability platform. Ingest OTLP, store as Parquet, query with DuckDB. (1 day ago)
 - [lukashankeln/glint](https://github.com/lukashankeln/glint) - lint ArgoCD Applications, FluxCD HelmReleases and plain Resources using custom CEL Policies (2 weeks ago)
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime. (2 weeks ago)
-- [Fluepke/emudrahahahahaha](https://github.com/Fluepke/emudrahahahahaha) - Private Keys (4 weeks ago)
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime. (3 weeks ago)
+- [Fluepke/emudrahahahahaha](https://github.com/Fluepke/emudrahahahahaha) - Private Keys (1 month ago)
 - [argoproj-labs/argocd-agent](https://github.com/argoproj-labs/argocd-agent) - Redefining the multi cluster story of Argo CD (1 month ago)
 - [rayfish/rayfish](https://github.com/rayfish/rayfish) - Peer-to-peer mesh VPN over iroh. Connect computers, phones, and servers without an account or control server. (1 month ago)
 - [GrowlyX/tailmux](https://github.com/GrowlyX/tailmux) - Stay on multiple Tailscale tailnets at once! (1 month ago)
