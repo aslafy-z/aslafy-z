@@ -35,8 +35,8 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 and more...
 
 
-- [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies, TV, music and books. One Go binary replaces Radarr, Sonarr, Lidarr, Readarr and Seerr: web UI, REST API, requests, SSO, a built-in BitTorrent client, and WebAssembly extensions for the Streamline Player, Subsonic and OPDS. (1 day ago)
-- [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (2 days ago)
+- [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies, TV, music and books. One Go binary replaces Radarr, Sonarr, Lidarr, Readarr and Seerr: web UI, REST API, requests, SSO, a built-in BitTorrent client, and WebAssembly extensions for the Streamline Player, Subsonic and OPDS. (2 days ago)
+- [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (3 days ago)
 - [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (1 week ago)
 - [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) - CloudStream plugins for French replay TV. (2 weeks ago)
 - [recloudstream/cs-repos](https://github.com/recloudstream/cs-repos) - Cloudstream plugin repositories (3 weeks ago)
@@ -51,21 +51,21 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
-- [build: add standard OCI labels and annotations to image](https://github.com/aslafy-z/kro/pull/1) on [aslafy-z/kro](https://github.com/aslafy-z/kro) (1 day ago)
-- [build(ci-container): add standard oci labels and annotations](https://github.com/aslafy-z/kube-router/pull/1) on [aslafy-z/kube-router](https://github.com/aslafy-z/kube-router) (1 day ago)
-- [docs(backend): study a cached-data backend with client fallback](https://github.com/aslafy-z/plein/pull/312) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
-- [test(e2e): deflake map-area-union by dragging to the next area in one jump](https://github.com/aslafy-z/plein/pull/310) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
-- [docs(readme): trim features, refresh screenshots](https://github.com/aslafy-z/plein/pull/309) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
-- [Keep the pins of the areas painted earlier when the next one lands](https://github.com/aslafy-z/plein/pull/308) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
-- [Bump maplibre-gl to 6.19, with its worker loaded from a bundled asset](https://github.com/aslafy-z/plein/pull/307) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
-- [Go there: start the OpenStreetMap route from the fix of this visit](https://github.com/aslafy-z/plein/pull/305) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (2 days ago)
+- [build: add standard OCI labels and annotations to image](https://github.com/aslafy-z/kro/pull/1) on [aslafy-z/kro](https://github.com/aslafy-z/kro) (2 days ago)
+- [build(ci-container): add standard oci labels and annotations](https://github.com/aslafy-z/kube-router/pull/1) on [aslafy-z/kube-router](https://github.com/aslafy-z/kube-router) (2 days ago)
+- [docs(backend): study a cached-data backend with client fallback](https://github.com/aslafy-z/plein/pull/312) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (3 days ago)
+- [test(e2e): deflake map-area-union by dragging to the next area in one jump](https://github.com/aslafy-z/plein/pull/310) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (3 days ago)
+- [docs(readme): trim features, refresh screenshots](https://github.com/aslafy-z/plein/pull/309) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (3 days ago)
+- [Keep the pins of the areas painted earlier when the next one lands](https://github.com/aslafy-z/plein/pull/308) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (3 days ago)
+- [Bump maplibre-gl to 6.19, with its worker loaded from a bundled asset](https://github.com/aslafy-z/plein/pull/307) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (3 days ago)
+- [Go there: start the OpenStreetMap route from the fix of this visit](https://github.com/aslafy-z/plein/pull/305) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (3 days ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
 ## ⭐ Recent Stars
 
 
-- [labstack/pitot](https://github.com/labstack/pitot) - Single-binary observability platform. Ingest OTLP, store as Parquet, query with DuckDB. (1 day ago)
+- [labstack/pitot](https://github.com/labstack/pitot) - Single-binary observability platform. Ingest OTLP, store as Parquet, query with DuckDB. (2 days ago)
 - [lukashankeln/glint](https://github.com/lukashankeln/glint) - lint ArgoCD Applications, FluxCD HelmReleases and plain Resources using custom CEL Policies (2 weeks ago)
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime. (3 weeks ago)
 - [Fluepke/emudrahahahahaha](https://github.com/Fluepke/emudrahahahahaha) - Private Keys (1 month ago)
