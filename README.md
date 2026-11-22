@@ -51,14 +51,14 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [fix(library): read specials as specials, not packs or title text](https://github.com/DataHearth/streamline/pull/322) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [feat(indexer): find a special by its title](https://github.com/DataHearth/streamline/pull/321) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [fix(library): read a season range that opens at S00](https://github.com/DataHearth/streamline/pull/320) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [fix(library): leave specials out of a complete pack&#39;s size](https://github.com/DataHearth/streamline/pull/319) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
 - [build: add standard OCI labels and annotations to image](https://github.com/aslafy-z/kro/pull/1) on [aslafy-z/kro](https://github.com/aslafy-z/kro) (3 days ago)
 - [build(ci-container): add standard oci labels and annotations](https://github.com/aslafy-z/kube-router/pull/1) on [aslafy-z/kube-router](https://github.com/aslafy-z/kube-router) (3 days ago)
 - [docs(backend): study a cached-data backend with client fallback](https://github.com/aslafy-z/plein/pull/312) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (4 days ago)
 - [test(e2e): deflake map-area-union by dragging to the next area in one jump](https://github.com/aslafy-z/plein/pull/310) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (4 days ago)
-- [docs(readme): trim features, refresh screenshots](https://github.com/aslafy-z/plein/pull/309) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (4 days ago)
-- [Keep the pins of the areas painted earlier when the next one lands](https://github.com/aslafy-z/plein/pull/308) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (4 days ago)
-- [Bump maplibre-gl to 6.19, with its worker loaded from a bundled asset](https://github.com/aslafy-z/plein/pull/307) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (4 days ago)
-- [Go there: start the OpenStreetMap route from the fix of this visit](https://github.com/aslafy-z/plein/pull/305) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (4 days ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
