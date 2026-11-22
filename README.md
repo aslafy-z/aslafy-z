@@ -39,8 +39,8 @@ and more...
 - [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (4 days ago)
 - [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (1 week ago)
 - [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) - CloudStream plugins for French replay TV. (2 weeks ago)
-- [recloudstream/cs-repos](https://github.com/recloudstream/cs-repos) - Cloudstream plugin repositories (3 weeks ago)
 - [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media. (3 weeks ago)
+- [recloudstream/cs-repos](https://github.com/recloudstream/cs-repos) - Cloudstream plugin repositories (3 weeks ago)
 - [scaleway/packer-plugin-scaleway](https://github.com/scaleway/packer-plugin-scaleway) - Packer plugin for Scaleway Builder (3 weeks ago)
 - [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (1 month ago)
 - [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor is free software that can monitor the temperature sensors, fan speeds, voltages, load and clock speeds of your computer. (1 month ago)
@@ -51,14 +51,16 @@ and more...
 ## 🔨 Recent Pull Requests
 
 
+- [feat(dev): run the TV app on the Android TV emulator without KVM](https://github.com/aslafy-z/streamline-playerfork/pull/2) on [aslafy-z/streamline-playerfork](https://github.com/aslafy-z/streamline-playerfork) (today)
+- [fix(phone): keep the page above the on-screen keyboard and hide the tabs while it is up](https://github.com/aslafy-z/streamline-playerfork/pull/1) on [aslafy-z/streamline-playerfork](https://github.com/aslafy-z/streamline-playerfork) (today)
+- [fix(web): keep the page above the on-screen keyboard](https://github.com/DataHearth/streamline/pull/324) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
+- [fix(web): keep the layout through a passing size on return to the page](https://github.com/DataHearth/streamline/pull/323) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
 - [fix(library): read specials as specials, not packs or title text](https://github.com/DataHearth/streamline/pull/322) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
 - [feat(indexer): find a special by its title](https://github.com/DataHearth/streamline/pull/321) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
 - [fix(library): read a season range that opens at S00](https://github.com/DataHearth/streamline/pull/320) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
 - [fix(library): leave specials out of a complete pack&#39;s size](https://github.com/DataHearth/streamline/pull/319) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (today)
 - [build: add standard OCI labels and annotations to image](https://github.com/aslafy-z/kro/pull/1) on [aslafy-z/kro](https://github.com/aslafy-z/kro) (3 days ago)
 - [build(ci-container): add standard oci labels and annotations](https://github.com/aslafy-z/kube-router/pull/1) on [aslafy-z/kube-router](https://github.com/aslafy-z/kube-router) (3 days ago)
-- [docs(backend): study a cached-data backend with client fallback](https://github.com/aslafy-z/plein/pull/312) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (4 days ago)
-- [test(e2e): deflake map-area-union by dragging to the next area in one jump](https://github.com/aslafy-z/plein/pull/310) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (4 days ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
