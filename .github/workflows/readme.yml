@@ -101,6 +101,5 @@ jobs:
         with:
           commit_message: Update generated README
           branch: main
-          commit_user_name: readme-scribe 🤖
-          commit_user_email: actions@github.com
-          commit_author: readme-scribe 🤖 <actions@github.com>
+          # The default author is whoever triggered the run.
+          commit_author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
