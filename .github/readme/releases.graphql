@@ -6,7 +6,7 @@ query ($login: String!, $author: ID!, $since: GitTimestamp!, $endCursor: String)
     repositoriesContributedTo(first: 3, after: $endCursor, includeUserRepositories: true, contributionTypes: [COMMIT, PULL_REQUEST], privacy: PUBLIC) {
       pageInfo { hasNextPage endCursor }
       nodes {
-        nameWithOwner url description isFork isPrivate owner { login }
+        nameWithOwner url isFork isPrivate owner { login }
         releases(first: 10, orderBy: {field: CREATED_AT, direction: DESC}) {
           totalCount
           nodes {

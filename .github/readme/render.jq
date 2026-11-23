@@ -34,7 +34,7 @@ def shipped:
    | map("- \(.node | link) - \(.node.description | text) (\(.starredAt | ago))") | lines) as $stars
 | ([$releases[0][].data.user.repositoriesContributedTo.nodes[] | select(listed and (own_fork | not))
     | . + {release: shipped} | select(.release)] | sort_by(.release.publishedAt) | reverse | .[:10]
-   | map("- \(link) ([\(.release.tagName | text)](\(.release.url)), \(.release.publishedAt | ago)) - \(.description | text)") | lines) as $shipped
+   | map("- \(link) ([\(.release.tagName | text)](\(.release.url)), \(.release.publishedAt | ago))") | lines) as $shipped
 | $template
 | split("@@PULL_REQUESTS@@") | join($prs)
 | split("@@CONTRIBUTIONS@@") | join($contributions)
