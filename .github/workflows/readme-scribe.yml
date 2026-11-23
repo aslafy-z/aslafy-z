@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  markscribe:
+  generate:
     runs-on: ubuntu-latest
 
     permissions:
@@ -17,12 +17,12 @@ jobs:
     steps:
       - uses: actions/checkout@v7
 
-      - uses: muesli/readme-scribe@d2f6ab32d6b9f5b59941fe782d6c7e6499a37fe4
+      - uses: jdx/mise-action@924e7c586e33d7d4bae9c14e26c5d22e2beb6e78 # v5.3.0
+
+      - name: Generate README
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
-        with:
-          template: README.md.tmpl
-          writeTo: README.md
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: mise run generate
 
       - uses: stefanzweifel/git-auto-commit-action@v7
         env:

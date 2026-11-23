@@ -1,0 +1,20 @@
+# PULL_REQUEST covers upstreams that are themselves forks: GitHub does not count
+# commits there as contributions.
+# Pages stay small: GitHub times out walking the history of many tags at once.
+query ($login: String!, $author: ID!, $since: GitTimestamp!, $endCursor: String) {
+  user(login: $login) {
+    repositoriesContributedTo(first: 3, after: $endCursor, includeUserRepositories: true, contributionTypes: [COMMIT, PULL_REQUEST], privacy: PUBLIC) {
+      pageInfo { hasNextPage endCursor }
+      nodes {
+        nameWithOwner url isFork isPrivate owner { login }
+        releases(first: 10, orderBy: {field: CREATED_AT, direction: DESC}) {
+          totalCount
+          nodes {
+            tagName url publishedAt isDraft isPrerelease
+            tagCommit { history(first: 1, author: {id: $author}, since: $since) { nodes { oid committedDate } } }
+          }
+        }
+      }
+    }
+  }
+}

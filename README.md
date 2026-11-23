@@ -34,38 +34,46 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 
 and more...
 
-
+- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (8 hours ago)
 - [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies, TV, music and books. One Go binary replaces Radarr, Sonarr, Lidarr, Readarr and Seerr: web UI, REST API, requests, SSO, a built-in BitTorrent client, and WebAssembly extensions for the Streamline Player, Subsonic and OPDS. (4 days ago)
 - [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (5 days ago)
-- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (1 week ago)
 - [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) - CloudStream plugins for French replay TV. (2 weeks ago)
-- [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media. (3 weeks ago)
 - [recloudstream/cs-repos](https://github.com/recloudstream/cs-repos) - Cloudstream plugin repositories (3 weeks ago)
+- [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media. (3 weeks ago)
 - [scaleway/packer-plugin-scaleway](https://github.com/scaleway/packer-plugin-scaleway) - Packer plugin for Scaleway Builder (3 weeks ago)
 - [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (1 month ago)
 - [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor is free software that can monitor the temperature sensors, fan speeds, voltages, load and clock speeds of your computer. (1 month ago)
 - [bndr/gojenkins](https://github.com/bndr/gojenkins) - Jenkins API Client in Go. Looking for maintainers to move this project forward. (1 month ago)
 
+## 🔭 Latest releases I've contributed to
 
+- [DataHearth/streamline](https://github.com/DataHearth/streamline) ([v4.0.0](https://github.com/DataHearth/streamline/releases/tag/v4.0.0), 15 hours ago)
+- [namecheap/terraform-provider-jenkins](https://github.com/namecheap/terraform-provider-jenkins) ([v1.5.0](https://github.com/namecheap/terraform-provider-jenkins/releases/tag/v1.5.0), 3 days ago)
+- [aslafy-z/plein](https://github.com/aslafy-z/plein) ([release-2026-11-18](https://github.com/aslafy-z/plein/releases/tag/release-2026-11-18), 4 days ago)
+- [anacrolix/torrent](https://github.com/anacrolix/torrent) ([v1.62.0](https://github.com/anacrolix/torrent/releases/tag/v1.62.0), 6 days ago)
+- [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) ([v4.9.0](https://github.com/recloudstream/cloudstream/releases/tag/v4.9.0), 2 weeks ago)
+- [stakater/application](https://github.com/stakater/application) ([v9.3.2](https://github.com/stakater/application/releases/tag/v9.3.2), 2 months ago)
+- [aslafy-z/hauth](https://github.com/aslafy-z/hauth) ([v0.1.15](https://github.com/aslafy-z/hauth/releases/tag/v0.1.15), 2 months ago)
+- [martabal/qbittorrent-exporter](https://github.com/martabal/qbittorrent-exporter) ([v2.0.2](https://github.com/martabal/qbittorrent-exporter/releases/tag/v2.0.2), 3 months ago)
+- [aslafy-z/k8s-dashboard-impersonation-proxy](https://github.com/aslafy-z/k8s-dashboard-impersonation-proxy) ([v0.5.0](https://github.com/aslafy-z/k8s-dashboard-impersonation-proxy/releases/tag/v0.5.0), 3 months ago)
+- [thomiceli/opengist](https://github.com/thomiceli/opengist) ([v1.15.0](https://github.com/thomiceli/opengist/releases/tag/v1.15.0), 3 months ago)
 
 ## 🔨 Recent Pull Requests
 
-
-- [feat(dev): run the TV app on the Android TV emulator without KVM](https://github.com/aslafy-z/streamline-playerfork/pull/2) on [aslafy-z/streamline-playerfork](https://github.com/aslafy-z/streamline-playerfork) (1 day ago)
-- [fix(phone): keep the page above the on-screen keyboard and hide the tabs while it is up](https://github.com/aslafy-z/streamline-playerfork/pull/1) on [aslafy-z/streamline-playerfork](https://github.com/aslafy-z/streamline-playerfork) (1 day ago)
+- [feat: add standard OCI labels and annotations to image](https://github.com/kubernetes-sigs/kro/pull/1538) on [kubernetes-sigs/kro](https://github.com/kubernetes-sigs/kro) (34 minutes ago)
+- [feat(ci): add OCI labels and annotations to container images](https://github.com/cloudnativelabs/kube-router/pull/2229) on [cloudnativelabs/kube-router](https://github.com/cloudnativelabs/kube-router) (56 minutes ago)
 - [fix(web): keep the page above the on-screen keyboard](https://github.com/DataHearth/streamline/pull/324) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
 - [fix(web): keep the layout through a passing size on return to the page](https://github.com/DataHearth/streamline/pull/323) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
 - [fix(library): read specials as specials, not packs or title text](https://github.com/DataHearth/streamline/pull/322) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
 - [feat(indexer): find a special by its title](https://github.com/DataHearth/streamline/pull/321) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
 - [fix(library): read a season range that opens at S00](https://github.com/DataHearth/streamline/pull/320) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
-- [fix(library): leave specials out of a complete pack&#39;s size](https://github.com/DataHearth/streamline/pull/319) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
-- [build: add standard OCI labels and annotations to image](https://github.com/aslafy-z/kro/pull/1) on [aslafy-z/kro](https://github.com/aslafy-z/kro) (4 days ago)
-- [build(ci-container): add standard oci labels and annotations](https://github.com/aslafy-z/kube-router/pull/1) on [aslafy-z/kube-router](https://github.com/aslafy-z/kube-router) (4 days ago)
+- [fix(library): leave specials out of a complete pack&apos;s size](https://github.com/DataHearth/streamline/pull/319) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
+- [docs(backend): study a cached-data backend with client fallback](https://github.com/aslafy-z/plein/pull/312) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (4 days ago)
+- [test(e2e): deflake map-area-union by dragging to the next area in one jump](https://github.com/aslafy-z/plein/pull/310) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (4 days ago)
 
-[View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
+[View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z+-user%3Aaslafy-z&type=pullrequests)
 
 ## ⭐ Recent Stars
-
 
 - [labstack/pitot](https://github.com/labstack/pitot) - Single-binary observability platform. Ingest OTLP, store as Parquet, query with DuckDB. (4 days ago)
 - [lukashankeln/glint](https://github.com/lukashankeln/glint) - lint ArgoCD Applications, FluxCD HelmReleases and plain Resources using custom CEL Policies (2 weeks ago)
