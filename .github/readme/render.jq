@@ -37,7 +37,7 @@ def shipped:
    | map("- \(link) ([\(.release.tagName | text)](\(.release.url)), \(.release.publishedAt | ago)) - \(.description | text)") | lines) as $shipped
 # GitHub search has no fork qualifier for pull requests, so each fork is named.
 | ([$forks[0][].data.search.nodes[].repository | select(.isFork) | "-repo:\(.nameWithOwner)"] | unique
-   | ["is:pr", "author:\($login)"] + . | join(" ") | @uri) as $search
+   | ["is:pr", "author:\($login)", "-repo:\($login)/\($login)"] + . | join(" ") | @uri) as $search
 | $template
 | split("@@PULL_REQUESTS@@") | join($prs)
 | split("@@PULL_REQUESTS_SEARCH@@") | join($search)

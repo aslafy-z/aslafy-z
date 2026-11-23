@@ -34,7 +34,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 
 and more...
 
-- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (7 hours ago)
+- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (8 hours ago)
 - [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies, TV, music and books. One Go binary replaces Radarr, Sonarr, Lidarr, Readarr and Seerr: web UI, REST API, requests, SSO, a built-in BitTorrent client, and WebAssembly extensions for the Streamline Player, Subsonic and OPDS. (4 days ago)
 - [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (5 days ago)
 - [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) - CloudStream plugins for French replay TV. (2 weeks ago)
@@ -60,8 +60,8 @@ and more...
 
 ## 🔨 Recent Pull Requests
 
-- [feat: add standard OCI labels and annotations to image](https://github.com/kubernetes-sigs/kro/pull/1538) on [kubernetes-sigs/kro](https://github.com/kubernetes-sigs/kro) (25 minutes ago)
-- [feat(ci): add OCI labels and annotations to container images](https://github.com/cloudnativelabs/kube-router/pull/2229) on [cloudnativelabs/kube-router](https://github.com/cloudnativelabs/kube-router) (47 minutes ago)
+- [feat: add standard OCI labels and annotations to image](https://github.com/kubernetes-sigs/kro/pull/1538) on [kubernetes-sigs/kro](https://github.com/kubernetes-sigs/kro) (28 minutes ago)
+- [feat(ci): add OCI labels and annotations to container images](https://github.com/cloudnativelabs/kube-router/pull/2229) on [cloudnativelabs/kube-router](https://github.com/cloudnativelabs/kube-router) (50 minutes ago)
 - [fix(web): keep the page above the on-screen keyboard](https://github.com/DataHearth/streamline/pull/324) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
 - [fix(web): keep the layout through a passing size on return to the page](https://github.com/DataHearth/streamline/pull/323) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
 - [fix(library): read specials as specials, not packs or title text](https://github.com/DataHearth/streamline/pull/322) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
@@ -71,7 +71,7 @@ and more...
 - [docs(backend): study a cached-data backend with client fallback](https://github.com/aslafy-z/plein/pull/312) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (4 days ago)
 - [test(e2e): deflake map-area-union by dragging to the next area in one jump](https://github.com/aslafy-z/plein/pull/310) on [aslafy-z/plein](https://github.com/aslafy-z/plein) (4 days ago)
 
-[View all pull requests →](https://github.com/search?q=is%3Apr%20author%3Aaslafy-z%20-repo%3Aaslafy-z%2FForecastleIcons%20-repo%3Aaslafy-z%2FLibreHardwareMonitor%20-repo%3Aaslafy-z%2Fanacrolix-torrent%20-repo%3Aaslafy-z%2Fcapsule%20-repo%3Aaslafy-z%2Fdocker-logio%20-repo%3Aaslafy-z%2Fgojenkins%20-repo%3Aaslafy-z%2Fgulp-webserver%20-repo%3Aaslafy-z%2Fhangremote%20-repo%3Aaslafy-z%2Fkro%20-repo%3Aaslafy-z%2Fkube-router%20-repo%3Aaslafy-z%2Fkyverno%20-repo%3Aaslafy-z%2Fnagplug%20-repo%3Aaslafy-z%2Fpacker-plugin-scaleway%20-repo%3Aaslafy-z%2Fpytest-ansible%20-repo%3Aaslafy-z%2Fquestdb-kubernetes%20-repo%3Aaslafy-z%2Fscaleway-cloud-controller-manager%20-repo%3Aaslafy-z%2Fsinker%20-repo%3Aaslafy-z%2Fstreamline-playerfork%20-repo%3Aaslafy-z%2Fstreamlinefork%20-repo%3Aaslafy-z%2Fswag-for-dev%20-repo%3Aaslafy-z%2Fterraform-provider-jenkins%20-repo%3Aaslafy-z%2Fturnstyle&type=pullrequests)
+[View all pull requests →](https://github.com/search?q=is%3Apr%20author%3Aaslafy-z%20-repo%3Aaslafy-z%2Faslafy-z%20-repo%3Aaslafy-z%2FForecastleIcons%20-repo%3Aaslafy-z%2FLibreHardwareMonitor%20-repo%3Aaslafy-z%2Fanacrolix-torrent%20-repo%3Aaslafy-z%2Fcapsule%20-repo%3Aaslafy-z%2Fdocker-logio%20-repo%3Aaslafy-z%2Fgojenkins%20-repo%3Aaslafy-z%2Fgulp-webserver%20-repo%3Aaslafy-z%2Fhangremote%20-repo%3Aaslafy-z%2Fkro%20-repo%3Aaslafy-z%2Fkube-router%20-repo%3Aaslafy-z%2Fkyverno%20-repo%3Aaslafy-z%2Fnagplug%20-repo%3Aaslafy-z%2Fpacker-plugin-scaleway%20-repo%3Aaslafy-z%2Fpytest-ansible%20-repo%3Aaslafy-z%2Fquestdb-kubernetes%20-repo%3Aaslafy-z%2Fscaleway-cloud-controller-manager%20-repo%3Aaslafy-z%2Fsinker%20-repo%3Aaslafy-z%2Fstreamline-playerfork%20-repo%3Aaslafy-z%2Fstreamlinefork%20-repo%3Aaslafy-z%2Fswag-for-dev%20-repo%3Aaslafy-z%2Fterraform-provider-jenkins%20-repo%3Aaslafy-z%2Fturnstyle&type=pullrequests)
 
 ## ⭐ Recent Stars
 
