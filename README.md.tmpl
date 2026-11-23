@@ -48,9 +48,20 @@ and more...
 
 ## 🔨 Recent Pull Requests
 
-{{range recentPullRequests 10}}
-{{- if ne .State "CLOSED"}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
+{{- /* Pull requests on my own forks are drafts for upstream. markscribe has no
+fork flag, but recentRepos lists only my non-fork repositories. 99 is the
+maximum count: it requests one more and GitHub caps pages at 100. */}}
+{{- $sources := recentRepos 99}}
+{{- $shown := ""}}
+{{range recentPullRequests 99}}
+{{- $name := .Repo.Name}}
+{{- $show := ne (printf "%.9s" $name) "aslafy-z/"}}
+{{- range $sources}}{{if eq .Name $name}}{{$show = true}}{{end}}{{end}}
+{{- if eq .State "CLOSED"}}{{$show = false}}{{end}}
+{{- if eq (len $shown) 10}}{{$show = false}}{{end}}
+{{- if $show}}
+{{- $shown = printf "%s." $shown}}
+- [{{.Title}}]({{.URL}}) on [{{$name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 {{- end}}
 
