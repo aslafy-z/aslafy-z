@@ -60,8 +60,8 @@ and more...
 
 ## 🔨 Recent Pull Requests
 
-- [feat: add standard OCI labels and annotations to image](https://github.com/kubernetes-sigs/kro/pull/1538) on [kubernetes-sigs/kro](https://github.com/kubernetes-sigs/kro) (34 minutes ago)
-- [feat(ci): add OCI labels and annotations to container images](https://github.com/cloudnativelabs/kube-router/pull/2229) on [cloudnativelabs/kube-router](https://github.com/cloudnativelabs/kube-router) (56 minutes ago)
+- [feat: add standard OCI labels and annotations to image](https://github.com/kubernetes-sigs/kro/pull/1538) on [kubernetes-sigs/kro](https://github.com/kubernetes-sigs/kro) (37 minutes ago)
+- [feat(ci): add OCI labels and annotations to container images](https://github.com/cloudnativelabs/kube-router/pull/2229) on [cloudnativelabs/kube-router](https://github.com/cloudnativelabs/kube-router) (59 minutes ago)
 - [fix(web): keep the page above the on-screen keyboard](https://github.com/DataHearth/streamline/pull/324) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
 - [fix(web): keep the layout through a passing size on return to the page](https://github.com/DataHearth/streamline/pull/323) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
 - [fix(library): read specials as specials, not packs or title text](https://github.com/DataHearth/streamline/pull/322) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
