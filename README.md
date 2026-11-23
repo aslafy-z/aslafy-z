@@ -91,8 +91,14 @@ and more...
 ## 📈 Stats
 
 <p align="center">
-  <img height=200 src="./stats.svg" alt="GitHub stats" />
-  <img height=200 src="https://github-readme-streak-stats-eight.vercel.app/?user=aslafy-z&theme=calm-pink" alt="GitHub streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./stats-dark.svg" />
+    <img height=200 src="./stats-light.svg" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./streak-dark.svg" />
+    <img height=200 src="./streak-light.svg" alt="GitHub streak" />
+  </picture>
 </p>
 
 ## 📫 Reach me
