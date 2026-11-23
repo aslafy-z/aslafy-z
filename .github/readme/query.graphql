@@ -1,0 +1,17 @@
+query ($login: String!) {
+  user(login: $login) {
+    pullRequests(first: 100, states: [OPEN, MERGED], orderBy: {field: CREATED_AT, direction: DESC}) {
+      nodes { title url createdAt repository { ...repo } }
+    }
+    starredRepositories(first: 10, orderBy: {field: STARRED_AT, direction: DESC}) {
+      edges { starredAt node { ...repo } }
+    }
+    contributionsCollection {
+      commitContributionsByRepository(maxRepositories: 100) {
+        repository { ...repo }
+        contributions(first: 1) { nodes { occurredAt } }
+      }
+    }
+  }
+}
+fragment repo on Repository { nameWithOwner url description isFork isPrivate owner { login } }

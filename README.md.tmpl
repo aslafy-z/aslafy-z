@@ -34,44 +34,17 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 
 and more...
 
-{{range recentContributions 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{- end}}
-
-<!-- https://github.com/muesli/markscribe/issues/40
-## 🔭 Latest releases I've contributed to
-
-{{range recentReleases 10}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
-{{- end}}
--->
+@@CONTRIBUTIONS@@
 
 ## 🔨 Recent Pull Requests
 
-{{- /* Pull requests on my own forks are drafts for upstream. markscribe has no
-fork flag, but recentRepos lists only my non-fork repositories. 99 is the
-maximum count: it requests one more and GitHub caps pages at 100. */}}
-{{- $sources := recentRepos 99}}
-{{- $shown := ""}}
-{{range recentPullRequests 99}}
-{{- $name := .Repo.Name}}
-{{- $show := ne (printf "%.9s" $name) "aslafy-z/"}}
-{{- range $sources}}{{if eq .Name $name}}{{$show = true}}{{end}}{{end}}
-{{- if eq .State "CLOSED"}}{{$show = false}}{{end}}
-{{- if eq (len $shown) 10}}{{$show = false}}{{end}}
-{{- if $show}}
-{{- $shown = printf "%s." $shown}}
-- [{{.Title}}]({{.URL}}) on [{{$name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
-{{- end}}
+@@PULL_REQUESTS@@
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z&type=pullrequests)
 
 ## ⭐ Recent Stars
 
-{{range recentStars 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
-{{- end}}
+@@STARS@@
 
 [View all stars →](https://github.com/aslafy-z?tab=stars)
 
