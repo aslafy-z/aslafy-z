@@ -1,5 +1,5 @@
 # Renders README.md from $template, the response to activity.graphql, and the
-# pages of releases.graphql in $releases.
+# pages of releases.graphql in $releases and forks.graphql in $forks.
 
 def ago: (now - fromdate) as $s
   | [[31536000,"year"],[2592000,"month"],[604800,"week"],[86400,"day"],[3600,"hour"],[60,"minute"]]
@@ -35,8 +35,12 @@ def shipped:
 | ([$releases[0][].data.user.repositoriesContributedTo.nodes[] | select(listed and (own_fork | not))
     | . + {release: shipped} | select(.release)] | sort_by(.release.publishedAt) | reverse | .[:10]
    | map("- \(link) ([\(.release.tagName | text)](\(.release.url)), \(.release.publishedAt | ago)) - \(.description | text)") | lines) as $shipped
+# GitHub search has no fork qualifier for pull requests, so each fork is named.
+| ([$forks[0][].data.search.nodes[].repository | select(.isFork) | "-repo:\(.nameWithOwner)"] | unique
+   | ["is:pr", "author:\($login)"] + . | join(" ") | @uri) as $search
 | $template
 | split("@@PULL_REQUESTS@@") | join($prs)
+| split("@@PULL_REQUESTS_SEARCH@@") | join($search)
 | split("@@CONTRIBUTIONS@@") | join($contributions)
 | split("@@RELEASES@@") | join($shipped)
 | split("@@STARS@@") | join($stars)
