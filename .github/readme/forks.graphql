@@ -1,6 +1,0 @@
-query ($search: String!, $endCursor: String) {
-  search(type: ISSUE, first: 100, after: $endCursor, query: $search) {
-    pageInfo { hasNextPage endCursor }
-    nodes { ... on PullRequest { repository { nameWithOwner isFork } } }
-  }
-}

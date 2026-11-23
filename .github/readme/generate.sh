@@ -12,10 +12,6 @@ since=$(jq -rn 'now - 365 * 86400 | todate')
 gh api graphql --paginate --slurp -F login="$README_USER" -f author="$author" -f since="$since" \
   -F query=@"$dir/releases.graphql" > "$tmp/releases.json"
 
-gh api graphql --paginate --slurp -f search="is:pr is:public author:$README_USER user:$README_USER" \
-  -F query=@"$dir/forks.graphql" > "$tmp/forks.json"
-
-jq -j --arg login "$README_USER" --rawfile template README.md.tmpl \
-  --slurpfile releases "$tmp/releases.json" --slurpfile forks "$tmp/forks.json" \
+jq -j --arg login "$README_USER" --rawfile template README.md.tmpl --slurpfile releases "$tmp/releases.json" \
   -f "$dir/render.jq" "$tmp/activity.json" > "$tmp/README.md"
 cp "$tmp/README.md" README.md
