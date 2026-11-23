@@ -99,7 +99,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          commit_message: Update generated README
+          commit_message: "chore(readme): update README and cards"
           branch: main
           # The default author is whoever triggered the run.
           commit_author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
