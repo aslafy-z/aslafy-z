@@ -21,7 +21,15 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=calm_pink&hide_title=true&line_height=30&rank_icon=percentile
           path: stats.svg
+          # The PAT adds private commits to the totals.
           token: ${{ secrets.GH_PAT }}
+
+      - name: Generate streak card
+        uses: DenverCoder1/github-readme-streak-stats@125aaaf200620410446ebfa51897fca3607e04fd # v1.8.2
+        with:
+          options: user=${{ github.repository_owner }}&theme=calm-pink&card_width=467
+          path: streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: stefanzweifel/git-auto-commit-action@v7
         env:
