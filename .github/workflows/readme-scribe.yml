@@ -21,10 +21,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_PAT }}
           LOGIN: ${{ github.repository_owner }}
-        run: |
-          gh api graphql -F login="$LOGIN" -F query=@.github/readme/query.graphql > "$RUNNER_TEMP/data.json"
-          jq -j --arg login "$LOGIN" --rawfile template README.md.tmpl -f .github/readme/render.jq "$RUNNER_TEMP/data.json" > "$RUNNER_TEMP/README.md"
-          cp "$RUNNER_TEMP/README.md" README.md
+        run: .github/readme/generate.sh
 
       - uses: stefanzweifel/git-auto-commit-action@v7
         env:

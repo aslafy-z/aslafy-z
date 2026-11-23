@@ -45,10 +45,23 @@ and more...
 - [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor is free software that can monitor the temperature sensors, fan speeds, voltages, load and clock speeds of your computer. (1 month ago)
 - [bndr/gojenkins](https://github.com/bndr/gojenkins) - Jenkins API Client in Go. Looking for maintainers to move this project forward. (1 month ago)
 
+## 🔭 Latest releases I've contributed to
+
+- [DataHearth/streamline](https://github.com/DataHearth/streamline) ([v4.0.0](https://github.com/DataHearth/streamline/releases/tag/v4.0.0), 15 hours ago) - Self-hosted media manager for movies, TV, music and books. One Go binary replaces Radarr, Sonarr, Lidarr, Readarr and Seerr: web UI, REST API, requests, SSO, a built-in BitTorrent client, and WebAssembly extensions for the Streamline Player, Subsonic and OPDS.
+- [aslafy-z/plein](https://github.com/aslafy-z/plein) ([release-2026-11-18](https://github.com/aslafy-z/plein/releases/tag/release-2026-11-18), 4 days ago) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal)
+- [anacrolix/torrent](https://github.com/anacrolix/torrent) ([v1.62.0](https://github.com/anacrolix/torrent/releases/tag/v1.62.0), 6 days ago) - Full-featured BitTorrent client package and utilities
+- [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) ([v4.9.0](https://github.com/recloudstream/cloudstream/releases/tag/v4.9.0), 2 weeks ago) - Android app for streaming and downloading media.
+- [stakater/application](https://github.com/stakater/application) ([v9.3.2](https://github.com/stakater/application/releases/tag/v9.3.2), 2 months ago) - Generic Helm chart for deploying stateless applications on Kubernetes
+- [aslafy-z/hauth](https://github.com/aslafy-z/hauth) ([v0.1.15](https://github.com/aslafy-z/hauth/releases/tag/v0.1.15), 2 months ago) - Harness auth broker for cloud workspaces: browser-free logins for AI coding CLIs, a loopback kiosk UI, and a per-user credential store
+- [martabal/qbittorrent-exporter](https://github.com/martabal/qbittorrent-exporter) ([v2.0.2](https://github.com/martabal/qbittorrent-exporter/releases/tag/v2.0.2), 3 months ago) - A fast and lightweight prometheus exporter for qBittorrent
+- [aslafy-z/k8s-dashboard-impersonation-proxy](https://github.com/aslafy-z/k8s-dashboard-impersonation-proxy) ([v0.5.0](https://github.com/aslafy-z/k8s-dashboard-impersonation-proxy/releases/tag/v0.5.0), 3 months ago) - Plug your SSO in front of Kubernetes Dashboard by injecting impersonation and authorization headers. 
+- [thomiceli/opengist](https://github.com/thomiceli/opengist) ([v1.15.0](https://github.com/thomiceli/opengist/releases/tag/v1.15.0), 3 months ago) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
+- [zalando/postgres-operator](https://github.com/zalando/postgres-operator) ([v2.0.0](https://github.com/zalando/postgres-operator/releases/tag/v2.0.0), 3 months ago) - Postgres operator creates and manages PostgreSQL clusters running in Kubernetes
+
 ## 🔨 Recent Pull Requests
 
-- [feat: add standard OCI labels and annotations to image](https://github.com/kubernetes-sigs/kro/pull/1538) on [kubernetes-sigs/kro](https://github.com/kubernetes-sigs/kro) (10 minutes ago)
-- [feat(ci): add OCI labels and annotations to container images](https://github.com/cloudnativelabs/kube-router/pull/2229) on [cloudnativelabs/kube-router](https://github.com/cloudnativelabs/kube-router) (33 minutes ago)
+- [feat: add standard OCI labels and annotations to image](https://github.com/kubernetes-sigs/kro/pull/1538) on [kubernetes-sigs/kro](https://github.com/kubernetes-sigs/kro) (18 minutes ago)
+- [feat(ci): add OCI labels and annotations to container images](https://github.com/cloudnativelabs/kube-router/pull/2229) on [cloudnativelabs/kube-router](https://github.com/cloudnativelabs/kube-router) (40 minutes ago)
 - [fix(web): keep the page above the on-screen keyboard](https://github.com/DataHearth/streamline/pull/324) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
 - [fix(web): keep the layout through a passing size on return to the page](https://github.com/DataHearth/streamline/pull/323) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
 - [fix(library): read specials as specials, not packs or title text](https://github.com/DataHearth/streamline/pull/322) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 day ago)
