@@ -34,23 +34,23 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 
 and more...
 
-- [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies, TV, music and books. One Go binary replaces Radarr, Sonarr, Lidarr, Readarr and Seerr: web UI, REST API, requests, SSO, a built-in BitTorrent client, and WebAssembly extensions for the Streamline Player, Subsonic and OPDS. (now)
-- [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers (17 hours ago)
-- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (17 hours ago)
-- [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (6 days ago)
+- [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies, TV, music and books. One Go binary replaces Radarr, Sonarr, Lidarr, Readarr and Seerr: web UI, REST API, requests, SSO, a built-in BitTorrent client, and WebAssembly extensions for the Streamline Player, Subsonic and OPDS. (8 hours ago)
+- [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers (1 day ago)
+- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (1 day ago)
+- [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (1 week ago)
 - [aslafy-z/cloudstream-plugins](https://github.com/aslafy-z/cloudstream-plugins) - CloudStream plugins for French replay TV. (2 weeks ago)
-- [recloudstream/cs-repos](https://github.com/recloudstream/cs-repos) - Cloudstream plugin repositories (3 weeks ago)
-- [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media. (3 weeks ago)
-- [scaleway/packer-plugin-scaleway](https://github.com/scaleway/packer-plugin-scaleway) - Packer plugin for Scaleway Builder (3 weeks ago)
+- [recloudstream/cs-repos](https://github.com/recloudstream/cs-repos) - Cloudstream plugin repositories (4 weeks ago)
+- [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media. (4 weeks ago)
+- [scaleway/packer-plugin-scaleway](https://github.com/scaleway/packer-plugin-scaleway) - Packer plugin for Scaleway Builder (4 weeks ago)
 - [aslafy-z/aur-packages](https://github.com/aslafy-z/aur-packages) - AUR packages collection (1 month ago)
 - [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor is free software that can monitor the temperature sensors, fan speeds, voltages, load and clock speeds of your computer. (1 month ago)
 
 ## 🔭 Latest releases I've contributed to
 
-- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) ([2026.11.3](https://github.com/aslafy-z/coreruleset-plugins-image/releases/tag/2026.11.3), 9 hours ago)
-- [Jackett/Jackett](https://github.com/Jackett/Jackett) ([v0.25.34](https://github.com/Jackett/Jackett/releases/tag/v0.25.34), 19 hours ago)
+- [Jackett/Jackett](https://github.com/Jackett/Jackett) ([v0.25.39](https://github.com/Jackett/Jackett/releases/tag/v0.25.39), 10 hours ago)
+- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) ([2026.11.3](https://github.com/aslafy-z/coreruleset-plugins-image/releases/tag/2026.11.3), 1 day ago)
 - [DataHearth/streamline](https://github.com/DataHearth/streamline) ([v4.0.0](https://github.com/DataHearth/streamline/releases/tag/v4.0.0), 2 days ago)
-- [namecheap/terraform-provider-jenkins](https://github.com/namecheap/terraform-provider-jenkins) ([v1.5.0](https://github.com/namecheap/terraform-provider-jenkins/releases/tag/v1.5.0), 4 days ago)
+- [namecheap/terraform-provider-jenkins](https://github.com/namecheap/terraform-provider-jenkins) ([v1.5.0](https://github.com/namecheap/terraform-provider-jenkins/releases/tag/v1.5.0), 5 days ago)
 - [aslafy-z/plein](https://github.com/aslafy-z/plein) ([release-2026-11-18](https://github.com/aslafy-z/plein/releases/tag/release-2026-11-18), 6 days ago)
 - [anacrolix/torrent](https://github.com/anacrolix/torrent) ([v1.62.0](https://github.com/anacrolix/torrent/releases/tag/v1.62.0), 1 week ago)
 - [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) ([v4.9.0](https://github.com/recloudstream/cloudstream/releases/tag/v4.9.0), 2 weeks ago)
@@ -60,24 +60,24 @@ and more...
 
 ## 🔨 Recent Pull Requests
 
-- [ci(renovate): derive the static ffmpeg image from the VAAPI one](https://github.com/DataHearth/streamline/pull/347) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 hour ago)
-- [ci(go): fall back to the module origin on any proxy error](https://github.com/DataHearth/streamline/pull/346) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (6 hours ago)
-- [fix(upload): say what holds a busy upload target, translated](https://github.com/DataHearth/streamline/pull/344) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (7 hours ago)
-- [chore(extension): untrack the built echo wasm fixtures](https://github.com/DataHearth/streamline/pull/343) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (8 hours ago)
-- [ci(triage): add an area/extensions label](https://github.com/DataHearth/streamline/pull/340) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (8 hours ago)
-- [build(images): pull the vaapi base from ghcr.io](https://github.com/DataHearth/streamline/pull/339) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (9 hours ago)
-- [fix(web): even the detail page buttons and Play on&apos;s menu](https://github.com/DataHearth/streamline/pull/338) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (9 hours ago)
-- [fix(music): match track titles a release spells another way](https://github.com/DataHearth/streamline/pull/336) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (12 hours ago)
-- [fix(web): hide the empty settings box on a built-in indexer form](https://github.com/DataHearth/streamline/pull/335) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (15 hours ago)
-- [fix(yggreborn-api): search music and books with t=search](https://github.com/Prowlarr/Indexers/pull/1141) on [Prowlarr/Indexers](https://github.com/Prowlarr/Indexers) (15 hours ago)
+- [refactor(posters): hand posters out through a store](https://github.com/DataHearth/streamline/pull/362) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (7 minutes ago)
+- [fix(posters): count fetch failures and unknown kinds as such](https://github.com/DataHearth/streamline/pull/361) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (16 minutes ago)
+- [fix(web): move a series&apos; status and network under its title](https://github.com/DataHearth/streamline/pull/360) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (18 minutes ago)
+- [refactor(web): name the movie poster URL helper after movies](https://github.com/DataHearth/streamline/pull/359) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (20 minutes ago)
+- [fix(web): keep detail page actions on one line, in one order](https://github.com/DataHearth/streamline/pull/358) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 hour ago)
+- [build(codegen): regenerate gen.go and check generated code in CI](https://github.com/DataHearth/streamline/pull/357) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 hour ago)
+- [docs(guides): bring guides and subsystem docs in line with the code](https://github.com/DataHearth/streamline/pull/350) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 hours ago)
+- [fix(ci): keep vaapi and prerelease images off the latest tag](https://github.com/DataHearth/streamline/pull/349) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 hours ago)
+- [refactor(books): name the cover and photo fetch after images](https://github.com/DataHearth/streamline/pull/348) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 hours ago)
+- [perf(home): pause the billboard when nobody can see it, and drop its 10 Hz tick](https://github.com/Streamline-HQ/streamline-player/pull/7) on [Streamline-HQ/streamline-player](https://github.com/Streamline-HQ/streamline-player) (5 hours ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z+-user%3Aaslafy-z&type=pullrequests)
 
 ## ⭐ Recent Stars
 
-- [paimonsoror/telltaledns](https://github.com/paimonsoror/telltaledns) - A small, fast DNS resolver and ad blocker that explains every answer. Per-device rules, encrypted DNS, and clustering across a Raspberry Pi and Kubernetes. (14 hours ago)
-- [labstack/pitot](https://github.com/labstack/pitot) - Single-binary observability platform. Ingest OTLP, store as Parquet, query with DuckDB. (5 days ago)
-- [lukashankeln/glint](https://github.com/lukashankeln/glint) - lint ArgoCD Applications, FluxCD HelmReleases and plain Resources using custom CEL Policies (2 weeks ago)
+- [paimonsoror/telltaledns](https://github.com/paimonsoror/telltaledns) - A small, fast DNS resolver and ad blocker that explains every answer. Per-device rules, encrypted DNS, and clustering across a Raspberry Pi and Kubernetes. (1 day ago)
+- [labstack/pitot](https://github.com/labstack/pitot) - Single-binary observability platform. Ingest OTLP, store as Parquet, query with DuckDB. (6 days ago)
+- [lukashankeln/glint](https://github.com/lukashankeln/glint) - lint ArgoCD Applications, FluxCD HelmReleases and plain Resources using custom CEL Policies (3 weeks ago)
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime. (3 weeks ago)
 - [Fluepke/emudrahahahahaha](https://github.com/Fluepke/emudrahahahahaha) - Private Keys (1 month ago)
 - [argoproj-labs/argocd-agent](https://github.com/argoproj-labs/argocd-agent) - Redefining the multi cluster story of Argo CD (1 month ago)
