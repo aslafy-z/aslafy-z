@@ -34,7 +34,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 
 and more...
 
-- [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies, TV, music and books. One Go binary replaces Radarr, Sonarr, Lidarr, Readarr and Seerr: web UI, REST API, requests, SSO, a built-in BitTorrent client, and WebAssembly extensions for the Streamline Player, Subsonic and OPDS. (8 hours ago)
+- [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies, TV, music and books. One Go binary replaces Radarr, Sonarr, Lidarr, Readarr and Seerr: web UI, REST API, requests, SSO, a built-in BitTorrent client, and WebAssembly extensions for the Streamline Player, Subsonic and OPDS. (17 hours ago)
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers (1 day ago)
 - [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (1 day ago)
 - [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (1 week ago)
@@ -47,11 +47,11 @@ and more...
 
 ## 🔭 Latest releases I've contributed to
 
-- [Jackett/Jackett](https://github.com/Jackett/Jackett) ([v0.25.39](https://github.com/Jackett/Jackett/releases/tag/v0.25.39), 10 hours ago)
+- [Jackett/Jackett](https://github.com/Jackett/Jackett) ([v0.25.39](https://github.com/Jackett/Jackett/releases/tag/v0.25.39), 19 hours ago)
 - [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) ([2026.11.3](https://github.com/aslafy-z/coreruleset-plugins-image/releases/tag/2026.11.3), 1 day ago)
-- [DataHearth/streamline](https://github.com/DataHearth/streamline) ([v4.0.0](https://github.com/DataHearth/streamline/releases/tag/v4.0.0), 2 days ago)
+- [DataHearth/streamline](https://github.com/DataHearth/streamline) ([v4.0.0](https://github.com/DataHearth/streamline/releases/tag/v4.0.0), 3 days ago)
 - [namecheap/terraform-provider-jenkins](https://github.com/namecheap/terraform-provider-jenkins) ([v1.5.0](https://github.com/namecheap/terraform-provider-jenkins/releases/tag/v1.5.0), 5 days ago)
-- [aslafy-z/plein](https://github.com/aslafy-z/plein) ([release-2026-11-18](https://github.com/aslafy-z/plein/releases/tag/release-2026-11-18), 6 days ago)
+- [aslafy-z/plein](https://github.com/aslafy-z/plein) ([release-2026-11-18](https://github.com/aslafy-z/plein/releases/tag/release-2026-11-18), 1 week ago)
 - [anacrolix/torrent](https://github.com/anacrolix/torrent) ([v1.62.0](https://github.com/anacrolix/torrent/releases/tag/v1.62.0), 1 week ago)
 - [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) ([v4.9.0](https://github.com/recloudstream/cloudstream/releases/tag/v4.9.0), 2 weeks ago)
 - [stakater/application](https://github.com/stakater/application) ([v9.3.2](https://github.com/stakater/application/releases/tag/v9.3.2), 2 months ago)
@@ -60,16 +60,16 @@ and more...
 
 ## 🔨 Recent Pull Requests
 
-- [refactor(posters): hand posters out through a store](https://github.com/DataHearth/streamline/pull/362) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (7 minutes ago)
-- [fix(posters): count fetch failures and unknown kinds as such](https://github.com/DataHearth/streamline/pull/361) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (16 minutes ago)
-- [fix(web): move a series&apos; status and network under its title](https://github.com/DataHearth/streamline/pull/360) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (18 minutes ago)
-- [refactor(web): name the movie poster URL helper after movies](https://github.com/DataHearth/streamline/pull/359) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (20 minutes ago)
-- [fix(web): keep detail page actions on one line, in one order](https://github.com/DataHearth/streamline/pull/358) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 hour ago)
-- [build(codegen): regenerate gen.go and check generated code in CI](https://github.com/DataHearth/streamline/pull/357) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (1 hour ago)
-- [docs(guides): bring guides and subsystem docs in line with the code](https://github.com/DataHearth/streamline/pull/350) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 hours ago)
-- [fix(ci): keep vaapi and prerelease images off the latest tag](https://github.com/DataHearth/streamline/pull/349) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 hours ago)
-- [refactor(books): name the cover and photo fetch after images](https://github.com/DataHearth/streamline/pull/348) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 hours ago)
-- [perf(home): pause the billboard when nobody can see it, and drop its 10 Hz tick](https://github.com/Streamline-HQ/streamline-player/pull/7) on [Streamline-HQ/streamline-player](https://github.com/Streamline-HQ/streamline-player) (5 hours ago)
+- [perf(home): a still backdrop and a stepped progress bar where the webview draws on the CPU](https://github.com/Streamline-HQ/streamline-player/pull/8) on [Streamline-HQ/streamline-player](https://github.com/Streamline-HQ/streamline-player) (2 hours ago)
+- [refactor(imagecache): rename the posters package and hand posters out](https://github.com/DataHearth/streamline/pull/362) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (9 hours ago)
+- [fix(posters): count fetch failures and unknown kinds as such](https://github.com/DataHearth/streamline/pull/361) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (9 hours ago)
+- [fix(web): move a series&apos; status and network under its title](https://github.com/DataHearth/streamline/pull/360) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (9 hours ago)
+- [refactor(web): name the movie poster URL helper after movies](https://github.com/DataHearth/streamline/pull/359) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (9 hours ago)
+- [fix(web): keep detail page actions on one line, in one order](https://github.com/DataHearth/streamline/pull/358) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (9 hours ago)
+- [build(codegen): regenerate gen.go and check generated code in CI](https://github.com/DataHearth/streamline/pull/357) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (10 hours ago)
+- [docs(guides): bring guides and subsystem docs in line with the code](https://github.com/DataHearth/streamline/pull/350) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (11 hours ago)
+- [fix(ci): keep vaapi and prerelease images off the latest tag](https://github.com/DataHearth/streamline/pull/349) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (11 hours ago)
+- [refactor(books): name the cover and photo fetch after images](https://github.com/DataHearth/streamline/pull/348) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (11 hours ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z+-user%3Aaslafy-z&type=pullrequests)
 
