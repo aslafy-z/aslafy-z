@@ -34,7 +34,7 @@ Linux lover, cloud native builder and open source maintainer from Toulouse, Fran
 
 and more...
 
-- [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies, TV, music and books. One Go binary replaces Radarr, Sonarr, Lidarr, Readarr and Seerr: web UI, REST API, requests, SSO, a built-in BitTorrent client, and WebAssembly extensions for the Streamline Player, Subsonic and OPDS. (7 hours ago)
+- [DataHearth/streamline](https://github.com/DataHearth/streamline) - Self-hosted media manager for movies, TV, music and books. One Go binary replaces Radarr, Sonarr, Lidarr, Readarr and Seerr: web UI, REST API, requests, SSO, a built-in BitTorrent client, and WebAssembly extensions for the Streamline Player, Subsonic and OPDS. (17 hours ago)
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers (2 days ago)
 - [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) - OWASP CRS plugins as a minimal, signed OCI image for Coraza/Envoy WAFs. (2 days ago)
 - [aslafy-z/plein](https://github.com/aslafy-z/plein) - A full tank at the right price — PWA that finds the cheapest fuel stations around you and along your routes (France · Spain · Andorra · Portugal) (1 week ago)
@@ -48,8 +48,8 @@ and more...
 ## 🔭 Latest releases I've contributed to
 
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) ([v0.25.39](https://github.com/Jackett/Jackett/releases/tag/v0.25.39), 1 day ago)
-- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) ([2026.11.3](https://github.com/aslafy-z/coreruleset-plugins-image/releases/tag/2026.11.3), 1 day ago)
-- [DataHearth/streamline](https://github.com/DataHearth/streamline) ([v4.0.0](https://github.com/DataHearth/streamline/releases/tag/v4.0.0), 3 days ago)
+- [aslafy-z/coreruleset-plugins-image](https://github.com/aslafy-z/coreruleset-plugins-image) ([2026.11.3](https://github.com/aslafy-z/coreruleset-plugins-image/releases/tag/2026.11.3), 2 days ago)
+- [DataHearth/streamline](https://github.com/DataHearth/streamline) ([v4.0.0](https://github.com/DataHearth/streamline/releases/tag/v4.0.0), 4 days ago)
 - [namecheap/terraform-provider-jenkins](https://github.com/namecheap/terraform-provider-jenkins) ([v1.5.0](https://github.com/namecheap/terraform-provider-jenkins/releases/tag/v1.5.0), 6 days ago)
 - [aslafy-z/plein](https://github.com/aslafy-z/plein) ([release-2026-11-18](https://github.com/aslafy-z/plein/releases/tag/release-2026-11-18), 1 week ago)
 - [anacrolix/torrent](https://github.com/anacrolix/torrent) ([v1.62.0](https://github.com/anacrolix/torrent/releases/tag/v1.62.0), 1 week ago)
@@ -60,16 +60,16 @@ and more...
 
 ## 🔨 Recent Pull Requests
 
-- [fix(web): correct web texts, i18n gaps and layout slips from #356](https://github.com/DataHearth/streamline/pull/372) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (2 hours ago)
-- [docs(api): correct the #356 texts against the code](https://github.com/DataHearth/streamline/pull/371) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (3 hours ago)
-- [fix(music): fix the music, request and indexer findings from #356](https://github.com/DataHearth/streamline/pull/370) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (3 hours ago)
-- [fix(auth): fix the auth, extension and server findings from #356](https://github.com/DataHearth/streamline/pull/369) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (3 hours ago)
-- [fix(library): four #356 library, importer and series fixes](https://github.com/DataHearth/streamline/pull/368) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (3 hours ago)
-- [fix(download): fix six download and import findings from #356](https://github.com/DataHearth/streamline/pull/367) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (3 hours ago)
-- [fix(books): keep, answer and review book metadata changes](https://github.com/DataHearth/streamline/pull/366) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (4 hours ago)
-- [perf(player): show the video layer only while something plays](https://github.com/Streamline-HQ/streamline-player/pull/9) on [Streamline-HQ/streamline-player](https://github.com/Streamline-HQ/streamline-player) (12 hours ago)
-- [feat(account): let an account turn title logos off](https://github.com/DataHearth/streamline/pull/364) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (14 hours ago)
-- [perf(home): a still backdrop and a stepped progress bar where the webview draws on the CPU](https://github.com/Streamline-HQ/streamline-player/pull/8) on [Streamline-HQ/streamline-player](https://github.com/Streamline-HQ/streamline-player) (17 hours ago)
+- [fix(web): correct web texts, i18n gaps and layout slips from #356](https://github.com/DataHearth/streamline/pull/372) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (12 hours ago)
+- [docs(api): correct the #356 texts against the code](https://github.com/DataHearth/streamline/pull/371) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (12 hours ago)
+- [fix(music): fix the music, request and indexer findings from #356](https://github.com/DataHearth/streamline/pull/370) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (12 hours ago)
+- [fix(auth): fix the auth, extension and server findings from #356](https://github.com/DataHearth/streamline/pull/369) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (13 hours ago)
+- [fix(library): four #356 library, importer and series fixes](https://github.com/DataHearth/streamline/pull/368) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (13 hours ago)
+- [fix(download): fix six download and import findings from #356](https://github.com/DataHearth/streamline/pull/367) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (13 hours ago)
+- [fix(books): keep, answer and review book metadata changes](https://github.com/DataHearth/streamline/pull/366) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (13 hours ago)
+- [perf(player): show the video layer only while something plays](https://github.com/Streamline-HQ/streamline-player/pull/9) on [Streamline-HQ/streamline-player](https://github.com/Streamline-HQ/streamline-player) (21 hours ago)
+- [feat(account): let an account turn title logos off](https://github.com/DataHearth/streamline/pull/364) on [DataHearth/streamline](https://github.com/DataHearth/streamline) (23 hours ago)
+- [perf(home): a still backdrop and a stepped progress bar where the webview draws on the CPU](https://github.com/Streamline-HQ/streamline-player/pull/8) on [Streamline-HQ/streamline-player](https://github.com/Streamline-HQ/streamline-player) (1 day ago)
 
 [View all pull requests →](https://github.com/search?q=is%3Apr+author%3Aaslafy-z+-user%3Aaslafy-z&type=pullrequests)
 
